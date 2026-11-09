@@ -5,7 +5,7 @@ Verifica se surgiram notícias novas e acrescenta no site (roda 3x por dia pelo 
 - Fica só com notícias das últimas `janela_horas` que falam de varejo/atacarejo/economia do consumo.
 - Ignora o que já está no site (inclusive o que veio do boletim do WhatsApp): mesmo link
   ou título muito parecido, olhando os últimos 7 dias.
-- Publica no máximo `maximo_por_categoria` notícias de cada categoria (Varejo, Economia, Mundo) por rodada.
+- Publica no máximo `maximo_por_categoria` notícias de cada categoria por rodada (padrão: 5).
 - Varejo alimentar tem prioridade: cada palavra-chave do setor vale 3 pontos na relevância.
 - Abre cada matéria e escreve um resumo detalhado em tópicos (detalhar.py).
 
@@ -126,11 +126,11 @@ def main():
     vistos = existentes_no_site()
     candidatas = sorted(coletar(), key=lambda c: (c["nota"], c["quando"]), reverse=True)
 
-    limites = CONFIG.get("maximo_por_categoria", {"Varejo": 6, "Economia": 3, "Mundo": 3})
+    limites = CONFIG.get("maximo_por_categoria", {})
     por_categoria, novas, fixas = {}, [], set()
     for c in candidatas:
         n = c["noticia"]
-        if ja_existe(n, vistos) or por_categoria.get(n["categoria"], 0) >= limites.get(n["categoria"], 3):
+        if ja_existe(n, vistos) or por_categoria.get(n["categoria"], 0) >= limites.get(n["categoria"], 5):
             continue
         novas.append(n)
         if c["categoria_fixa"]:
@@ -144,7 +144,9 @@ def main():
 
     if novas:
         print("\nDetalhando as notícias:")
-        for n in novas:
+        # a IA grátis tem limite diário: detalha primeiro Varejo, depois Economia, Política e Mundo
+        prioridade = {"Varejo": 0, "Economia": 1, "Política": 2, "Mundo": 3}
+        for n in sorted(novas, key=lambda x: prioridade.get(x["categoria"], 9)):
             detalhar(n, manter_categoria=id(n) in fixas)
 
     if novas and not teste:

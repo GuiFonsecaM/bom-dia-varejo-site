@@ -2,7 +2,9 @@
 Pega a imagem principal de cada notícia (a mesma da prévia do link: og:image / twitter:image),
 reduz e salva em WebP leve dentro do site.
 
-- Tamanho: até 720 px de largura, WebP qualidade 55, sem metadados (~25–40 KB por imagem).
+- Tamanho: até 600 px de largura, WebP qualidade 50, sem metadados (~20–30 KB por imagem).
+- Fotos com mais de 180 dias são apagadas para o site não passar do limite de 1 GB do GitHub Pages;
+  a notícia continua no arquivo, com a arte padrão no lugar da foto.
 - Pasta: img/AAAA/MM/<código>.webp
 - Olha as notícias de hoje e de ontem que ainda não têm imagem local
   (inclusive as do boletim do WhatsApp). Se a matéria não tiver imagem, marca e não tenta de novo;
@@ -27,8 +29,9 @@ from PIL import Image, ImageOps
 
 TZ = ZoneInfo("America/Sao_Paulo")
 AQUI = os.path.dirname(os.path.abspath(__file__))
-LARGURA = 720
-QUALIDADE = 55
+LARGURA = 600
+QUALIDADE = 50
+GUARDAR_DIAS = 180       # fotos mais antigas são apagadas (o texto da notícia fica para sempre)
 MIN_LARGURA = 300           # ignora ícones e logos pequenos
 MAX_BYTES = 8 * 1024 * 1024
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
@@ -153,6 +156,28 @@ def atualizar_indice(dia):
     open(caminho, "a", encoding="utf-8").write("\n")
 
 
+def limpar_antigas():
+    limite = datetime.now(TZ).date() - timedelta(days=GUARDAR_DIAS)
+    removidas = 0
+    pasta = os.path.join(AQUI, "img")
+    for raiz, _, arquivos in os.walk(pasta):
+        partes = os.path.relpath(raiz, pasta).split(os.sep)
+        if len(partes) != 2 or not all(x.isdigit() for x in partes):
+            continue
+        ano, mes = map(int, partes)
+        ultimo_dia_do_mes = (datetime(ano + (mes == 12), mes % 12 + 1, 1) - timedelta(days=1)).date()
+        if ultimo_dia_do_mes < limite:
+            for a in arquivos:
+                os.remove(os.path.join(raiz, a))
+                removidas += 1
+            try:
+                os.rmdir(raiz)
+            except OSError:
+                pass
+    if removidas:
+        print(f"{removidas} fotos com mais de {GUARDAR_DIAS} dias apagadas")
+
+
 def main():
     dias = int(sys.argv[sys.argv.index("--dias") + 1]) if "--dias" in sys.argv else 2
     hoje = datetime.now(TZ).date()
@@ -162,6 +187,7 @@ def main():
         print(f"{data}:")
         total += processar_dia(data)
     print(f"\n{total} notícias atualizadas")
+    limpar_antigas()
 
 
 if __name__ == "__main__":

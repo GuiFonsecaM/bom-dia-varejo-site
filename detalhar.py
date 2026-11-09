@@ -2,14 +2,14 @@
 Escreve um resumo detalhado de cada notícia coletada, nas próprias palavras, em tópicos.
 
 1. Abre a matéria original e extrai o texto principal (trafilatura).
-2. Pede à IA do GitHub (GitHub Models, grátis dentro do GitHub Actions com o GITHUB_TOKEN)
-   de 4 a 6 tópicos detalhados em português: o que aconteceu, números, quem, quando, impacto.
+2. Pede a uma IA gratuita de 5 a 7 tópicos detalhados em português: o que aconteceu, números, quem, quando, impacto.
+   - Google Gemini (principal): chave grátis em https://aistudio.google.com/apikey → secret GEMINI_API_KEY
+   - Groq (reserva, opcional):  chave grátis em https://console.groq.com/keys     → secret GROQ_API_KEY
+   O modelo é escolhido sozinho na lista de modelos disponíveis da chave (sem nome fixo que pode sair do ar).
 3. Se algo falhar (site bloqueado, sem texto, IA fora do ar ou limite atingido),
-   a notícia continua com o resumo curto do feed. Nada trava a coleta.
+   a notícia continua com o resumo curto do feed e a revisão tenta de novo depois. Nada trava a coleta.
 
-Variáveis de ambiente:
-    IA_TOKEN    token com acesso a GitHub Models (no Actions: secrets.GITHUB_TOKEN + permissão models: read)
-    IA_MODELO   opcional, padrão "openai/gpt-4.1-mini"
+Variáveis de ambiente opcionais: GEMINI_MODELO, GROQ_MODELO (forçar um modelo específico).
 """
 import json
 import os
@@ -23,13 +23,27 @@ try:
 except ImportError:  # roda sem detalhar se a biblioteca não estiver instalada
     trafilatura = None
 
-ENDPOINT = "https://models.github.ai/inference/chat/completions"
-MODELOS = [m for m in [os.environ.get("IA_MODELO"), "openai/gpt-4.1-mini", "openai/gpt-4o-mini", "meta/Llama-3.3-70B-Instruct"] if m]
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "pt-BR,pt;q=0.9"}
 MAX_TEXTO = 9000
-INTERVALO = 5      # segundos entre chamadas (limite grátis: ~15 por minuto)
-CATEGORIAS = ("Varejo", "Economia", "Mundo")
+CATEGORIAS = ("Varejo", "Economia", "Política", "Mundo")
+
+PROVEDORES = [
+    {   # Google Gemini — API compatível com OpenAI
+        "nome": "Gemini", "chave": "GEMINI_API_KEY", "forcar": "GEMINI_MODELO",
+        "base": "https://generativelanguage.googleapis.com/v1beta/openai/",
+        "preferencias": [r"gemini-[\d.]+-flash-lite$", r"gemini-[\d.]+-flash$", r"gemini-[\d.]+-flash-lite", r"gemini-[\d.]+-flash"],
+        "evitar": r"image|tts|audio|live|embed|vision|thinking|exp",
+        "intervalo": 5, "max_texto": 9000,
+    },
+    {   # Groq — limite de tokens por minuto menor, por isso espera mais entre pedidos e manda menos texto
+        "nome": "Groq", "chave": "GROQ_API_KEY", "forcar": "GROQ_MODELO",
+        "base": "https://api.groq.com/openai/v1/",
+        "preferencias": [r"^openai/gpt-oss-120b$", r"llama-3\.3-70b", r"^openai/gpt-oss", r"qwen", r"llama"],
+        "evitar": r"guard|whisper|tts|vision|compound|prompt",
+        "intervalo": 22, "max_texto": 5000,
+    },
+]
 
 INSTRUCOES = """Você escreve o resumo de notícias do Bom dia varejo, um portal sobre varejo, atacarejo e economia do consumo.
 Com base APENAS no texto da matéria, escreva de 5 a 7 tópicos em português do Brasil, detalhados o bastante para o leitor entender a notícia inteira sem abrir o link:
@@ -42,7 +56,7 @@ Regras:
 - Cada tópico com 1 a 3 frases, no máximo 380 caracteres, em tom jornalístico e neutro, sem opinião.
 - Ignore legendas de foto, créditos de fotógrafos e agências, chamadas para redes sociais e propagandas.
 - Não invente nada que não esteja no texto. Não use frases de efeito. Não inclua seção "Para o varejo".
-- Classifique a notícia em uma categoria: Varejo (varejo, atacarejo, supermercados, lojas, indústria de consumo, preço de alimentos), Economia (juros, inflação, câmbio, emprego, salários, impostos, contas públicas no Brasil) ou Mundo (fatos internacionais).
+- Classifique a notícia em uma categoria: Varejo (varejo, atacarejo, supermercados, lojas, indústria de consumo, preço de alimentos), Economia (juros, inflação, câmbio, emprego, salários, impostos, contas públicas no Brasil), Política (governo, Congresso, Judiciário, eleições e partidos no Brasil) ou Mundo (fatos internacionais).
 Responda só com JSON no formato: {"topicos": ["...", "..."], "categoria": "..."}"""
 
 
@@ -57,69 +71,103 @@ def texto_da_materia(link):
     return texto[:MAX_TEXTO]
 
 
-_modelo_ok = None
-_ultima_chamada = 0.0
+# ---------------------------------------------------------------- provedores de IA
+
+_estado = {}          # por provedor: modelo escolhido, última chamada, se esgotou
+_ultimo_modelo = None
 
 
-def _chamar_ia(token, modelo, titulo, texto):
-    global _ultima_chamada
-    for _ in range(3):
-        espera = INTERVALO - (time.time() - _ultima_chamada)
+def _cabecalho(p):
+    return {"Authorization": f"Bearer {os.environ[p['chave']]}", "Content-Type": "application/json"}
+
+
+def _escolher_modelo(p):
+    if os.environ.get(p["forcar"]):
+        return os.environ[p["forcar"]]
+    r = requests.get(p["base"] + "models", headers=_cabecalho(p), timeout=20)
+    r.raise_for_status()
+    ids = [m["id"].removeprefix("models/") for m in r.json().get("data", [])]
+    ids = [i for i in ids if not re.search(p["evitar"], i)]
+
+    def versao(i):
+        n = re.findall(r"\d+(?:\.\d+)?", i)
+        return float(n[0]) if n else 0
+
+    for padrao in p["preferencias"]:
+        achados = sorted((i for i in ids if re.search(padrao, i) and "preview" not in i), key=versao, reverse=True) \
+            or sorted((i for i in ids if re.search(padrao, i)), key=versao, reverse=True)
+        if achados:
+            return achados[0]
+    raise RuntimeError(f"nenhum modelo de texto encontrado na conta ({len(ids)} modelos listados)")
+
+
+def _pedir(p, titulo, texto):
+    est = _estado.setdefault(p["nome"], {"ultima": 0.0})
+    if "modelo" not in est:
+        est["modelo"] = _escolher_modelo(p)
+        print(f"    · IA: {p['nome']} / {est['modelo']}")
+    corpo = {
+        "model": est["modelo"],
+        "temperature": 0.2,
+        "messages": [
+            {"role": "system", "content": INSTRUCOES},
+            {"role": "user", "content": f"Título: {titulo}\n\nTexto da matéria:\n{texto[:p['max_texto']]}"},
+        ],
+    }
+    for tentativa in range(3):
+        espera = p["intervalo"] - (time.time() - est["ultima"])
         if espera > 0:
             time.sleep(espera)
-        _ultima_chamada = time.time()
-        r = _post_ia(token, modelo, titulo, texto)
+        est["ultima"] = time.time()
+        r = requests.post(p["base"] + "chat/completions", headers=_cabecalho(p), json=corpo, timeout=90)
         if r.status_code != 429:
             return r
-        pausa = min(int(r.headers.get("retry-after", "20") or 20), 65)
-        print(f"    … limite por minuto da IA, aguardando {pausa}s")
+        texto_erro = r.text.lower()
+        if "per day" in texto_erro or "perday" in texto_erro or "daily" in texto_erro or tentativa == 2:
+            return r                                   # limite do dia: não adianta esperar
+        pausa = min(int(float(r.headers.get("retry-after", "30") or 30)), 70)
+        print(f"    … limite por minuto do {p['nome']}, aguardando {pausa}s")
         time.sleep(pausa)
     return r
 
 
-def _post_ia(token, modelo, titulo, texto):
-    return requests.post(ENDPOINT, timeout=60, headers={
-        "Authorization": f"Bearer {token}",
-        "Content-Type": "application/json",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28",
-    }, json={
-        "model": modelo,
-        "temperature": 0.2,
-        "messages": [
-            {"role": "system", "content": INSTRUCOES},
-            {"role": "user", "content": f"Título: {titulo}\n\nTexto da matéria:\n{texto}"},
-        ],
-    })
-
-
 def resumir(titulo, texto):
-    global _modelo_ok
-    token = os.environ.get("IA_TOKEN") or os.environ.get("SITE_TOKEN")
-    if not token:
-        raise RuntimeError("IA_TOKEN não definido no workflow")
+    global _ultimo_modelo
+    disponiveis = [p for p in PROVEDORES if os.environ.get(p["chave"])]
+    if not disponiveis:
+        raise RuntimeError("nenhuma chave de IA configurada (crie o secret GEMINI_API_KEY no GitHub)")
     erros = []
-    for modelo in ([_modelo_ok] if _modelo_ok else MODELOS):
-        r = _chamar_ia(token, modelo, titulo, texto)
-        if r.status_code == 200:
-            _modelo_ok = modelo
-            break
-        erros.append(f"{modelo} → HTTP {r.status_code}: {r.text[:200]}")
-        if r.status_code in (401, 403):   # sem permissão: não adianta tentar outro modelo
-            break
-        if r.status_code == 429:          # limite do dia: os outros modelos dividem a mesma cota
-            break
-    else:
-        raise RuntimeError(" | ".join(erros))
-    if r.status_code != 200:
-        raise RuntimeError(" | ".join(erros))
-    conteudo = r.json()["choices"][0]["message"]["content"]
-    m = re.search(r"\{.*\}", conteudo, re.S)
-    dados = json.loads(m.group(0) if m else conteudo)
-    topicos = [t.strip() for t in dados.get("topicos", []) if isinstance(t, str) and len(t.strip()) > 20]
-    if len(topicos) < 2:
-        return None
-    return {"topicos": topicos[:7], "categoria": dados.get("categoria") if dados.get("categoria") in CATEGORIAS else None}
+    for p in disponiveis:
+        est = _estado.get(p["nome"], {})
+        if est.get("esgotado"):
+            erros.append(f"{p['nome']}: {est['esgotado']}")
+            continue
+        try:
+            r = _pedir(p, titulo, texto)
+        except Exception as e:
+            erros.append(f"{p['nome']}: {e.__class__.__name__} {str(e)[:150]}")
+            continue
+        if r.status_code != 200:
+            msg = f"HTTP {r.status_code}: {r.text[:200]}"
+            erros.append(f"{p['nome']} → {msg}")
+            if r.status_code in (401, 403, 429):     # chave inválida ou cota do dia: pula este provedor no resto da rodada
+                _estado.setdefault(p["nome"], {})["esgotado"] = msg
+            continue
+        try:
+            conteudo = r.json()["choices"][0]["message"]["content"] or ""
+            m = re.search(r"\{.*\}", conteudo, re.S)
+            dados = json.loads(m.group(0) if m else conteudo)
+        except Exception:
+            erros.append(f"{p['nome']}: resposta fora do formato: {r.text[:150]}")
+            continue
+        topicos = [t.strip() for t in dados.get("topicos", []) if isinstance(t, str) and len(t.strip()) > 20]
+        if len(topicos) < 2:
+            erros.append(f"{p['nome']}: menos de 2 tópicos")
+            continue
+        _ultimo_modelo = f"{p['nome']}/{_estado[p['nome']]['modelo']}"
+        cat = dados.get("categoria")
+        return {"topicos": topicos[:7], "categoria": cat if cat in CATEGORIAS else None}
+    raise RuntimeError(" | ".join(erros))
 
 
 def detalhar(noticia, manter_categoria=False):
@@ -130,6 +178,8 @@ def detalhar(noticia, manter_categoria=False):
             texto = texto_da_materia(noticia["link"])
             if not texto:
                 noticia["erro_materia"] = "não achou o texto principal" if trafilatura else "trafilatura não instalado"
+            else:
+                noticia.pop("erro_materia", None)
         except Exception as e:
             noticia["erro_materia"] = f"{e.__class__.__name__}: {str(e)[:120]}"
             print(f"    · não abriu a matéria ({e.__class__.__name__}); usa o resumo do feed: {titulo}")
@@ -140,16 +190,13 @@ def detalhar(noticia, manter_categoria=False):
             print(f"    · texto curto demais para resumir: {titulo}")
             return False
         res = resumir(noticia["titulo"], texto)
-        if not res:
-            print(f"    · IA não devolveu tópicos válidos: {titulo}")
-            return False
         noticia["topicos"] = res["topicos"]
         noticia["detalhada"] = True
         noticia.pop("tentativas_ia", None)
         noticia.pop("erro_ia", None)
         if res["categoria"] and not manter_categoria:
             noticia["categoria"] = res["categoria"]
-        print(f"    ✓ {len(res['topicos'])} tópicos ({_modelo_ok}): {titulo}")
+        print(f"    ✓ {len(res['topicos'])} tópicos ({_ultimo_modelo}): {titulo}")
         return True
     except Exception as e:
         noticia["erro_ia"] = f"{e.__class__.__name__}: {str(e)[:300]}"   # fica salvo para diagnóstico

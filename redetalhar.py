@@ -1,6 +1,6 @@
 """
 Revisa as notícias de hoje e de ontem que entraram pelo coletor sem o resumo detalhado
-(ex.: a IA estava fora do ar ou no limite) e tenta de novo, até 3 vezes por notícia.
+(ex.: a IA estava fora do ar ou no limite do dia) e tenta de novo, até 3 vezes por notícia.
 Também limpa o texto curto do feed (frases cortadas, chamadas e créditos de foto).
 Notícias do boletim do WhatsApp não são mexidas.
 
@@ -28,6 +28,9 @@ def revisar_dia(data):
     mudou = 0
     for n in dia.get("noticias", []):
         feed = FEEDS.get(n.get("fonte"))
+        # falhas da IA antiga (GitHub Models, desativada em 30/07/2026) não contam como tentativa
+        if any(x in n.get("erro_ia", "") for x in ("JSONDecodeError", "IA_TOKEN", "models.github")):
+            n.pop("tentativas_ia", None)
         if n.get("detalhada") or not feed or n.get("tentativas_ia", 0) >= MAX_TENTATIVAS:
             continue
         limpos = topicos_do_resumo(texto_limpo(" ".join(n.get("topicos", [])), n["titulo"]), maximo=6, titulo=n["titulo"])
