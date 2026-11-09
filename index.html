@@ -132,14 +132,23 @@
   .cat-bloco{scroll-margin-top:calc(112px + env(safe-area-inset-top))}
   .cat-bloco .block-title h2{display:flex;align-items:center;gap:8px}
   .cat-bloco .block-title h2::before{content:"";width:6px;height:22px;background:var(--red)}
-  .cat-grid{display:grid;grid-template-columns:1fr;column-gap:32px}
-  .cat-grid .card:first-child{grid-column:1/-1}
+  .materia{display:grid;grid-template-columns:1fr;gap:12px;padding:18px 0 20px;border-bottom:1px solid var(--line)}
+  .materia .foto{display:block;width:100%;aspect-ratio:16/9;background:#111;overflow:hidden;position:relative}
+  .materia .foto img{width:100%;height:100%;object-fit:cover;display:block}
+  .materia h3{margin:4px 0 10px;font-weight:900;font-size:21px;line-height:1.15;letter-spacing:-.02em;color:var(--ink)}
+  .materia h3 button{text-align:left;font:inherit;color:inherit}
+  @media (hover:hover){ .materia h3 button:hover{text-decoration:underline;text-decoration-thickness:2px} }
+  .materia ul{margin:0;padding:0;list-style:none}
+  .materia li{position:relative;padding-left:18px;font-family:var(--body);font-size:16px;line-height:1.55;color:var(--text);margin:0 0 8px}
+  .materia li::before{content:"";position:absolute;left:0;top:9px;width:7px;height:7px;background:var(--red)}
+  .materia .rodape{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin-top:10px;font-size:13px;color:var(--muted)}
+  .materia .rodape b{color:var(--ink)}
+  .materia .rodape a{font-weight:800;color:var(--ink);border-bottom:2px solid var(--red);padding-bottom:1px}
   .cat-vazio{font-family:var(--body);font-size:15px;color:var(--muted);padding:14px 0;border-bottom:1px solid var(--line);margin:0}
   @media (min-width:860px){
-    .cat-grid{grid-template-columns:1fr 1fr}
-    .cat-grid .card:first-child{grid-template-columns:1fr 300px}
-    .cat-grid .card:first-child .thumb{aspect-ratio:16/10}
-    .cat-grid .card:first-child h3{font-size:22px}
+    .materia{grid-template-columns:320px 1fr;gap:24px;align-items:start}
+    .materia.sem-foto{grid-template-columns:1fr}
+    .materia h3{font-size:24px;margin-top:0}
   }
   .headlines{list-style:none;margin:0;padding:0}
   .headlines li{border-bottom:1px solid var(--line)}
@@ -462,7 +471,7 @@ async function mostrarDia(){
   if (!visiveis.length) return vazio('Sem notícias nesta edição', 'Escolha outro dia.');
 
   const [h, ...resto] = visiveis;
-  const lateral = resto.slice(0, 4), demais = resto.slice(4);
+  const lateral = resto.slice(0, 4);
   let html = `<div class="front"><div>
       <button class="lead" data-k="0">
         <div class="media">${midia(h.n, true)}<span class="badge">${esc(cat(h.n))}</span></div>
@@ -472,19 +481,29 @@ async function mostrarDia(){
       </button></div>`;
   if (lateral.length) html += `<div class="side"><div class="block-title"><h2>Principais</h2></div>${lateral.map((it,i) => card(it, i+1, i+2)).join('')}</div>`;
   html += `</div>`;
-  // Um bloco por categoria, com as notícias que não estão nos destaques
-  const nosDestaques = new Set([h, ...lateral].map(it => it.i));
+  // Um bloco por categoria com TODAS as notícias do dia (inclusive as dos destaques), com o detalhamento completo
   categorias().forEach(c => {
-    const daCat = demais.filter(it => cat(it.n) === c);
-    const destaque = visiveis.filter(it => nosDestaques.has(it.i) && cat(it.n) === c).length;
+    const itens = visiveis.filter(it => cat(it.n) === c);
     html += `<section class="cat-bloco" id="${idBloco(c)}"><div class="block-title"><h2>${esc(c)}</h2></div>` +
-      (daCat.length
-        ? `<div class="cat-grid">${daCat.map(it => card(it, visiveis.indexOf(it), null, fonte(it.n))).join('')}</div>`
-        : `<p class="cat-vazio">${destaque ? `As notícias de ${esc(c)} desta edição estão nos destaques acima.` : `Sem notícias de ${esc(c)} nesta edição.`}</p>`) +
+      (itens.length ? itens.map(it => materia(it, visiveis.indexOf(it))).join('')
+                    : `<p class="cat-vazio">Sem notícias de ${esc(c)} nesta edição.</p>`) +
       `</section>`;
   });
   $('#content').innerHTML = html;
   observarBlocos();
+}
+
+function materia(it, k){
+  const n = it.n, tps = topicos(n);
+  return `<article class="materia${n.imagem ? '' : ' sem-foto'}">
+    ${n.imagem ? `<button class="foto" data-k="${k}" aria-label="Abrir matéria">${midia(n)}</button>` : ''}
+    <div>
+      <div class="kicker">${esc(fonte(n))}</div>
+      <h3><button data-k="${k}">${esc(titulo(n))}</button></h3>
+      ${tps.length ? `<ul>${tps.map(t => `<li>${esc(t)}</li>`).join('')}</ul>` : ''}
+      ${n.link ? `<div class="rodape"><a href="${esc(n.link)}" target="_blank" rel="noopener">Ler na fonte ↗</a></div>` : ''}
+    </div>
+  </article>`;
 }
 
 /* ---------- Navegação por blocos ---------- */

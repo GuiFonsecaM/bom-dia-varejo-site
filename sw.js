@@ -1,5 +1,5 @@
 // Service worker do Bom dia varejo: permite instalar o app e abrir as últimas notícias mesmo sem internet.
-const VERSAO = 'bdv-v5';
+const VERSAO = 'bdv-v7';
 const BASICOS = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/logo-128.png', './icons/favicon-32.png'];
 
 self.addEventListener('install', e => {
