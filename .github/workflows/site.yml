@@ -1,13 +1,10 @@
 name: Site
 
 on:
-  # Notícias do boletim do WhatsApp chegam por commit → busca as imagens e publica o site
   push:
     branches: [main]
-  # Verifica notícias novas 3x por dia: 08:07, 13:07 e 18:07 (Brasília). Horários em UTC.
   schedule:
     - cron: "7 11,16,21 * * *"
-  # Botão "Run workflow" na aba Actions
   workflow_dispatch:
 
 permissions:
@@ -23,10 +20,19 @@ concurrency:
 jobs:
   coletar:
     runs-on: ubuntu-latest
+    outputs:
+      base: ${{ steps.base.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+      - id: base
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "sha=${{ github.event.before }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -75,3 +81,10 @@ jobs:
           path: .
       - id: deploy
         uses: actions/deploy-pages@v4
+
+      - name: Notificar notícias novas
+        continue-on-error: true
+        run: python3 notificar.py "${{ needs.coletar.outputs.base }}"
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
