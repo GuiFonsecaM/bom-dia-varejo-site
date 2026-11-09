@@ -5,7 +5,8 @@ Verifica se surgiram notícias novas e acrescenta no site (roda 3x por dia pelo 
 - Fica só com notícias das últimas `janela_horas` que falam de varejo/atacarejo/economia do consumo.
 - Ignora o que já está no site (inclusive o que veio do boletim do WhatsApp): mesmo link
   ou título muito parecido, olhando os últimos 7 dias.
-- Publica no máximo `maximo_por_rodada` notícias por vez, com o link original.
+- Publica no máximo `maximo_por_categoria` notícias de cada categoria (Varejo, Economia, Mundo) por rodada.
+- Varejo alimentar tem prioridade: cada palavra-chave do setor vale 3 pontos na relevância.
 - Abre cada matéria e escreve um resumo detalhado em tópicos (detalhar.py).
 
 Rodar à mão:  python coletar_noticias.py            (publica)
@@ -60,16 +61,25 @@ def topicos_do_resumo(resumo, maximo=3):
     return out
 
 
+def _conta(palavras, t):
+    return sum(1 for p in palavras if re.search(r"(?<![\w])" + re.escape(p.lower()) + r"(?![\w])", t))
+
+
 def relevancia(texto, todas):
+    """Varejo alimentar vale 3 pontos por palavra; os demais temas, 1 ponto."""
     t = texto.lower()
-    acertos = sum(1 for p in CONFIG["palavras_chave"] if re.search(r"\b" + re.escape(p.lower()) + r"\b", t))
-    return acertos + (1 if todas else 0)
+    return (3 * _conta(CONFIG.get("palavras_chave_varejo_alimentar", []), t)
+            + _conta(CONFIG["palavras_chave"], t) + (1 if todas else 0))
 
 
-def categoria(texto):
+def categoria(texto, fixa=None):
+    if fixa:
+        return fixa
     t = texto.lower()
+    if _conta(CONFIG.get("palavras_chave_varejo_alimentar", []), t):
+        return "Varejo"
     for nome, palavras in CONFIG.get("categorias", {}).items():
-        if any(p.lower() in t for p in palavras):
+        if _conta(palavras, t):
             return nome
     return CONFIG.get("categoria_padrao", "Varejo")
 
@@ -126,8 +136,9 @@ def coletar():
                     "topicos": topicos_do_resumo(resumo) or ([resumo] if resumo else []),
                     "fonte": feed["nome"],
                     "link": link,
-                    "categoria": categoria(f"{titulo} {resumo}"),
+                    "categoria": categoria(f"{titulo} {resumo}", feed.get("categoria")),
                 },
+                "categoria_fixa": bool(feed.get("categoria")),
             })
     return candidatas
 
@@ -137,15 +148,17 @@ def main():
     vistos = existentes_no_site()
     candidatas = sorted(coletar(), key=lambda c: (c["nota"], c["quando"]), reverse=True)
 
-    novas = []
+    limites = CONFIG.get("maximo_por_categoria", {"Varejo": 6, "Economia": 3, "Mundo": 3})
+    por_categoria, novas, fixas = {}, [], set()
     for c in candidatas:
         n = c["noticia"]
-        if ja_existe(n, vistos):
+        if ja_existe(n, vistos) or por_categoria.get(n["categoria"], 0) >= limites.get(n["categoria"], 3):
             continue
         novas.append(n)
+        if c["categoria_fixa"]:
+            fixas.add(id(n))
+        por_categoria[n["categoria"]] = por_categoria.get(n["categoria"], 0) + 1
         vistos.append((chave_link(n["link"]), n["titulo"]))
-        if len(novas) >= CONFIG.get("maximo_por_rodada", 6):
-            break
 
     print(f"\n{len(candidatas)} candidatas, {len(novas)} novas")
     for n in novas:
@@ -154,7 +167,7 @@ def main():
     if novas:
         print("\nDetalhando as notícias:")
         for n in novas:
-            detalhar(n)
+            detalhar(n, manter_categoria=id(n) in fixas)
 
     if novas and not teste:
         publicar_no_site(novas)

@@ -99,7 +99,7 @@ def _limpar(n):
         "topicos": [str(t).strip() for t in n.get("topicos", []) if str(t).strip()],
         "fonte": str(n.get("fonte", "")).strip(),
         "link": str(n.get("link", "")).strip(),
-        "categoria": str(n.get("categoria", "")).strip(),
+        "categoria": {"Atacarejo": "Varejo"}.get(str(n.get("categoria", "")).strip(), str(n.get("categoria", "")).strip()),
         "imagem": str(n.get("imagem", "")).strip(),
     }
     return {k: v for k, v in item.items() if v}

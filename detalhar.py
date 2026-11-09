@@ -27,7 +27,7 @@ MODELO = os.environ.get("IA_MODELO", "openai/gpt-4.1-mini")
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "pt-BR,pt;q=0.9"}
 MAX_TEXTO = 7000
-CATEGORIAS = ("Varejo", "Atacarejo", "Economia")
+CATEGORIAS = ("Varejo", "Economia", "Mundo")
 
 INSTRUCOES = """Você escreve o resumo de notícias do Bom dia varejo, um portal sobre varejo, atacarejo e economia do consumo.
 Com base APENAS no texto da matéria, escreva de 4 a 6 tópicos em português do Brasil que permitam entender a notícia sem abrir o link:
@@ -38,7 +38,7 @@ Regras:
 - Escreva com suas próprias palavras; não copie frases da matéria.
 - Cada tópico com 1 ou 2 frases curtas, no máximo 300 caracteres, em tom jornalístico e neutro, sem opinião.
 - Não invente nada que não esteja no texto. Não use frases de efeito. Não inclua seção "Para o varejo".
-- Classifique a notícia em uma categoria: Varejo, Atacarejo ou Economia.
+- Classifique a notícia em uma categoria: Varejo (varejo, atacarejo, supermercados, indústria de consumo, preço de alimentos), Economia (juros, inflação, câmbio, emprego, contas públicas no Brasil) ou Mundo (fatos internacionais).
 Responda só com JSON no formato: {"topicos": ["...", "..."], "categoria": "..."}"""
 
 
@@ -79,7 +79,7 @@ def resumir(titulo, texto):
     return {"topicos": topicos[:6], "categoria": dados.get("categoria") if dados.get("categoria") in CATEGORIAS else None}
 
 
-def detalhar(noticia):
+def detalhar(noticia, manter_categoria=False):
     """Troca os tópicos curtos do feed por um resumo detalhado. Devolve True se conseguiu."""
     try:
         texto = texto_da_materia(noticia["link"])
@@ -91,7 +91,7 @@ def detalhar(noticia):
             print(f"    · IA indisponível, mantém resumo do feed: {noticia['titulo'][:60]}")
             return False
         noticia["topicos"] = res["topicos"]
-        if res["categoria"]:
+        if res["categoria"] and not manter_categoria:
             noticia["categoria"] = res["categoria"]
         print(f"    ✓ {len(res['topicos'])} tópicos: {noticia['titulo'][:60]}")
         return True
