@@ -10,35 +10,36 @@
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/09/ajuste-fiscal-o-diagnostico-de-organismos-internacionais-e-o-desafio-de-lula-4.ghtml",
-   "categoria": "Varejo",
-   "tentativas_ia": 3,
-   "imagem": "img/2026/11/db2d1bcf0fd6.webp"
+   "categoria": "Economia",
+   "tentativas_ia": 4,
+   "imagem": "img/2026/11/db2d1bcf0fd6.webp",
+   "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "titulo": "Quando cai o 13º salário em 2026? Veja prazos, valores e quem tem direito",
    "topicos": [
-    "Quando cai o 13º salário em 2026?",
-    "Veja prazos, valores e quem tem direito Marcello Casal Jr.",
     "Novembro mal começou, e os trabalhadores com carteira assinada já estão de olho no pagamento do 13º salário."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/quando-cai-o-13o-salario.ghtml",
    "categoria": "Economia",
-   "tentativas_ia": 3,
-   "imagem": "img/2026/11/d7f599852bf9.webp"
+   "tentativas_ia": 4,
+   "imagem": "img/2026/11/d7f599852bf9.webp",
+   "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "titulo": "Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
    "topicos": [
-    "Images/BBC Situadas no alto de uma montanha na paisagem espetacular dos Alpes alemães, encontram-se as ruínas carbonizadas de uma casa de montanha chamada Ninho da Águia, que agora está no centro de um intenso debate sobre o passado nazista da Alemanha.",
+    "Situadas no alto de uma montanha na paisagem espetacular dos Alpes alemães, encontram-se as ruínas carbonizadas de uma casa de montanha chamada Ninho da Águia, que agora está no centro de um intenso debate sobre o passado nazista da Alemanha.",
     "Conhecido em alemão como Kehlsteinhaus, o retiro foi construído pelos nazistas em 1938 e frequentado por Adolf Hitler e outros nazistas de alta patente, bem como seus convidados.",
     "Após a Segunda Guerra Mundial, foi classificado como monumento histórico que relembra a era nazista."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/08/futuro-refugio-hitler-incendiado-gera-debate-alemanha-sobre-o-passado-nazista.ghtml",
    "categoria": "Mundo",
-   "tentativas_ia": 3,
-   "imagem": "img/2026/11/3fa1f3ab2110.webp"
+   "tentativas_ia": 4,
+   "imagem": "img/2026/11/3fa1f3ab2110.webp",
+   "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "titulo": "Papa chega à Argentina em visita que deve expor discordâncias com Javier Milei; veja pontos de divergência",
@@ -50,8 +51,9 @@
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/09/papa-chega-a-argentina-em-visita-que-deve-expor-discordancias-com-javier-milei-veja-pontos-de-divergencia.ghtml",
    "categoria": "Mundo",
-   "tentativas_ia": 3,
-   "imagem": "img/2026/11/393e32db9f4f.webp"
+   "tentativas_ia": 4,
+   "imagem": "img/2026/11/393e32db9f4f.webp",
+   "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
    "titulo": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
@@ -61,8 +63,9 @@
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
    "categoria": "Mundo",
-   "tentativas_ia": 3,
-   "imagem": "img/2026/11/dc44043eb835.webp"
+   "tentativas_ia": 4,
+   "imagem": "img/2026/11/dc44043eb835.webp",
+   "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   }
  ]
 }
