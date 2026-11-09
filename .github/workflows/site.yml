@@ -1,16 +1,20 @@
 name: Site
 
 on:
+  # Notícias do boletim do WhatsApp chegam por commit → busca as imagens e publica o site
   push:
     branches: [main]
+  # Verifica notícias novas 3x por dia: 08:07, 13:07 e 18:07 (Brasília). Horários em UTC.
   schedule:
     - cron: "7 11,16,21 * * *"
+  # Botão "Run workflow" na aba Actions
   workflow_dispatch:
 
 permissions:
   contents: write
   pages: write
   id-token: write
+  models: read
 
 concurrency:
   group: site
@@ -26,7 +30,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests feedparser pillow
+      - run: pip install requests feedparser pillow trafilatura
 
       - name: Buscar notícias novas
         if: github.event_name != 'push'
@@ -35,8 +39,9 @@ jobs:
         env:
           SITE_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SITE_REPO: ${{ github.repository }}
+          IA_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Buscar imagens das notícias
+      - name: Imagens e indicadores
         continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
@@ -44,9 +49,10 @@ jobs:
           for tentativa in 1 2 3; do
             git fetch -q origin main && git reset -q --hard origin/main
             python coletar_imagens.py
-            git add data img 2>/dev/null || true
-            if git diff --cached --quiet; then echo "Nenhuma imagem nova"; exit 0; fi
-            git commit -qm "Imagens das notícias"
+            python coletar_indicadores.py || true
+            git add data img 2>/dev/null || git add data || true
+            if git diff --cached --quiet; then echo "Nada novo"; exit 0; fi
+            git commit -qm "Imagens e indicadores"
             if git push -q origin HEAD:main; then exit 0; fi
             echo "Outro commit entrou no meio, tentando de novo..."; sleep 5
           done
