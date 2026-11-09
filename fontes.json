@@ -3,11 +3,15 @@
   "janela_horas": 24,
   "feeds": [
     { "nome": "Mercado & Consumo", "url": "https://mercadoeconsumo.com.br/feed/", "todas": true },
-    { "nome": "SuperVarejo", "url": "https://www.supervarejo.com.br/feed", "todas": true },
     { "nome": "g1 Economia", "url": "https://g1.globo.com/rss/g1/economia/" },
     { "nome": "InfoMoney", "url": "https://www.infomoney.com.br/feed/" },
     { "nome": "Money Times", "url": "https://www.moneytimes.com.br/feed/" },
-    { "nome": "CNN Brasil Economia", "url": "https://www.cnnbrasil.com.br/economia/feed/" }
+    { "nome": "CNN Brasil Economia", "url": "https://www.cnnbrasil.com.br/economia/feed/" },
+    { "nome": "SuperVarejo", "url": "https://www.supervarejo.com.br/feed", "todas": true },
+    { "nome": "BBC News Brasil", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml" },
+    { "nome": "Deutsche Welle Brasil", "url": "https://rss.dw.com/rdf/rss-br-br" },
+    { "nome": "El País Brasil", "url": "https://brasil.elpais.com/rss/brasil/portugues.xml" },
+    { "nome": "Reuters Brasil", "url": "https://news.google.com/rss/search?q=site:reuters.com+varejo+OR+economia&ceid=BR:pt-419&hl=pt-BR&gl=BR" }
   ],
   "palavras_chave": [
     "varejo", "varejista", "atacarejo", "atacado", "supermercado", "supermercados", "hipermercado",
