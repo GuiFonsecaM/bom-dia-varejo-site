@@ -1,0 +1,24 @@
+{
+  "maximo_por_rodada": 6,
+  "janela_horas": 24,
+  "feeds": [
+    { "nome": "Mercado & Consumo", "url": "https://mercadoeconsumo.com.br/feed/", "todas": true },
+    { "nome": "SuperVarejo", "url": "https://www.supervarejo.com.br/feed", "todas": true },
+    { "nome": "g1 Economia", "url": "https://g1.globo.com/rss/g1/economia/" },
+    { "nome": "InfoMoney", "url": "https://www.infomoney.com.br/feed/" },
+    { "nome": "Money Times", "url": "https://www.moneytimes.com.br/feed/" },
+    { "nome": "CNN Brasil Economia", "url": "https://www.cnnbrasil.com.br/economia/feed/" }
+  ],
+  "palavras_chave": [
+    "varejo", "varejista", "atacarejo", "atacado", "supermercado", "supermercados", "hipermercado",
+    "consumo", "consumidor", "loja", "lojas", "e-commerce", "comércio", "black friday", "natal",
+    "assaí", "atacadão", "carrefour", "grupo mateus", "mateus", "supermercados bh", "dma",
+    "pão de açúcar", "gpa", "mart minas", "abras", "cesta básica", "alimentos", "inflação",
+    "ipca", "selic", "copom", "juros", "renda", "desemprego", "crédito", "endividamento"
+  ],
+  "categorias": {
+    "Atacarejo": ["atacarejo", "atacado", "assaí", "atacadão", "grupo mateus", "mart minas", "cash & carry"],
+    "Economia": ["selic", "copom", "ipca", "inflação", "juros", "pib", "dólar", "desemprego", "renda", "crédito", "endividamento"]
+  },
+  "categoria_padrao": "Varejo"
+}
