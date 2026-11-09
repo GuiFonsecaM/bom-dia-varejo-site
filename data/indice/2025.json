@@ -1,0 +1,16 @@
+{
+ "ano": 2025,
+ "dias": [
+  {
+   "data": "2025-12-31",
+   "n": [
+    {
+     "t": "Exemplo: notícia de um ano anterior",
+     "c": "Varejo",
+     "f": "Fonte original",
+     "r": "Os anos anteriores continuam disponíveis no seletor de ano e na busca."
+    }
+   ]
+  }
+ ]
+}
