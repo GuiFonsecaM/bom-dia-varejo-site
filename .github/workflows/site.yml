@@ -1,0 +1,53 @@
+name: Site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "7 11,16,21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests feedparser
+      - name: Buscar notícias novas
+        run: python coletar_noticias.py
+        env:
+          SITE_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SITE_REPO: ${{ github.repository }}
+
+  publicar:
+    needs: coletar
+    if: ${{ always() && needs.coletar.result != 'failure' && needs.coletar.result != 'cancelled' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
