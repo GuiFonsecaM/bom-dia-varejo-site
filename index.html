@@ -60,7 +60,8 @@
   .ticker .wrap{display:flex;align-items:center;height:38px;gap:12px}
   .ticker .label{flex:none;font-weight:900;font-size:13px;letter-spacing:.06em;text-transform:uppercase;background:var(--ink);color:#fff;padding:3px 8px}
   .ticker .track{flex:1;overflow:hidden;white-space:nowrap;-webkit-mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent);mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
-  .ticker .run{display:inline-block;padding-left:100%;animation:run 40s linear infinite;font-weight:600;font-size:14px}
+  .ticker .run{display:inline-block;padding-left:100%;animation:run 90s linear infinite;font-weight:600;font-size:14px}
+  .ticker:hover .run{animation-play-state:paused}
   .ticker .run span{margin-right:36px}
   .ticker .run span::before{content:"■";font-size:9px;margin-right:10px;vertical-align:2px;opacity:.8}
   @keyframes run{to{transform:translateX(-100%)}}
@@ -396,8 +397,12 @@ function renderSeletores(){
 
 function renderTicker(dia){
   if (!dia?.noticias?.length) return;
-  $('#run').innerHTML = dia.noticias.map(n => `<span>${esc(n.titulo)}</span>`).join('');
+  const run = $('#run');
+  run.innerHTML = dia.noticias.map(n => `<span>${esc(n.titulo)}</span>`).join('');
   $('#ticker').hidden = false;
+  // velocidade constante e lenta, qualquer que seja o tamanho do texto (pixels por segundo)
+  const VELOCIDADE = 55;
+  requestAnimationFrame(() => { run.style.animationDuration = Math.max(30, run.scrollWidth / VELOCIDADE) + 's'; });
 }
 
 /* ---------- Conteúdo ---------- */
