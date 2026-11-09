@@ -189,6 +189,10 @@
   @media (prefers-reduced-motion: reduce){ *{transition:none!important;animation:none!important} .ticker .run{padding-left:0} }
 
   /* ===== Instalar app ===== */
+  .bell-btn{width:32px;height:32px;display:none;place-items:center;color:#fff;position:relative}
+  .bell-btn.show{display:grid}
+  .bell-btn svg{width:22px;height:22px}
+  .bell-btn.on svg{fill:var(--brand);color:var(--brand)}
   .install-btn{display:none;align-items:center;gap:6px;font-weight:800;font-size:13px;border:1.5px solid #fff;padding:6px 10px;color:#fff}
   .install-btn svg{width:15px;height:15px}
   .install-btn.show{display:inline-flex}
@@ -224,6 +228,9 @@
     </a>
     <button class="install-btn" id="installTop" aria-label="Instalar app">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span>Instalar</span>
+    </button>
+    <button class="bell-btn" id="bell" aria-label="Notificações">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8a6 6 0 1 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg>
     </button>
     <button class="search-btn" id="openSearch" aria-label="Buscar">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
@@ -266,6 +273,7 @@
     <nav id="footNav"></nav>
     <p>As notícias do varejo e do atacarejo, todo dia. Cada matéria leva ao link original da fonte.</p>
     <p id="updated"></p>
+    <p><button id="bellFoot" style="font-weight:800;font-size:13px;color:#fff;text-decoration:underline;display:none">Ativar notificações de novas notícias</button></p>
     <p><button id="installFoot" style="font-weight:800;font-size:13px;color:#fff;text-decoration:underline;display:none">Instalar o app Bom dia varejo</button></p>
   </div>
 </footer>
@@ -563,6 +571,59 @@ $('#openSearch').onclick = () => { $('#searchbar').classList.add('open'); $('#q'
 $('#closeSearch').onclick = () => { limparBusca(); mostrarDia(); };
 let qTimer;
 $('#q').addEventListener('input', e => { clearTimeout(qTimer); qTimer = setTimeout(() => { termo = e.target.value.trim(); render(); }, 250); });
+/* ---------- Notificações (OneSignal) ---------- */
+// Cole aqui o App ID do OneSignal (Settings → Keys & IDs). Vazio = notificações desligadas.
+const ONESIGNAL_APP_ID = '';
+
+function iniciarNotificacoes(){
+  if (!ONESIGNAL_APP_ID || !('Notification' in window || ehIOS)) return;
+  const sino = $('#bell'), rodape = $('#bellFoot');
+  sino.classList.add('show'); rodape.style.display = 'inline';
+  const sdk = document.createElement('script');
+  sdk.src = 'https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js'; sdk.defer = true;
+  document.head.appendChild(sdk);
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async OneSignal => {
+    await OneSignal.init({
+      appId: ONESIGNAL_APP_ID,
+      serviceWorkerPath: 'push/onesignal/OneSignalSDKWorker.js',
+      serviceWorkerParam: { scope: new URL('push/onesignal/', location.href).pathname },
+    });
+    const atualizar = () => {
+      const ativo = OneSignal.Notifications.permission && OneSignal.User.PushSubscription.optedIn;
+      sino.classList.toggle('on', !!ativo);
+      sino.setAttribute('aria-label', ativo ? 'Notificações ativadas' : 'Ativar notificações');
+      rodape.textContent = ativo ? 'Desativar notificações' : 'Ativar notificações de novas notícias';
+    };
+    OneSignal.User.PushSubscription.addEventListener('change', atualizar);
+    OneSignal.Notifications.addEventListener('permissionChange', atualizar);
+    atualizar();
+  });
+}
+function alternarNotificacoes(){
+  if (ehIOS && !instalado()) {
+    $('#iosHelp h3').textContent = 'Para receber notificações no iPhone';
+    $('#iosHelp').classList.add('show');
+    toast('Primeiro adicione o app à Tela de Início');
+    return;
+  }
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async OneSignal => {
+    if (!OneSignal.Notifications.isPushSupported()) return toast('Este navegador não aceita notificações');
+    if (OneSignal.Notifications.permission && OneSignal.User.PushSubscription.optedIn) {
+      await OneSignal.User.PushSubscription.optOut(); toast('Notificações desativadas');
+    } else if (OneSignal.Notifications.permission) {
+      await OneSignal.User.PushSubscription.optIn(); toast('Notificações ativadas');
+    } else {
+      const ok = await OneSignal.Notifications.requestPermission();
+      if (OneSignal.Notifications.permission) toast('Pronto! Você vai receber as novas notícias');
+      else toast('Permissão negada — libere nas configurações do navegador');
+    }
+  });
+}
+$('#bell').onclick = alternarNotificacoes;
+$('#bellFoot').onclick = alternarNotificacoes;
+
 /* ---------- Instalar app ---------- */
 if ('serviceWorker' in navigator) {
   addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
@@ -593,6 +654,7 @@ async function instalar(){
     if (outcome === 'accepted') esconderOpcoesInstalar();
   } else if (ehIOS) {
     $('#installBanner').classList.remove('show');
+    $('#iosHelp h3').textContent = 'Adicionar à Tela de Início';
     $('#iosHelp').classList.add('show');
   } else {
     toast('Use o menu do navegador → "Instalar app"');
@@ -602,6 +664,7 @@ addEventListener('beforeinstallprompt', e => { e.preventDefault(); pedidoInstala
 addEventListener('appinstalled', () => { esconderOpcoesInstalar(); toast('App instalado'); });
 if (ehIOS && !instalado()) mostrarOpcoesInstalar();
 ['#installTop', '#installGo', '#installFoot'].forEach(id => $(id).onclick = instalar);
+iniciarNotificacoes();
 $('#installClose').onclick = () => { $('#installBanner').classList.remove('show'); gravarPref('bdv-instalar-dispensado', Date.now()); };
 $('#iosOk').onclick = () => $('#iosHelp').classList.remove('show');
 $('#iosHelp').onclick = e => { if (e.target.id === 'iosHelp') $('#iosHelp').classList.remove('show'); };
