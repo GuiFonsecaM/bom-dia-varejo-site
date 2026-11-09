@@ -50,7 +50,7 @@ def relevancia(texto, todas):
             + _conta(CONFIG["palavras_chave"], t) + (1 if todas else 0))
 
 
-def categoria(texto, fixa=None):
+def categoria(texto, fixa=None, padrao=None):
     if fixa:
         return fixa
     t = texto.lower()
@@ -59,7 +59,7 @@ def categoria(texto, fixa=None):
     for nome, palavras in CONFIG.get("categorias", {}).items():
         if _conta(palavras, t):
             return nome
-    return CONFIG.get("categoria_padrao", "Varejo")
+    return padrao or CONFIG.get("categoria_padrao", "Varejo")
 
 
 def data_do_item(e):
@@ -100,7 +100,7 @@ def coletar():
             if not quando or quando < limite:
                 continue
             titulo = texto_limpo(e.get("title"))
-            resumo = texto_limpo(e.get("summary") or e.get("description"))
+            resumo = texto_limpo(e.get("summary") or e.get("description"), titulo)
             link = link_original(e.get("link"))
             if not titulo or not link:
                 continue
@@ -111,10 +111,10 @@ def coletar():
                 "nota": nota, "quando": quando,
                 "noticia": {
                     "titulo": titulo,
-                    "topicos": topicos_do_resumo(resumo),
+                    "topicos": topicos_do_resumo(resumo, titulo=titulo),
                     "fonte": feed["nome"],
                     "link": link,
-                    "categoria": categoria(f"{titulo} {resumo}", feed.get("categoria")),
+                    "categoria": categoria(f"{titulo} {resumo}", feed.get("categoria"), feed.get("categoria_padrao")),
                 },
                 "categoria_fixa": bool(feed.get("categoria")),
             })

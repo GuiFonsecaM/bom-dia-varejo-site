@@ -10,13 +10,14 @@ import json
 import os
 from datetime import datetime, timedelta
 
+from coletar_noticias import categoria
 from detalhar import detalhar
 from limpeza import texto_limpo, topicos_do_resumo
 from publicar_site import TZ, _resumo
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-FONTES_FEED = {f["nome"] for f in json.load(open(os.path.join(AQUI, "fontes.json"), encoding="utf-8"))["feeds"]}
-MAX_TENTATIVAS = 3
+FEEDS = {f["nome"]: f for f in json.load(open(os.path.join(AQUI, "fontes.json"), encoding="utf-8"))["feeds"]}
+MAX_TENTATIVAS = 6
 
 
 def revisar_dia(data):
@@ -26,12 +27,14 @@ def revisar_dia(data):
     dia = json.load(open(caminho, encoding="utf-8"))
     mudou = 0
     for n in dia.get("noticias", []):
-        if n.get("detalhada") or n.get("fonte") not in FONTES_FEED or n.get("tentativas_ia", 0) >= MAX_TENTATIVAS:
+        feed = FEEDS.get(n.get("fonte"))
+        if n.get("detalhada") or not feed or n.get("tentativas_ia", 0) >= MAX_TENTATIVAS:
             continue
-        limpos = topicos_do_resumo(texto_limpo(" ".join(n.get("topicos", []))), maximo=6)
+        limpos = topicos_do_resumo(texto_limpo(" ".join(n.get("topicos", [])), n["titulo"]), maximo=6, titulo=n["titulo"])
         if limpos:
             n["topicos"] = limpos
-        if not detalhar(n):
+        n["categoria"] = categoria(f"{n['titulo']} {' '.join(n.get('topicos', []))}", feed.get("categoria"), feed.get("categoria_padrao"))
+        if not detalhar(n, manter_categoria=bool(feed.get("categoria"))):
             n["tentativas_ia"] = n.get("tentativas_ia", 0) + 1
         mudou += 1
     if mudou:

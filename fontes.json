@@ -38,7 +38,8 @@
     },
     {
       "nome": "g1 Economia",
-      "url": "https://g1.globo.com/rss/g1/economia/"
+      "url": "https://g1.globo.com/rss/g1/economia/",
+      "categoria_padrao": "Economia"
     },
     {
       "nome": "g1 Agronegócios",
@@ -46,15 +47,18 @@
     },
     {
       "nome": "InfoMoney",
-      "url": "https://www.infomoney.com.br/feed/"
+      "url": "https://www.infomoney.com.br/feed/",
+      "categoria_padrao": "Economia"
     },
     {
       "nome": "Money Times",
-      "url": "https://www.moneytimes.com.br/feed/"
+      "url": "https://www.moneytimes.com.br/feed/",
+      "categoria_padrao": "Economia"
     },
     {
       "nome": "CNN Brasil Economia",
-      "url": "https://www.cnnbrasil.com.br/economia/feed/"
+      "url": "https://www.cnnbrasil.com.br/economia/feed/",
+      "categoria_padrao": "Economia"
     },
     {
       "nome": "g1 Mundo",
@@ -260,7 +264,30 @@
       "inadimplência",
       "reforma tributária",
       "imposto",
-      "salário mínimo"
+      "salário mínimo",
+      "fiscal",
+      "ajuste fiscal",
+      "contas públicas",
+      "dívida pública",
+      "arcabouço",
+      "orçamento",
+      "gasto público",
+      "gastos públicos",
+      "superávit",
+      "déficit",
+      "13º salário",
+      "décimo terceiro",
+      "fgts",
+      "inss",
+      "imposto de renda",
+      "receita federal",
+      "tesouro",
+      "banco central",
+      "bolsa",
+      "ibovespa",
+      "mercado financeiro",
+      "emprego",
+      "caged"
     ]
   },
   "categoria_padrao": "Varejo"
