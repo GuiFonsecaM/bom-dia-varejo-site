@@ -34,8 +34,7 @@
   /* ===== Cabeçalho preto ===== */
   .masthead{background:var(--ink);color:#fff;position:sticky;top:0;z-index:30;padding-top:env(safe-area-inset-top)}
   .masthead .wrap{height:56px;display:flex;align-items:center;gap:14px}
-  .burger{width:28px;height:28px;display:grid;place-items:center}
-  .burger svg,.search-btn svg{width:22px;height:22px}
+  .search-btn svg{width:22px;height:22px}
   .logo{display:flex;align-items:center;gap:10px;margin-right:auto}
   .logo .mark{width:38px;height:38px;flex:none}
   .logo .name{font-weight:900;font-size:19px;letter-spacing:-.02em;line-height:1}
@@ -69,6 +68,27 @@
   /* ===== Edição ===== */
   .edition{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 0 10px;border-bottom:1px solid var(--line)}
   .pickers{display:flex;gap:8px;flex:none}
+  .edition[hidden]{display:none}
+
+  /* ===== Indicadores ===== */
+  .sec.sec-ind{gap:6px;background:#d71920;color:#fff;padding:0 12px;margin:7px 0;border-bottom:0;font-weight:800}
+  .sec.sec-ind svg{width:15px;height:15px;color:#fff}
+  .sec.sec-ind[aria-current="true"]{background:#a50f15;box-shadow:inset 0 -3px 0 #fff}
+  .ind-top{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:18px 0 4px;border-bottom:1px solid var(--line)}
+  .ind-top h1{font-weight:900;font-size:28px;letter-spacing:-.025em;color:var(--ink);margin:0}
+  .ind-top span{font-size:13px;color:var(--muted);font-weight:600;text-align:right}
+  .ind-grupo{font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--red-text);margin:18px 0 8px}
+  .ind-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));padding:1px 0 0 1px}
+  .ind{background:#fff;border:1px solid var(--line);margin:-1px 0 0 -1px;padding:12px 12px 10px;display:flex;flex-direction:column;gap:2px;min-width:0}
+  .ind .nome{font-weight:800;font-size:14px;color:var(--ink);line-height:1.2}
+  .ind .info{font-size:11px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .ind .valor{font-weight:900;font-size:22px;letter-spacing:-.02em;color:var(--ink);margin-top:6px;white-space:nowrap}
+  .ind .var{font-weight:800;font-size:13px}
+  .ind .var.sobe{color:#0a7d3e} .ind .var.cai{color:#c0261d} .ind .var.neutra{color:var(--muted)}
+  .ind svg.spark{width:100%;height:30px;margin-top:6px;display:block}
+  .ind .ref{font-size:11px;color:var(--muted);margin-top:4px}
+  .ind.velho .valor{color:var(--muted)}
+  .ind-nota{font-size:12px;color:var(--muted);margin:16px 0 0;line-height:1.5}
   .pickers select[hidden]{display:none}
   .edition .date{font-size:13px;font-weight:600;color:var(--muted)}
   .edition select{font:inherit;font-size:13px;font-weight:700;color:var(--ink);border:1px solid var(--ink);background:#fff;padding:6px 28px 6px 10px;border-radius:0;
@@ -198,9 +218,6 @@
 
 <header class="masthead">
   <div class="wrap">
-    <button class="burger" id="toFooter" aria-label="Menu">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
-    </button>
     <a class="logo" href="./">
       <img class="mark" src="icons/logo-128.png" alt="" width="38" height="38">
       <span class="name">Bom dia varejo<span>Notícias do varejo</span></span>
@@ -333,8 +350,12 @@ function renderSecoes(){
   const set = new Set();
   Object.values(indices).flat().forEach(d => d.n.forEach(n => set.add(cat(n))));
   const lista = ['Todas', ...[...set].sort((a,b) => a.localeCompare(b,'pt'))];
-  $('#sections').innerHTML = lista.map(s => `<button class="sec" data-s="${esc(s)}" aria-current="${s===secao}">${esc(s)}</button>`).join('');
-  $('#footNav').innerHTML = lista.map(s => `<button data-s="${esc(s)}">${esc(s)}</button>`).join('');
+  const icone = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></svg>';
+  const botao = s => `<button class="sec" data-s="${esc(s)}" aria-current="${s===secao}">${esc(s)}</button>`;
+  $('#sections').innerHTML = botao(lista[0]) +
+    `<button class="sec sec-ind" data-s="${IND}" aria-current="${secao===IND}">${icone}Indicadores</button>` +
+    lista.slice(1).map(botao).join('');
+  $('#footNav').innerHTML = lista.map(s => `<button data-s="${esc(s)}">${esc(s)}</button>`).join('') + `<button data-s="${IND}">Indicadores</button>`;
 }
 
 /* ---------- Seletores de ano e dia ---------- */
@@ -364,7 +385,65 @@ function card(it, k, numero){
 function vazio(t, s){ $('#content').innerHTML = `<div class="empty"><b>${t}</b>${s}</div>`; }
 function carregando(){ $('#content').innerHTML = `<div class="skeleton big"></div><div class="skeleton"></div><div class="skeleton"></div>`; }
 
+/* ---------- Indicadores ---------- */
+const IND = '__indicadores';
+const MESES_C = ['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
+const num = (v, c) => Number(v).toLocaleString('pt-BR', {minimumFractionDigits:c, maximumFractionDigits:c});
+function fmtValor(i){
+  const c = i.casas ?? 2, v = num(i.valor, c);
+  return {pct: `${v}%`, brl: `R$ ${v}`, usd: `US$ ${v}`, pts: `${v} pts`}[i.formato] || v;
+}
+function fmtVar(i){
+  if (i.var == null) return {txt:'', cls:'neutra'};
+  const casas = i.variacao === 'pp' ? 2 : 2;
+  if (Math.abs(i.var) < 0.005) return {txt: 'estável', cls: 'neutra'};
+  const sinal = i.var > 0 ? '+' : '−', seta = i.var > 0 ? '▲' : '▼';
+  const txt = `${seta} ${sinal}${num(Math.abs(i.var), casas)}${i.variacao === 'pp' ? ' p.p.' : '%'}`;
+  // juros, inflação e desemprego: sem cor (subir não é "bom" nem "ruim" para todo mundo)
+  return {txt, cls: i.variacao === 'pp' ? 'neutra' : (i.var > 0 ? 'sobe' : 'cai')};
+}
+function fmtRef(i){
+  if (!i.ref) return '';
+  if (i.ref.includes('T')) { const [d, h] = i.ref.split('T'); const [, m, dia] = d.split('-'); return `${dia}/${m} às ${h.slice(0,5)}`; }
+  const [a, m, d] = i.ref.split('-');
+  if (i.periodo === 'mes') return `ref. ${MESES_C[+m-1]}/${a}`;
+  return `${d}/${m}/${a}`;
+}
+function spark(h){
+  if (!h || h.length < 2) return '';
+  const min = Math.min(...h), max = Math.max(...h), w = 100, alt = 28, amp = (max - min) || 1;
+  const pts = h.map((v, k) => `${(k / (h.length - 1) * w).toFixed(1)},${(alt - 2 - (v - min) / amp * (alt - 4)).toFixed(1)}`).join(' ');
+  return `<svg class="spark" viewBox="0 0 ${w} ${alt}" preserveAspectRatio="none" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(--red)" stroke-width="1.6" vector-effect="non-scaling-stroke" stroke-linejoin="round"/></svg>`;
+}
+function cartao(i){
+  const v = fmtVar(i);
+  const desde = i.desde && i.periodo !== 'mes' && v.txt && v.txt !== 'estável' ? ` <span class="info">desde ${i.desde}</span>` : '';
+  return `<div class="ind${i.desatualizado ? ' velho' : ''}">
+    <div class="nome">${esc(i.nome)}</div>${i.info ? `<div class="info">${esc(i.info)}</div>` : ''}
+    <div class="valor">${fmtValor(i)}</div>
+    <div class="var ${v.cls}">${v.txt}${desde}</div>
+    ${spark(i.hist)}
+    <div class="ref">${i.desatualizado ? 'último dado: ' : ''}${fmtRef(i)}</div>
+  </div>`;
+}
+async function mostrarIndicadores(){
+  $('.edition').hidden = true;
+  carregando();
+  let j;
+  try { j = await getJSON('indicadores.json'); }
+  catch { return vazio('Indicadores ainda não disponíveis', 'Eles aparecem aqui depois da próxima atualização.'); }
+  if (secao !== IND) return;
+  const quando = j.atualizado ? new Date(j.atualizado).toLocaleString('pt-BR', {day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit'}) : '';
+  $('#content').innerHTML = `<div class="ind-top"><h1>Indicadores</h1><span>Atualizado em ${quando}</span></div>` +
+    j.secoes.map(s => `<div class="block-title"><h2>${esc(s.nome)}</h2></div>` +
+      s.grupos.map(g => `<div class="ind-grupo">${esc(g.nome)}</div><div class="ind-grid">${g.itens.map(cartao).join('')}</div>`).join('')
+    ).join('') +
+    `<p class="ind-nota">Variação: mercados em relação ao fechamento anterior; juros e inflação em pontos percentuais (p.p.) em relação ao dado anterior. Fontes: Banco Central (SGS), AwesomeAPI e Yahoo Finance. Atualizado 3 vezes por dia.</p>`;
+}
+
 async function mostrarDia(){
+  if (secao === IND) { secao = 'Todas'; renderSecoes(); }
+  $('.edition').hidden = false;
   if (!diaAtual) return vazio('Sem notícias ainda', 'A primeira edição aparece aqui assim que for publicada.');
   carregando();
   let dia;
@@ -463,7 +542,11 @@ function toast(msg){
 
 /* ---------- Navegação ---------- */
 function limparBusca(){ termo = ''; $('#q').value = ''; $('#searchbar').classList.remove('open'); }
-function irSecao(s){ secao = s; limparBusca(); renderSecoes(); mostrarDia(); window.scrollTo({top:0, behavior:'smooth'}); }
+function irSecao(s){
+  secao = s; limparBusca(); renderSecoes();
+  if (s === IND) mostrarIndicadores(); else mostrarDia();
+  window.scrollTo({top:0, behavior:'smooth'});
+}
 async function irAno(a){
   anoAtual = a; await carregarIndice(a);
   diaAtual = indices[a][0]?.data || null;
@@ -523,28 +606,30 @@ $('#installClose').onclick = () => { $('#installBanner').classList.remove('show'
 $('#iosOk').onclick = () => $('#iosHelp').classList.remove('show');
 $('#iosHelp').onclick = e => { if (e.target.id === 'iosHelp') $('#iosHelp').classList.remove('show'); };
 
-$('#toFooter').onclick = () => document.querySelector('footer').scrollIntoView({behavior:'smooth'});
 $('#back').onclick = fechar;
 document.addEventListener('keydown', e => { if (e.key === 'Escape') fechar(); });
 
 /* ---------- Início ---------- */
 (async () => {
+  const abaInd = new URLSearchParams(location.search).get('aba') === 'indicadores';   // link direto: ?aba=indicadores
+  renderSecoes();
+  if (abaInd) { secao = IND; renderSecoes(); mostrarIndicadores(); }
   try {
     const j = await getJSON('anos.json');
     anos = (j.anos || []).map(Number).sort((a,b) => b - a);
     if (j.atualizado) $('#updated').textContent = 'Atualizado em ' + new Date(j.atualizado).toLocaleString('pt-BR',{dateStyle:'short', timeStyle:'short'});
-  } catch { return vazio('Não foi possível carregar', 'Verifique a conexão e tente de novo.'); }
+  } catch { return abaInd || vazio('Não foi possível carregar', 'Verifique a conexão e tente de novo.'); }
 
   const pedido = new URLSearchParams(location.search).get('dia');   // link direto: ?dia=2026-11-08
   anoAtual = pedido && anos.includes(+pedido.slice(0,4)) ? +pedido.slice(0,4) : anos[0];
-  if (anoAtual == null) return vazio('Sem notícias ainda', 'A primeira edição aparece aqui assim que for publicada.');
+  if (anoAtual == null) return abaInd || vazio('Sem notícias ainda', 'A primeira edição aparece aqui assim que for publicada.');
   await carregarIndice(anoAtual);
   diaAtual = indices[anoAtual].some(d => d.data === pedido) ? pedido : indices[anoAtual][0]?.data || null;
 
   renderSeletores(); renderSecoes();
   const ultimo = indices[anos[0]]?.[0]?.data || indices[anoAtual][0]?.data;
   if (ultimo) carregarDia(ultimo).then(renderTicker).catch(() => {});
-  mostrarDia();
+  if (secao === IND) $('.edition').hidden = true; else mostrarDia();
 })();
 </script>
 </body>
