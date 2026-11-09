@@ -79,7 +79,8 @@
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/08/11/2026/noticias-varejo/vejo-potencial-para-no-minimo-100-lojas-no-brasil-diz-presidente-global-da-skechers/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "imagem": "img/2026/11/fe8319d8f6cb.webp"
   },
   {
    "titulo": "Renault Kwid 2027 muda visual, mas custa até R$ 91 mil; vale mais que um seminovo? Veja teste",
@@ -90,7 +91,8 @@
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/carros/noticia/2026/11/08/renault-kwid-2027-veja-teste.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "imagem": "img/2026/11/17887a4f672a.webp"
   },
   {
    "titulo": "Ele transformou malabarismo com limões em negócio de R$ 2 milhões, quebrou e recomeçou",
@@ -101,7 +103,8 @@
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/08/malabarismo-produtos-circo.ghtml",
-   "categoria": "Atacarejo"
+   "categoria": "Atacarejo",
+   "imagem": "img/2026/11/c0152a29f091.webp"
   },
   {
    "titulo": "Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros",
@@ -110,7 +113,8 @@
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "imagem": "img/2026/11/04f09bc500cd.webp"
   },
   {
    "titulo": "Em pronunciamento, Lula reconhece ‘preocupação’ com dívida pública e juros altos, mas não apresenta medidas de ajuste fiscal",
@@ -120,7 +124,8 @@
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/em-pronunciamento-lula-reconhece-preocupacao-com-divida-publica-e-juros-altos-mas-nao-apresenta-medidas-de-ajuste-fiscal-igdl/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "imagem": "img/2026/11/de2d9f27b29c.webp"
   },
   {
    "titulo": "Sob pressão do clima, setor financeiro vai à COP31 para avançar em transição verde",
@@ -129,7 +134,8 @@
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mundo/sob-pressao-do-clima-setor-financeiro-vai-a-cop31-para-avancar-em-transicao-verde/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "imagem": "img/2026/11/80b2642d3296.webp"
   }
  ]
 }
