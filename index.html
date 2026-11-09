@@ -129,6 +129,18 @@
   .card:active h3,.lead:active h1{text-decoration:underline}
   @media (hover:hover){ .card:hover h3,.lead:hover h1{text-decoration:underline;text-decoration-thickness:2px} }
 
+  .cat-bloco{scroll-margin-top:calc(112px + env(safe-area-inset-top))}
+  .cat-bloco .block-title h2{display:flex;align-items:center;gap:8px}
+  .cat-bloco .block-title h2::before{content:"";width:6px;height:22px;background:var(--red)}
+  .cat-grid{display:grid;grid-template-columns:1fr;column-gap:32px}
+  .cat-grid .card:first-child{grid-column:1/-1}
+  .cat-vazio{font-family:var(--body);font-size:15px;color:var(--muted);padding:14px 0;border-bottom:1px solid var(--line);margin:0}
+  @media (min-width:860px){
+    .cat-grid{grid-template-columns:1fr 1fr}
+    .cat-grid .card:first-child{grid-template-columns:1fr 300px}
+    .cat-grid .card:first-child .thumb{aspect-ratio:16/10}
+    .cat-grid .card:first-child h3{font-size:22px}
+  }
   .headlines{list-style:none;margin:0;padding:0}
   .headlines li{border-bottom:1px solid var(--line)}
   .headlines button{display:block;width:100%;text-align:left;padding:13px 0;font-weight:700;font-size:16px;line-height:1.3;color:var(--ink)}
@@ -347,10 +359,7 @@ async function carregarDia(data){
 
 /* ---------- Seções ---------- */
 function renderSecoes(){
-  const fixas = ['Varejo', 'Economia', 'Mundo'];
-  const set = new Set();
-  Object.values(indices).flat().forEach(d => d.n.forEach(n => set.add(cat(n))));
-  const lista = ['Todas', ...fixas, ...[...set].filter(c => !fixas.includes(c)).sort((a,b) => a.localeCompare(b,'pt'))];
+  const lista = ['Todas', ...categorias()];
   const icone = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></svg>';
   const botao = s => `<button class="sec" data-s="${esc(s)}" aria-current="${s===secao}">${esc(s)}</button>`;
   $('#sections').innerHTML = botao(lista[0]) +
@@ -377,9 +386,9 @@ function renderTicker(dia){
 }
 
 /* ---------- Conteúdo ---------- */
-function card(it, k, numero){
+function card(it, k, numero, rotulo){
   return `<button class="card" data-k="${k}">
-    <div><div class="kicker">${esc(cat(it.n))}</div><h3>${esc(titulo(it.n))}</h3><p>${esc(topicos(it.n)[0] || '')}</p></div>
+    <div><div class="kicker">${esc(rotulo || cat(it.n))}</div><h3>${esc(titulo(it.n))}</h3><p>${esc(topicos(it.n)[0] || '')}</p></div>
     <div class="thumb">${midia(it.n)}${numero ? `<span class="n">${numero}</span>` : ''}</div>
   </button>`;
 }
@@ -449,8 +458,8 @@ async function mostrarDia(){
   carregando();
   let dia;
   try { dia = await carregarDia(diaAtual); } catch { return vazio('Não foi possível carregar', 'Verifique a conexão e tente de novo.'); }
-  visiveis = dia.noticias.filter(n => secao === 'Todas' || cat(n) === secao).map((n,i) => ({n, data:dia.data, i}));
-  if (!visiveis.length) return vazio('Sem notícias nesta seção', 'Escolha outra seção ou outro dia.');
+  visiveis = dia.noticias.map((n,i) => ({n, data:dia.data, i}));
+  if (!visiveis.length) return vazio('Sem notícias nesta edição', 'Escolha outro dia.');
 
   const [h, ...resto] = visiveis;
   const lateral = resto.slice(0, 4), demais = resto.slice(4);
@@ -463,9 +472,52 @@ async function mostrarDia(){
       </button></div>`;
   if (lateral.length) html += `<div class="side"><div class="block-title"><h2>Principais</h2></div>${lateral.map((it,i) => card(it, i+1, i+2)).join('')}</div>`;
   html += `</div>`;
-  if (demais.length) html += `<div class="block-title"><h2>Mais notícias</h2></div><ul class="headlines">
-      ${demais.map((it,i) => `<li><button data-k="${i+5}">${esc(it.n.titulo)}</button></li>`).join('')}</ul>`;
+  // Um bloco por categoria, com as notícias que não estão nos destaques
+  const nosDestaques = new Set([h, ...lateral].map(it => it.i));
+  categorias().forEach(c => {
+    const daCat = demais.filter(it => cat(it.n) === c);
+    const destaque = visiveis.filter(it => nosDestaques.has(it.i) && cat(it.n) === c).length;
+    html += `<section class="cat-bloco" id="${idBloco(c)}"><div class="block-title"><h2>${esc(c)}</h2></div>` +
+      (daCat.length
+        ? `<div class="cat-grid">${daCat.map(it => card(it, visiveis.indexOf(it), null, fonte(it.n))).join('')}</div>`
+        : `<p class="cat-vazio">${destaque ? `As notícias de ${esc(c)} desta edição estão nos destaques acima.` : `Sem notícias de ${esc(c)} nesta edição.`}</p>`) +
+      `</section>`;
+  });
   $('#content').innerHTML = html;
+  observarBlocos();
+}
+
+/* ---------- Navegação por blocos ---------- */
+const idBloco = c => 'sec-' + c.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-');
+function categorias(){
+  const fixas = ['Varejo', 'Economia', 'Mundo'];
+  const set = new Set();
+  Object.values(indices).flat().forEach(d => d.n.forEach(n => set.add(cat(n))));
+  return [...fixas, ...[...set].filter(c => !fixas.includes(c)).sort((a,b) => a.localeCompare(b,'pt'))];
+}
+function marcarAba(s){
+  document.querySelectorAll('#sections .sec').forEach(b => b.setAttribute('aria-current', String(b.dataset.s === s)));
+  const ativa = document.querySelector(`#sections .sec[data-s="${CSS.escape(s)}"]`);
+  if (ativa) ativa.scrollIntoView({inline:'nearest', block:'nearest'});
+}
+let observador, rolandoAte = 0;
+function observarBlocos(){
+  if (observador) observador.disconnect();
+  if (!('IntersectionObserver' in window)) return;
+  observador = new IntersectionObserver(entradas => {
+    if (Date.now() < rolandoAte || secao === IND || termo) return;
+    const visivel = entradas.filter(e => e.isIntersecting).sort((a,b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
+    if (visivel) marcarAba(visivel.target.dataset.cat);
+    else if (scrollY < 200) marcarAba('Todas');
+  }, {rootMargin: '-120px 0px -55% 0px'});
+  document.querySelectorAll('.cat-bloco').forEach(b => { b.dataset.cat = b.querySelector('h2').textContent; observador.observe(b); });
+}
+function rolarPara(s){
+  rolandoAte = Date.now() + 900;
+  marcarAba(s);
+  const alvo = s === 'Todas' ? null : document.getElementById(idBloco(s));
+  if (alvo) alvo.scrollIntoView({behavior:'smooth', block:'start'});
+  else window.scrollTo({top:0, behavior:'smooth'});
 }
 
 let buscaSeq = 0;
@@ -543,10 +595,17 @@ function toast(msg){
 
 /* ---------- Navegação ---------- */
 function limparBusca(){ termo = ''; $('#q').value = ''; $('#searchbar').classList.remove('open'); }
-function irSecao(s){
-  secao = s; limparBusca(); renderSecoes();
-  if (s === IND) mostrarIndicadores(); else mostrarDia();
-  window.scrollTo({top:0, behavior:'smooth'});
+async function irSecao(s){
+  const vinhaDeOutraTela = secao === IND || termo;
+  limparBusca();
+  if (s === IND) {
+    secao = IND; renderSecoes(); mostrarIndicadores();
+    window.scrollTo({top:0, behavior:'smooth'});
+    return;
+  }
+  secao = 'Todas';
+  if (vinhaDeOutraTela || !document.querySelector('.cat-bloco')) { renderSecoes(); await mostrarDia(); }
+  rolarPara(s);
 }
 async function irAno(a){
   anoAtual = a; await carregarIndice(a);
