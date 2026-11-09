@@ -221,6 +221,68 @@
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
    "tentativas_ia": 2,
    "imagem": "img/2026/11/2e0c6d16273a.webp"
+  },
+  {
+   "titulo": "Mercado eleva estimativa de inflação para 2027 e passa a prever corte de juros só em março do ano que vem",
+   "topicos": [
+    "Os economistas do mercado financeiro elevaram a estimativa de inflação em 2027 e passaram a projetar um novo corte na taxa básica de juros da economia somente em março do próximo ano.",
+    "A mudança na aposta do mercado financeiro para a taxa Selic veio após o Comitê de Política Monetária (Copom) ter interrompido, na semana passada, o ciclo de corte nos juros diante a deterioração do cenário econômico com a reeleição do presidente Luiz Inácio Lula da Silva.",
+    "As informações fazem parte do \"Boletim Focus\", divulgado nesta terça-feira (9) pelo Banco Central (BC), com base em pesquisa realizada na última semana com mais de 100 instituições financeiras."
+   ],
+   "fonte": "g1 Economia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/09/mercado-eleva-estimativa-de-inflacao-para-2027-e-passa-a-prever-corte-de-juros-so-em-marco-do-ano-que-vem.ghtml",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar",
+   "topicos": [
+    "Entenda o que faz o preço do dólar subir ou cair O dólar operava em queda de 0,31% nesta segunda-feira (9), cotado a R$ 5,4911 por volta das 9h17.",
+    "Já o Ibovespa, principal índice da bolsa brasileira, inicia as negociações às 10h.",
+    "Tem alguma sugestão de reportagem?"
+   ],
+   "fonte": "g1 Economia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/09/dolar-ibovespa.ghtml",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Após Copom, economistas veem Selic estacionada em 13,75% em 2026; veja o Focus desta segunda-feira (9)",
+   "topicos": [
+    "Os economistas ouvidos pelo Banco Central, voltaram a ajustar suas expectativas para a economia brasileira no Relatório Focus, nesta segunda-feira (9).",
+    "O mercado passou a não ver mais cortes na Selic em 2026.",
+    "Para 2026, a mediana das projeções para o IPCA permanece em 5,22%, acima da marca de 5%."
+   ],
+   "fonte": "Money Times",
+   "link": "https://www.moneytimes.com.br/apos-copom-economistas-veem-selic-em-1375-em-2026-veja-o-focus-desta-segunda-feira-9-jcav/",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
+   "topicos": [
+    "Os processos das bets contra a medida do governo estão suspensos até o julgamento em definitivo da matéria pelo STF."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Houthis atacam arranha-céu da petroleira estatal da Arábia Saudita; VÍDEO",
+   "topicos": [
+    "Houthis atacam edifício comercial de petroleira estatal da Arábia Saudita Os Houthis, grupo extremista pró-Irã do Iêmen, atacaram o arranha-céu da Aramco, petroleira estatal da Arábia Saudita, no distrito financeiro de Riade, a capital do país, neste domingo (8).",
+    "Um vídeo feito por uma testemunha e obtido pela agência de notícias Reuters nesta segunda-feira (9) mostra alguns andares do edifício comercial destruídos (veja acima).",
+    "Em um comunicado oficial na rede social X, o Ministério de Energia saudita revelou que não houve vítimas apesar do bombardeio: \"O incidente provocou a queda de escombros, que causaram danos leves ao edifício, sem deixar feridos ou mortos\". imagem mostra a Torre Aramco danificada por destroços após uma tentativa de…"
+   ],
+   "fonte": "g1 Mundo",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/09/houthis-atacam-arranha-ceu-da-petroleira-estatal-da-arabia-saudita-video.ghtml",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "O que se sabe sobre suposta espiã chinesa suspeita de ter affair com o CEO da Nvidia",
+   "topicos": [
+    "O The New York Times noticiou que autoridades de inteligência dos EUA acreditam que a empresária Alice Huang, que mantinha uma relação próxima com o chefe da Nvidia, seria uma espiã de Pequim."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/c6g7x7r3399do?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
   }
  ]
 }

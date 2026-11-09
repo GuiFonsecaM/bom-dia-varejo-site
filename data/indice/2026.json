@@ -65,7 +65,6 @@
      "c": "Economia",
      "f": "InfoMoney",
      "l": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-09112026/",
-     "r": "",
      "i": "img/2026/11/47f655ddf561.webp"
     },
     {
@@ -139,6 +138,48 @@
      "r": "O avanço das compras digitais também tem impulsionado o setor farmacêutico.",
      "l": "https://mercadoeconsumo.com.br/09/11/2026/mc-capital/avanco-de-compras-digitais-impulsiona-balancos-de-rd-saude-panvel-e-pague-menos-no-3o-tri/",
      "i": "img/2026/11/2e0c6d16273a.webp"
+    },
+    {
+     "t": "Mercado eleva estimativa de inflação para 2027 e passa a prever corte de juros só em março do ano que vem",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Os economistas do mercado financeiro elevaram a estimativa de inflação em 2027 e passaram a projetar um novo corte na taxa básica de juros da economia somente…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/09/mercado-eleva-estimativa-de-inflacao-para-2027-e-passa-a-prever-corte-de-juros-so-em-marco-do-ano-que-vem.ghtml"
+    },
+    {
+     "t": "Dólar abre em queda com projeções de inflação e dados da balança comercial no radar",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Entenda o que faz o preço do dólar subir ou cair O dólar operava em queda de 0,31% nesta segunda-feira (9), cotado a R$ 5,4911 por volta das 9h17.",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/09/dolar-ibovespa.ghtml"
+    },
+    {
+     "t": "Após Copom, economistas veem Selic estacionada em 13,75% em 2026; veja o Focus desta segunda-feira (9)",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "Os economistas ouvidos pelo Banco Central, voltaram a ajustar suas expectativas para a economia brasileira no Relatório Focus, nesta segunda-feira (9).",
+     "l": "https://www.moneytimes.com.br/apos-copom-economistas-veem-selic-em-1375-em-2026-veja-o-focus-desta-segunda-feira-9-jcav/"
+    },
+    {
+     "t": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Os processos das bets contra a medida do governo estão suspensos até o julgamento em definitivo da matéria pelo STF.",
+     "l": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Houthis atacam arranha-céu da petroleira estatal da Arábia Saudita; VÍDEO",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Houthis atacam edifício comercial de petroleira estatal da Arábia Saudita Os Houthis, grupo extremista pró-Irã do Iêmen, atacaram o arranha-céu da Aramco,…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/09/houthis-atacam-arranha-ceu-da-petroleira-estatal-da-arabia-saudita-video.ghtml"
+    },
+    {
+     "t": "O que se sabe sobre suposta espiã chinesa suspeita de ter affair com o CEO da Nvidia",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "O The New York Times noticiou que autoridades de inteligência dos EUA acreditam que a empresária Alice Huang, que mantinha uma relação próxima com o chefe da…",
+     "l": "https://www.bbc.com/portuguese/articles/c6g7x7r3399do?at_medium=RSS&at_campaign=rss"
     }
    ]
   },
