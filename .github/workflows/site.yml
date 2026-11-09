@@ -18,7 +18,6 @@ concurrency:
 
 jobs:
   coletar:
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -27,16 +26,35 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests feedparser
+      - run: pip install requests feedparser pillow
+
       - name: Buscar notícias novas
+        if: github.event_name != 'push'
+        continue-on-error: true
         run: python coletar_noticias.py
         env:
           SITE_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SITE_REPO: ${{ github.repository }}
 
+      - name: Buscar imagens das notícias
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for tentativa in 1 2 3; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python coletar_imagens.py
+            git add data img 2>/dev/null || true
+            if git diff --cached --quiet; then echo "Nenhuma imagem nova"; exit 0; fi
+            git commit -qm "Imagens das notícias"
+            if git push -q origin HEAD:main; then exit 0; fi
+            echo "Outro commit entrou no meio, tentando de novo..."; sleep 5
+          done
+          exit 1
+
   publicar:
     needs: coletar
-    if: ${{ always() && needs.coletar.result != 'failure' && needs.coletar.result != 'cancelled' }}
+    if: ${{ always() }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
