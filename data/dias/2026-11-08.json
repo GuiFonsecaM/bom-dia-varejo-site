@@ -11,7 +11,7 @@
    "link": "https://g1.globo.com/economia/noticia/2026/11/08/meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/1ac2f6e609c9.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -23,7 +23,7 @@
    "link": "https://www.moneytimes.com.br/inflacao-ata-do-copom-os-indicadores-que-movimentam-os-mercados-na-proxima-semana/",
    "categoria": "Economia",
    "imagem": "img/2026/11/38afb3439dff.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -35,7 +35,7 @@
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/brasil-pode-perder-seu-maior-comprador-de-soja-entenda-os-planos-da-china-e-a-disputa-com-os-eua.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/05985c0af03b.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -47,7 +47,7 @@
    "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/092e3194b389.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -59,7 +59,7 @@
    "link": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/",
    "categoria": "Varejo",
    "imagem": "img/2026/11/ecef65cbf4e9.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -71,7 +71,7 @@
    "link": "https://mercadoeconsumo.com.br/08/11/2026/noticias-varejo/primeira-ca-energia-de-alagoas-tem-pagamento-com-sorriso-e-jornada-omnicanal/",
    "categoria": "Varejo",
    "imagem": "img/2026/11/79f3eb584b4b.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -84,7 +84,7 @@
    "link": "https://mercadoeconsumo.com.br/08/11/2026/noticias-varejo/vejo-potencial-para-no-minimo-100-lojas-no-brasil-diz-presidente-global-da-skechers/",
    "categoria": "Varejo",
    "imagem": "img/2026/11/fe8319d8f6cb.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -98,7 +98,7 @@
    "link": "https://g1.globo.com/carros/noticia/2026/11/08/renault-kwid-2027-veja-teste.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/17887a4f672a.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -112,7 +112,7 @@
    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/08/malabarismo-produtos-circo.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/c0152a29f091.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -124,7 +124,7 @@
    "link": "https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/",
    "categoria": "Economia",
    "imagem": "img/2026/11/04f09bc500cd.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -136,7 +136,7 @@
    "link": "https://www.moneytimes.com.br/em-pronunciamento-lula-reconhece-preocupacao-com-divida-publica-e-juros-altos-mas-nao-apresenta-medidas-de-ajuste-fiscal-igdl/",
    "categoria": "Economia",
    "imagem": "img/2026/11/de2d9f27b29c.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -148,7 +148,7 @@
    "link": "https://www.infomoney.com.br/mundo/sob-pressao-do-clima-setor-financeiro-vai-a-cop31-para-avancar-em-transicao-verde/",
    "categoria": "Economia",
    "imagem": "img/2026/11/80b2642d3296.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -161,7 +161,7 @@
    "link": "https://g1.globo.com/mundo/noticia/2026/11/08/gadi-eisenkot-quem-e-o-principal-rival-de-netanyahu-que-pode-se-tornar-novo-primeiro-ministro-de-israel.ghtml",
    "categoria": "Mundo",
    "imagem": "img/2026/11/951b2631ebae.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -173,7 +173,7 @@
    "link": "https://g1.globo.com/mundo/noticia/2026/11/08/vitoria-democrata-nos-eua-nao-deve-aliviar-pressao-de-trump-sobre-brasil-avaliam-analistas.ghtml",
    "categoria": "Mundo",
    "imagem": "img/2026/11/40d7046ad9d5.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -187,7 +187,7 @@
    "link": "https://g1.globo.com/mundo/noticia/2026/11/08/trump-diz-que-novo-ataque-ao-ira-e-altamente-improvavel-se-negociacoes-avancarem.ghtml",
    "categoria": "Mundo",
    "imagem": "img/2026/11/18f3ab25556f.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -200,7 +200,7 @@
    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/35b441a6fc86.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -214,7 +214,7 @@
    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/08/galinhas-usando-oculos-acessorio-previne-canibalismo-e-brigas-em-galinheiros.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/7849ecb0208b.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -228,7 +228,7 @@
    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-pode-pagar-r-60-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
    "categoria": "Economia",
    "imagem": "img/2026/11/766e2072e9e7.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -240,7 +240,7 @@
    "link": "https://mercadoeconsumo.com.br/08/11/2026/foodservice/99food-lanca-bag-inspirada-em-origami-para-proteger-pedidos-durante-o-delivery/",
    "categoria": "Varejo",
    "imagem": "img/2026/11/61771640b1c4.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -253,7 +253,7 @@
    "link": "https://mercadoeconsumo.com.br/08/11/2026/shopping-centers/ferragamo-e-polo-ralph-lauren-estreiam-em-brasilia-com-expansao-do-iguatemi/",
    "categoria": "Varejo",
    "imagem": "img/2026/11/da03e21a8248.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   {
@@ -265,7 +265,7 @@
    "link": "https://mercadoeconsumo.com.br/08/11/2026/economia/estrangeiros-veem-exagero-em-tombo-do-real-pos-eleicao-e-destacam-congresso-conservador/",
    "categoria": "Economia",
    "imagem": "img/2026/11/bd3af057449f.webp",
-   "tentativas_ia": 5,
+   "tentativas_ia": 6,
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   }
  ]
