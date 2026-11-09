@@ -10,7 +10,9 @@
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/09/ajuste-fiscal-o-diagnostico-de-organismos-internacionais-e-o-desafio-de-lula-4.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "tentativas_ia": 1,
+   "imagem": "img/2026/11/db2d1bcf0fd6.webp"
   },
   {
    "titulo": "Quando cai o 13º salário em 2026? Veja prazos, valores e quem tem direito",
@@ -21,7 +23,9 @@
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/quando-cai-o-13o-salario.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "tentativas_ia": 1,
+   "imagem": "img/2026/11/d7f599852bf9.webp"
   },
   {
    "titulo": "Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
@@ -32,7 +36,9 @@
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/08/futuro-refugio-hitler-incendiado-gera-debate-alemanha-sobre-o-passado-nazista.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "tentativas_ia": 1,
+   "imagem": "img/2026/11/3fa1f3ab2110.webp"
   },
   {
    "titulo": "Papa chega à Argentina em visita que deve expor discordâncias com Javier Milei; veja pontos de divergência",
@@ -43,7 +49,9 @@
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/09/papa-chega-a-argentina-em-visita-que-deve-expor-discordancias-com-javier-milei-veja-pontos-de-divergencia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "tentativas_ia": 1,
+   "imagem": "img/2026/11/393e32db9f4f.webp"
   },
   {
    "titulo": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
@@ -52,7 +60,9 @@
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "tentativas_ia": 1,
+   "imagem": "img/2026/11/dc44043eb835.webp"
   }
  ]
 }
