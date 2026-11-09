@@ -6,6 +6,7 @@ Verifica se surgiram notícias novas e acrescenta no site (roda 3x por dia pelo 
 - Ignora o que já está no site (inclusive o que veio do boletim do WhatsApp): mesmo link
   ou título muito parecido, olhando os últimos 7 dias.
 - Publica no máximo `maximo_por_rodada` notícias por vez, com o link original.
+- Abre cada matéria e escreve um resumo detalhado em tópicos (detalhar.py).
 
 Rodar à mão:  python coletar_noticias.py            (publica)
               python coletar_noticias.py --teste    (só mostra o que publicaria)
@@ -22,6 +23,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 import feedparser
 import requests
 
+from detalhar import detalhar
 from publicar_site import TZ, chave_link, ja_existe, publicar_no_site
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
@@ -148,6 +150,11 @@ def main():
     print(f"\n{len(candidatas)} candidatas, {len(novas)} novas")
     for n in novas:
         print(f"  • [{n['categoria']}] {n['titulo']} — {n['fonte']}")
+
+    if novas:
+        print("\nDetalhando as notícias:")
+        for n in novas:
+            detalhar(n)
 
     if novas and not teste:
         publicar_no_site(novas)
