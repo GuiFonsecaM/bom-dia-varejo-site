@@ -78,7 +78,7 @@
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/09/o-que-a-guerra-no-oriente-medio-e-as-mudancas-climaticas-tem-a-ver-com-o-preco-do-hamburguer.ghtml",
    "categoria": "Varejo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/68a3bd3debb6.webp"
   },
   {
@@ -91,7 +91,7 @@
    "link": "https://mercadoeconsumo.com.br/09/11/2026/noticias-varejo/busca-por-praticidade-na-cozinha-leva-consumidor-a-pagar-r-26-por-30-minutos-economizados/",
    "categoria": "Varejo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/615b9bf6f5a6.webp"
   },
   {
@@ -100,7 +100,7 @@
    "link": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-09112026/",
    "categoria": "Economia",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/47f655ddf561.webp"
   },
   {
@@ -114,7 +114,7 @@
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/como-funciona-o-trabalho-de-vender-imagens-de-tarefas-domesticas-para-ia.ghtml",
    "categoria": "Economia",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/241ccad5c93b.webp"
   },
   {
@@ -128,7 +128,7 @@
    "link": "https://g1.globo.com/carros/noticia/2026/11/09/imposto-do-pecado-taxistas-autistas-pcds-nao-pagam.ghtml",
    "categoria": "Economia",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/97f916373e52.webp"
   },
   {
@@ -140,7 +140,7 @@
    "link": "https://mercadoeconsumo.com.br/09/11/2026/noticias-varejo/como-a-ia-ajuda-o-varejo-a-proteger-margens-reduzir-custos-e-vender-mais/",
    "categoria": "Varejo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/0217df0b9f81.webp"
   },
   {
@@ -153,7 +153,7 @@
    "link": "https://mercadoeconsumo.com.br/09/11/2026/artigos/os-8-pontos-pelos-quais-a-coreia-deve-ser-benchmark-para-o-brasil/",
    "categoria": "Varejo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/ad805cfd857d.webp"
   },
   {
@@ -165,7 +165,7 @@
    "link": "https://www.bbc.com/portuguese/articles/c6pwg9950wxko?at_medium=RSS&at_campaign=rss",
    "categoria": "Mundo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/539a33f90e70.webp"
   },
   {
@@ -179,7 +179,7 @@
    "link": "https://g1.globo.com/fantastico/noticia/2026/11/08/brasileiros-crise-paraguai.ghtml",
    "categoria": "Mundo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/cedfaccffa1d.webp"
   },
   {
@@ -192,7 +192,7 @@
    "link": "https://g1.globo.com/mundo/noticia/2026/11/09/noruega-anuncia-que-vai-doar-r-350-milhoes-para-o-fundo-amazonia.ghtml",
    "categoria": "Mundo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/3f4d5af17e01.webp"
   },
   {
@@ -206,7 +206,7 @@
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/09/filipinas-proibem-importacoes-de-carne-de-porco-por-60-dias-pais-e-maior-cliente-do-brasil.ghtml",
    "categoria": "Varejo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/18a7e37af05a.webp"
   },
   {
@@ -219,7 +219,7 @@
    "link": "https://mercadoeconsumo.com.br/09/11/2026/mc-capital/avanco-de-compras-digitais-impulsiona-balancos-de-rd-saude-panvel-e-pague-menos-no-3o-tri/",
    "categoria": "Varejo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "imagem": "img/2026/11/2e0c6d16273a.webp"
   },
   {
@@ -233,7 +233,7 @@
    "link": "https://g1.globo.com/economia/noticia/2026/11/09/mercado-eleva-estimativa-de-inflacao-para-2027-e-passa-a-prever-corte-de-juros-so-em-marco-do-ano-que-vem.ghtml",
    "categoria": "Economia",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 1,
+   "tentativas_ia": 2,
    "imagem": "img/2026/11/8b36f7049f0b.webp"
   },
   {
@@ -247,7 +247,7 @@
    "link": "https://g1.globo.com/economia/noticia/2026/11/09/dolar-ibovespa.ghtml",
    "categoria": "Economia",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 1,
+   "tentativas_ia": 2,
    "imagem": "img/2026/11/d64eafb78714.webp"
   },
   {
@@ -261,7 +261,7 @@
    "link": "https://www.moneytimes.com.br/apos-copom-economistas-veem-selic-em-1375-em-2026-veja-o-focus-desta-segunda-feira-9-jcav/",
    "categoria": "Economia",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 1,
+   "tentativas_ia": 2,
    "imagem": "img/2026/11/849475860a78.webp"
   },
   {
@@ -273,7 +273,7 @@
    "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
    "categoria": "Mundo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 1,
+   "tentativas_ia": 2,
    "imagem": "img/2026/11/7765985f8e9a.webp"
   },
   {
@@ -286,7 +286,7 @@
    "link": "https://g1.globo.com/mundo/noticia/2026/11/09/houthis-atacam-arranha-ceu-da-petroleira-estatal-da-arabia-saudita-video.ghtml",
    "categoria": "Mundo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 1,
+   "tentativas_ia": 2,
    "imagem": "img/2026/11/9ffd122a0e75.webp"
   },
   {
@@ -298,7 +298,7 @@
    "link": "https://www.bbc.com/portuguese/articles/c6g7x7r3399do?at_medium=RSS&at_campaign=rss",
    "categoria": "Mundo",
    "erro_ia": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "tentativas_ia": 1,
+   "tentativas_ia": 2,
    "imagem": "img/2026/11/687921697846.webp"
   }
  ]
