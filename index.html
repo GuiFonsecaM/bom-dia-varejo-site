@@ -401,7 +401,7 @@ function renderTicker(dia){
   run.innerHTML = dia.noticias.map(n => `<span>${esc(n.titulo)}</span>`).join('');
   $('#ticker').hidden = false;
   // velocidade constante e lenta, qualquer que seja o tamanho do texto (pixels por segundo)
-  const VELOCIDADE = 1;
+  const VELOCIDADE = 10;
   requestAnimationFrame(() => { run.style.animationDuration = Math.max(30, run.scrollWidth / VELOCIDADE) + 's'; });
 }
 
