@@ -13,7 +13,6 @@ Rodar à mão:  python coletar_noticias.py            (publica)
               python coletar_noticias.py --teste    (só mostra o que publicaria)
 """
 import calendar
-import html
 import json
 import os
 import re
@@ -25,6 +24,7 @@ import feedparser
 import requests
 
 from detalhar import detalhar
+from limpeza import texto_limpo, topicos_do_resumo
 from publicar_site import TZ, chave_link, ja_existe, publicar_no_site
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
@@ -32,33 +32,11 @@ CONFIG = json.load(open(os.path.join(AQUI, "fontes.json"), encoding="utf-8"))
 UA = {"User-Agent": "Mozilla/5.0 (compatible; BomDiaVarejoBot/1.0)"}
 
 
-def texto_limpo(s):
-    s = html.unescape(re.sub(r"<[^>]+>", " ", s or ""))
-    s = re.sub(r"\s+", " ", s).strip()
-    # rodapés comuns de WordPress ("O post ... apareceu primeiro em ...")
-    s = re.split(r"\b(O post|The post)\b.*?(apareceu primeiro em|appeared first on)", s)[0].strip()
-    s = re.sub(r"\s*(\[…\]|\[\.\.\.\]|Leia mais.*|Continue lendo.*)$", "", s, flags=re.I).strip()
-    return s
-
-
 def link_original(url):
     """Remove parâmetros de rastreio (utm_*, etc.) mantendo o link da matéria."""
     u = urlsplit((url or "").strip())
     q = [(k, v) for k, v in parse_qsl(u.query) if not k.lower().startswith(("utm_", "fbclid", "gclid", "ref"))]
     return urlunsplit((u.scheme, u.netloc, u.path, urlencode(q), ""))
-
-
-def topicos_do_resumo(resumo, maximo=3):
-    frases = re.split(r"(?<=[.!?])\s+(?=[A-ZÁÉÍÓÚÂÊÔÃÕÇ0-9\"“])", resumo)
-    out = []
-    for f in frases:
-        f = f.strip()
-        if len(f) < 25:
-            continue
-        out.append(f if len(f) <= 320 else f[:319].rsplit(" ", 1)[0] + "…")
-        if len(out) == maximo:
-            break
-    return out
 
 
 def _conta(palavras, t):
@@ -133,7 +111,7 @@ def coletar():
                 "nota": nota, "quando": quando,
                 "noticia": {
                     "titulo": titulo,
-                    "topicos": topicos_do_resumo(resumo) or ([resumo] if resumo else []),
+                    "topicos": topicos_do_resumo(resumo),
                     "fonte": feed["nome"],
                     "link": link,
                     "categoria": categoria(f"{titulo} {resumo}", feed.get("categoria")),

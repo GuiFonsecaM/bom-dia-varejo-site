@@ -23,7 +23,7 @@ except ImportError:  # roda sem detalhar se a biblioteca não estiver instalada
     trafilatura = None
 
 ENDPOINT = "https://models.github.ai/inference/chat/completions"
-MODELO = os.environ.get("IA_MODELO", "openai/gpt-4.1-mini")
+MODELOS = [m for m in [os.environ.get("IA_MODELO"), "openai/gpt-4.1-mini", "openai/gpt-4o-mini", "meta/Llama-3.3-70B-Instruct"] if m]
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "pt-BR,pt;q=0.9"}
 MAX_TEXTO = 7000
@@ -53,23 +53,43 @@ def texto_da_materia(link):
     return texto[:MAX_TEXTO]
 
 
-def resumir(titulo, texto):
-    token = os.environ.get("IA_TOKEN") or os.environ.get("SITE_TOKEN")
-    if not token:
-        return None
-    r = requests.post(ENDPOINT, timeout=60, headers={
-        "Authorization": f"Bearer {token}", "Content-Type": "application/json",
+_modelo_ok = None
+
+
+def _chamar_ia(token, modelo, titulo, texto):
+    return requests.post(ENDPOINT, timeout=60, headers={
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
     }, json={
-        "model": MODELO,
+        "model": modelo,
         "temperature": 0.2,
         "messages": [
             {"role": "system", "content": INSTRUCOES},
             {"role": "user", "content": f"Título: {titulo}\n\nTexto da matéria:\n{texto}"},
         ],
     })
-    if r.status_code == 429:
-        raise RuntimeError("limite da IA atingido")
-    r.raise_for_status()
+
+
+def resumir(titulo, texto):
+    global _modelo_ok
+    token = os.environ.get("IA_TOKEN") or os.environ.get("SITE_TOKEN")
+    if not token:
+        raise RuntimeError("IA_TOKEN não definido no workflow")
+    erros = []
+    for modelo in ([_modelo_ok] if _modelo_ok else MODELOS):
+        r = _chamar_ia(token, modelo, titulo, texto)
+        if r.status_code == 200:
+            _modelo_ok = modelo
+            break
+        erros.append(f"{modelo} → HTTP {r.status_code}: {r.text[:160]}")
+        if r.status_code in (401, 403):   # sem permissão: não adianta tentar outro modelo
+            break
+    else:
+        raise RuntimeError(" | ".join(erros))
+    if r.status_code != 200:
+        raise RuntimeError(" | ".join(erros))
     conteudo = r.json()["choices"][0]["message"]["content"]
     m = re.search(r"\{.*\}", conteudo, re.S)
     dados = json.loads(m.group(0) if m else conteudo)
@@ -81,20 +101,28 @@ def resumir(titulo, texto):
 
 def detalhar(noticia, manter_categoria=False):
     """Troca os tópicos curtos do feed por um resumo detalhado. Devolve True se conseguiu."""
+    titulo = noticia["titulo"][:60]
     try:
-        texto = texto_da_materia(noticia["link"])
-        if not texto:
-            print(f"    · sem texto aproveitável, mantém resumo do feed: {noticia['titulo'][:60]}")
+        try:
+            texto = texto_da_materia(noticia["link"])
+        except Exception as e:
+            print(f"    · não abriu a matéria ({e.__class__.__name__}); usa o resumo do feed: {titulo}")
+            texto = None
+        texto = texto or " ".join(noticia.get("topicos", []))
+        if len(texto) < 120:
+            print(f"    · texto curto demais para resumir: {titulo}")
             return False
         res = resumir(noticia["titulo"], texto)
         if not res:
-            print(f"    · IA indisponível, mantém resumo do feed: {noticia['titulo'][:60]}")
+            print(f"    · IA não devolveu tópicos válidos: {titulo}")
             return False
         noticia["topicos"] = res["topicos"]
+        noticia["detalhada"] = True
+        noticia.pop("tentativas_ia", None)
         if res["categoria"] and not manter_categoria:
             noticia["categoria"] = res["categoria"]
-        print(f"    ✓ {len(res['topicos'])} tópicos: {noticia['titulo'][:60]}")
+        print(f"    ✓ {len(res['topicos'])} tópicos ({_modelo_ok}): {titulo}")
         return True
     except Exception as e:
-        print(f"    · {e.__class__.__name__}: {str(e)[:80]} — mantém resumo do feed")
+        print(f"    ✗ IA falhou: {str(e)[:300]}")
         return False
