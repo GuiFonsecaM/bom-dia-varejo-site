@@ -163,7 +163,8 @@ def publicar_no_site(noticias, data=None, tentativas=3):
         dias = {d["data"]: d for d in indice["dias"]}
         dias[data] = {"data": data, "n": [
             {k: v for k, v in {"t": n["titulo"], "c": n.get("categoria", ""),
-                               "f": n.get("fonte", ""), "r": _resumo(n), "l": n.get("link", "")}.items() if v}
+                               "f": n.get("fonte", ""), "r": _resumo(n), "l": n.get("link", ""),
+                               "i": n["imagem"] if n.get("imagem", "").startswith("img/") else ""}.items() if v}
             for n in dia["noticias"]
         ]}
         indice["dias"] = sorted(dias.values(), key=lambda d: d["data"], reverse=True)

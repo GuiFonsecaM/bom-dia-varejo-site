@@ -6,13 +6,19 @@
 <meta name="theme-color" content="#0c0c0c">
 <meta name="description" content="As notícias do varejo e do atacarejo, todo dia.">
 <title>Bom dia varejo</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bom dia varejo">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23000'/%3E%3Cpath d='M20 38a12 12 0 0 1 24 0z' fill='%23FF8A00'/%3E%3Cpath d='M10 18h7l6 22h22l5-16H21' fill='none' stroke='%23fff' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='26' cy='48' r='3.5' fill='%23fff'/%3E%3Ccircle cx='42' cy='48' r='3.5' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
 <style>
   :root{
-    --red:#cc0000; --red-dark:#a30000; --brand:#ff8a00;
+    --red:#ff8a00; --red-text:#d96f00; --brand:#ff8a00;
     --ink:#0c0c0c; --text:#262626; --muted:#6e6e6e; --line:#e6e6e6;
     --bg:#ffffff; --bg-soft:#f6f6f6;
     --head:"Inter Tight",-apple-system,"Helvetica Neue",Arial,sans-serif;
@@ -48,12 +54,12 @@
   .searchbar.open{display:block}
   .searchbar .wrap{display:flex;align-items:center;gap:10px;height:52px}
   .searchbar input{flex:1;border:0;border-bottom:2px solid var(--ink);background:transparent;font:inherit;font-size:17px;font-weight:600;padding:6px 0;outline:none;color:var(--ink);min-width:0}
-  .searchbar button{font-weight:700;font-size:14px;color:var(--red)}
+  .searchbar button{font-weight:700;font-size:14px;color:var(--red-text)}
 
   /* ===== Faixa de últimas ===== */
-  .ticker{background:var(--red);color:#fff;overflow:hidden}
+  .ticker{background:var(--red);color:var(--ink);overflow:hidden}
   .ticker .wrap{display:flex;align-items:center;height:38px;gap:12px}
-  .ticker .label{flex:none;font-weight:900;font-size:13px;letter-spacing:.06em;text-transform:uppercase;background:#fff;color:var(--red);padding:3px 8px}
+  .ticker .label{flex:none;font-weight:900;font-size:13px;letter-spacing:.06em;text-transform:uppercase;background:var(--ink);color:#fff;padding:3px 8px}
   .ticker .track{flex:1;overflow:hidden;white-space:nowrap;-webkit-mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent);mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
   .ticker .run{display:inline-block;padding-left:100%;animation:run 40s linear infinite;font-weight:600;font-size:14px}
   .ticker .run span{margin-right:36px}
@@ -70,7 +76,7 @@
     background-repeat:no-repeat;background-position:right 9px center;background-size:10px}
 
   /* ===== Manchete principal ===== */
-  .kicker{font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--red)}
+  .kicker{font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--red-text)}
   .lead{display:block;margin:18px 0 0;text-align:left;width:100%}
   .lead .media{position:relative;aspect-ratio:16/9;background:#111;overflow:hidden}
   .lead .media img{width:100%;height:100%;object-fit:cover;display:block}
@@ -78,7 +84,7 @@
       radial-gradient(70% 90% at 82% 115%, var(--brand) 0 38%, transparent 39%),
       repeating-linear-gradient(135deg, rgba(255,255,255,.035) 0 2px, transparent 2px 14px),
       linear-gradient(160deg,#2a2a2a,#050505)}
-  .lead .media .badge{position:absolute;left:0;top:14px;background:var(--red);color:#fff;font-weight:900;font-size:12px;letter-spacing:.06em;text-transform:uppercase;padding:5px 10px}
+  .lead .media .badge{position:absolute;left:0;top:14px;background:var(--red);color:var(--ink);font-weight:900;font-size:12px;letter-spacing:.06em;text-transform:uppercase;padding:5px 10px}
   .lead h1{font-weight:900;font-size:30px;line-height:1.08;letter-spacing:-.025em;color:var(--ink);margin:12px 0 8px}
   .lead p{font-family:var(--body);font-size:17px;line-height:1.5;color:var(--text);margin:0}
   .byline{font-size:13px;color:var(--muted);margin-top:10px;font-weight:500}
@@ -93,7 +99,11 @@
   .card .thumb{aspect-ratio:1/1;background:#111;position:relative;overflow:hidden}
   .card .thumb img{width:100%;height:100%;object-fit:cover;display:block}
   .card .thumb .art{position:absolute;inset:0;background:radial-gradient(80% 80% at 90% 110%, var(--brand) 0 40%, transparent 41%),linear-gradient(160deg,#2a2a2a,#050505)}
-  .card .thumb .n{position:absolute;left:8px;top:6px;color:#fff;font-weight:900;font-size:26px;letter-spacing:-.04em}
+  .card .thumb .n{position:absolute;left:8px;top:6px;color:#fff;font-weight:900;font-size:26px;letter-spacing:-.04em;text-shadow:0 1px 3px rgba(0,0,0,.8),0 0 14px rgba(0,0,0,.6)}
+  .card .thumb .n{z-index:1}
+  .article .photo{margin:0 0 18px}
+  .article .photo img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:#111}
+  .article .photo figcaption{font-size:12px;color:var(--muted);margin-top:6px}
   .card h3{font-weight:800;font-size:18px;line-height:1.2;letter-spacing:-.015em;color:var(--ink);margin:4px 0 6px}
   .card p{font-family:var(--body);font-size:15px;line-height:1.45;color:var(--muted);margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   .card:active h3,.lead:active h1{text-decoration:underline}
@@ -157,6 +167,31 @@
     .article h1{font-size:44px}
   }
   @media (prefers-reduced-motion: reduce){ *{transition:none!important;animation:none!important} .ticker .run{padding-left:0} }
+
+  /* ===== Instalar app ===== */
+  .install-btn{display:none;align-items:center;gap:6px;font-weight:800;font-size:13px;border:1.5px solid #fff;padding:6px 10px;color:#fff}
+  .install-btn svg{width:15px;height:15px}
+  .install-btn.show{display:inline-flex}
+  @media (max-width:430px){ .install-btn span{display:none} .install-btn{padding:6px;border-width:0} .install-btn svg{width:22px;height:22px} }
+  .logo .name{white-space:nowrap}
+  .install-banner{position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:45;background:var(--ink);color:#fff;
+    display:none;align-items:center;gap:12px;padding:12px;max-width:560px;margin:0 auto;box-shadow:0 10px 30px rgba(0,0,0,.3);border-left:4px solid var(--red)}
+  .install-banner.show{display:flex}
+  .install-banner img{width:44px;height:44px;flex:none}
+  .install-banner .txt{flex:1;min-width:0;font-size:13px;line-height:1.35;color:#d0d0d0}
+  .install-banner .txt b{display:block;color:#fff;font-size:15px;font-weight:800}
+  .install-banner .go{background:var(--red);color:var(--ink);font-weight:800;font-size:14px;padding:10px 14px;flex:none}
+  .install-banner .x{width:28px;height:28px;display:grid;place-items:center;color:#9a9a9a;flex:none}
+  .install-banner .x svg{width:16px;height:16px}
+  .ios-help{position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.55);display:none;align-items:flex-end;justify-content:center}
+  .ios-help.show{display:flex}
+  .ios-help .box{background:#fff;width:100%;max-width:520px;padding:22px 20px calc(24px + env(safe-area-inset-bottom));border-top:4px solid var(--red)}
+  .ios-help h3{font-weight:900;font-size:22px;letter-spacing:-.02em;color:var(--ink);margin:0 0 14px}
+  .ios-help ol{margin:0 0 18px;padding-left:22px;font-family:var(--body);font-size:17px;line-height:1.5;color:var(--text)}
+  .ios-help li{margin-bottom:10px}
+  .ios-help .ico{display:inline-grid;place-items:center;width:26px;height:26px;border:1px solid var(--line);vertical-align:-7px;margin:0 2px}
+  .ios-help .ico svg{width:15px;height:15px;color:#007aff}
+  .ios-help .ok{width:100%;background:var(--ink);color:#fff;font-weight:800;font-size:16px;padding:14px}
 </style>
 </head>
 <body>
@@ -167,9 +202,12 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
     </button>
     <a class="logo" href="./">
-      <svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" fill="#000"/><path d="M20 38a12 12 0 0 1 24 0z" fill="#FF8A00"/><path d="M10 18h7l6 22h22l5-16H21" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="26" cy="48" r="3.5" fill="#fff"/><circle cx="42" cy="48" r="3.5" fill="#fff"/></svg>
+      <img class="mark" src="icons/logo-128.png" alt="" width="38" height="38">
       <span class="name">Bom dia varejo<span>Notícias do varejo</span></span>
     </a>
+    <button class="install-btn" id="installTop" aria-label="Instalar app">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span>Instalar</span>
+    </button>
     <button class="search-btn" id="openSearch" aria-label="Buscar">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
     </button>
@@ -205,12 +243,13 @@
 <footer>
   <div class="wrap">
     <div class="logo">
-      <svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" fill="#000"/><path d="M20 38a12 12 0 0 1 24 0z" fill="#FF8A00"/><path d="M10 18h7l6 22h22l5-16H21" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="26" cy="48" r="3.5" fill="#fff"/><circle cx="42" cy="48" r="3.5" fill="#fff"/></svg>
+      <img class="mark" src="icons/logo-128.png" alt="" width="38" height="38">
       <span class="name">Bom dia varejo<span>Notícias do varejo</span></span>
     </div>
     <nav id="footNav"></nav>
     <p>As notícias do varejo e do atacarejo, todo dia. Cada matéria leva ao link original da fonte.</p>
     <p id="updated"></p>
+    <p><button id="installFoot" style="font-weight:800;font-size:13px;color:#fff;text-decoration:underline;display:none">Instalar o app Bom dia varejo</button></p>
   </div>
 </footer>
 
@@ -223,6 +262,25 @@
 </article>
 
 <div class="toast" id="toast"></div>
+
+<div class="install-banner" id="installBanner" role="dialog" aria-label="Instalar app">
+  <img src="icons/icon-192.png" alt="">
+  <div class="txt"><b>Bom dia varejo no seu aparelho</b>Abra as notícias direto da tela inicial ou da área de trabalho.</div>
+  <button class="go" id="installGo">Instalar</button>
+  <button class="x" id="installClose" aria-label="Agora não"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+</div>
+
+<div class="ios-help" id="iosHelp" role="dialog" aria-modal="true" aria-labelledby="iosTitle">
+  <div class="box">
+    <h3 id="iosTitle">Adicionar à Tela de Início</h3>
+    <ol>
+      <li>Toque em <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg></span> <b>Compartilhar</b>, na barra do Safari.</li>
+      <li>Role a lista e toque em <b>Adicionar à Tela de Início</b>.</li>
+      <li>Toque em <b>Adicionar</b>. O ícone do Bom dia varejo aparece junto dos seus apps.</li>
+    </ol>
+    <button class="ok" id="iosOk">Entendi</button>
+  </div>
+</div>
 
 <script>
 /*
@@ -247,7 +305,9 @@ const cat = n => n.categoria || n.c || 'Varejo';
 const titulo = n => n.titulo || n.t || '';
 const dataLonga = iso => { const t = parseData(iso).toLocaleDateString('pt-BR',{weekday:'long', day:'numeric', month:'long', year:'numeric'}); return t.charAt(0).toUpperCase() + t.slice(1); };
 const dataCurta = iso => { const d = parseData(iso); return `${d.getDate()} de ${MESES[d.getMonth()]}`; };
-const midia = n => n.imagem ? `<img src="${esc(n.imagem)}" alt="" loading="lazy">` : `<div class="art"></div>`;
+const midia = (n, prioridade) => n.imagem
+  ? `<img src="${esc(n.imagem)}" alt="" decoding="async" ${prioridade ? 'fetchpriority="high"' : 'loading="lazy"'} onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'art'}))">`
+  : `<div class="art"></div>`;
 
 async function getJSON(path){
   const r = await fetch(BASE + path + '?v=' + Math.floor(Date.now() / 60000));
@@ -316,7 +376,7 @@ async function mostrarDia(){
   const lateral = resto.slice(0, 4), demais = resto.slice(4);
   let html = `<div class="front"><div>
       <button class="lead" data-k="0">
-        <div class="media">${midia(h.n)}<span class="badge">${esc(cat(h.n))}</span></div>
+        <div class="media">${midia(h.n, true)}<span class="badge">${esc(cat(h.n))}</span></div>
         <h1>${esc(h.n.titulo)}</h1>
         <p>${esc(topicos(h.n)[0] || '')}</p>
         <div class="byline">Fonte: <b>${esc(fonte(h.n))}</b> · ${dataCurta(h.data)}</div>
@@ -345,7 +405,7 @@ async function mostrarBusca(){
   $('#content').innerHTML = `<div class="block-title"><h2>${visiveis.length} resultado${visiveis.length>1?'s':''} para “${esc(termo)}”</h2></div>` +
     lim.map((it,k) => `<button class="card" data-k="${k}">
       <div><div class="kicker">${esc(cat(it.n))} · ${dataCurta(it.data)} de ${it.data.slice(0,4)}</div><h3>${esc(titulo(it.n))}</h3><p>${esc(it.n.r || '')}</p></div>
-      <div class="thumb"><div class="art"></div></div></button>`).join('');
+      <div class="thumb">${midia({imagem: it.n.i})}</div></button>`).join('');
 }
 
 function render(){ return termo ? mostrarBusca() : mostrarDia(); }
@@ -362,6 +422,7 @@ async function abrir(k){
   $('#articleBody').innerHTML = `
     <div class="kicker">${esc(cat(n))}</div>
     <h1>${esc(titulo(n))}</h1>
+    ${n.imagem ? `<figure class="photo">${midia(n, true)}<figcaption>Imagem: ${esc(fonte(n))}</figcaption></figure>` : ''}
     <div class="meta">
       <div class="who">Por <b>Bom dia varejo</b><br>${dataLonga(it.data)}</div>
       <div class="share">
@@ -419,6 +480,49 @@ $('#openSearch').onclick = () => { $('#searchbar').classList.add('open'); $('#q'
 $('#closeSearch').onclick = () => { limparBusca(); mostrarDia(); };
 let qTimer;
 $('#q').addEventListener('input', e => { clearTimeout(qTimer); qTimer = setTimeout(() => { termo = e.target.value.trim(); render(); }, 250); });
+/* ---------- Instalar app ---------- */
+if ('serviceWorker' in navigator) {
+  addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+}
+const instalado = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+const ehIOS = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+let pedidoInstalacao = null;
+const lerPref = k => { try { return localStorage.getItem(k); } catch { return null; } };
+const gravarPref = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+
+function mostrarOpcoesInstalar(){
+  if (instalado()) return;
+  $('#installTop').classList.add('show');
+  $('#installFoot').style.display = 'inline';
+  const dispensado = +lerPref('bdv-instalar-dispensado') || 0;
+  if (Date.now() - dispensado > 7 * 864e5) setTimeout(() => $('#installBanner').classList.add('show'), 2500);
+}
+function esconderOpcoesInstalar(){
+  $('#installTop').classList.remove('show');
+  $('#installFoot').style.display = 'none';
+  $('#installBanner').classList.remove('show');
+}
+async function instalar(){
+  if (pedidoInstalacao) {
+    pedidoInstalacao.prompt();
+    const { outcome } = await pedidoInstalacao.userChoice;
+    pedidoInstalacao = null;
+    if (outcome === 'accepted') esconderOpcoesInstalar();
+  } else if (ehIOS) {
+    $('#installBanner').classList.remove('show');
+    $('#iosHelp').classList.add('show');
+  } else {
+    toast('Use o menu do navegador → "Instalar app"');
+  }
+}
+addEventListener('beforeinstallprompt', e => { e.preventDefault(); pedidoInstalacao = e; mostrarOpcoesInstalar(); });
+addEventListener('appinstalled', () => { esconderOpcoesInstalar(); toast('App instalado'); });
+if (ehIOS && !instalado()) mostrarOpcoesInstalar();
+['#installTop', '#installGo', '#installFoot'].forEach(id => $(id).onclick = instalar);
+$('#installClose').onclick = () => { $('#installBanner').classList.remove('show'); gravarPref('bdv-instalar-dispensado', Date.now()); };
+$('#iosOk').onclick = () => $('#iosHelp').classList.remove('show');
+$('#iosHelp').onclick = e => { if (e.target.id === 'iosHelp') $('#iosHelp').classList.remove('show'); };
+
 $('#toFooter').onclick = () => document.querySelector('footer').scrollIntoView({behavior:'smooth'});
 $('#back').onclick = fechar;
 document.addEventListener('keydown', e => { if (e.key === 'Escape') fechar(); });
