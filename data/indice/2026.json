@@ -2,6 +2,291 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-10",
+   "n": [
+    {
+     "t": "Ata do Copom: Banco Central diz que piora nas expectativas de inflação exige juros mais altos por tempo maior",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O Banco Central divulgou na ata do Copom, de 10 de maio, que as expectativas de inflação subiram e ficaram acima da meta em todos os horizontes, levando à…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/10/ata-do-copom-banco-central-diz-que-piora-nas-expectativas-de-inflacao-exige-juros-mais-altos-e-por-tempo-maior.ghtml"
+    },
+    {
+     "t": "11.11: como evitar problemas nas compras em prévia da Black Friday",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "O 11 de novembro, conhecido como 11.11, consolidou-se como uma expressiva prévia de vendas e descontos da Black Friday, movimentando cerca de R$ 1 trilhão…",
+     "l": "https://g1.globo.com/guia/guia-de-compras/1111-como-evitar-problemas-nas-compras-em-previa-da-black-friday-1.ghtml"
+    },
+    {
+     "t": "Quando vai ser a Black Friday 2026? Veja a data oficial e guia para não cair em golpes",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "A Black Friday de 2026 acontecerá no dia 27 de novembro, mantendo a tradição de ser realizada na última sexta-feira do mês no comércio brasileiro.",
+     "l": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml"
+    },
+    {
+     "t": "'Split payment': 98% das operações entre empresas devem estar cobertas a partir de outubro de 2027, estima confederação",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "A presidente da Confederação Nacional das Instituições Financeiras (Fin), Cristiane Coelho, estimou em 10 de setembro que 98% das transações B2B tenham o…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml"
+    },
+    {
+     "t": "Dólar opera em alta e vai a R$ 5,60, de olho em dados de inflação nos EUA e ata do Copom; Ibovespa cai",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Na terça-feira (10), perto das 12h50, o dólar operava em alta de 1,77% a R$ 5,6025, enquanto o Ibovespa caía 0,33% aos 171.665 pontos. No mesmo horário, os…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/10/dolar-ibovespa.ghtml"
+    },
+    {
+     "t": "Reforma tributária muda regras para renda com aluguel; veja como fica para pessoas físicas e jurídicas",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "A reforma tributária incluirá a renda de aluguéis na nova cobrança sobre o consumo com a Contribuição sobre Bens e Serviços (CBS) e o Imposto sobre Bens e…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/10/reforma-tributaria-muda-regras-para-renda-com-aluguel-veja-como-fica-para-pessoas-fisicas-e-juridicas.ghtml"
+    },
+    {
+     "t": "JBS (JBSS32) decepciona no 3T26, mas analistas mantêm compra e apostam na virada dos EUA",
+     "c": "Varejo",
+     "f": "Money Times",
+     "r": "A JBS registrou um Ebitda ajustado de US$ 1,18 bilhão no terceiro trimestre de 2026, representando uma queda de 36% na comparação anual e ficando abaixo das…",
+     "l": "https://www.moneytimes.com.br/jbs-jbss32-decepciona-no-3t26-mas-analistas-mantem-compra-e-apostam-na-virada-dos-eua-pads/"
+    },
+    {
+     "t": "Papa faz referência ao conflito diplomático Argentina-Brasil, incitando Milei a superar tensões com Lula",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Durante sua viagem à Argentina ao lado do presidente Javier Milei, o Papa Leão XIV defendeu o diálogo e a busca por acordos para superar graves tensões na…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/10/papa-faz-referencia-ao-conflito-diplomatico-argentina-brasil-incitando-milei-a-superar-tensoes-com-lula.ghtml"
+    },
+    {
+     "t": "JBS compra dona de Minuano, Francis, OX e Neutrox por R$ 3 bilhões",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "A JBS comprou 100% da Flora, controladora das marcas Minuano, Francis, OX e Neutrox, em operação avaliada em US$ 542 milhões (cerca de R$ 3 bilhões).",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/jbs-flora.ghtml"
+    },
+    {
+     "t": "Ata do Copom indica que desaceleração da economia não conteve inflação",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "A ata do Copom divulgada na terça-feira, 10, aponta que a atividade econômica brasileira desacelera, mas a inflação segue pressionada acima do teto da meta do…",
+     "l": "https://mercadoeconsumo.com.br/10/11/2026/economia/ata-do-copom-indica-que-desaceleracao-da-economia-nao-conteve-inflacao/"
+    },
+    {
+     "t": "JBS (JBSS32) vê melhora em bovinos nos EUA, mas suspensão nas Filipinas adiciona pressão à carne suína",
+     "c": "Varejo",
+     "f": "Money Times",
+     "r": "A JBS projeta um quarto trimestre mais forte que o anterior, impulsionada pelo retorno a margens positivas na unidade de bovinos nos EUA, sua principal…",
+     "l": "https://www.moneytimes.com.br/jbs-espera-4o-tri-mais-forte-apesar-de-cenario-dificil-para-carne-suina-2/"
+    },
+    {
+     "t": "EUA vão usar IA para revisar dados agrícolas após série de erros em relatórios que influenciam preços",
+     "c": "Mundo",
+     "f": "g1 Economia",
+     "r": "O Departamento de Agricultura dos Estados Unidos (USDA) adotará inteligência artificial para revisar dados agrícolas antes de suas publicações, após uma série…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/eua-vao-usar-ia-para-revisar-dados-agricolas-apos-serie-de-erros-em-relatorios-que-influenciam-precos.ghtml"
+    },
+    {
+     "t": "Menino brasileiro decepou os próprios dedos em 'acidente' em escola, diz governo de Portugal",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Em 10 de novembro de 2025, o menino brasileiro José Lucas, de 9 anos, teve dois dedos da mão direita amputados na Escola Básica de Fonte Coberta, em Cinfães…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/10/menino-brasileiro-decepou-os-proprios-dedos-em-acidente-em-escola-diz-governo-de-portugal.ghtml"
+    },
+    {
+     "t": "O futuro da economia brasileira no quarto mandato de Lula - O Assunto #1842",
+     "c": "Política",
+     "f": "g1 Economia",
+     "r": "Na noite de domingo (8), o presidente reeleito Lula fez seu primeiro pronunciamento oficial para sinalizar os caminhos da política econômica em seu novo…",
+     "l": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/10/o-futuro-da-economia-brasileira-no-quarto-mandato-de-lula-o-assunto-1842.ghtml"
+    },
+    {
+     "t": "Vale-refeição e alimentação: decisão da Justiça não muda regra que beneficiou trabalhadores; entenda",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Uma decisão judicial liminar, assinada nesta segunda-feira pelo juiz federal Frederico Botelho de Barros Viana na Justiça Federal no DF, suspendeu pontos de…",
+     "l": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/10/vale-refeicao-e-alimentacao-decisao-da-justica-nao-muda-regra-que-beneficiou-trabalhadores-entenda.ghtml"
+    },
+    {
+     "t": "CI pede auditoria em concessão rodoviária entre RO e MT",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "A Comissão de Infraestrutura aprovou dois requerimentos em 10 de novembro de 2026 para solicitar uma auditoria e realizar uma audiência pública sobre a…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/10/ci-pede-auditoria-em-concessao-rodoviaria-entre-ro-e-mt"
+    },
+    {
+     "t": "Diesel terá mais biodiesel? Governo prevê decisão sobre mistura de 20% em 2027",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O governo brasileiro prevê concluir em março os testes para avaliar a mistura de 20% de biodiesel no diesel, proporção chamada de B20, com possível aprovação…",
+     "l": "https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml"
+    },
+    {
+     "t": "Brasil bateu recorde de exportação de frango em outubro mesmo com caso de Newcastle",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O Brasil alcançou recorde histórico mensal de exportação de carne de frango em outubro de 2026, com o envio de 512,8 mil toneladas, segundo dados divulgados…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/10/brasil-bateu-recorde-de-exportacao-de-frango-em-outubro-mesmo-com-caso-de-newcastle.ghtml"
+    },
+    {
+     "t": "Ministério pede derrubada de 348 perfis de influenciadores que divulgam bets ilegais",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O Ministério da Justiça pediu às plataformas a derrubada de 348 perfis de influenciadores no Instagram que somam mais de 150 milhões de seguidores e divulgam…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/09/ministerio-pede-derrubada-de-348-perfis-de-influenciadores-que-divulgam-bets-ilegais.ghtml"
+    },
+    {
+     "t": "É #FATO: Foto mostra papa Leão XIV segurando carne em churrasco no Uruguai; veja imagem",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Uma fotografia que circula nas redes sociais mostra o papa Leão XIV segurando um pedaço de carne durante um churrasco, ao lado de um homem com avental,…",
+     "l": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/10/e-fato-foto-mostra-papa-leao-xiv-segurando-carne-em-churrasco-no-uruguai-veja-imagem.ghtml"
+    },
+    {
+     "t": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "O economista norte-americano John Cochrane afirmou que o Brasil deveria se livrar do salário mínimo e criticou sua indexação atual ao INPC e ao crescimento…",
+     "l": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Banco Central do Paraguai diz que já ressarciu 93% dos clientes do Ueno Bank",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O Banco Central do Paraguai informou na segunda-feira (9) que 93,1% dos clientes do Ueno Bank elegíveis já receberam adiantamento da garantia estatal.",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml"
+    },
+    {
+     "t": "Sobrevivente de Epstein diz que executivo que segue ativo em agência de modelos a enviou para casa do abusador",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Uma sobrevivente identificada como Roza relata que, aos 18 anos e recém-chegada do Uzbequistão em 2009, foi enviada pela filial americana da agência MC2 Model…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/10/sobrevivente-de-epstein-diz-que-executivo-que-segue-ativo-em-agencia-de-modelos-a-enviou-para-casa-do-abusador.ghtml"
+    },
+    {
+     "t": "Política Nacional de Incentivo à Fabricação de Motores vai à Câmara",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "A Comissão de Serviços de Infraestrutura (CI) aprovou nesta terça-feira (10) a criação da Política Nacional de Incentivo à Fabricação de Motores (PNIFM),…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/10/politica-nacional-de-incentivo-a-fabricacao-de-motores-vai-a-camara"
+    },
+    {
+     "t": "Como saúde e longevidade estão transformando a indústria de alimentos",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A indústria de alimentos passa por uma transformação impulsionada pelo foco dos consumidores em saúde, nutrição, qualidade de vida, longevidade e prevenção.",
+     "l": "https://mercadoeconsumo.com.br/10/11/2026/artigos/como-saude-e-longevidade-estao-transformando-a-industria-de-alimentos/"
+    },
+    {
+     "t": "Microsoft pressiona Trump a desistir de proibição de tecnologia chinesa para data centers",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Microsoft e outras empresas do setor pressionam o governo do presidente americano Donald Trump para evitar a proibição da importação de transceptores…",
+     "l": "https://g1.globo.com/tecnologia/noticia/2026/11/10/microsoft-pressiona-trump-a-desistir-de-proibicao-de-tecnologia-chinesa-para-data-centers.ghtml"
+    },
+    {
+     "t": "CNJ aprova novas regras para venda de precatórios e cria central nacional para tentar rastrear operações",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O Conselho Nacional de Justiça (CNJ) aprovou por unanimidade, nesta terça-feira (10), uma nova resolução que estabelece regras para a venda de precatórios no…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/10/cnj-aprova-novas-regras-para-venda-de-precatorios-e-cria-central-nacional-para-tentar-rastrear-operacoes.ghtml"
+    },
+    {
+     "t": "Cacau Show prepara maior Natal da história com 12 milhões de panetones",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Cacau Show planeja a maior operação natalina de sua trajetória para 2026, com a fabricação de 12 milhões de panetones, segundo anúncio do fundador e CEO…",
+     "l": "https://mercadoeconsumo.com.br/10/11/2026/noticias-varejo/cacau-show-prepara-maior-natal-da-historia-com-12-milhoes-de-panetones/"
+    },
+    {
+     "t": "Justiça Federal desiste de pedido para obter R$ 208,9 milhões para bancar penduricalhos",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Justiça Federal desistiu, nesta terça‑feira (10), do pedido à AGU de crédito extra de R$ 208,9 milhões para pagar benefícios de “penduricalhos” decorrentes de…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/10/justica-federal-desiste-de-pedido-para-obter-r-2089-milhoes-para-bancar-penduricalhos.ghtml"
+    },
+    {
+     "t": "Comissão analisa relatório sobre renegociação de dívidas de produtores rurais nesta terça-feira",
+     "c": "Política",
+     "f": "Agência Câmara",
+     "r": "A comissão mista responsável pela Medida Provisória (MP) 1376/26 analisa nesta terça-feira (10), às 14 horas, o relatório apresentado pelo deputado Paulo…",
+     "l": "https://www.camara.leg.br/noticias/1317452-comissao-analisa-relatorio-sobre-renegociacao-de-dividas-de-produtores-rurais-nesta-terca-feira"
+    },
+    {
+     "t": "Quaest: Para 65% dos brasileiros, democracia é preferível a qualquer outro regime",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Uma pesquisa pós-eleitoral realizada pela Quaest em parceria com O Globo revelou que 65% dos brasileiros preferem a democracia a qualquer outra forma de…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/10/quaest-democracia.ghtml"
+    },
+    {
+     "t": "Itaipu confirma que diretoria dos dois países aprovou Ueno Bank, que teve operações suspensas com R$ 1 bilhão da hidrelétrica",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Diretoria Executiva da Itaipu Binacional, formada por representantes do Brasil e do Paraguai, confirmou a aprovação da habilitação do Ueno Bank para operar…",
+     "l": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/10/itaipu-confirma-que-diretoria-dos-dois-paises-aprovou-ueno-bank.ghtml"
+    },
+    {
+     "t": "Leão XIV dedica viagem a Francisco; relação entre Milei e o papa argentino foi de 'maligno na Terra' a abraço",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O papa norte-americano Leão XIV realiza sua primeira visita oficial à Argentina, iniciada no último domingo (8) e com término previsto para quarta-feira (11).…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/10/leao-xiv-dedica-viagem-a-francisco-relacao-entre-milei-e-o-papa-argentino-foi-de-maligno-na-terra-a-abraco.ghtml"
+    },
+    {
+     "t": "Secretário de Guerra de Trump é alvo de pedido de impeachment: veja as 8 acusações apresentadas contra Hegseth",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O deputado republicano Thomas Massie apresentou em 9 de março um pedido de impeachment contra o secretário de Guerra dos Estados Unidos, Pete Hegseth, com…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/10/secretario-guerra-de-trump-e-alvo-de-pedido-de-impeachment-veja-as-8-acusacoes-apresentadas-contra-hegseth.ghtml"
+    },
+    {
+     "t": "PGR e Judiciário querem R$ 533 milhões extras para pagar penduricalhos; AGU pediu análise ao STF",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "A Procuradoria-Geral da República e o Conselho da Justiça Federal informaram ao governo federal a necessidade de cerca de R$ 533 milhões adicionais em 2026…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/09/pgr-e-judiciario-querem-r-533-milhoes-extras-para-pagar-penduricalhos-agu-pediu-analise-stf.ghtml"
+    },
+    {
+     "t": "Hospitais defendem revisão da Tabela SUS antes de julgamento no STJ",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A Federação Brasileira de Hospitais defendeu que o STJ adote os valores da ANS como base para revisar a remuneração de hospitais privados conveniados ao SUS.",
+     "l": "https://www.poder360.com.br/poder-saude/hospitais-defendem-revisao-da-tabela-sus-antes-de-julgamento-no-stj/"
+    },
+    {
+     "t": "Starbucks acelera expansão e amplia presença no Nordeste com estreia no Ceará",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Starbucks, operada no Brasil pela Zamp, planeja inaugurar cerca de 10 unidades em São Paulo, Belo Horizonte e Fortaleza até o final de 2026.",
+     "l": "https://mercadoeconsumo.com.br/10/11/2026/foodservice/starbucks-acelera-expansao-e-amplia-presenca-no-nordeste-com-estreia-no-ceara/"
+    },
+    {
+     "t": "Grupo brasileiro compra dona das marcas Maguary e Dafruta por 80 milhões de euros",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "O Grupo José Augusto Vieira (Grupo JAV) assinou acordo para comprar a Empresa Brasileira de Bebidas e Alimentos SA (Britvic Brazil), dona das marcas Maguary e…",
+     "l": "https://mercadoeconsumo.com.br/10/11/2026/industria/grupo-brasileiro-compra-dona-das-marcas-maguary-e-dafruta-por-80-milhoes-de-euros/"
+    },
+    {
+     "t": "Boca Rosa abre escritório corporativo em São Paulo para acompanhar o crescimento da marca",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A marca de maquiagem Boca Rosa, fundada por Bianca Andrade, inaugurou um novo escritório corporativo na cidade de São Paulo.",
+     "l": "https://mercadoeconsumo.com.br/10/11/2026/noticias-varejo/boca-rosa-abre-escritorio-corporativo-em-sao-paulo-para-acompanhar-o-crescimento-da-marca/"
+    },
+    {
+     "t": "Gás do Povo libera vale-recarga para 3,1 milhões de famílias",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "A Caixa Econômica Federal iniciou nesta terça-feira, 10, a liberação do vale-recarga do programa Gás do Povo para aproximadamente 3,1 milhões de famílias em…",
+     "l": "https://mercadoeconsumo.com.br/10/11/2026/economia/gas-do-povo-libera-vale-recarga-para-31-milhoes-de-familias/"
+    }
+   ]
+  },
+  {
    "data": "2026-11-09",
    "n": [
     {
