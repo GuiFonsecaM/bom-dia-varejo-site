@@ -2,6 +2,291 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-12",
+   "n": [
+    {
+     "t": "'Tomate não nasce na prateleira do supermercado': entenda por que o preço disparou quase 90% e quando pode cair",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "O preço do tomate subiu 89,76% no ano, com alta de 19,57% em outubro em relação a setembro, segundo dados do IBGE divulgados em 12 de novembro.",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/por-que-o-preco-disparou-quase-e-quando-pode-cair.ghtml"
+    },
+    {
+     "t": "Novo ranking de melhores empresas para trabalhar no Brasil tem surpresa na liderança; veja lista",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O ranking Employer Branding Awards 2026, elaborado pelo Indeed e Glassdoor, foi divulgado nesta quarta‑feira (11) e apresenta as empresas mais bem avaliadas…",
+     "l": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/12/novo-ranking-de-melhores-empresas-para-trabalhar-no-brasil-tem-surpresa-na-lideranca-veja-lista.ghtml"
+    },
+    {
+     "t": "'Mudar a proteína ou o senador?': como anúncio eleitoral debochado turbinou virada histórica nos EUA",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Em fevereiro de 2026, a senadora republicana Cindy Hyde-Smith sugeriu que eleitores escolhessem outras proteínas diante do encarecimento da carne bovina no…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/mudar-a-proteina-ou-o-senador-como-anuncio-eleitoral-debochado-turbinou-virada-historica-nos-eua.ghtml"
+    },
+    {
+     "t": "Dia do Supermercado: como conciliar preço justo, emprego e melhores condições de trabalho",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "No dia 12 de novembro é celebrado o Dia Estadual do Supermercadista, oficializado pela Lei nº 18.149/2025, coincidindo com o Dia Nacional do Supermercado,…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/artigos/dia-do-supermercado-como-conciliar-preco-justo-emprego-e-melhores-condicoes-de-trabalho/"
+    },
+    {
+     "t": "IPCA: inflação desacelera para 0,14% em outubro, mas segue acima do teto da meta",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O IPCA, inflação oficial do Brasil, subiu 0,14% em outubro, conforme divulgado pelo IBGE nesta quinta‑feira (12). No acumulado de 12 meses, a inflação chegou…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/12/ipca-inflacao-outubro-2026.ghtml"
+    },
+    {
+     "t": "Ibovespa cai com tombo do Banco do Brasil; dólar sobe com inflação acima da meta e pacote de gastos no radar",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O Ibovespa recuava 0,50% aos 171.195 pontos por volta das 13h15 de quinta-feira (12), pressionado pelas ações do Banco do Brasil. No mesmo horário, o dólar…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/12/dolar-ibovespa.ghtml"
+    },
+    {
+     "t": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Boato de apagão global de até três meses a partir de 17/11 circula nas redes sem evidências, misturando fatos reais como o teste da FEMA, recomendações de…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/alertas-de-suposto-apagao-mundial-em-17-de-novembro-veja-perguntas-e-respostas.ghtml"
+    },
+    {
+     "t": "Veja o que Lula disse sobre contas públicas antes de proposta de ajuste fiscal de R$ 60 bilhões",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Em 11 de setembro, presidente Lula (PT) apresentou um pacote de ajuste fiscal que busca racionalizar despesas públicas em até R$ 60 bilhões, como resposta às…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/12/lula-falas-ajuste-fiscal.ghtml"
+    },
+    {
+     "t": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver'",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Dayane Epifanio de Oliveira, paulistana de 37 anos, viajou à China pela primeira vez em 2017 a trabalho, casou‑se com um chinês e mudou‑se definitivamente…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/os-brasileiros-que-decidiram-morar-nas-grandes-metropoles-da-china-a-liberdade-muda-nossa-forma-de-viver.ghtml"
+    },
+    {
+     "t": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Operações de fiscalização migratória e prisões de imigrantes continuaram nos EUA nos dias após as eleições de meio de mandato, apesar da derrota dos…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/prisoes-de-imigrantes-continuam-nos-eua-apos-derrota-republicana-nas-midterms-apesar-de-criticas-de-trump.ghtml"
+    },
+    {
+     "t": "Previdência e Bolsa Família terão crédito de R$ 149 bi após aval do Congresso",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "O Congresso autorizou, em 12/11/2026, a contratação de operações de crédito de até R$ 149,4 bilhões para financiar aposentadorias, pensões, Bolsa Família e…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/12/previdencia-e-bolsa-familia-terao-credito-de-r-149-bi-apos-aval-do-congresso"
+    },
+    {
+     "t": "Congresso aprova projeto que autoriza governo a usar R$ 26 bilhões em empréstimos para pagar Bolsa Família",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Em 12 de novembro, o Congresso aprovou em sessão conjunta de deputados e senadores um projeto de lei do governo Lula que autoriza até R$ 149,4 bilhões em…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/12/congresso-aprova-projeto-que-autoriza-governo-a-usar-r-26-bilhoes-em-emprestimos-para-pagar-bolsa-familia.ghtml"
+    },
+    {
+     "t": "Maior, mais potente e mais barato que o SW4: GWM Tank 400 pode superar a Toyota? Veja o teste",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "O SUV híbrido plug-in GWM Tank 400 chega ao mercado brasileiro nesta semana por R$ 389 mil, posicionando-se como concorrente direto do Toyota SW4, que custa…",
+     "l": "https://g1.globo.com/carros/noticia/2026/11/12/maior-mais-potente-e-mais-barato-que-o-sw4-gwm-tank-400-pode-superar-a-toyota-veja-o-teste.ghtml"
+    },
+    {
+     "t": "Alerta de bomba na estação de trem de Calais, na França, fecha local e causa atrasos",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Um alerta de bomba foi confirmado na estação Calais‑Fréthun, na França, por meio do perfil oficial do governo local na rede X; a situação está sob…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/alerta-de-bomba-na-estacao-de-trem-de-calais-na-franca-fecha-local-e-causa-atrasos.ghtml"
+    },
+    {
+     "t": "Senado deve votar pacote de medidas fiscais nesta quinta; governo fala em um impacto de até R$ 60 bi",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O Senado prevê votar nesta quinta-feira (12) o Projeto de Lei Complementar (PLP) com medidas de ajuste fiscal enviado pelo governo do presidente Luiz Inácio…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/12/senado-deve-votar-pacote-de-medidas-fiscais-nesta-quinta-governo-fala-em-um-impacto-de-ate-r-60-bi.ghtml"
+    },
+    {
+     "t": "Lei libera apoio a produtores de cana e até R$ 14,5 bi para renovar frota de caminhões",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "O presidente em exercício Geraldo Alckmin sancionou a Lei 15.528, de 2026, publicada no Diário Oficial da União na quinta-feira (12), que autoriza apoio a…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/12/lei-libera-apoio-a-produtores-de-cana-e-ate-r-14-5-bi-para-renovar-frota-de-caminhoes"
+    },
+    {
+     "t": "Swift entra no mercado de culinária japonesa com linha de pratos semiprontos",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Swift, marca pertencente à JBS, ingressou no segmento de culinária japonesa com uma nova linha composta por pratos semiprontos, entradas e peixes crus.",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/produtos/swift-entra-no-mercado-de-culinaria-japonesa-com-linha-de-pratos-semiprontos/"
+    },
+    {
+     "t": "Inflação perde força e fica em 0,14% em outubro; conta de luz cai",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "A inflação oficial do Brasil, medida pelo IPCA, desacelerou para 0,14% em outubro, após registrar 0,82% em setembro, segundo dados divulgados em uma…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/economia/inflacao-perde-forca-e-fica-em-014-em-outubro-conta-de-luz-cai/"
+    },
+    {
+     "t": "Queda de Peña, uma 'implosão controlada' dos governistas para manter o poder no Paraguai",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O Congresso do Paraguai destituiu o então presidente Santiago Peña, de 47 anos, após o colapso e fechamento do Ueno Bank deixar centenas de milhares de…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/queda-de-pena-uma-implosao-controlada-dos-governistas-para-manter-o-poder-no-paraguai.ghtml"
+    },
+    {
+     "t": "Ataque israelense a hospital em Gaza deixa 6 mortos",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Um ataque aéreo israelense atingiu o Hospital Nasser, em Khan Younis, no sul de Gaza, na manhã desta quinta‑feira, resultando em seis mortes e deixando ao…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/ataque-israelense-a-hospital-em-gaza-deixa-mortos.ghtml"
+    },
+    {
+     "t": "Governo busca apoio de empresas para destravar projeto que trata da regulação econômica das big techs",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O governo federal definiu como prioridade a aprovação, até o fim de 2024, de um projeto de lei sobre regulação econômica de big techs e concorrência nos…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/12/governo-busca-apoio-de-empresas-para-destravar-projeto-que-trata-da-regulacao-economica-das-big-techs.ghtml"
+    },
+    {
+     "t": "Congresso aprova 24 projetos com crédito suplementar para ministérios",
+     "c": "Política",
+     "f": "Agência Brasil Política",
+     "r": "Nesta quinta-feira (12), o Congresso Nacional aprovou 24 projetos de lei (PLNs) que abrem crédito suplementar ou adicional no valor total de R$ 152,4 bilhões.",
+     "l": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-24-projetos-com-credito-suplementar-para-ministerios"
+    },
+    {
+     "t": "Selic sem novas altas e PIB estagnado: o que o UBS BB espera para 2027",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "Em evento realizado nesta quinta‑feira (12) em São Paulo, Alexandre Azara, economista‑chefe do UBS BB no Brasil, afirmou que uma nova alta da taxa Selic é…",
+     "l": "https://www.moneytimes.com.br/selic-sem-novas-altas-e-pib-estagnado-o-que-o-ubs-bb-espera-para-2027-igdl/"
+    },
+    {
+     "t": "Dino mantém início da escala 5x2 para 16 de dezembro e ajusta transição para permitir 42 horas semanais em 5 dias de trabalho",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O ministro Flávio Dino, do STF, emitiu liminar nesta quinta-feira (12) mantendo o início da escala 5x2 para 16 de dezembro de 2026 e ajustando a transição…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/12/fim-da-escala-6x1-dino-autoriza-distribuicao-de-42-horas-semanais-em-5-dias-de-trabalho.ghtml"
+    },
+    {
+     "t": "Consumidor deve gastar R$ 2.936 na Black Friday em Belo Horizonte",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Consumidores de Belo Horizonte devem gastar cerca de R$ 2.936,58 na Black Friday de 2024, considerando a intenção de compra de três produtos com gasto médio…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/noticias-varejo/consumidor-deve-gastar-r-2-936-na-black-friday-em-belo-horizonte/"
+    },
+    {
+     "t": "Influenciadora chora após ter perfil bloqueado por divulgar sites de apostas ilegais",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Na quinta‑feira (12), a influenciadora Mirely Gomes, com cerca de 830 mil seguidores, publicou vídeo chorando ao descobrir que sua conta no Instagram foi…",
+     "l": "https://g1.globo.com/tecnologia/noticia/2026/11/12/influenciadora-chora-apos-ter-perfil-bloqueado-por-divulgar-sites-de-apostas-ilegais.ghtml"
+    },
+    {
+     "t": "BB: expectativa eleitoral do agronegócio por perdão de dívidas rurais ajuda a explicar tombo no resultado",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O resultado do Banco do Brasil (BB) recuou significativamente porque produtores rurais, sobretudo médios e grandes, deixaram de pagar suas dívidas ao banco,…",
+     "l": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/12/bb-inadimplencia-do-agronegocio-aumentou-com-expectativa-eleitoral-de-perdao-das-dividas-e-ajuda-a-explicar-queda-no-lucro.ghtml"
+    },
+    {
+     "t": "Banco do Brasil diz que parte do agro deu calote à espera de novas medidas de renegociação",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "A presidente do Banco do Brasil, Tarciana Medeiros, declarou nesta quinta‑feira (12) que parte dos médios e grandes produtores rurais inadimplentes optou por…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-dividas-do-agro.ghtml"
+    },
+    {
+     "t": "'É o pior momento em quase 5 anos': por que as ações do Banco do Brasil derretem quase 10% na Bolsa",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Na quinta‑feira (12), as ações do Banco do Brasil (BBAS3) caíram 9,30%, cotadas a R$ 15,32, liderando as perdas do Ibovespa; as da controlada BB Seguridade…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/banco-do-brasil-ibovespa.ghtml"
+    },
+    {
+     "t": "A Decathlon está mudando a maneira de crescer",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Em 2025, a Decathlon registrou faturamento líquido de 16,8 bi €; volume bruto de mercadorias de 20,7 bi €; resultado líquido de 910 mi € e operava 1.902 lojas…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/artigos/a-decathlon-esta-mudando-a-maneira-de-crescer/"
+    },
+    {
+     "t": "Motta destaca sanção de lei que garante auxílio a produtores de cana-de-açúcar do Nordeste",
+     "c": "Política",
+     "f": "Agência Câmara",
+     "r": "O presidente da Câmara, Hugo Motta (Republicanos‑PB), divulgou a sanção da Lei 15.528/26, que garante auxílio financeiro a produtores independentes de…",
+     "l": "https://www.camara.leg.br/noticias/1318917-motta-destaca-sancao-de-lei-que-garante-auxilio-a-produtores-de-cana-de-acucar-do-nordeste"
+    },
+    {
+     "t": "Tailândia: brasileiros são presos com R$ 3,3 milhões em cocaína",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Dois cidadãos brasileiros foram detidos pelas autoridades da Tailândia em 8 de novembro, sob acusação de tentativa de entrada ilegal de entorpecentes no país…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/tailandia-brasileiros-presos-cocaina.ghtml"
+    },
+    {
+     "t": "Desabamento de prédio no Brooklyn matou 2 crianças e 6 adultos, diz prefeito de NY",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Na tarde de quarta‑feira (11), um prédio residencial de três andares no Brooklyn, Nova Iorque, desabou enquanto obras de escavação eram realizadas em um…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/desabamento-de-predio-no-brooklyn-deixou-2-criancas-e-6-adultos-mortos-diz-prefeito-de-ny.ghtml"
+    },
+    {
+     "t": "Americanas está em ritmo acelerado de redução de consumo de caixa, diz CFO",
+     "c": "Varejo",
+     "f": "Money Times",
+     "r": "A Americanas registra uma diminuição veloz no consumo de caixa, impulsionada por avanços operacionais, conforme declarou nesta quinta-feira o diretor…",
+     "l": "https://www.moneytimes.com.br/americanas-esta-em-ritmo-acelerado-de-reducao-de-consumo-de-caixa-diz-cfo/"
+    },
+    {
+     "t": "Congresso aprova crédito suplementar de R$ 149 bi para Bolsa Família, BPC e Previdência",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "Deputados e senadores aprovaram na quinta‑feira, 12, o Projeto de Lei do Congresso Nacional (PLN) 23/2026, que autoriza crédito suplementar de R$ 149,4…",
+     "l": "https://www.moneytimes.com.br/congresso-aprova-credito-suplementar-de-r-149-bi-para-bolsa-familia-bpc-e-previdencia-jcsv/"
+    },
+    {
+     "t": "ICE anuncia que fez quase 500 mil prisões em um ano",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O ICE divulgou que, no último ano fiscal (1 de outubro 2025 a 30 de setembro 2026), realizou 491 mil prisões e 483 mil deportações, os maiores totais da…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/12/ice-anuncia-balanco-de-491-mil-prisoes-e-483-mil-deportacoes-em-2026.ghtml"
+    },
+    {
+     "t": "Banco Central decreta liquidação extrajudicial da Cooperagre",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "O Banco Central decretou a liquidação extrajudicial da Cooperativa de Crédito Rural do Agreste Alagoano (Cooperagre) nesta quinta-feira, 12, devido a graves…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/economia/banco-central-decreta-liquidacao-extrajudicial-da-cooperagre/"
+    },
+    {
+     "t": "Petrobras faz acordo para deter 100% da transportadora de etanol Logum",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "A Petrobras firmou acordo para adquirir 100% da Logum Logística, passando de 30% para 100% de participação, pagando R$ 620 milhões pelos 70% restantes detidos…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/economia/petrobras-faz-acordo-para-deter-100-da-transportadora-de-etanol-logum/"
+    },
+    {
+     "t": "Após caso de traição e espionagem, CEO da Nvidia renuncia ao cargo",
+     "c": "Mundo",
+     "f": "Mercado & Consumo",
+     "r": "Jensen Huang deixou os cargos de presidente, diretor executivo e membro do Conselho da Nvidia nesta quinta-feira, 12, com efeito imediato, segundo comunicado…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/gestao/apos-caso-de-traicao-e-espionagem-ceo-da-nvidia-renuncia-ao-cargo/"
+    },
+    {
+     "t": "BTG Pactual tem lucro líquido ajustado de R$ 5,3 bi no 3º trimestre, alta de 17%",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "O BTG Pactual registrou um lucro líquido ajustado recorde de R$ 5,3 bilhões no terceiro trimestre, representando um crescimento de 17% em 12 meses e de 13,8%…",
+     "l": "https://mercadoeconsumo.com.br/12/11/2026/mc-capital/btg-pactual-tem-lucro-liquido-ajustado-de-r-53-bi-no-3o-trimestre-alta-de-17/"
+    }
+   ]
+  },
+  {
    "data": "2026-11-11",
    "n": [
     {
