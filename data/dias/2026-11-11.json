@@ -653,551 +653,626 @@
   {
    "titulo": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
    "topicos": [
-    "O secretário da Receita Federal, Robinson Barreirinhas, confirmou nesta quarta-feira (11) que a CBS e o IBS passam a valer em janeiro de 2027. O governo proporá ao Congresso que o primeiro recolhimento da CBS ocorra em fevereiro de forma opcional para ajustes.",
-    "A CBS é um tributo federal que substituirá o PIS/Pasep e Cofins, enquanto o IBS é compartilhado entre estados e municípios no lugar do ICMS e ISS, integrando o modelo de IVA.",
-    "Em 2026, empresas que cumprirem exigências como dados corretos em notas fiscais não pagarão os tributos de teste (0,9% de CBS e 0,1% de IBS), que possuem mecanismos de compensação.",
-    "A adaptação afeta empresas fora do Simples Nacional que emitem NF-e, NFC-e e CT-e. A NFS-e iniciou a inclusão em 1º de outubro de 2026, e o Simples Nacional entra em 1º de janeiro de 2027.",
-    "A Receita Federal suspenderá temporariamente a rejeição automática de notas sem os novos campos, e empresas notificadas terão prazo de 60 dias para corrigir falhas sem multas imediatas.",
-    "O cronograma prevê transição gradual: 1º de dezembro de 2026 para locações e condomínios, substituição do ICMS e ISS entre 2029 e 2032, e operação integral do modelo em 2033."
+    "O secretário da Receita Federal, Robinson Barreirinhas, confirmou em 11 de dezembro que a CBS e o IBS começam a valer em janeiro de 2027. O governo proporá ao Congresso que o primeiro recolhimento da CBS ocorra em fevereiro, de forma opcional para ajustes.",
+    "A CBS federal substituirá o PIS/Pasep e a Cofins, enquanto o IBS estadual e municipal substituirá o ICMS e o ISS. Ambos integram o novo modelo de IVA da reforma tributária para simplificar a tributação sobre o consumo.",
+    "Em 2026, empresas sem exigência de pagamento que cumprirem as normas e informarem dados fiscais corretos não pagarão os tributos de teste, fixados em 0,9% de CBS e 0,1% de IBS, com mecanismos de compensação.",
+    "A adaptação afeta empresas fora do Simples Nacional que emitem documentos como NF-e, NFC-e e CT-e. A NFS-e teve inclusão iniciada em 1º de outubro de 2026, e empresas do Simples entram em 1º de janeiro de 2027.",
+    "A Receita e o Comitê Gestor suspenderam temporariamente a rejeição automática de notas sem os campos de IBS e CBS. Empresas notificadas por falhas terão prazo de 60 dias para corrigir e cancelar multas.",
+    "O cronograma prevê a substituição gradual do ICMS e ISS pelo IBS entre 2029 e 2032, com a extinção total desses tributos e o funcionamento integral do novo modelo tributário prevista para 2033."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/d59e202e994b.webp"
   },
   {
    "titulo": "Lucro do Banco do Brasil cai 66,5% no 3º trimestre, para R$ 1,27 bilhão",
    "topicos": [
-    "O Banco do Brasil divulgou nesta quarta-feira (11) um lucro líquido ajustado de R$ 1,27 bilhão no terceiro trimestre, representando um recuo de 66,5% na comparação anual.",
-    "O desempenho financeiro da instituição ficou abaixo da expectativa do mercado, que projetava um montante de R$ 3,474 bilhões segundo projeções compiladas pela LSEG.",
-    "A queda foi influenciada pelo aumento das perdas com operações de empréstimo, impulsionado pela alta da inadimplência no setor de agronegócio e reforços no atacado.",
-    "O índice de atrasos superiores a 90 dias atingiu 6,08% no terceiro trimestre, mostrando alta em relação aos 4,51% registrados no mesmo período do ano anterior.",
-    "A projeção de lucro líquido ajustado para o ano foi revisada pelo banco da faixa anterior de R$ 18 bilhões a R$ 22 bilhões para o intervalo de R$ 9 bilhões a R$ 11 bilhões.",
-    "Para 2026, a instituição alterou a expectativa da carteira de crédito para variação entre estabilidade e queda de 2%, além de elevar o custo do crédito para R$ 80 bilhões a R$ 83 bilhões."
+    "O Banco do Brasil divulgou nesta quarta-feira (11) que seu lucro líquido ajustado caiu 66,5% no terceiro trimestre, somando R$ 1,27 bilhão em comparação ao mesmo período do ano anterior.",
+    "O desempenho financeiro ficou abaixo da expectativa do mercado, que projetava um lucro de R$ 3,474 bilhões, conforme estimativas compiladas pela LSEG.",
+    "A queda foi impulsionada pelo aumento das perdas com créditos, decorrente da alta na inadimplência em frações da carteira de agronegócio e de reforços em empresas do atacado.",
+    "O índice de atrasos superiores a 90 dias atingiu 6,08% no trimestre, registrando alta frente aos 4,51% reportados um ano antes.",
+    "O custo do crédito saltou 18,4% entre julho e setembro, alcançando R$ 21,2 bilhões, enquanto a rentabilidade sobre o patrimônio líquido recuou de 8,4% para 2,8%.",
+    "Diante do cenário, o banco reduziu a projeção de lucro líquido ajustado anual para a faixa de R$ 9 bilhões a R$ 11 bilhões, abaixo da estimativa prévia de R$ 18 bilhões a R$ 22 bilhões.",
+    "Para 2026, a instituição alterou a expectativa da carteira de crédito para variação entre estabilidade e queda de 2%, além de elevar o custo do crédito previsto para o intervalo de R$ 80 bilhões a R$ 83 bilhões."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/11/banco-do-brasil-bb-resultados-3t26.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/9371b14f6dc2.webp"
   },
   {
    "titulo": "Renegociação de dívidas rurais é aprovada pelo Senado e vai à sanção presidencial",
    "topicos": [
-    "O Senado aprovou em 11 de novembro de 2026 a Medida Provisória 1.376/2026, que permite a produtores rurais afetados por eventos climáticos extremos entre 2019 e 2025 renegociarem suas dívidas com juros de 5% a 12% ao ano.",
-    "O texto seguiu para sanção presidencial após aprovação na forma do projeto de lei de conversão 16/2026, com mudanças que ampliaram os beneficiários e prorrogaram a data de referência das dívidas para outubro de 2026.",
-    "O presidente do Senado, Davi Alcolumbre, retirou do texto trechos conhecidos como \"jabutis\" que tratavam de cigarros eletrônicos (vapes), free shops e dívidas imobiliárias do Sistema Financeiro da Habitação.",
-    "Para ter direito, produtores e cooperativas devem comprovar perdas por quebras de safras devido a eventos climáticos extremos que geraram redução mínima de 30% na renda bruta, ou 25% em áreas da Sudam, Sudene e Sudeco.",
-    "O prazo de contratação foi estendido para até 120 dias após a regulamentação da lei, com dois anos de carência pagando apenas juros e até 8 ou 10 anos para a quitação total do principal, dependendo do volume de perdas.",
-    "Os limites e taxas de refinanciamento variam por porte e severidade das perdas: Pronaf (até R$ 400 mil a 6% a.a. ou R$ 500 mil a 5% a.a.), Pronamp (até R$ 2 milhões a 9% a.a. ou R$ 2,5 milhões a 8% a.a.) e demais produtores (até R$ 4 milhões a 12% a.a. ou R$ 8 milhões a 11% a.a.)."
+    "O Senado aprovou em 11 de novembro de 2026 a MP 1.376/2026, que cria regras para a renegociação de dívidas de produtores rurais afetados por eventos climáticos extremos entre 2019 e 2025, seguindo agora para sanção presidencial.",
+    "Para ter direito, produtores e cooperativas devem comprovar perdas por quebras de safra devido a enxurradas, geadas, estiagens ou quedas de preços que geraram redução de pelo menos 30% na renda bruta, ou 25% nas regiões da Sudam, Sudene e Sudeco.",
+    "O texto estabelece taxas de juros entre 5% e 12% ao ano e limites de refinanciamento variados conforme o porte, como até R$ 400 mil para agricultura familiar a 6% a.a., e até R$ 2 milhões a 9% a.a. para miniprodutores e médios produtores.",
+    "Em casos de perdas mais severas (três ou mais safras e redução de 40% na renda, ou 35% na Sudam, Sudene e Sudeco), os limites sobem para até R$ 500 mil no Pronaf (5% a.a.) e até R$ 2,5 milhões no Pronamp (8% a.a.).",
+    "O prazo de contratação foi estipulado em 120 dias após a regulamentação da futura lei. O período de carência é de dois anos com pagamento apenas de juros, seguido de até oito ou dez anos para a quitação do principal da dívida.",
+    "O presidente do Senado, Davi Alcolumbre, retirou da proposta os chamados 'jabutis' inseridos pela Câmara que tratavam de cigarros eletrônicos (vapes), free shops e dívidas imobiliárias do Sistema Financeiro da Habitação."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0f472a3be3ea.webp"
   },
   {
    "titulo": "Barcelona tem confrontos entre manifestantes e polícia durante greve geral; veja FOTOS",
    "topicos": [
-    "Manifestantes e policiais entraram em conflito nesta quarta-feira (11) em Barcelona, na Espanha, durante uma greve geral de 24 horas convocada contra a alta dos aluguéis e dos preços dos imóveis.",
-    "A polícia informou que 49 pessoas foram presas em diferentes regiões do país devido a ocorrências ligadas ao protesto, que marcou a primeira greve geral na Espanha em 14 anos.",
-    "Em Barcelona, ativistas estimaram um público de 400 mil pessoas, enquanto a prefeitura contabilizou 55 mil manifestantes. Em Madri, autoridades estimaram 120 mil participantes sob chuva intensa.",
-    "O preço médio dos aluguéis na Espanha quase dobrou na última década, gerando insatisfação agravada pelo recente despejo e morte de uma mulher de 87 anos em Madri.",
-    "Os manifestantes exigem salários que garantam acesso à moradia digna, renovação automática de contratos de aluguel, ampliação de moradias públicas e regras mais rígidas contra a especulação imobiliária.",
-    "Sindicatos relataram alta adesão em setores como automobilístico e portuário (90%), indústria de carnes (85%), coleta de lixo (82%) e energia (75%). A associação empresarial CEOE classificou a greve como fracasso, estimando adesão de 5%."
+    "Manifestantes e policiais entraram em conflito nesta quarta-feira (11) em Barcelona, na Espanha, durante a primeira greve geral nacional em 14 anos, que durou 24 horas e protestou contra a alta dos aluguéis e dos imóveis.",
+    "A paralisação levou milhões de trabalhadores a interromper empresas e o transporte público, resultando na prisão de 49 pessoas em diferentes regiões do país por ocorrências ligadas aos protestos.",
+    "Em Barcelona, ativistas estimaram um público de 400 mil pessoas, enquanto a prefeitura contabilizou 55 mil; em Madri, autoridades estimaram 120 mil manifestantes sob chuva intensa.",
+    "Os organizadores exigem regras mais rígidas para proteger inquilinos, renovação automática de contratos de aluguel, ampliação de moradias públicas, controle da especulação e novo acordo salarial.",
+    "Sindicatos relataram adesão de 90% em setores como automobilístico e portuário, 85% na carne, 82% na coleta de lixo e 75% em energia, enquanto a associação empresarial CEOE estimou a participação geral em 5%."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/barcelona-tem-confrontos-entre-manifestantes-e-policia-durante-greve-geral.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a8fc4adf1181.webp"
   },
   {
    "titulo": "Americanas tem prejuízo de R$ 352 milhões no 3º trimestre",
    "topicos": [
-    "A rede varejista Americanas encerrou o terceiro trimestre de 2026 com um prejuízo líquido de R$ 352 milhões, revertendo o lucro de R$ 367 milhões obtido no mesmo período do ano passado, conforme balanço divulgado em 11 de março de 2026.",
-    "O Ebitda ajustado da empresa caiu de R$ 558 milhões para R$ 52 milhões na comparação anual, enquanto a receita líquida cresceu 10%, atingindo R$ 2,97 bilhões, com alta de 7,3% nas vendas de mesmas lojas.",
-    "A piora nos resultados de janeiro a setembro foi atribuída pela companhia à ausência de ganhos extraordinários de natureza tributária que haviam beneficiado o balanço financeiro e operacional do ano anterior.",
-    "O escândalo contábil da empresa veio a público em 11 de janeiro de 2023, quando foram reveladas inconsistências em lançamentos contábeis estimadas inicialmente em cerca de R$ 20 bilhões, ligadas a operações de risco sacado e verbas de propaganda.",
-    "A descoberta gerou forte turbulência no mercado, culminando em uma queda de 77,33% nas ações da companhia no pregão de 12 de janeiro de 2023 e levando ao pedido de recuperação judicial em 19 de janeiro de 2023, com dívidas superiores a R$ 50 bilhões.",
-    "Após cumprir as obrigações do plano e protocolar o pedido de encerramento, a Justiça aceitou o término do processo, e a companhia deixou formalmente a recuperação judicial em outubro de 2026."
+    "A rede varejista Americanas registrou um prejuízo líquido de R$ 352 milhões no terceiro trimestre de 2026, conforme balanço divulgado em 11 de fevereiro. No mesmo período de 2025, a empresa havia obtido lucro de R$ 367 milhões.",
+    "O Ebitda ajustado da companhia despencou de R$ 558 milhões para R$ 52 milhões na comparação anual, enquanto a receita líquida cresceu 10% no trimestre, atingindo R$ 2,97 bilhões, com alta de 7,3% nas vendas das mesmas lojas.",
+    "De janeiro a setembro, a piora nos resultados foi atribuída principalmente à ausência de ganhos extraordinários de natureza tributária que haviam beneficiado o balanço de 2025.",
+    "O escândalo contábil da empresa veio à tona em 11 de janeiro de 2023, com inconsistências estimadas inicialmente em R$ 20 bilhões decorrentes de operações de risco sacado e verbas de propaganda cooperada mal registradas.",
+    "Após a revelação, as ações da varejista desabaram 77,33% em 12 de janeiro de 2023 e a empresa entrou em recuperação judicial em 19 de janeiro de 2023, acumulando dívidas superiores a R$ 50 bilhões.",
+    "A Americanas concluiu sua recuperação judicial e saiu formalmente do processo em outubro de 2026, após cumprir obrigações do plano e ter o encerramento aceito pela Justiça em março do mesmo ano."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/11/prejuizo-americanas.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/dbfe531919b6.webp"
   },
   {
    "titulo": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
    "topicos": [
-    "A Comissão de Educação e Cultura do Senado realizou, nesta quarta-feira (11), uma audiência pública para debater a criação oficial do Dia Nacional da Cachaça Brasileira, data celebrada informalmente em 13 de setembro.",
-    "O debate foi solicitado por meio do requerimento REQ 30/2026 - CE pelos senadores Carlos Portinho (PL-RJ), que presidiu a sessão, Teresa Leitão (PT-PE) e Jussara Lima (PSD-PI).",
-    "O senador Carlos Portinho anunciou a apresentação do projeto de lei PL 5.824/2026 para instituir a data oficial, que também é tema do PL 3.771/2026, apresentado pelo senador Izalci Lucas (PL-DF).",
-    "A escolha do dia 13 de setembro remonta a uma provisão régia assinada em 1649 pelo rei português Dom João IV, que impôs restrições à produção de bebidas de cana-de-açúcar no Brasil.",
-    "Segundo o Anuário da Cachaça 2026 do Ministério da Agricultura, o país possui 1.538 estabelecimentos produtores em 844 municípios, cerca de 8.400 produtos registrados e exportações para 76 países que somaram cerca de US$ 17 milhões no ano passado.",
-    "Durante a audiência, Carlos Portinho expressou preocupação com a incidência do Imposto Seletivo (IS) criado pela reforma tributária sobre o produto, cuja cobrança começa no ano que vem."
+    "A Comissão de Educação e Cultura do Senado realizou, nesta quarta-feira (11) em Brasília, uma audiência pública para discutir a criação oficial do Dia Nacional da Cachaça Brasileira, data celebrada popularmente em 13 de setembro.",
+    "O debate foi requerido pelo REQ 30/2026 - CE e promovido a pedido dos senadores Carlos Portinho (PL-RJ), que presidiu a sessão, Teresa Leitão (PT-PE) e Jussara Lima (PSD-PI).",
+    "O senador Carlos Portinho anunciou a apresentação do PL 5.824/2026 para instituir a data, pauta que também é tratada pelo projeto PL 3.771/2026, de autoria do senador Izalci Lucas (PL-DF).",
+    "O dia 13 de setembro remonta a uma provisão régia assinada em 1649 por Dom João IV, que impôs restrições à fabricação de bebidas de cana-de-açúcar no Brasil, simbolizando a resistência histórica da produção.",
+    "O Anuário da Cachaça 2026 indica que o país possui 1.538 produtores registrados em 844 municípios, cerca de 8.400 produtos cadastrados e exportações para 76 países que totalizaram cerca de US$ 17 milhões no ano passado.",
+    "Carlos Portinho expressou preocupação com a incidência do Imposto Seletivo da reforma tributária sobre a bebida a partir do ano que vem, defendendo que o produto patrimônio nacional seja poupado da taxação."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/739229f4b149.webp"
   },
   {
    "titulo": "Limite de supersalários, mudanças no piso da saúde; veja as medidas do governo para ajuste fiscal de até R$ 60 bilhões",
    "topicos": [
-    "O senador Jaques Wagner apresentou nesta quarta-feira (11), em Brasília, um projeto com propostas do governo do presidente Luiz Inácio Lula da Silva para realizar um ajuste fiscal de até R$ 60 bilhões, com o objetivo de controlar a dívida pública e conter despesas no próximo mandato.",
-    "O projeto altera o arcabouço fiscal estabelecendo um teto de 2% para o crescimento anual das despesas acima da inflação, aplicável a partir de 2027 em anos de contenção, e amplia a possibilidade de o Executivo realizar contingenciamentos de gastos preventivos.",
-    "A proposta prevê um prazo de até 120 dias para o Congresso Nacional aprovar a regulamentação dos pagamentos sujeitos ao teto salarial do funcionalismo público, visando combater os supersalários sem eliminar diretamente os penduricalhos na própria lei.",
-    "A base de cálculo do piso da saúde será modificada até 2030 para excluir as receitas extraordinárias do imposto sobre a exportação de petróleo, geradas pelo aumento de preços devido a conflitos no Oriente Médio; essa exclusão já vale em caráter temporário em 2026.",
-    "O plano reduz em até 20% os benefícios e incentivos tributários, limitando o aproveitamento de créditos presumidos a 80% do valor original e elevando em 20% os percentuais aplicados em regimes especiais sobre a receita bruta.",
-    "O governo federal é autorizado a utilizar até 40% do superávit financeiro do exercício anterior de fundos com destinação específica, exceto recursos protegidos pela Constituição, como saúde, educação, segurança pública e seguridade social.",
-    "A proposta flexibiliza a meta fiscal de 2026 ao permitir que o governo desconsidere até R$ 10,5 bilhões em despesas extraordinárias voltadas a subsídios, subvenções econômicas e à estabilização dos preços do diesel para produtores e importadores."
+    "O senador Jaques Wagner apresentou nesta quarta-feira (11) um projeto com propostas do governo do presidente Luiz Inácio Lula da Silva para um ajuste fiscal de até R$ 60 bilhões e controle da dívida pública.",
+    "O arcabouço fiscal poderá ter um teto de 2% ao ano para o crescimento de despesas a partir de 2027, substituindo a faixa atual de 0,6% a 2,5% acima da inflação.",
+    "O projeto fixa um prazo de até 120 dias para o Congresso aprovar a regulamentação dos pagamentos do funcionalismo público sujeitos ao teto salarial, visando conter os supersalários.",
+    "O texto prorroga até 2030 a exclusão das receitas de impostos sobre exportação de petróleo do cálculo do piso da saúde, medida que já vale temporariamente em 2026.",
+    "A proposta limita em 80% o aproveitamento de créditos presumidos e eleva em 20% os tributos em regimes especiais, buscando reduzir incentivos e benefícios fiscais.",
+    "O governo federal poderá usar até 40% do superávit financeiro do exercício anterior de fontes específicas para cumprir obrigações constitucionais, exceto em áreas protegidas.",
+    "O projeto permite desconsiderar até R$ 10,5 bilhões em subsídios ao diesel na apuração da meta fiscal de 2026, flexibilizando as regras para conter preços dos combustíveis."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/11/limite-de-supersalarios-mudancas-no-piso-da-saude-veja-as-medidas-do-governo-para-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/880537114e86.webp"
   },
   {
    "titulo": "Senado aprova MP que renegocia dívidas rurais e retira mudanças em regras propostas pela Câmara sobre cigarros eletrônicos",
    "topicos": [
-    "O presidente do Senado, Davi Alcolumbre, retirou da Medida Provisória as alterações feitas pela Câmara que permitiam a produção de insumos para cigarros eletrônicos e vapes.",
-    "A remoção ocorreu porque o tema foi considerado estranho ao objetivo original da medida, que trata exclusivamente do apoio financeiro e renegociação de dívidas de produtores rurais.",
-    "Com a aprovação do texto modificado pelo Senado, a matéria segue agora para a sanção da Presidência da República.",
-    "O prazo para a contratação da linha de crédito para o pagamento dos débitos, antes limitado a 120 dias, poderá ser prorrogado por mais 120 dias.",
-    "Do total de R$ 100 bilhões destinados ao programa, pouco mais de 20%, equivalentes a R$ 20 bilhões, foram contratados desde que a medida entrou em vigor.",
-    "A medida também flexibilizou a comprovação de perdas por eventos climáticos ou variação de preços, permitindo laudos coletivos para micro, mini, pequenos e médios produtores."
+    "O presidente do Senado, Davi Alcolumbre, retirou do texto de uma Medida Provisória as alterações feitas pela Câmara dos Deputados que permitiam a fabricação nacional de insumos para cigarros eletrônicos e vapes.",
+    "A remoção ocorreu após senadores argumentarem que o tema era estranho ao objetivo original da matéria, que trata exclusivamente do apoio financeiro e da renegociação de dívidas de produtores rurais.",
+    "Com a aprovação das mudanças pelo Senado, a Medida Provisória segue diretamente para a sanção da Presidência da República.",
+    "O texto aprovado prorrogou por mais 120 dias o prazo para a contratação da linha de crédito para quitar os débitos, período que antes era limitado a 120 dias a partir da criação da lei.",
+    "A medida conta com R$ 100 bilhões destinados à renegociação, mas o setor apontava que pouco mais de 20%, ou R$ 20 bilhões, haviam sido contratados desde a entrada em vigor da norma.",
+    "O projeto também atendeu a pedidos da bancada do agro ao flexibilizar as regras para a comprovação de perdas, permitindo o uso de laudos coletivos para micro, mini, pequenos e médios produtores rurais."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/11/senado-aprova-mp-que-renegocia-dividas-rurais-e-retira-mudancas-em-regras-propostas-pela-camara-sobre-cigarros-eletronicos.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/9bd10cc2e3f5.webp"
   },
   {
    "titulo": "Com atrasos do agro, lucro do BB cai a R$ 1,3 bi no 3º trimestre",
    "topicos": [
     "O Banco do Brasil registrou um lucro líquido ajustado de R$ 1,270 bilhão no terceiro trimestre de 2026, conforme divulgado em relatório na quarta-feira (11.nov.2026).",
-    "O resultado representa uma queda de 66,5% na comparação com o terceiro trimestre de 2025 (quando o lucro foi de R$ 3,785 bilhões) e uma retração de 67,5% ante o segundo trimestre de 2026.",
-    "A queda no lucro foi provocada principalmente pelo aumento do custo do crédito, pela inadimplência contínua na carteira de agronegócios e por reforços pontuais em empresas do segmento atacado.",
-    "O custo do crédito atingiu R$ 21,2 bilhões no trimestre (alta de 18,4% sobre o 3º trimestre de 2025 e de 14,9% sobre os 3 meses anteriores), somando R$ 58,6 bilhões de janeiro a setembro.",
-    "A margem financeira bruta somou R$ 26 bilhões no período, ficando 1,5% abaixo do resultado de um ano antes e 5,5% inferior ao registrado no segundo trimestre de 2026.",
+    "O resultado representa uma queda de 66,5% em comparação com o terceiro trimestre de 2025 (quando o lucro foi de R$ 3,785 bilhões) e retração de 67,5% frente ao segundo trimestre de 2026.",
+    "O desempenho foi impactado pelo aumento no custo do crédito, continuidade da inadimplência no agronegócio e reforços pontuais em empresas do segmento atacado.",
+    "O custo do crédito chegou a R$ 21,2 bilhões no trimestre (alta de 18,4% na comparação anual e de 14,9% trimestral). No acumulado de janeiro a setembro, a despesa atingiu R$ 58,6 bilhões (crescimento de 33,2%).",
+    "A margem financeira bruta somou R$ 26 bilhões no período, ficando 1,5% abaixo do valor de um ano antes e 5,5% inferior ao registrado no segundo trimestre de 2026.",
     "A taxa de inadimplência superior a 90 dias subiu para 6,08% em setembro, comparada a 4,51% em setembro de 2025 e 5,61% em junho de 2026, enquanto o índice de cobertura recuou para 137,8%."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/com-atrasos-do-agro-lucro-do-bb-cai-a-r-13-bi-no-3o-trimestre/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/1fa81ce11870.webp"
   },
   {
    "titulo": "Em reviravolta, democrata vence no Mississippi e será o 1º senador negro do estado em 150 anos",
    "topicos": [
-    "O democrata Scott Colom venceu a republicana Cindy Hyde-Smith na disputa por uma vaga no Senado dos Estados Unidos pelo Mississippi, em resultado projetado pela Associated Press em uma quarta-feira (11).",
-    "Com 99% dos votos apurados após as eleições de 3 de novembro, Colom obteve 49,2% da preferência e derrotou a adversária, que registrou 48,7%, com uma margem de apenas 4.669 votos.",
-    "A conquista marca uma reviravolta no tradicional reduto republicano e faz de Colom o primeiro senador negro eleito pelo estado do Mississippi desde o ano de 1874.",
-    "A campanha ganhou destaque na internet com um vídeo viral em que um eleitor ironizava uma declaração anterior de Hyde-Smith sobre a alta no preço da carne bovina e o consumo de outras proteínas.",
-    "O resultado reforça o desempenho dos democratas nas eleições de meio de mandato, assegurando 55 das 100 cadeiras no Senado e o controle da Câmara dos Representantes a partir de janeiro."
+    "O democrata Scott Colom venceu a republicana Cindy Hyde-Smith na disputa por uma vaga no Senado dos Estados Unidos pelo Mississippi, em resultado projetado pela Associated Press nesta quarta-feira (11).",
+    "Com 99% das urnas apuradas após as eleições de 3 de novembro, Colom obteve 49,2% dos votos contra 48,7% da adversária, registrando uma vantagem de 4.669 votos.",
+    "A vitória de Colom marca uma reviravolta em um reduto tradicionalmente republicano e faz dele o primeiro senador negro eleito pelo estado desde o ano de 1874.",
+    "A campanha ganhou repercussão nacional com um vídeo viral em que o democrata criticou declarações anteriores de Hyde-Smith sobre o aumento nos preços da carne bovina.",
+    "O resultado fortalece a bancada democrata nas eleições de meio de mandato, elevando para 55 o número de cadeiras do partido no Senado e garantindo o controle da Câmara dos Representantes em janeiro."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/em-reviravolta-democrata-vence-no-mississippi-e-sera-primeiro-senador-negro-do-estado-em-150-anos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0498b171621d.webp"
   },
   {
    "titulo": "Galípolo cita incertezas e diz que BC decidirá sobre juros 'reunião a reunião'",
    "topicos": [
-    "O presidente do Banco Central, Gabriel Galípolo, afirmou nesta quarta-feira (11) que o cenário econômico atual é marcado por incertezas, o que impede a emissão de sinalizações de longo prazo sobre os rumos da taxa básica de juros.",
-    "Durante evento do Bradesco Asset Management em São Paulo, Galípolo declarou que a instituição continuará a definir os passos da política monetária reunião a reunião.",
-    "Segundo o presidente do BC, o mercado financeiro exibe apostas divergentes e expectativas opostas para um mesmo indicador econômico, refletindo o grau incerto do cenário.",
-    "Galípolo explicou que bancos centrais internacionais também têm evitado antecipar decisões sobre os juros devido ao momento global e que fornecer direcionamentos hoje traria um impacto negativo.",
-    "O dirigente defendeu a preservação do atual modelo de política monetária brasileiro, usado globalmente, em meio ao debate gerado por uma proposta do economista André Lara Resende sobre a dívida pública.",
-    "A proposta de Lara Resende sugere um novo arranjo fiscal e monetário com um Conselho Fiscal e Monetário Nacional, metas de quatro a cinco anos e tetos para os juros, mas o Ministério da Fazenda negou avaliação do tema.",
-    "Galípolo afirmou respeitar debates sobre a política econômica, porém descartou discussões no governo ou no BC sobre alterações no regime de metas para a inflação e refutou a realização de experimentos."
+    "O presidente do Banco Central, Gabriel Galípolo, declarou nesta quarta-feira (11), em São Paulo, que o cenário econômico atual é marcado por elevadas incertezas.",
+    "Durante evento promovido pelo Bradesco Asset Management, Galípolo afirmou que a instituição definirá os rumos da taxa básica de juros reunião a reunião.",
+    "Segundo Galípolo, o mercado financeiro exibe expectativas divergentes e há um pedido por sinalizações, mas o valor presente de entregar um guidance é negativo.",
+    "O presidente do BC ressaltou que a cautela não é exclusiva do Brasil e que bancos centrais estrangeiros também evitam antecipar suas próximas decisões de juros.",
+    "Galípolo defendeu que o modelo de política monetária brasileiro seja preservado e negou a existência de discussões sobre mudanças no regime de metas de inflação.",
+    "A manifestação ocorre após repercussão de artigo de André Lara Resende, que propõe novo arranjo entre políticas fiscal e monetária e um Conselho Fiscal e Monetário."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/11/galipolo-decisoes-sobre-juros.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0340c88a5e6e.webp"
   },
   {
    "titulo": "Associações de saúde criticam possível alteração pelo Congresso de regras sobre matéria-prima para vapes e cigarros eletrônicos",
    "topicos": [
-    "Paulo Pimenta (PT‑RS), líder do governo na Câmara, inseriu na Medida Provisória das dívidas rurais um trecho que altera a lei da Anvisa para permitir a produção nacional de insumos usados em cigarros eletrônicos e vapes, restrita à exportação.",
-    "A MP, já aprovada na Câmara dos Deputados, será votada no Senado nesta quarta‑feira, 11, contendo o chamado “jabuti”, pois inclui assunto que não pertence ao tema original de renegociação de dívidas rurais.",
-    "A proposta modifica a lei de funcionamento da Anvisa, que atualmente, pela RDC 855/2024, proíbe em todo o território nacional a fabricação, importação, comercialização, distribuição, armazenamento, transporte, propaganda e uso de dispositivos eletrônicos para fumar (DEFs).",
-    "Organizações de saúde, como a ONG ACT Promoção de Saúde e a Sociedade Brasileira de Pneumologia e Tisiologia (SBPT), alertam que a mudança gera insegurança jurídica e pode abrir caminho para a legalização e comercialização dos dispositivos no Brasil.",
-    "Cristina Peres, analista da ONG, afirma que a inclusão na MP pode “mudar completamente” as regras vigentes desde 2009, permitindo a venda dos dispositivos e representando risco à saúde pública, sobretudo para jovens.",
-    "Pimenta justificou a medida como pedido de produtores nacionais, garantindo que a Anvisa continuará responsável por decidir sobre a comercialização interna, que permanece proibida no país.",
-    "As entidades pedem debate amplo e transparente e alertam que a proposta pode ser contestada judicialmente por violar a política de controle do tabaco e da nicotina."
+    "O líder do governo na Câmara, Paulo Pimenta (PT‑RS), inseriu na MP das dívidas rurais um trecho que altera a lei de funcionamento da Anvisa para autorizar a produção nacional de insumos de cigarros eletrônicos e vapes, atualmente proibidos no Brasil.",
+    "A MP, já aprovada na Câmara, será votada no Senado nesta quarta‑feira, 11 de novembro, e o acréscimo foi descrito como “jabuti”, pois foge do tema original de renegociação de dívidas rurais.",
+    "Segundo Pimenta, a mudança permite a fabricação desses insumos apenas para exportação, mantendo a Anvisa com competência para decidir sobre a comercialização interna, que permanece proibida.",
+    "A RDC 855/2024 da Anvisa proíbe em todo o território nacional a fabricação, importação, comercialização, distribuição, armazenamento, transporte, propaganda e uso de dispositivos eletrônicos para fumar (DEFs).",
+    "Organizações como a ONG ACT Promoção de Saúde e a Sociedade Brasileira de Pneumologia e Tisiologia (SBPT) alertam que a inclusão do tema cria insegurança jurídica, pode abrir caminho para a legalização dos dispositivos e representa retrocesso na política de controle do tabaco.",
+    "As entidades pedem debate amplo e transparente, temendo que a alteração enfraqueça a atuação da Anvisa e aumente riscos à saúde pública, especialmente entre jovens, devido à dependência e aos sabores atrativos."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/11/associacoes-de-saude-criticam-alteracao-pelo-congresso-de-regras-sobre-materia-prima-para-vapes-e-cigarros-eletronicos.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/2c81ee9db550.webp"
   },
   {
    "titulo": "Vendas do varejo caem 4% em outubro e registram pior resultado para o mês desde 2023",
    "topicos": [
-    "As vendas do varejo brasileiro registraram queda real de 4,0% em outubro de 2026 frente a outubro de 2025, de acordo com o Índice Cielo do Varejo Ampliado (ICVA). Este foi o pior resultado para o mês de outubro desde 2023, quando a retração havia sido de 4,1%.",
-    "O faturamento real acumula recuo pelo 17º mês seguido na comparação anual, sequência iniciada em junho de 2025. No entanto, houve leve abrandamento em relação a setembro, mês em que o recuo havia atingido 4,2%.",
-    "Os bens duráveis e semiduráveis despencaram 8,9%, com forte peso de óticas, joalherias e materiais de construção, enquanto o setor de serviços encolheu 8,5%, influenciado por turismo, transporte e autopeças. Já os bens não duráveis tiveram a menor baixa, de 0,7%.",
-    "Todas as cinco regiões brasileiras apresentaram queda no faturamento real, lideradas pelo Centro-Oeste com 5,4% de retração, seguido pelo Sudeste (5,2%), Nordeste (3,5%), Norte (2,3%) e Sul (0,8%).",
-    "No e-commerce, o faturamento nominal caiu 0,5% em outubro de 2026 na comparação interanual, enquanto o varejo físico registrou alta nominal de 1,9%, considerando valores antes do desconto da inflação.",
-    "O IPCA-15 subiu 0,3% em outubro, desacelerando frente ao avanço de 0,7% de setembro, e acumulou alta de 4,6% em 12 meses. O grupo de alimentação e bebidas destacou-se com a maior alta de preços, de 0,9%."
+    "As vendas do varejo brasileiro registraram queda real de 4,0% em outubro de 2026 frente a outubro de 2025, de acordo com o Índice Cielo do Varejo Ampliado (ICVA). Este foi o pior desempenho para o mês de outubro desde 2023, quando a retração atingiu 4,1%.",
+    "O faturamento real acumulou o 17º mês consecutivo abaixo do patamar de um ano antes, embora a queda de outubro tenha perdido intensidade em relação aos 4,2% de recuo registrados em setembro de 2026.",
+    "O grupo de duráveis e semiduráveis despencou 8,9%, com destaque negativo para óticas, joalherias e materiais de construção. O setor de serviços caiu 8,5%, influenciado por turismo, transporte, autopeças e serviços automotivos.",
+    "Os bens não duráveis tiveram a menor queda, de 0,7%, impulsionados positivamente pelo varejo alimentício especializado, ao passo que livrarias e papelarias lideraram as perdas no segmento.",
+    "Todas as cinco regiões apresentaram recuo no faturamento real em outubro de 2026: Centro-Oeste caiu 5,4%, Sudeste 5,2%, Nordeste 3,5%, Norte 2,3% e Sul registrou 0,8% de baixa.",
+    "No e-commerce, o faturamento nominal caiu 0,5% em outubro de 2026 na comparação anual, enquanto o varejo físico obteve alta nominal de 1,9% no mesmo período."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/noticias-varejo/vendas-do-varejo-caem-4-em-outubro-e-registram-pior-resultado-para-o-mes-desde-2023/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a278a86e4948.webp"
   },
   {
    "titulo": "Inadimplência de cartão de crédito no BB atinge 16,35% no 3º trimestre",
    "topicos": [
-    "A inadimplência na carteira de cartão de crédito para pessoas físicas no Banco do Brasil alcançou 16,35% no terceiro trimestre de 2026, considerando atrasos superiores a noventa dias.",
-    "O indicador de calotes nessa modalidade disparou quase oito pontos percentuais em doze meses, saindo de 8,89% em setembro de 2025 para o patamar atual.",
-    "No encerramento de setembro de 2026, a carteira de cartão de crédito do banco somou R$ 68,46 bilhões, registrando queda trimestral de 2,1% e alta anual de 7,2%.",
-    "A composição da carteira de cartões em setembro era formada por 76,8% de compras à vista e parceladas sem juros, 19,5% de parceladas com juros e 3,8% de crédito rotativo.",
-    "A inadimplência geral para pessoas físicas acima de noventa dias ficou em 9,14%, enquanto o índice para todas as operações do banco fechou setembro em 6,08%.",
-    "No acumulado dos primeiros nove meses de 2026, o Banco do Brasil registrou um lucro líquido ajustado de R$ 8,6 bilhões, sendo R$ 1,27 bilhão obtido no terceiro trimestre."
+    "O Banco do Brasil encerrou o terceiro trimestre de 2026 com uma taxa de inadimplência acima de 90 dias de 16,35% na carteira de cartão de crédito para pessoas físicas, conforme relatório de desempenho.",
+    "O indicador de calotes no cartão de crédito saltou quase 8 pontos percentuais em um ano, visto que a taxa era de 8,89% em setembro de 2025 e atingiu 14,58% em junho de 2026.",
+    "Considerando todas as linhas de crédito para pessoas físicas no mesmo período, a inadimplência superior a 90 dias ficou em 9,14%, puxada pelo avanço do cartão.",
+    "Em setembro, as demais modalidades registraram índices bem inferiores: financiamento de veículos com 3,17%, financiamento imobiliário com 2,75% e crédito consignado com 2,39%.",
+    "A carteira de cartão de crédito do banco somou R$ 68,46 bilhões ao final de setembro, o que representa queda trimestral de 2,1%, mas alta de 7,2% em 12 meses.",
+    "No total de todas as operações da instituição, incluindo empresas e agronegócio, a inadimplência acima de 90 dias fechou setembro em 6,08%, ante 5,61% em junho e 4,51% um ano antes.",
+    "O Banco do Brasil reportou lucro líquido ajustado de R$ 8,6 bilhões no acumulado dos primeiros 9 meses do ano, sendo R$ 1,27 bilhão referente exclusivamente ao terceiro trimestre."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/inadimplencia-de-cartao-de-credito-no-bb-atinge-1635-no-3o-trimestre/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/1fdb4bb08c4e.webp"
   },
   {
    "titulo": "Ajuste fiscal pode ser votado nesta quinta-feira",
    "topicos": [
-    "O Senado pode votar nesta quinta-feira (12), às 16h, o Projeto de Lei Complementar (PLP) 299/2026, focado no ajuste fiscal e no controle dos gastos públicos.",
-    "A sessão de quarta-feira (11) foi suspensa por Davi Alcolumbre após senadores da oposição criticarem a urgência da tramitação e pedirem mais tempo para análise.",
-    "O projeto, apresentado por Jaques Wagner e relatado por Eduardo Baga, tem impacto financeiro estimado entre R$ 50 bilhões e quase R$ 60 bilhões.",
-    "A partir de 2027, em anos com medidas de contenção fiscal, o crescimento real das despesas será limitado a 2% ao ano, substituindo o teto atual de 2,5%.",
-    "A proposta reduz incentivos tributários, limita compensações fiscais e autoriza o governo a desvincular até 40% de superávits vinculados, preservando saúde e educação.",
-    "Há previsão de espaço fiscal extraordinário em 2026 para pagar subvenção ao óleo diesel devido ao conflito no Oriente Médio, além de um prazo de 120 dias para regulamentar os supersalários."
+    "O Projeto de Lei Complementar (PLP) 299/2026, focado no ajuste fiscal e controle de gastos públicos, tem votação prevista no Senado para esta quinta-feira (12), às 16h.",
+    "O presidente do Senado, Davi Alcolumbre, declarou que a votação poderá ser transferida para a próxima semana caso as lideranças partidárias solicitem mais prazo.",
+    "A proposta tem impacto financeiro estimado entre R$ 50 bilhões e R$ 60 bilhões para 2027, devendo ser ainda maior nos anos seguintes.",
+    "A partir de 2027, o texto limita o crescimento real das despesas a 2% ao ano em períodos de contenção fiscal, substituindo o teto atual de 2,5%.",
+    "O projeto reduz benefícios fiscais, restringe compensações tributárias, amplia contingenciamentos e autoriza a desvincular até 40% de superávits de fundos."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/c1de14656409.webp"
   },
   {
    "titulo": "Ministro do Planejamento anuncia na CMO ajuste fiscal de R$ 60 bi em 2027",
    "topicos": [
-    "O ministro do Planejamento e Orçamento, Bruno Moretti, defendeu na quarta-feira (11) na Comissão Mista de Orçamento (CMO) um ajuste fiscal de R$ 60 bilhões para o ano de 2027.",
-    "O valor do ajuste equivale a pouco mais de um quarto das despesas não obrigatórias de todo o Orçamento federal.",
-    "O líder do governo, senador Jaques Wagner (PT-BA), apresentou o PLP 299/2026 após a reunião, propondo medidas para conter despesas, ampliar a arrecadação e controlar contas públicas.",
+    "O ministro do Planejamento e Orçamento, Bruno Moretti, defendeu na quarta-feira (11/11/2026), em audiência na Comissão Mista de Orçamento (CMO), um ajuste fiscal de R$ 60 bilhões para o ano de 2027.",
+    "O projeto de lei complementar (PLP 299/2026), apresentado pelo líder do governo Jaques Wagner (PT-BA) após a reunião, propõe medidas para controlar contas públicas, conter gastos e ampliar a arrecadação federal.",
     "A partir de 2027, nos anos com medidas de contenção fiscal, o crescimento real das despesas será limitado a 2% ao ano, substituindo o teto atual de 2,5%.",
-    "A dívida pública prevista deve alcançar 87,8% do PIB em 2029 antes de cair, enquanto o Orçamento de 2027 (PLN 24/2026) projeta um superávit de R$ 83,4 bilhões.",
-    "Uma das regras é retirar receitas extras de petróleo das contas dos pisos de saúde e educação, com pisos previstos de R$ 272,2 bilhões para a saúde e R$ 141,2 bilhões para a educação em 2027."
+    "O Orçamento de 2027 (PLN 24/2026) projeta um superávit de R$ 83,4 bilhões e prevê que a dívida pública alcance 87,8% do PIB em 2029 antes de começar a cair.",
+    "Uma das mudanças é a retirada de receitas extras de petróleo dos cálculos dos pisos da saúde e da educação, que têm previsão de R$ 272,2 bilhões e R$ 141,2 bilhões, respectivamente, em 2027."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ministro-do-planejamento-anuncia-na-cmo-ajuste-fiscal-de-r-60-bi-em-2027",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/6040506a71de.webp"
   },
   {
    "titulo": "Shopee registra alta de 90% nas vendas na semana que antecede o 11.11",
    "topicos": [
     "A Shopee teve um aumento de 90% no volume de vendas entre os dias 5 e 10 de novembro, em comparação ao período pré-Black Friday de 2025.",
-    "O crescimento foi impulsionado pela busca por produtos de maior ticket médio, como smartphones, TVs, geladeiras, freezers e scooters, além de itens sazonais.",
-    "Segundo pesquisa da plataforma, 86% dos consumidores planejam realizar compras durante o evento 11.11 e/ou a Black Friday.",
-    "Nas primeiras horas do 11.11, os acessos cresceram mais de 40%, impulsionados por R$ 25 milhões em cupons e frete grátis sem valor mínimo.",
-    "O ticket médio por item subiu 18% ante as primeiras horas da Black Friday de 2025, com destaques para Casa, Eletrônicos, Beleza, Esportes e Lazer e Casa & Construção.",
-    "O Pix foi o meio de pagamento preferido por 52% dos compradores nas primeiras horas do 11.11, enquanto o cartão de crédito somou 35% das transações."
+    "O crescimento foi impulsionado pela busca de produtos com maior ticket médio, a exemplo de smartphones, televisores, geladeiras, freezers e scooters.",
+    "Artigos sazonais como ar-condicionado e itens de decoração natalina, incluindo árvores de Natal e piscas-piscas, também se destacaram nas buscas.",
+    "Uma pesquisa realizada pela plataforma apontou que 86% dos consumidores pretendem realizar compras durante o 11.11 e/ou a Black Friday.",
+    "Nas primeiras horas do evento 11.11, a empresa ofertou R$ 25 milhões em cupons de desconto e vouchers de frete grátis sem valor mínimo exigido.",
+    "O início do 11.11 registrou avanço superior a 40% nos acessos, com destaque para as categorias de Casa, Eletrônicos, Beleza, Esportes e Lazer e Casa & Construção.",
+    "O Pix foi o meio de pagamento preferido por 52% dos compradores nas primeiras horas do 11.11, ao passo que o cartão de crédito representou 35% das transações."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/ecommerce/shopee-registra-alta-de-90-nas-vendas-na-semana-que-antecede-o-11-11/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7060f159b241.webp"
   },
   {
    "titulo": "Reforma tributária: governo apresentará texto para facilitar adaptação",
    "topicos": [
-    "O governo federal enviará ao Congresso Nacional uma proposta de regra opcional de transição para a cobrança da nova Contribuição sobre Bens e Serviços (CBS). O anúncio foi feito em Brasília, nesta quarta-feira, 11, pelo secretário especial da Receita Federal, Robinson Barreirinhas.",
-    "A medida permitirá que as empresas calculem o imposto por meio de uma estimativa nos primeiros meses de vigência do novo sistema e façam ajustes posteriores, facilitando a adaptação ao modelo de crédito vinculado e ao split payment.",
-    "A emissão de documentos fiscais sob as novas normas começará em janeiro de 2027. Na apuração inicial da CBS, prevista para fevereiro, o contribuinte poderá usar a estimativa de créditos, corrigindo eventuais diferenças no mês seguinte.",
-    "A primeira versão da regulamentação recebeu quase 5 mil sugestões de melhoria enviadas por Estados, municípios, entidades empresariais e contadores, e uma nova versão será publicada em breve.",
-    "A partir das novas regras, os tributos pagos em máquinas, equipamentos, imóveis e bens de capital gerarão créditos tributários imediatos, reduzindo os custos de investimentos e a retenção de recursos.",
-    "O ressarcimento de créditos acumulados, que atualmente pode levar até um ano, passará a ser processado em prazos de 30, 60 ou 90 dias, conforme o nível de conformidade do empresário."
+    "O governo federal enviará ao Congresso Nacional um projeto para estabelecer uma regra transitória na cobrança da Contribuição sobre Bens e Serviços (CBS), o novo imposto federal da reforma tributária. O anúncio ocorreu nesta quarta-feira, 11, pelo secretário especial da Receita Federal, Robinson Barreirinhas, em entrevista coletiva no Ministério da Fazenda, em Brasília.",
+    "A iniciativa viabilizará que as companhias efetuem um cálculo presumido do imposto nos meses iniciais do novo modelo e façam acertos posteriores, atenuando os desafios de adaptação. A medida opcional visa garantir segurança jurídica durante a migração para o sistema de crédito vinculado ao pagamento e ao split payment.",
+    "A emissão de documentos fiscais sob o novo padrão começará em janeiro de 2027 pelas empresas. Na primeira apuração da CBS, agendada para fevereiro, o pagador de impostos poderá calcular a exação baseando-se em uma projeção dos créditos devidos, compensando eventuais divergências no mês subsequente.",
+    "O modelo funcionará como alternativa para quem estiver em adaptação até que o split payment esteja integralmente operante entre firmas. A regulamentação do tema foi construída em parceria com estados, municípios, entidades empresariais e profissionais contábeis, recebendo cerca de 5 mil sugestões para a primeira versão.",
+    "Tributos pagos na aquisição de máquinas, equipamentos, imóveis e bens de capital originarão créditos imediatos, substituindo a recuperação gradual que atualmente pode durar anos. Essa dinâmica permitirá que indústrias com grandes investimentos fiquem períodos sem pagar CBS, cortando custos e a imobilização de recursos.",
+    "O ressarcimento de créditos acumulados, que atualmente pode levar até um ano, passará a ser liquidado em prazos de 30, 60 ou 90 dias, variando conforme a conformidade do empresário. Além disso, o Imposto sobre Produtos Industrializados (IPI) terá alíquota zerada para a maioria dos itens, mantendo incidência apenas para preservar a Zona Franca de Manaus."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/economia/reforma-tributaria-governo-apresentara-texto-para-facilitar-adaptacao/",
-   "categoria": "Política"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/1af8a682aa95.webp"
   },
   {
    "titulo": "Malévola e outros influenciadores que divulgavam bets têm contas derrubadas no Instagram após pedido do governo",
    "topicos": [
-    "Contas de influenciadores digitais que promoviam apostas ilegais foram removidas do Instagram nesta quarta-feira (11), após solicitação enviada pelo governo federal à Meta na última segunda-feira (9).",
-    "O pedido do Ministério da Justiça e Segurança Pública (MJSP) envolveu a derrubada de 348 perfis na rede social que acumulavam mais de 150 milhões de seguidores, atingindo nomes como Merianne Silva, Malévola, Nayara Souza, Italo Wendel e Jéssica Santos.",
-    "A ação faz parte de uma ofensiva do governo para bloquear a divulgação de plataformas clandestinas de apostas, jogos online e cassinos virtuais por criadores de conteúdo e redes sociais.",
-    "Em 25 de setembro, o governo publicou uma Medida Provisória que proibiu a exploração, a oferta, a intermediação e a publicidade de apostas de quota fixa, jogos online e cassinos virtuais no Brasil.",
-    "O monitoramento realizado pelo Ciberlab já ultrapassou 60 mil alvos relacionados a apostas irregulares, incluindo mais de 51 mil sites, milhares de páginas no Facebook e no Instagram, além de grupos no Telegram e perfis no TikTok."
+    "Na quarta‑feira (11), o Instagram retirou contas de influenciadores que divulgavam apostas ilegais após solicitação do Ministério da Justiça e Segurança Pública.",
+    "Na segunda‑feira (9), o MJSP pediu à Meta a remoção de 348 perfis de influenciadores no Instagram, que somam mais de 150 milhões de seguidores; um dos alvos tinha 1,4 milhão de seguidores.",
+    "Entre os afetados estão Merianne Silva (perdeu conta de 1,2 milhão de seguidores), Malévola, Nayara Souza (1,4 milhão), Italo Wendel – Belo Belo (1,8 milhão), Jéssica Santos (1,2 milhão) e o ex‑BBB Paulo Augusto.",
+    "A medida segue a MP nº 1.394, publicada em 25 de setembro, que proíbe a exploração, oferta, intermediação e publicidade de apostas de quota fixa, jogos online e cassinos virtuais no Brasil.",
+    "O monitoramento, realizado pela Sedigi e Senasp via Ciberlab, já identificou mais de 60 mil ativos digitais ligados a apostas irregulares desde 25 de setembro, incluindo 51 611 sites, 6 596 páginas no Facebook (34 milhões de seguidores), mais de 900 perfis no Instagram, 1 442 grupos no Telegram (25,6 milhões de participantes) e 127 perfis no TikTok (469 mil seguidores).",
+    "Em 25 de setembro, foram detectadas 2 207 páginas no Facebook (7,5 milhões de audiência), 18 grupos no Telegram (182 mil participantes) e 998 sites de apostas; em 29 de setembro, o Ministério solicitou o bloqueio de 5 209 sites e a remoção de 186 aplicativos das lojas da Apple e Google.",
+    "O Ministério afirma que a ofensiva visa impedir que plataformas clandestinas usem influenciadores para captar novos apostadores, protegendo a renda das famílias; a Meta ainda não respondeu ao pedido de remoção das contas."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/influenciadores-que-divulgavam-bets-tem-contas-derrubadas-no-instagram-apos-pedido-do-governo.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/8a0e12204a0a.webp"
   },
   {
    "titulo": "Azzas 2154 tem lucro líquido recorrente de R$ 190,6 mi no 3T, queda anual de 5,3%",
    "topicos": [
-    "A Azzas 2154 (AZZA3) registrou lucro líquido recorrente de R$ 190,6 milhões no terceiro trimestre de 2026, o que representa uma queda de 5,3% frente a igual período do ano passado.",
-    "O lucro líquido contábil da companhia somou R$ 177,7 milhões no trimestre, registrando uma alta de 7,8% na comparação anual.",
-    "O Ebitda recorrente totalizou R$ 466,4 milhões com recuo de 2,2%, enquanto a receita líquida somou R$ 2,844 bilhões, uma retração de 4,2%.",
-    "A margem Ebitda avançou 0,3 ponto porcentual para 16,4% e a margem bruta recorrente atingiu 56,8%, uma expansão de 2,1 pontos porcentuais impulsionada pela redução de descontos.",
-    "A receita bruta das marcas continuadas somou R$ 3,581 bilhões, queda de 3,6%, com o e-commerce recuando 7,8% e as lojas próprias crescendo 0,8%.",
-    "A dívida líquida encerrou setembro em R$ 2,058 bilhões, com a alavancagem recuando para 1,48 vez, e os investimentos somaram R$ 111,8 milhões, alta de 2,5%.",
-    "Os resultados antecedem a cisão da empresa em Arezzo&Co e Grupo SOMA, anunciada em setembro, que já tem aval do Cade e depende de aprovações societárias."
+    "A Azzas 2154 (AZZA3) registrou lucro líquido recorrente de R$ 190,6 milhões no terceiro trimestre de 2026, representando uma queda anual de 5,3%. Já o lucro líquido contábil somou R$ 177,7 milhões, com alta de 7,8% na comparação com o mesmo período do ano passado.",
+    "O Ebitda recorrente totalizou R$ 466,4 milhões, com recuo anual de 2,2%, enquanto a receita líquida caiu 4,2% e somou R$ 2,844 bilhões.",
+    "A margem Ebitda avançou 0,3 ponto porcentual para 16,4% e a margem bruta recorrente subiu 2,1 pontos porcentuais para 56,8%, impulsionadas pela redução de descontos e foco em vendas a preço cheio.",
+    "A receita bruta das marcas continuadas recuou 3,6% para R$ 3,581 bilhões. O canal de e-commerce caiu 7,8%, as lojas próprias cresceram 0,8% e as franquias avançaram 1,5%, impulsionadas pela alta de 8,3% nas vendas para franqueados da Hering.",
+    "A geração de caixa operacional atingiu R$ 385,2 milhões, alta de 39,6%, enquanto a dívida líquida encerrou setembro em R$ 2,058 bilhões, com a alavancagem recuando para 1,48 vez e investimentos de R$ 111,8 milhões no trimestre."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/azzas-2154-azza3-resultados-terceiro-trimestre-2026/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5df38fa62225.webp"
   },
   {
    "titulo": "Papa Leão XIV chega ao Peru, sua 'segunda pátria', na última etapa do tour pela América do Sul",
    "topicos": [
-    "O papa Leão XIV chegou a Lima, Peru, na noite de quarta‑feira, 11 de novembro de 2026, marcando sua primeira visita ao país desde a eleição em maio de 2025; foi recebido pela presidente Keiko Fujimori.",
-    "Na mesma quarta‑feira, o pontífice esteve na Argentina, onde celebrou missa campal para mais de 2 milhões de fiéis no Santuário de Nossa Senhora de Luján, com o presidente Javier Milei visivelmente emocionado ao se despedir.",
-    "Nascido Robert Francis Prevost em Chicago, EUA, ele possui cidadania peruana e viveu cerca de 20 anos no Peru, atuando como missionário e bispo, o que torna o país sua “segunda pátria”.",
-    "Sua relação com o Peru começou em 1984 como missionário da Ordem de Santo Agostinho; foi nomeado administrador da Diocese de Chiclayo em 2014, recebeu a cidadania peruana e foi ordenado bispo em 2015, cargo que manteve até 2023, enfrentando enchentes de 2017 e a pandemia de Covid‑19.",
-    "Dois dias antes da chegada, Callao inaugurou uma estátua de 14 metros de altura em homenagem ao papa, considerada o maior monumento mundial dedicado a um pontífice, em 9 de novembro de 2026.",
-    "A visita faz parte de uma turnê sul‑americana de 12 dias iniciada em 6 de novembro, que já passou por Uruguai e Argentina; no Peru, a agenda inclui Lima, Callao, Chiclayo, Cusco e Pucallpa, com encontros religiosos, institucionais e atividades comunitárias.",
-    "Antes de ser eleito papa, Prevost foi prefeito do Dicasterio para os Bispos e presidente da Comissão Pontifícia para a América Latina; em seu primeiro discurso como pontífice, interrompeu o italiano para cumprimentar em espanhol os fiéis de Chiclayo."
+    "O papa Leão XIV desembarcou em Lima, no Peru, na noite de quarta-feira (11), para sua primeira visita ao país desde que assumiu a liderança da Igreja Católica em maio de 2025.",
+    "O pontífice foi recebido pela presidente peruana Keiko Fujimori, dando início à última etapa de um giro de 12 dias pela América do Sul iniciado em 6 de novembro.",
+    "Nascido em Chicago, nos Estados Unidos, e batizado como Robert Francis Prevost, o papa possui cidadania peruana e morou cerca de 20 anos no país como missionário e bispo.",
+    "A relação do pontífice com o Peru começou em 1984 pela Ordem de Santo Agostinho, tendo atuado como administrador e bispo da Diocese de Chiclayo entre 2014 e 2023.",
+    "Antes de chegar ao território peruano, o papa passou pelo Uruguai e pela Argentina, onde celebrou uma missa campal para mais de 2 milhões de pessoas no Santuário de Nossa Senhora de Luján.",
+    "A agenda no Peru contempla compromissos institucionais e religiosos com comunidades locais em Lima, Callao, Chiclayo, Cusco e Pucallpa.",
+    "Em antecipação à visita, a cidade portuária de Callao inaugurou em 9 de novembro de 2026 uma estátua de 14 metros de altura em homenagem ao pontífice, considerada a maior do mundo dedicada a um papa."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/papa-leao-xiv-chega-ao-peru-sua-segunda-patria.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a43096b13ec1.webp"
   },
   {
    "titulo": "Comerciários de SP e RS fecham acordo para reduzir a escala 6×1 para 5×2",
    "topicos": [
-    "Os sindicatos dos comerciários de São Paulo e de Porto Alegre fecharam acordos coletivos com o setor empresarial para encerrar a escala 6x1 a partir de dezembro, conforme a PEC 141.",
-    "A medida afeta cerca de 700 mil trabalhadores nas duas capitais, abrangendo 100 mil empregados e 30 mil estabelecimentos somente em Porto Alegre.",
-    "Em São Paulo, a jornada cai para 42 horas semanais a partir de 16 de dezembro, permitindo modelos como 5x2 e 4x3 em setores como supermercados e comércio de calçados e automóveis.",
-    "Em Porto Alegre, a jornada passa para 42 horas semanais em 16 de dezembro de 2026 e para 40 horas semanais em dezembro de 2027, sem redução de salários.",
-    "A partir de 1º de dezembro deste ano, Porto Alegre institui banco de descanso remunerado, garantindo duas folgas nas semanas de pico de Natal e Ano Novo, exigindo 8 folgas mensais no total.",
-    "O ministro Flávio Dino, do STF, informou que decidirá até sexta-feira, dia 13, regras para remover amarras e facilitar a negociação coletiva, sem flexibilizar o fim da escala 6x1."
+    "Os sindicatos dos comerciários de São Paulo e Porto Alegre firmaram acordos coletivos com o setor empresarial para encerrar a escala 6x1, afetando cerca de 700 mil trabalhadores nas duas regiões.",
+    "A mudança ocorre com base na PEC 141, promulgada pelo Congresso em 16 de outubro, mesmo após a CNC acionar o STF para tentar adiar a implementação para dezembro de 2027.",
+    "Na capital paulista, a escala 5x2 e a jornada de 42 horas semanais entram em vigor em 16 de dezembro, atingindo supermercados, atacado, carnes, calçados, automóveis e aço, permitindo modelos flexíveis como 5x2 e 4x3.",
+    "Em Porto Alegre, o acordo abrange 100 mil empregados e 30 mil estabelecimentos; a jornada cairá para 42 horas semanais em 16 de dezembro de 2026 e para 40 horas em dezembro de 2027, sem corte salarial.",
+    "Na capital gaúcha, um banco de descanso remunerado começa em 1º de dezembro deste ano, garantindo duas folgas remuneradas nas semanas de pico de vendas de Natal e Ano Novo, exigindo o total de 8 folgas mensais.",
+    "O ministro Flávio Dino, do STF, declarou que decidirá até esta sexta-feira, 13, regras para facilitar a negociação coletiva e dar segurança jurídica à emenda, afirmando que não flexibilizará a norma."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/economia/comerciarios-de-sp-e-rs-fecham-acordo-para-reduzir-a-escala-6x1-para-5x2/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/3448cc2f7b05.webp"
   },
   {
    "titulo": "Temu e Correios firmam acordo para ampliar operações logísticas no Brasil",
    "topicos": [
-    "A plataforma Temu e os Correios assinaram um Memorando de Entendimento para expandir a cooperação em logística e comércio eletrônico no Brasil.",
-    "O acordo prevê a análise de novas soluções de entrega e serviços logísticos voltados para empresas brasileiras do Programa de Vendedores Locais.",
-    "A parceria visa aproveitar a infraestrutura e a capilaridade dos Correios para dar suporte aos lojistas do marketplace e aprimorar a entrega aos consumidores.",
-    "A Temu iniciou suas atividades no Brasil em junho de 2024 e lançou o Programa de Vendedores Locais em setembro de 2025 para lojistas nacionais.",
-    "Segundo Emmanoel Schmidt Rondon, presidente dos Correios, a aliança cria novas oportunidades de negócios e consolida a estatal no e-commerce nacional."
+    "A varejista Temu firmou um Memorando de Entendimento com os Correios para expandir a cooperação logística e o comércio eletrônico no Brasil.",
+    "O acordo visa analisar soluções de entrega e serviços logísticos destinados a companhias brasileiras do Programa de Vendedores Locais da plataforma.",
+    "A parceria pretende aproveitar a infraestrutura e a capilaridade dos Correios para diversificar as opções de entrega e apoiar lojistas do marketplace.",
+    "A iniciativa integra a estratégia da Temu de consolidar sua atuação nacional mediante alianças com prestadores de serviços e empresas locais.",
+    "A Temu começou a operar no Brasil em junho de 2024 e introduziu o Programa de Vendedores Locais em setembro de 2025."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/logistica/temu-e-correios-firmam-acordo-para-ampliar-operacoes-logisticas-no-brasil/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2992969db909.webp"
   },
   {
    "titulo": "Produção de veículos no Brasil sobe 2,7% em outubro ante outubro de 2025, diz Anfavea",
    "topicos": [
-    "A produção nacional de veículos registrou alta de 2,7% em outubro, na comparação com igual mês de 2025, totalizando 254,5 mil unidades montadas entre carros de passeio, utilitários leves, caminhões e ônibus.",
-    "O balanço divulgado pela Anfavea nesta quarta-feira, 11, aponta que o volume produzido em outubro ficou 5,1% abaixo do registrado em setembro.",
-    "No acumulado dos dez primeiros meses do ano, a fabricação de veículos alcançou 2,42 milhões de unidades, o que representa um crescimento de 8% em relação ao mesmo período do ano passado.",
-    "As vendas internas somaram 265,5 mil unidades em outubro, alta de 1,8% ante outubro de 2025, mas com retração de 5,6% na comparação com setembro, evidenciando perda de fôlego no mercado doméstico.",
-    "As exportações totalizaram 29,1 mil veículos em outubro, sofrendo quedas expressivas de 28,3% frente ao mesmo mês de 2025 e de 26,9% em relação a setembro, totalizando 363,1 mil unidades no acumulado do ano.",
-    "A Anfavea apontou como preocupante a perda de espaço das montadoras brasileiras em mercados vizinhos para produtos da Ásia e do México, além da retração no mercado interno da Argentina.",
-    "O setor automotivo abriu 467 novas vagas de emprego em outubro, elevando o quadro total de funcionários das fábricas para 116,3 mil pessoas."
+    "A produção brasileira de veículos cresceu 2,7% em outubro, em comparação com o mesmo mês de 2025, totalizando 254,5 mil unidades montadas entre carros, utilitários, caminhões e ônibus.",
+    "O balanço divulgado pela Anfavea nesta quarta-feira, 11, aponta que a fabricação caiu 5,1% em relação a setembro, refletindo a perda de tração nas vendas internas e um resultado preocupante nas exportações.",
+    "No acumulado dos dez primeiros meses do ano, a indústria automobilística fabricou 2,42 milhões de veículos, registrando uma expansão de 8% frente a igual período do ano passado.",
+    "As vendas internas alcançaram 265,5 mil unidades em outubro, alta de 1,8% sobre o mesmo mês de 2025, mas com queda de 5,6% ante setembro, evidenciando a perda de fôlego do mercado.",
+    "As exportações somaram 29,1 mil unidades em outubro, o que representa um tombamento de 28,3% na comparação anual e de 26,9% em relação a setembro, acumulando baixa de 23,5% desde janeiro.",
+    "A Anfavea apontou preocupação com a perda de espaço das montadoras brasileiras em países vizinhos para produtos asiáticos e mexicanos, além da retração no mercado da Argentina, principal destino externo.",
+    "Apesar da retração comercial, o setor automobilístico abriu 467 postos de trabalho em outubro, alcançando um total de 116,3 mil funcionários empregados nas fábricas do país."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/economia/producao-de-veiculos-no-brasil-sobe-27-em-outubro-ante-outubro-de-2025-diz-anfavea/",
-   "categoria": "Varejo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/1e4776e0139c.webp"
   },
   {
    "titulo": "Irã ameaça atacar bases dos EUA na Europa se forem usadas contra o país",
    "topicos": [
-    "O chefe de segurança do Irã, Mohsen Rezaei, ameaçou nesta quarta-feira (11) atacar bases militares dos Estados Unidos localizadas na Europa e em outras regiões caso sejam usadas para bombardear o território iraniano.",
-    "Em entrevista ao canal libanês Al Mayadeen TV, em Teerã, Rezaei afirmou que o país poderá expandir os alvos para instalações militares americanas ainda não atingidas e até para ilhas consideradas fora do alcance de mísseis.",
+    "O chefe de segurança do Irã, Mohsen Rezaei, ameaçou nesta quarta-feira (11) atacar bases militares dos Estados Unidos na Europa e em outras regiões caso sejam usadas para ofensivas contra o território iraniano.",
+    "Durante entrevista em Teerã ao canal libanês Al Mayadeen TV, Rezaei afirmou que o país poderá alvejar instalações militares americanas ainda não atingidas e ilhas consideradas fora do alcance de mísseis.",
     "O conflito envolve o lançamento de mísseis e drones iranianos contra países da região, além da atuação de grupos armados aliados de Teerã no Líbano, no Iêmen e no Iraque.",
-    "Catar e Paquistão estão atuando na mediação de negociações para buscar o encerramento do conflito na região.",
-    "O governo do Irã exige que os Estados Unidos promovam o descongelamento de ativos e suspendam as sanções econômicas como condição para reabrir o Estreito de Ormuz, bloqueado desde o início dos confrontos e crucial para o comércio global de petróleo e gás.",
-    "Na terça-feira (10), o secretário de Estado americano, Marco Rubio, declarou que a pressão econômica sobre Teerã é intensa e que, no momento, dispensa uma operação militar em grande escala."
+    "Para reabrir o Estreito de Ormuz, bloqueado desde o início da guerra e estratégico para o petróleo e gás, o governo iraniano exige o descongelamento de ativos e a suspensão de sanções econômicas pelos EUA.",
+    "Catar e Paquistão atuam como mediadores nas negociações para encerrar o conflito, enquanto o secretário de Estado americano, Marco Rubio, descartou a necessidade de uma operação militar ampla devido à pressão econômica.",
+    "A derrota do Partido Republicano do presidente Donald Trump nas eleições de meio de mandato, ligada à impopularidade da guerra, parece ter reduzido as ameaças dos EUA de retomar os ataques ao Irã."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/ira-ameaca-atacar-bases-dos-eua-na-europa-se-forem-usadas-contra-o-pais.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/54dd2e621c4c.webp"
   },
   {
    "titulo": "Nova plataforma do MDIC identificará oportunidades de comércio com UE",
    "topicos": [
-    "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) lançou nesta terça-feira, 10, duas plataformas digitais para desburocratizar o comércio exterior e atrair investimentos, desenvolvidas em parceria com o Banco Interamericano de Desenvolvimento (BID).",
-    "A plataforma Conecta Brasil–União Europeia, hospedada no Portal Gov.br, foi criada para apoiar micro, pequenas e médias empresas a explorarem o mercado europeu de 27 países e 450 milhões de consumidores por meio do Acordo Mercosul–União Europeia.",
-    "A ferramenta do mercado europeu traduz o acordo em dados práticos sobre tarifas, cotas, regras de origem, compras governamentais, além de incluir a ExportAI, inteligência artificial que esclarece dúvidas sobre os benefícios comerciais usando o texto legal.",
-    "A segunda fase da Janela Única de Investimentos, em funcionamento desde março, ganhou novos serviços como a Área do Investidor para rastreamento de pedidos, login único pelo Gov.br e orientações para emissão de CPF e CNPJ para estrangeiros.",
-    "O Investimento Estrangeiro Direto (IED) no Brasil atingiu US$ 85 bilhões em 2025, o patamar mais elevado da década, e registrou um saldo de US$ 75,7 bilhões até setembro de 2026, conforme dados do Banco Central divulgados pelo MDIC.",
-    "Regulamentada pelo Decreto 12.615/2025, a Janela Única de Investimentos tem o terceiro módulo previsto para começar a ser desenvolvido pelo governo em 2027, com foco na expansão de serviços públicos e setores estratégicos da Nova Indústria Brasil."
+    "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) lançou nesta terça-feira, 10, duas plataformas digitais para simplificar o comércio exterior e atrair investimentos estrangeiros.",
+    "Desenvolvida em parceria com o Banco Interamericano de Desenvolvimento (BID), a plataforma Conecta Brasil–UE está disponível no Portal Gov.br para ajudar micro, pequenas e médias empresas a acessar o mercado europeu.",
+    "A ferramenta Conecta Brasil–UE traduz o Acordo Mercosul–União Europeia em dados práticos sobre tarifas, cotas, regras de origem e conta com a inteligência artificial ExportAI para tirar dúvidas.",
+    "A União Europeia abrange 27 nações e 450 milhões de consumidores, figurando como o segundo principal parceiro comercial do Brasil e mercado essencial para diversificar exportações.",
+    "O MDIC também apresentou a segunda fase da Janela Única de Investimentos, em funcionamento desde março, trazendo recursos como a Área do Investidor e orientações para emitir CPF e CNPJ estrangeiros.",
+    "O Investimento Estrongeiro Direto (IED) no Brasil atingiu US$ 85 bilhões em 2025, o patamar mais alto da última década, e registrou US$ 75,7 bilhões até setembro de 2026.",
+    "Instituída pelo Decreto 12.615/2025, a Janela Única de Investimentos prevê o início do terceiro módulo para 2027, visando integrar ainda mais sistemas públicos e privados."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/economia/nova-plataforma-do-mdic-identificara-oportunidades-de-comercio-com-ue/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a618175c0f56.webp"
   },
   {
    "titulo": "A acirrada disputa que levou democrata a se tornar 1º senador negro eleito pelo Mississippi em 140 anos",
    "topicos": [
     "O democrata Scott Colom venceu a eleição para o Senado pelo Mississippi, tornando-se o primeiro senador negro eleito no Estado em mais de 140 anos e o primeiro democrata no cargo desde 1982.",
-    "A disputa contra a então senadora republicana Cindy Hyde-Smith foi extremamente acirrada, sendo decidida por apenas alguns milhares de votos e exigindo mais de uma semana de contagem.",
-    "Colom obteve 49,2% dos votos, enquanto Hyde-Smith registrou 48,7% e um candidato independente alcançou 2,1%, segundo dados da CBS divulgados após o pleito.",
-    "Hyde-Smith reconheceu a derrota em um vídeo publicado na rede social X na noite de quarta-feira (11/11), parabenizando o vencedor e desejando-lhe boa sorte.",
-    "Com a vitória, a maioria democrata no Senado americano passou a ser de 55 cadeiras, em meio a um contexto de conquistas democratas em redutos republicanos nas eleições midterms.",
-    "Para alcançar o resultado, Colom realizou uma campanha agressiva visitando todos os 82 condados do Mississippi e apelidando sua oponente de \"Cindy Preços Altos\"."
+    "A disputa contra a então senadora republicana Cindy Hyde-Smith foi extremamente apertada, sendo decidida por apenas alguns milhares de votos e com o resultado divulgado mais de uma semana após o pleito.",
+    "Colom obteve 49,2% dos votos, enquanto Hyde-Smith alcançou 48,7% e um candidato independente somou 2,1%, segundo dados da emissora CBS.",
+    "A derrota ocorreu em um Estado historicamente conservador onde o presidente republicano Donald Trump havia vencido as eleições de 2024 por uma vantagem superior a 22 pontos percentuais.",
+    "Com a vitória e outras conquistas em redutos republicanos nas eleições de meio de mandato, os democratas ampliaram sua maioria no Senado para 55 cadeiras, além de assumirem o controle da Câmara.",
+    "Para alcançar o resultado, o promotor local Scott Colom realizou uma campanha agressiva visitando todos os 82 condados do Mississippi e apelidando sua rival de \"Cindy Preços Altos\"."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cq1k93r1j47vo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/208bc8190a57.webp"
   },
   {
    "titulo": "Americanas (AMER3) reverte lucro e registra prejuízo de R$ 352 milhões no 3º tri",
    "topicos": [
-    "A rede de varejo Americanas, que permaneceu em recuperação judicial até o mês de outubro, registrou um prejuízo líquido de R$ 352 milhões no terceiro trimestre deste ano, conforme balanço divulgado na quarta-feira em São Paulo.",
-    "O resultado financeiro atual reverte o lucro líquido positivo de R$ 367 milhões apurado pela companhia no mesmo período do ano anterior.",
-    "A geração de caixa da empresa, medida pelo Ebitda ajustado entre julho e setembro, somou R$ 52 milhões, apresentando forte queda em comparação aos R$ 558 milhões obtidos um ano antes.",
-    "Para enfrentar o processo de reestruturação, a companhia realizou a venda de ativos e o fechamento de unidades comerciais em território nacional.",
-    "A receita líquida da empresa alcançou R$ 2,97 bilhões no trimestre, registrando um crescimento de 10% no faturamento em relação ao mesmo período do ano passado, enquanto as vendas em mesmas lojas avançaram 7,3%."
+    "A rede de varejo Americanas, cuja saída da recuperação judicial ocorreu em outubro, divulgou seu balanço financeiro nesta quarta-feira em São Paulo.",
+    "A empresa registrou um prejuízo líquido de R$ 352 milhões no terceiro trimestre, revertendo o lucro positivo de R$ 367 milhões obtido no mesmo período do ano anterior.",
+    "O Ebitda ajustado, que mede a geração de caixa entre os meses de julho a setembro, somou R$ 52 milhões, ficando abaixo dos R$ 558 milhões apurados um ano antes.",
+    "A receita líquida da companhia atingiu R$ 2,97 bilhões no trimestre, representando um crescimento de 10% em relação ao faturamento registrado no mesmo intervalo do ano passado.",
+    "O desempenho financeiro da varejista também foi marcado por uma alta de 7,3% nas vendas em mesmas lojas, além de um processo anterior que envolveu o fechamento de unidades e a venda de ativos."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/americanas-amer3-resultados-terceiro-trimestre-2026/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7f0d067385a2.webp"
   },
   {
    "titulo": "“Uma parte do agro não quer pagar o Banco do Brasil”: CFO explica crise que derrubou o lucro do 3T26",
    "topicos": [
-    "O lucro líquido ajustado do Banco do Brasil caiu para uma faixa de R$ 9 bilhões a R$ 11 bilhões no acumulado de 2026, abaixo da projeção anterior de R$ 18 bilhões a R$ 22 bilhões.",
-    "O custo do crédito projetado para 2026 passou para a faixa de R$ 80 bilhões a R$ 83 bilhões, reflexo da deterioração da carteira de agronegócio.",
-    "O CFO Marco Geovanne Tobias afirmou que o problema envolve um comportamento de recusa de pagamento por parte de alguns produtores do setor rural, mesmo após o alongamento de dívidas.",
-    "A inadimplência e o risco de crédito afetaram o resultado do terceiro trimestre de 2026, quando o lucro do banco despencou 66,5% para R$ 1,3 bilhão.",
-    "O Banco do Brasil registrou 189 novos casos de recuperação judicial no terceiro trimestre, totalizando R$ 1,3 bilhão, e acionou o CNJ e a OAB para discutir a atuação de advogados.",
-    "Para o restante de 2026, o banco planeja restringir a concessão de crédito rural, elevando as exigências de garantias e focando em modalidades como o crédito consignado."
+    "O Banco do Brasil registrou queda de 66,5% no lucro do 3T26, que foi a R$ 1,3 bilhão, pressionado pela inadimplência no agronegócio e pelo aumento das provisões para crédito.",
+    "O CFO Marco Geovanne Tobias afirmou que parte dos produtores rurais de médio e grande porte, especialmente nas culturas de soja, milho e pecuária, tem deixado de pagar os empréstimos mesmo com ofertas de alongamento de dívida de até 9 a 10 anos.",
+    "O custo do crédito para 2026 foi revisado para uma faixa de R$ 80 bilhões a R$ 83 bilhões, e o guidance de lucro líquido ajustado caiu de R$ 18 bilhões a R$ 22 bilhões para R$ 9 bilhões a R$ 11 bilhões.",
+    "As despesas com risco de crédito passaram a equivaler a 81% da margem financeira bruta no 3T26, enquanto a participação do agro nas baixas para prejuízo subiu de 7% em 2023 para 45,6% até setembro de 2026.",
+    "O banco registrou 189 novos pedidos de recuperação judicial no 3T26, totalizando R$ 1,3 bilhão, e acionou o CNJ e a OAB para discutir o incentivo dessas medidas por advogados.",
+    "Diante do cenário, o Banco do Brasil reduziu a projeção da carteira rural para 2026, indicando retração de 3% a 1%, e planeja restringir a concessão de crédito no setor e focar em modalidades como o consignado público."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/uma-parte-do-agro-nao-quer-pagar-o-banco-do-brasil-cfo-explica-crise-que-derrubou-o-lucro-do-3t26-miql/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/ac4c8ece4ebb.webp"
   },
   {
    "titulo": "Banco do Brasil (BBAS3) corta projeção de lucro pela metade e acende alerta com custo do crédito; veja o que aconteceu",
    "topicos": [
-    "O Banco do Brasil (BBAS3) reduziu sua projeção de lucro líquido ajustado para 2026, esperando agora de R$ 9 bilhões a R$ 11 bilhões, o que representa quase a metade do piso anterior de R$ 18 bilhões a R$ 22 bilhões.",
-    "A revisão nas estimativas decorre de um resultado abaixo das expectativas no terceiro trimestre e de um alerta acendido em relação ao custo do crédito.",
-    "O custo do crédito projetado para o ano subiu de uma faixa de R$ 65 bilhões a R$ 70 bilhões para R$ 80 bilhões a R$ 83 bilhões, sendo que o indicador somava R$ 58,6 bilhões até setembro.",
-    "O ajuste no custo do crédito reflete a piora da inadimplência na carteira de agronegócios e o desempenho abaixo do esperado das renegociações de dívidas pela Medida Provisória nº 1.376/2026.",
-    "O cenário de maior risco levou o banco a adotar critérios prudentes na alocação de capital, revisando a projeção da carteira de crédito total de um crescimento de 0,5% a 4,5% para uma variação entre queda de 2% e estabilidade em 2026.",
-    "As projeções de expansão também caíram para pessoas físicas (de 6% a 10% para 0% a 2%) e empresas (de retração de 3% e alta de 1% para queda de 4% a 2%), enquanto o agronegócio passou para queda de 3% a 1%.",
-    "A margem financeira bruta teve a projeção de crescimento reduzida de 7% a 11% para 2,5% a 4,5%, após acumular expansão de 7,4% até o mês de setembro."
+    "O Banco do Brasil reduziu pela metade sua projeção de lucro líquido ajustado para 2026, passando a estimar um valor entre R$ 9 bilhões e R$ 11 bilhões.",
+    "A revisão do lucro ocorre após resultados abaixo das expectativas no terceiro trimestre e foi motivada pelo aumento nos custos do crédito.",
+    "A estimativa para o custo do crédito em 2026 subiu para uma faixa entre R$ 80 bilhões e R$ 83 bilhões, após já somar R$ 58,6 bilhões até setembro.",
+    "O aumento no risco decorre da piora na inadimplência da carteira de agronegócios e do baixo desempenho das renegociações da Medida Provisória nº 1.376/2026.",
+    "O banco adotou critérios mais prudentes de alocação de capital e revisou para baixo o crescimento da carteira de crédito total, prevendo variação entre queda de 2% e estabilidade para 2026."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-corta-projecao-de-lucro-pela-metade-e-acende-alerta-com-custo-do-credito-veja-o-que-aconteceu-miql/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/4481868ca0e9.webp"
   },
   {
    "titulo": "Prédio de 3 andares desaba na região do Brooklyn, em Nova York, e deixa 2 mortos e 17 feridos",
    "topicos": [
-    "Um prédio de três andares desabou nesta quarta-feira (11) por volta das 18h (horário de Brasília) no bairro de Flatbush, na região do Brooklyn, em Nova York.",
-    "O acidente deixou duas pessoas mortas e outras 17 feridas, sendo que quatro das vítimas estão internadas em estado grave.",
-    "As equipes de emergência atuaram no local para resgatar vítimas dos escombros, incluindo o resgate bem-sucedido de uma criança pequena.",
-    "A estrutura que cedeu parcialmente contava com um ponto comercial no térreo e quatro apartamentos nos andares superiores, tendo sido construída em 1930.",
-    "Autoridades apontam que uma obra realizada em um terreno vizinho, onde havia uma construção de um andar, pode ter provocado o desabamento.",
-    "O Departamento de Edificações municipal havia ordenado a interrupção de uma demolição no terreno vizinho em março, mas aplicou uma multa de US$ 10 mil após fiscais constatarem que a estrutura havia sido totalmente derrubada."
+    "Um prédio de três andares desabou nesta quarta-feira (11), por volta das 18h (horário de Brasília), no bairro de Flatbush, na região do Brooklyn, em Nova York.",
+    "O acidente resultou em duas mortes e 17 feridos, sendo que quatro das vítimas feridas encontram-se em estado grave, segundo a imprensa norte-americana.",
+    "A edificação desabada foi construída em 1930, contava com um ponto comercial no térreo e quatro apartamentos nos andares superiores, conforme a prefeitura local.",
+    "Autoridades apontam que uma obra localizada em um terreno vizinho pode ter provocado o desabamento parcial da estrutura residencial e comercial.",
+    "Em março, o Departamento de Edificações ordenou a paralisação de uma demolição no imóvel ao lado, mas fiscais constataram posteriormente que a estrutura foi totalmente derrubada.",
+    "A prefeitura aplicou uma multa de US$ 10 mil ao proprietário do terreno vizinho devido ao descumprimento da ordem de interrupção da demolição."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/predio-desaba-na-regiao-do-brooklyn-em-nova-york.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b11b733d5aa2.webp"
   },
   {
    "titulo": "Baic Arcfox T5 chega ao Brasil por R$ 219.990; SUV elétrico recarrega em 18 minutos",
    "topicos": [
     "A montadora chinesa BAIC anunciou na quarta-feira (11) o lançamento do SUV elétrico Arcfox T5 no mercado brasileiro por R$ 219.990, em versão única.",
-    "O veículo possui 4,76 metros de comprimento, 1,95 metro de largura, 1,65 metro de altura e motor dianteiro de 252 cv de potência e 32,63 kgfm de torque.",
-    "O utilitário conta com bateria de 64,8 kWh, autonomia de 362 km e suporta recarga rápida de até 210 kW, indo de 30% a 80% em 18 minutos.",
-    "A BAIC planeja lançar 10 veículos no Brasil até 2028, incluindo uma picape, construir uma fábrica local e abrir 150 pontos de venda até o final de 2027.",
-    "As operações serão divididas em três submarcas: BAIC para SUVs híbridos, Arcfox para crossovers e Stelato para modelos de luxo, esta última com operação própria."
+    "O veículo possui 4,76 metros de comprimento, 1,95 metro de largura, 1,65 metro de altura, bateria de 64,8 kWh e autonomia de 362 km divulgada pela fabricante.",
+    "O modelo aceita recarga rápida de até 210 kW, permitindo elevar a carga da bateria de 30% a 80% em um intervalo de 18 minutos.",
+    "O motor dianteiro do utilitário entrega 252 cv de potência, 32,63 kgfm de torque e aceleração de 0 a 100 km/h realizada em 8,8 segundos.",
+    "A BAIC planeja lançar 10 carros no Brasil até 2028, construir uma fábrica local e abrir 150 pontos de venda no país até o final de 2027.",
+    "Das 150 lojas previstas, 50 unidades já estão prontas e têm início de funcionamento programado para o mês de dezembro."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/carros/noticia/2026/11/11/baic-arcfox-t5.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/37cdf3aa846a.webp"
   },
   {
    "titulo": "Transatlântico é afundado na costa da Flórida para criar maior recife artificial do mundo",
    "topicos": [
-    "O transatlântico americano SS United States foi afundado nesta quarta-feira (11) no Golfo do México, a cerca de 40 km da costa de Destin, na Flórida, para se transformar no maior recife artificial do mundo.",
-    "O navio possui mais de 300 metros de comprimento, sendo aproximadamente 30 metros maior que o Titanic, e realizou mais de 800 viagens entre 1952 e 1969.",
-    "A embarcação afundou sem o uso de explosivos após equipes abrirem as válvulas de refrigeração, removerem mais de 400 vigias e realizarem grandes aberturas nos conveses.",
-    "O projeto, que custou cerca de US$ 13,5 milhões, visa atrair mergulhadores e entusiastas da pesca para a região, além de criar um habitat para a fauna marinha.",
-    "O navio repousará a 55 metros de profundidade, com seu ponto mais alto a 18 metros da superfície, superando o antigo recordista, um porta-aviões afundado há vinte anos em Pensacola.",
-    "Em sua história, o transatlântico transportou celebridades como John F. Kennedy, Marilyn Monroe, Salvador Dalí, Walt Disney e o jovem Bill Clinton, antes de passar mais de um quarto de século atracado na Filadélfia."
+    "O transatlântico americano SS United States foi afundado para se tornar o maior recife artificial do mundo e um destino turístico no Golfo do México.",
+    "A embarcação tem mais de 300 metros de comprimento, superando o Titanic em cerca de 30 metros, e realizou mais de 800 viagens entre as décadas de 1950 e 1960.",
+    "O afundamento ocorreu em uma quarta-feira (11), a aproximadamente 40 km de Destin, na costa noroeste da Flórida, a uma profundidade de 55 metros.",
+    "Para afundar o navio sem explosivos, equipes abriram válvulas de refrigeração, removeram mais de 400 vigias e criaram grandes aberturas nos conveses.",
+    "O projeto custou cerca de US$ 13,5 milhões e tem como objetivo atrair mergulhadores e entusiastas da pesca, além de criar um habitat marinho.",
+    "Ao longo de sua história operacional, que começou com a primeira travessia atlântica em 1952 e terminou em 1969, a embarcação transportou várias celebridades."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/11/transatlantico-e-afundado-em-frente-a-florida-para-criar-maior-recife-artificial-do-mundo.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/23cd9c005525.webp"
   },
   {
    "titulo": "O catolicismo 'de esquerda' que nasceu na América Latina nos anos 1960",
    "topicos": [
-    "A Teologia da Libertação surgiu na América Latina nos anos 1960, impulsionada pelo auge da Guerra Fria, por regimes autoritários e pelas transformações do Concílio Vaticano 2º (1962-1965).",
-    "A corrente prega a \"salvação integral\", unindo a fé cristã à justiça social e à opção preferencial pelos pobres, combatendo mazelas econômicas, sociais e históricas.",
-    "O padre peruano Gustavo Gutiérrez (1928-2024) sistematizou a teoria pela primeira vez em julho de 1968, em Chimbote, no Peru, e publicou a obra base em 1971.",
-    "A proposta ganhou contornos latino-americanos na Conferência Geral do Episcopado Latino-Americano, realizada na Colômbia entre o fim de agosto e o início de setembro de 1968.",
-    "A vertente integrou ferramentas de análise marxista para compreender dominações e classes, gerando desconfiança na cúpula do Vaticano e investigações na década de 1980, embora Gutiérrez nunca tenha sido punido formalmente."
+    "A Teologia da Libertação surgiu na América Latina nos anos 1960, a partir da atuação de padres e leigos em comunidades periféricas do Brasil e de outros países, no contexto da Guerra Fria e de regimes autoritários.",
+    "O fundador e sistematizador da corrente foi o padre peruano Gustavo Gutiérrez (1928-2024), que defendeu a salvação integral unindo a fé cristã à justiça social e à opção preferencial pelos pobres.",
+    "A proposta teológica ganhou contornos latino-americanos em julho de 1968, em encontro em Chimbote, no Peru, e foi consolidada na Conferência de Medellín, na Colômbia, entre o fim de agosto e o início de setembro de 1968.",
+    "Em 1971, Gutiérrez publicou a obra \"Teologia da Libertação: Perspetivas\", fortalecendo o movimento também no Brasil com a atuação do teólogo e frade Leonardo Boff.",
+    "A aproximação de autores da corrente com o pensamento marxista para analisar a exploração econômica gerou desconfiança e vigilância constante por parte da cúpula do Vaticano, incluindo investigações nos anos 1980 que acabaram arquivadas."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/c9vgrgyvyjg5o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/618e757b0fec.webp"
   },
   {
    "titulo": "O que colocar na mochila de emergência e por que você deve ter uma — preventivamente",
    "topicos": [
-    "No último fim de semana, uma publicação da Defesa Civil Nacional sobre um kit de emergência gerou pânico nas redes sociais, levando o órgão a esclarecer, no dia seguinte, que a recomendação é estritamente preventiva.",
-    "O Ministério da Integração e do Desenvolvimento Regional (MIDR) afirmou que o aviso não indica previsão de interrupção generalizada nos serviços. Órgãos estaduais, como os de São Paulo em 9 de novembro e do Rio Grande do Sul, também reforçaram que não há motivo para pânico ou est estoque de comida.",
-    "A recomendação internacional de manter suprimentos por 72 horas foi adotada em março do ano passado pela Comissão Europeia e, mais recentemente, pela Inglaterra com a campanha 'Be Ready', além de manuais na Alemanha.",
-    "O kit deve incluir alimentos não perecíveis como enlatados e biscoitos, power bank, lanterna com pilhas, itens de higiene, rádio a pilha, roupas, kit de primeiros socorros com itens conhecidos, e 2 litros de água potável por pessoa diariamente.",
-    "Também é recomendado incluir medicamentos de uso contínuo com receita, cópia de documentos e carteira de vacinação, além de dinheiro em espécie, escritura do imóvel e documentos pessoais guardados em pasta impermeável.",
-    "O prazo de 72 horas é estipulado porque esse é o tempo inicial em que os órgãos de defesa focam em resgates críticos e restabelecem serviços básicos de água, energia e acessos interrompidos por desastres.",
-    "Segundo especialistas, o kit deve ficar em local de fácil acesso para situações de saída rápida, funcionando de forma preventiva contra eventos extremos potencializados pelas mudanças climáticas, apagões e ataques cibernéticos."
+    "No último fim de semana, a Defesa Civil Nacional publicou orientações sobre um kit de emergência para atender necessidades básicas por até 72 horas, gerando susto e confusão na internet.",
+    "O Ministério da Integração e do Desenvolvimento Regional (MIDR) e órgãos estaduais esclareceram que o aviso tem caráter estritamente preventivo, reforçando que não há previsão de interrupção generalizada de serviços.",
+    "Na segunda-feira (9/11), a Defesa Civil de São Paulo declarou em vídeo que não é preciso ter pânico ou estocar comida, enquanto a Defesa Civil do Rio Grande do Sul destacou a importância de criar uma cultura de prevenção em casa.",
+    "Especialistas apontam que países como os da União Europeia, Alemanha e Reino Unido já adotam campanhas e manuais de preparação cidadã para enfrentar desastres naturais, pandemias e crises.",
+    "O kit deve incluir itens como alimentos não perecíveis, lanterna, pilhas, carregador portátil, rádio a pilha, produtos de higiene, mudas de roupa e 2 litros de água potável por pessoa ao dia.",
+    "A lista também exige documentos pessoais, dinheiro em espécie, escrituras em pasta impermeável, cópia de receitas e medicamentos de uso contínuo, lembrando de incluir apenas materiais de primeiros socorros que a pessoa saiba usar.",
+    "A reserva de três dias é recomendada porque esse é o prazo médio que os órgãos de defesa levam para restabelecer sistemas de água, energia e acessos, e focar nos resgates mais críticos após um desastre."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/cad3b41d24c0.webp"
   },
   {
    "titulo": "The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
    "topicos": [
-    "A revista britânica The Economist publicou um artigo de opinião nesta quarta-feira (11) defendendo a demissão ou renúncia de Jensen Huang, CEO da Nvidia.",
-    "O pedido ocorreu após o executivo admitir um caso extraconjugal com Alice Huang, ex-executiva da Megaspeed apontada por autoridades dos EUA como espiã chinesa.",
-    "A publicação argumenta que a permanência do CEO é insustentável e que o conselho da empresa deve afastá-lo devido à importância da companhia para a segurança nacional.",
-    "O jornal The New York Times revelou em outubro que a Megaspeed, sediada em Singapura, é suspeita de contrabandear chips avançados americanos para a China.",
-    "Desde 2022, o governo dos Estados Unidos mantém controles de exportação para limitar o acesso chinês aos semicondutores e equipamentos de produção da Nvidia.",
-    "A revista criticou autoridades americanas, incluindo o Departamento de Comércio comandado por Howard Lutnick, por permitirem vendas à empresa suspeita de contrabando."
+    "A revista britânica The Economist publicou um artigo de opinião na quarta-feira (11) pedindo a renúncia ou demissão de Jensen Huang, CEO da Nvidia.",
+    "O pedido ocorreu após o executivo admitir publicamente um caso extraconjugal com Alice Huang, mulher apontada por autoridades americanas como espiã da China.",
+    "Alice Huang é ex-executiva da Megaspeed, empresa de data centers de Singapura que é suspeita de ter sido usada para contrabandear chips americanos para a China.",
+    "No domingo, a Nvidia anunciou a abertura de uma investigação independente para apurar se o CEO foi alvo de uma operação de inteligência estrangeira.",
+    "Segundo o editorial, as posições anteriores de Huang defendendo regras flexíveis para exportação de chips e apoio a modelos chineses de código aberto agora geram suspeitas.",
+    "A revista argumenta que a saída do CEO é necessária para a segurança nacional dos Estados Unidos, criticando também a atuação do Departamento de Comércio dos EUA, comandado por Howard Lutnick."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/the-economist-caso-huang-nvidia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/efdb01d64a13.webp"
   },
   {
    "titulo": "Polícia divulga foto de pai de Meghan Markle após prisão",
    "topicos": [
-    "Thomas Markle, pai da duquesa Meghan Markle, foi preso novamente nesta terça-feira (10) nos Estados Unidos após romper a tornozeleira eletrônica que usava por determinação judicial.",
-    "Ele havia sido detido na semana passada sob suspeita de armazenar materiais de abuso sexual infantil, sendo liberado horas depois sob monitoramento eletrônico e obrigação de passar por avaliação mental.",
-    "Após romper o equipamento no início da madrugada de terça-feira, Thomas foi recapturado e ficou sob custódia federal aguardando audiência em um tribunal de Tampa, na Flórida, segundo o procurador Bill Essayli.",
-    "Investigações resultaram na apreensão de cerca de 78 itens em depósitos na região de Los Angeles, incluindo slides, negativos e livros com imagens suspeitas.",
-    "As denúncias iniciais foram publicadas em 23 de outubro pelo jornal britânico \"The Sun\", após material ser encontrado pelo outro filho dele, Thomas Markle Jr., na antiga residência do pai nas Filipinas.",
-    "Meghan Markle declarou estar profundamente abalada, afirmou saber das acusações desde 2018 e relatou ter cortado contato com o pai para proteger seus filhos Archie, de 7 anos, e Lilibet, de 5."
+    "Thomas Markle, pai da duquesa Meghan Markle, foi preso nos Estados Unidos nesta terca-feira (10) após romper a tornozeleira eletrônica que usava por determinacao judicial.",
+    "Ele havia sido detido na semana passada sob suspeita de armazenar materiais de abuso sexual infantil, sendo liberado horas depois sob monitoramento e ordem de avaliacao mental.",
+    "Apos romper o equipamento no inicio da madrugada de terca (10), ele foi recapturado e ficou sob custodia federal aguardando audiencia em um tribunal de Tampa, na Florida.",
+    "A investigacao resultou na apreensao de aproximadamente 78 itens, incluindo slides, negativos de filmes e livros em depositos na regiao de Los Angeles, apos denuncias iniciais em 23 de outubro.",
+    "A duquesa Meghan Markle declarou estar profundamente abalada, afirmou saber das acusacoes desde 2018 e informou que cortou contato com o pai e o afastou de seus filhos, Archie e Lilibet."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/policia-divulga-foto-de-pai-de-megham-markle-apos-prisao.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/ea5ec1f7ccb0.webp"
   },
   {
    "titulo": "Serviços recuam 0,1% em setembro; 10 especialistas alertam para risco de estagnação em 2027",
    "topicos": [
-    "O IBGE divulgou que o setor de serviços registrou queda de 0,1% em setembro em relação a agosto, e recuo anual de 0,1%, encerrando 29 meses consecutivos de resultados positivos.",
-    "Segundo a metodologia do IBGE, variações de até 0,1% são classificadas como estabilidade, embora a queda interrompa a sequência de alta dos últimos dois anos e meio.",
-    "Apesar da estagnação de volume, o faturamento nominal dos serviços avançou 6,4% no último ano, sinalizando pressão inflacionária nos preços dos serviços.",
-    "No primeiro semestre, as atividades de informação e comunicação cresceram 8%, muito acima dos 1,8% de expansão do conjunto dos serviços, destacando potencial de digitalização.",
-    "Dez especialistas alertam que juros elevados, inflação resistente, endividamento das famílias e incertezas fiscais podem gerar estagnação do setor em 2027, exigindo maior produtividade e investimento em tecnologia.",
-    "Eles ressaltam que a disponibilidade de crédito, estabilidade de preços e políticas fiscais mais favoráveis são cruciais para que o setor não se limite a gerar empregos sem impulsionar o PIB."
+    "O IBGE divulgou que o setor de serviços registrou queda de 0,1% em setembro, comparado a agosto, e recuo de 0,1% na comparação anual, encerrando 29 meses consecutivos de resultados positivos.",
+    "A variação de -0,1% foi considerada estabilidade pelo IBGE e foi influenciada principalmente pelos subsegmentos de transportes e de informação e comunicação.",
+    "Mesmo com o volume praticamente estagnado, o faturamento nominal dos serviços cresceu 6,4% em um ano, sinalizando pressão inflacionária nos preços.",
+    "No primeiro semestre, as atividades de informação e comunicação avançaram 8%, muito acima dos 1,8% de crescimento do conjunto dos serviços, indicando potencial da digitalização.",
+    "Dez especialistas – professores, analistas e CEOs – alertam que juros elevados, inflação resistente, endividamento das famílias e incertezas fiscais podem levar à estagnação do setor em 2027.",
+    "Eles apontam que a manutenção do desempenho dependerá de maior eficiência empresarial, integração de finanças, tecnologia e estratégia, além de políticas fiscais que permitam a redução dos juros.",
+    "Sem melhorias no crédito e na estabilidade macroeconômica, o setor poderá continuar gerando empregos, mas sem crescimento suficiente para impulsionar uma recuperação robusta do PIB."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/servicos/servicos-recuam-01-em-setembro-10-especialistas-alertam-para-risco-de-estagnacao-em-2027/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/d1393c9f59b0.webp"
   },
   {
    "titulo": "WeWork libera 23 unidades no Brasil para aluguel de espaços por hora",
    "topicos": [
-    "A WeWork lançou o serviço On Demand na América Latina para permitir a locação de mesas de trabalho e salas de reunião por períodos de meia hora a um dia inteiro.",
-    "No Brasil, o serviço de aluguel por hora ou diária está disponível em 23 unidades espalhadas por São Paulo, Rio de Janeiro, Belo Horizonte e Porto Alegre.",
-    "A iniciativa latino-americana da empresa abrange 53 unidades no total, contemplando também Colômbia, México, Peru, Argentina e Chile.",
-    "As reservas de espaços devem ser realizadas por meio do aplicativo de celular ou do site da própria WeWork, com pagamento proporcional ao tempo de uso.",
-    "A reserva diária de mesas de trabalho garante acesso a áreas comuns, cabines privativas e espaços de descanso, enquanto salas de reunião são alugadas por hora.",
-    "A plataforma possibilita que usuários do Brasil façam reservas em mais de 300 unidades da marca espalhadas por 70 cidades ao redor do mundo.",
-    "Pesquisa da WeWork e Offerwise aponta que 79% dos entrevistados brasileiros vão ao escritório por exigência do empregador, e apenas 42% escolheriam o presencial."
+    "A WeWork lançou o serviço On Demand em 53 unidades na América Latina, permitindo o aluguel de mesas e salas de reunião por períodos de meia hora a um dia inteiro.",
+    "No Brasil, a novidade está disponível em 23 unidades divididas entre as cidades de São Paulo, Rio de Janeiro, Belo Horizonte e Porto Alegre.",
+    "O serviço também abrange Colômbia, México, Peru, Argentina e Chile, sendo contratado pelo aplicativo ou site da empresa com pagamento apenas pelo uso.",
+    "A reserva de mesas diárias dá acesso a áreas comuns e espaços de descanso, enquanto as salas de reunião são alugadas por hora.",
+    "A plataforma possibilita que clientes brasileiros utilizem mais de 300 unidades da marca em 70 cidades ao redor do mundo.",
+    "Um estudo da WeWork e Offerwise aponta que 79% dos entrevistados vão ao escritório por exigência e apenas 42% escolheriam o modelo presencial."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/11/11/2026/servicos/wework-libera-23-unidades-no-brasil-para-aluguel-de-espacos-por-hora/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/55c4855ebb7c.webp"
   }
  ]
 }
