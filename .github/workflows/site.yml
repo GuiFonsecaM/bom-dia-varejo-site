@@ -4,9 +4,6 @@ on:
   # Notícias do boletim do WhatsApp chegam por commit → busca as imagens e publica o site
   push:
     branches: [main]
-  # Verifica notícias novas 3x por dia: 08:07, 13:07 e 18:07 (Brasília). Horários em UTC.
-  schedule:
-    - cron: "7 11,16,21 * * *"
   # Botão "Run workflow" na aba Actions
   workflow_dispatch:
 
