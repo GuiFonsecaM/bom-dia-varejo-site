@@ -2,6 +2,284 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-13",
+   "n": [
+    {
+     "t": "Dólar recua com mercado atento à aprovação do pacote fiscal no Senado e aos dados do varejo; Ibovespa avança",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O Senado aprovou na quinta-feira (12), por 45 votos a 31, o texto-base do pacote fiscal que busca melhorar as contas públicas em até R$ 60 bilhões em 2027. A…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml"
+    },
+    {
+     "t": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Em agosto deste ano, a taxa de inadimplência do crédito rural atingiu o recorde histórico de 17,62% segundo dados do Banco Central, recuando levemente para…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml"
+    },
+    {
+     "t": "Presidente do BC diz que debate sobre juro está maior que 'disputa de torcida organizada e comentário de postagem em rede social'",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Em evento do banco Barclays, o presidente do Banco Central, Gabriel Galípolo, criticou a qualidade do debate público sobre a taxa de juros, comparando-o a…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml"
+    },
+    {
+     "t": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "As ações do Banco do Brasil despencaram 8,35% no Ibovespa na quinta-feira (12) e caíram mais 2,91% na sexta-feira (13), negociadas a R$ 15,03, após a…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml"
+    },
+    {
+     "t": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O presidente Luiz Inácio Lula da Silva iniciará seu quarto mandato com o desafio central de equilibrar as contas públicas e cumprir promessas de campanha,…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml"
+    },
+    {
+     "t": "Pesquisa mostra que 66% dos consumidores pretendem antecipar compras de Natal na Black Friday",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Uma pesquisa da DM realizada em outubro de 2026 com 2.600 clientes de todas as regiões do Brasil revelou que 66,1% dos consumidores pretendem antecipar…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/black-friday/pesquisa-mostra-que-66-dos-consumidores-pretendem-antecipar-compras-de-natal-na-black-friday/"
+    },
+    {
+     "t": "Presidente do BB explica quem são os produtores que não aderiram à renegociação do banco",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Em entrevista nesta sexta-feira (13) à GloboNews, a presidente do Banco do Brasil, Tarciana Medeiros, esclareceu declarações sobre a inadimplência no setor…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/presidente-do-bb-explica-quem-sao-os-produtores-que-nao-aderiram-a-renegociacao-do-banco.ghtml"
+    },
+    {
+     "t": "Trava extra para gastos, mudanças no piso da saúde e corte em benefícios tributários: entenda ajuste fiscal aprovado pelo Senado",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O Senado aprovou por 45 votos a 31 um projeto de ajuste fiscal enviado pelo governo que prevê uma economia entre R$ 50 bilhões e R$ 60 bilhões no orçamento de…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/13/trava-extra-para-gastos-mudancas-no-piso-da-saude-e-corte-em-beneficios-tributarios-entenda-ajuste-fiscal-aprovado-pelo-senado.ghtml"
+    },
+    {
+     "t": "O melhor programa de fidelidade é o que não pede clique",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A 5ª edição do Panorama da Fidelização no Brasil, realizada pelo Opinion Box em parceria com Tudo Sobre Incentivos e Abemf, revela que 85,9% dos brasileiros…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/artigos/o-melhor-programa-de-fidelidade-e-o-que-nao-pede-clique/"
+    },
+    {
+     "t": "IDV lança Guia da Black Friday 2026 com recomendações de órgãos de defesa do consumidor",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "O Instituto para Desenvolvimento do Varejo lançou o Guia de Boas Práticas da Black Friday 2026 para orientar empresas associadas e promover relações de…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/black-friday/idv-lanca-guia-da-black-friday-2026-com-recomendacoes-de-orgaos-de-defesa-do-consumidor/"
+    },
+    {
+     "t": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "As vendas do comércio varejista brasileiro registraram alta de 0,2% na passagem de agosto para setembro, segundo dados da Pesquisa Mensal de Comércio…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/noticias-varejo/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade/"
+    },
+    {
+     "t": "Presidente do BB diz que 31 mil produtores rurais estão inadimplentes e que 'portas' estão 'abertas' para renegociação",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "A presidente do Banco do Brasil, Tarciana Medeiros, informou na sexta-feira (13) que 31 mil produtores rurais estão inadimplentes com a instituição financeira…",
+     "l": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/13/presidente-do-bb-diz-que-31-mil-produtores-rurais-estao-inadimplentes-e-que-portas-do-banco-estao-abertas-para-renegociacao.ghtml"
+    },
+    {
+     "t": "Ucrânia faz grande ataque de drones contra a Rússia, que segue atacando energia ucraniana",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A defesa aérea russa interceptou e destruiu 1.198 drones ucranianos em quase 20 regiões, incluindo Moscou, conforme o Ministério da Defesa russo e autoridades…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/ucrania-faz-grande-ataque-de-drones-contra-a-russia-que-segue-atacando-energia-ucraniana.ghtml"
+    },
+    {
+     "t": "Irã diz ter atacado radar dos EUA no Bahrein",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Guarda Revolucionária do Irã declarou nesta sexta-feira (13) ter atingido um radar de alerta antecipado dos Estados Unidos localizado no Bahrein.",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-diz-ter-atacado-radar-dos-eua-no-bahrein.ghtml"
+    },
+    {
+     "t": "Santander vê PIB mais fraco e inflação mais teimosa no Brasil até 2027; Selic também persistente",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "O Santander divulgou relatório na sexta-feira (13) com novas projeções para a economia brasileira, revisando o crescimento para baixo e elevando as…",
+     "l": "https://www.moneytimes.com.br/santander-ve-pib-mais-fraco-e-inflacao-mais-teimosa-no-brasil-ate-2027-selic-vai-sofrer-jcav/"
+    },
+    {
+     "t": "Zara dobra área de vendas e loja no BarraShopping passa a ser maior do País",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Zara reinaugurou sua unidade no BarraShopping, localizado no Rio de Janeiro, duplicando sua área de vendas e tornando-se a maior loja da rede no Brasil.",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/destaque-do-dia/zara-dobra-area-de-vendas-e-loja-no-barrashopping-passa-a-ser-maior-do-pais/"
+    },
+    {
+     "t": "Lucro líquido do Nubank sobe 31% no 3T26 e atinge recorde de US$ 1,091 bilhão",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "O Nubank registrou um lucro líquido recorde de US$ 1,091 bilhão no terceiro trimestre de 2026, anunciado na quinta-feira, 12, o que representa uma alta de 31%…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/mc-capital/lucro-liquido-do-nubank-sobe-31-no-3t26-e-atinge-recorde-de-us-1091-bilhao/"
+    },
+    {
+     "t": "Alckmin na Agricultura poderia melhorar a relação do governo Lula com o agro",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "A possível indicação de Geraldo Alckmin para o Ministério da Agricultura é ventilada com o retorno de Carlos Fávaro ao Senado, mas o cargo pertence ao PSD,…",
+     "l": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/13/alckmin-agricultura-governo-lula-agro.ghtml"
+    },
+    {
+     "t": "Congresso dos EUA convoca ex-CEO da Nvidia após caso com suposta espiã chinesa",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O ex-CEO da Nvidia, Jensen Huang, foi convocado para prestar testemunho em dezembro a comissões do Congresso dos Estados Unidos sobre sua relação com uma…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/congresso-dos-eua-convoca-ex-ceo-da-nvidia-apos-caso-com-suposta-espia-chinesa.ghtml"
+    },
+    {
+     "t": "VÍDEO: 'Escola de Papais Noéis' treina novos recrutas antes de Natal em Londres",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A empresa de eventos Ministry of Fun organizou uma escola de Papais Noéis em Londres na última quinta-feira (12) para o treinamento anual de recrutas antes…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/video-escola-de-papais-noeis-treina-novos-recrutas-antes-de-natal-em-londres.ghtml"
+    },
+    {
+     "t": "Paraguai: promotoria acusa ex-presidente Santiago Peña de associação criminosa",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O Ministério Público do Paraguai incluiu a acusação de associação criminosa contra o ex-presidente Santiago Peña, conforme comunicado divulgado nesta…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/ministerio-publico-do-paraguai-acusa-ex-presidente-santiago-pena-de-associacao-criminosa.ghtml"
+    },
+    {
+     "t": "‘Relação com o agro é inabalável’: presidente do Banco do Brasil explica avanço da inadimplência no campo",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "A presidente do Banco do Brasil, Tarciana Medeiros, afirmou em entrevista na sexta-feira (13) que a pontualidade nos pagamentos do agronegócio caiu próximo ao…",
+     "l": "https://www.moneytimes.com.br/relacao-com-o-agro-e-inabalavel-presidente-do-banco-do-brasil-explica-avanco-da-inadimplencia-no-campo-pads/"
+    },
+    {
+     "t": "Comissão aprova proposta para integrar moradia, comércio e serviços nos bairros",
+     "c": "Política",
+     "f": "Agência Câmara",
+     "r": "A Comissão de Desenvolvimento Urbano da Câmara dos Deputados aprovou um projeto de lei que insere a diretriz de bairros integrados no Estatuto da Cidade.",
+     "l": "https://www.camara.leg.br/noticias/1319243-comissao-aprova-proposta-para-integrar-moradia-comercio-e-servicos-nos-bairros"
+    },
+    {
+     "t": "Placar do ajuste fiscal no Senado indica que Lula terá dificuldades para aprovar PECs em 2027",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O governo do presidente Lula aprovou a proposta de ajuste fiscal no Senado nesta quinta-feira (12), registrando um placar de 45 votos favoráveis contra 31…",
+     "l": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml"
+    },
+    {
+     "t": "Comissão aprova isenção de imposto para bebidas à base de frutos regionais da Amazônia",
+     "c": "Política",
+     "f": "Agência Câmara",
+     "r": "A Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara dos Deputados aprovou o Projeto de Lei 3137/21, que concede isenção de IPI para…",
+     "l": "https://www.camara.leg.br/noticias/1319232-comissao-aprova-isencao-de-imposto-para-bebidas-a-base-de-frutos-regionais-da-amazonia"
+    },
+    {
+     "t": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "O presidente do Senado, Davi Alcolumbre, afirmou em coletiva de imprensa na quinta-feira (12), após as 21h, que o adiamento da votação dos pontos pendentes do…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi"
+    },
+    {
+     "t": "ECA Digital estabelece regras para proteger crianças e adolescentes",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "A Lei 15.211 de 2025, conhecida como ECA Digital e originada do PL 2.628/2022 do senador Alessandro Vieira, estabelece regras para proteger menores em…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/13/eca-digital-estabelece-regras-para-proteger-criancas-e-adolescentes"
+    },
+    {
+     "t": "Hackers norte-coreanos roubam US$ 400 mi com IA para financiar programa de armas do governo, diz FBI",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Hackers apoiados pelo governo da Coreia do Norte roubaram mais de US$ 400 milhões, o que equivale a R$ 2,24 bilhões, utilizando técnicas de engenharia social…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/hackers-norte-coreanos-roubaram-us-400-milhoes-com-videochamadas-manipuladas-por-ia-diz-fbi.ghtml"
+    },
+    {
+     "t": "As acusações de 'propina sexual' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O escândalo político envolvendo o ex-presidente da Colômbia, Gustavo Petro, veio a público em 25 de outubro, após uma entrevista de 22 minutos concedida por…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/as-acusacoes-de-propina-sexual-que-levaram-a-investigacao-do-ex-presidente-colombiano-gustavo-petro.ghtml"
+    },
+    {
+     "t": "Proclamação da República é feriado ou ponto facultativo? Veja os direitos de quem trabalha",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O Brasil celebra o feriado nacional da Proclamação da República no próximo domingo (15), data estabelecida em 1949 pela Lei Federal nº 662, sancionada pelo…",
+     "l": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/13/proclamacao-da-republica-e-feriado.ghtml"
+    },
+    {
+     "t": "Líderes europeus pedem que Trump 'não crie surpresas' e definem representantes em negociações sobre a Ucrânia",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Líderes europeus reunidos em cúpula em Dublin nesta sexta-feira (13) definiram que um grupo específico de nações e a União Europeia conduzirão as negociações…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/lideres-europeus-pedem-que-trump-nao-crie-surpresas-e-definem-representantes-em-negociacoes-sobre-a-ucrania.ghtml"
+    },
+    {
+     "t": "BB e Petrobras: após decepções com balanços e proventos, o que esperar para ações?",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "As estatais Petrobras e Banco do Brasil decepcionaram o mercado ao divulgarem seus balanços e proventos referentes ao terceiro trimestre de 2026, gerando…",
+     "l": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-petrobras-petr3-petr4-apos-decepcoes-com-balancos-e-proventos-o-que-esperar-para-acoes/"
+    },
+    {
+     "t": "Lesões no tornozelo são mais comuns do que você imagina — veja como proteger o seu",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Conforme o Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido (Nice), as lesões no tornozelo respondem por 5% dos atendimentos em emergências…",
+     "l": "https://www.bbc.com/portuguese/articles/cqgkl7nz7y2zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "VÍDEO: Na Alemanha, alpacas 'invadem' casa de repouso e alegram idosos",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Alpacas visitaram uma casa de repouso em Berlim, na Alemanha, para interagir com os idosos e trazer alegria aos moradores locais.",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/13/alpacas-alemanha-idosos.ghtml"
+    },
+    {
+     "t": "Banco do Brasil (BBAS3) ao contrário: Nubank (NU) vence mais uma batalha e ação salta mais de 10%; hora de comprar?",
+     "c": "Varejo",
+     "f": "Money Times",
+     "r": "As ações do Nubank registraram forte alta nesta sexta-feira, avançando 9,26% e atingindo US$ 12,92 por volta das 12h55, impulsionadas por seus resultados…",
+     "l": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-ao-contrario-nubank-nu-vence-mais-uma-batalha-e-acao-salta-mais-de-10-hora-de-comprar/"
+    },
+    {
+     "t": "Anthropic alega ‘falha de autenticação’ após Claude e outras ferramentas saírem do ar",
+     "c": "Mundo",
+     "f": "Mercado & Consumo",
+     "r": "A ferramenta de inteligência artificial Claude, desenvolvida pela Anthropic e comandada por Dario Amodei, ficou fora do ar por aproximadamente duas horas…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/tecnologia/anthropic-alega-falha-de-autenticacao-apos-claude-e-outras-ferramentas-sairem-do-ar/"
+    },
+    {
+     "t": "Ex-tesoureiro da Caixa é condenado por desviar quase R$ 890 mil para apostas em bets",
+     "c": "Política",
+     "f": "Mercado & Consumo",
+     "r": "A 5ª Turma Especializada do TRF2 confirmou a condenação por improbidade administrativa de um ex-tesoureiro da Caixa Econômica Federal por desviar R$ 889,5 mil…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/economia/ex-tesoureiro-caixa-condenado-desvio-apostas-bets/"
+    },
+    {
+     "t": "Lucro da MBRF cresce 123,5% e atinge R$ 210 milhões no 3º trimestre",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A MBRF encerrou o terceiro trimestre de 2026 com lucro líquido de R$ 210 milhões, alta de 123,5% em relação aos R$ 94 milhões registrados no mesmo período do…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/mc-capital/lucro-da-mbrf-cresce-1235-e-atinge-r-210-milhoes-no-3o-trimestre/"
+    },
+    {
+     "t": "Dino mantém fim da 6×1 para 16 de dezembro, mas flexibiliza folgas",
+     "c": "Política",
+     "f": "Mercado & Consumo",
+     "r": "Na quinta-feira, 12, o ministro do STF Flávio Dino manteve para 16 de dezembro o início da transição do fim da escala 6x1, com a redução da jornada de 44 para…",
+     "l": "https://mercadoeconsumo.com.br/13/11/2026/noticias/dino-mantem-fim-da-6x1-para-16-de-dezembro-mas-flexibiliza-folgas/"
+    }
+   ]
+  },
+  {
    "data": "2026-11-12",
    "n": [
     {
