@@ -4,547 +4,626 @@
   {
    "titulo": "Dólar recua com mercado atento à aprovação do pacote fiscal no Senado e aos dados do varejo; Ibovespa avança",
    "topicos": [
-    "O Senado aprovou na quinta-feira (12), por 45 votos a 31, o texto-base do pacote fiscal que busca melhorar as contas públicas em até R$ 60 bilhões em 2027. A proposta prevê R$ 50 bilhões para metas fiscais e R$ 10 bilhões para novas despesas, restritivos limites de gastos, bloqueio de despesas obrigatórias e corte de até 20% em benefícios fiscais de empresas, seguindo agora para análise de quatro pontos restantes e posterior envio à Câmara.",
-    "As vendas do comércio varejista brasileiro subiram 0,2% em setembro frente a agosto, segundo o IBGE, superando a projeção de queda de 0,2% feita por economistas. Na comparação com setembro do ano passado, o avanço foi de 1,7%, superando a expectativa de alta de 1%.",
-    "Entre os destaques do varejo em setembro, as maiores altas foram em equipamentos de informática e comunicação (+7,6%), combustíveis (+2,8%) e roupas e calçados (+2,5%). Por outro lado, as maiores quedas ocorreram em móveis e eletrodomésticos (-2,6%) e supermercados e produtos alimentícios (-0,5%).",
-    "Nos EUA, o índice de preços ao produtor (PPI) subiu 0,3% em outubro, ficando abaixo da projeção de avanço de 0,4% da Reuters e após alta revisada de 1,4% em setembro. O indicador pode aliviar a pressão sobre o Federal Reserve para elevar os juros de forma mais intensa.",
-    "As ações da Nvidia caíram 4,34% a US$ 166 na quinta-feira após a saída de Jensen Huang da presidência da companhia em meio a uma investigação sobre suspeita de espionagem. O caso pressionou as bolsas da China e de Hong Kong, onde o índice Hang Seng Tech recuou 3% no dia e acumulou perdas de quase 6,5% na semana.",
-    "O dólar acumula alta de 2,61% na semana, 3,81% no mês e 2,97% no ano, enquanto o Ibovespa registra acúmulo de 1,68% na semana, 2,03% no mês e 6,33% no ano. A Microsoft também enfrenta uma pane global em serviços como Outlook, Teams e Copilot, descartando ataque cibernético."
+    "O Senado aprovou na quinta-feira o texto-base do pacote fiscal por 45 votos a 31, com expectativa de melhorar as contas públicas em até R$ 60 bilhões em 2027.",
+    "Do impacto previsto de R$ 60 bilhões em 2027, R$ 50 bilhões vão para metas fiscais e R$ 10 bilhões para novas despesas, como o Pé-de-Meia Universitário.",
+    "O pacote prevê limites mais rígidos para gastos públicos, bloqueio de despesas obrigatórias, redução de até 20% em benefícios fiscais e mudanças na saúde.",
+    "Ainda restam quatro pontos para análise no Senado antes de o projeto seguir para a Câmara dos Deputados, enquanto investidores monitoram o impacto nas contas.",
+    "As vendas do comércio varejista brasileiro cresceram 0,2% em setembro frente a agosto, superando a projeção de queda de 0,2% feita pelos economistas.",
+    "Na comparação anual, o varejo brasileiro subiu 1,7% em setembro, impulsionado por altas em informática e comunicação, combustíveis e vestuário."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/821cc7b89e11.webp"
   },
   {
    "titulo": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
    "topicos": [
-    "Em agosto deste ano, a taxa de inadimplência do crédito rural atingiu o recorde histórico de 17,62% segundo dados do Banco Central, recuando levemente para 15,82% em setembro. No crédito rural total, o pico foi de 9,67% em agosto, caindo para 8,68% em setembro.",
-    "O Brasil registra um avanço de 30% em 2025 nas propriedades levadas a leilão por dívidas e alta de 56,4% nos pedidos de recuperação judicial no agronegócio. Em razão das perdas com o crédito rural, o Banco do Brasil teve queda de 66,5% no lucro líquido no terceiro trimestre.",
-    "A crise é impulsionada pela queda nos preços das commodities após o pico de 2021-2022, pela alta dos custos de produção, pelos juros elevados e por problemas climáticos. Apenas cerca de 3% da área plantada no país possui cobertura de seguro rural, deixando produtores desamparados diante de quebras de safra.",
-    "Entre 2021 e 2022, preços recordes e a quebra de safra na Argentina (que caiu para 22,3 milhões de toneladas em 2022/23) estimularam investimentos e financiamentos. Com a inversão do cenário a partir de 2023, os juros saltaram e os produtores acumularam dívidas impagáveis.",
-    "A guerra entre Rússia e Ucrânia encareceu e dificultou o acesso a fertilizantes, com a ureia e o potássio alcançando picos de US$ 925 e US$ 1.202 por tonelada em abril de 2022. Produtores relatam atrasos no recebimento de insumos, perda de produtividade e juros de até 20% ao ano em renegociações."
+    "Em agosto de 2024 a taxa de inadimplência do crédito rural atingiu 17,62%, o maior nível histórico, e ainda ficou em 15,82% em setembro, segundo o Banco Central.",
+    "O índice de crédito rural total também chegou ao pico em agosto, com 9,67%, recuando para 8,68% em setembro, conforme levantamento da mesma instituição.",
+    "O número de propriedades rurais levadas a leilão por dívidas subiu 30% em 2025, enquanto os pedidos de recuperação judicial no agronegócio aumentaram 56,4% no mesmo período.",
+    "O Banco do Brasil registrou queda de 66,5% no lucro líquido em relação ao mesmo período do ano passado, impactado pelas perdas de crédito ao agronegócio; a presidente Tarciana Medeiros disse que muitos médios e grandes produtores não renegociam dívidas mesmo com condições facilitadas.",
+    "Rafael Herrmann, produtor de leite de Boa Vista do Cadeado (RS), relata que a rentabilidade caiu nos últimos seis anos, forçando cortes de pagamento, uso de empréstimos anuais e escolha entre sustentar a família ou pagar o banco.",
+    "A consultoria L.E.K. apontou três fatores para a crise: queda brusca dos preços das commodities após recordes em 2021‑2022, aumento dos custos de produção e juros que passaram de 2% ao ano em 2021 para 13,75% no fim de 2022, e problemas climáticos combinados com baixa cobertura de seguro rural.",
+    "A Associação dos Produtores e Empresários Rurais registrou cerca de 40 suicídios no Rio Grande do Sul em 2024 ligados ao endividamento; a Aprosoja criticou declarações do BB e a senadora Tereza Cristina alertou que a falta de seguro rural efetivo impede o pagamento das dívidas."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/cb9282c0b92e.webp"
   },
   {
    "titulo": "Presidente do BC diz que debate sobre juro está maior que 'disputa de torcida organizada e comentário de postagem em rede social'",
    "topicos": [
     "Em evento do banco Barclays, o presidente do Banco Central, Gabriel Galípolo, criticou a qualidade do debate público sobre a taxa de juros, comparando-o a brigas de torcida organizada e comentários em redes sociais.",
-    "A Selic, taxa básica de juros, está em 13,75% ao ano após o Copom interromper o ciclo de cortes na semana anterior; em termos reais, após descontar a inflação prevista, corresponde a 9,49% ao ano, o maior patamar mundial.",
-    "Galípolo explicou que o Copom define juros de curto prazo a cada 45 dias, enquanto as taxas de longo prazo negociadas no mercado futuro, que influenciam empréstimos e a emissão de títulos públicos, não são determinadas pelo BC.",
-    "Todos os diretores atuais do Banco Central, que votam na Selic, foram indicados pelo presidente Luiz Inácio Lula da Silva, e participaram da decisão de suspender os cortes da taxa.",
-    "O BC opera sob um regime de metas: a meta de inflação, fixada em 3% a partir de 2025, é considerada cumprida se a inflação ficar entre 1,5% e 4,5%; se as projeções estiverem alinhadas, pode reduzir a taxa, caso contrário mantém ou eleva.",
-    "Analistas alertam que os déficits fiscais recorrentes pressionam os juros de mercado e o endividamento público, pedindo um ajuste fiscal mais robusto, mas o mercado teme cortes profundos devido ao compromisso do governo com programas sociais, salário‑mínimo acima da inflação e manutenção de gastos em saúde e educação."
+    "A Selic está em 13,75% ao ano após o Copom interromper o ciclo de cortes na semana retrasada; em termos reais, descontada a inflação prevista para os próximos 12 meses, a taxa chega a 9,49% ao ano, o maior patamar mundial.",
+    "Galípolo explicou que o Copom, que se reúne a cada 45 dias, fixa apenas os juros de curto prazo, enquanto os juros de mercado futuro, que influenciam empréstimos e a emissão de títulos públicos, são determinados pelas expectativas dos agentes econômicos, não pelo BC.",
+    "Todos os diretores atuais do Banco Central, responsáveis pela decisão da Selic, foram indicados pelo presidente Luiz Inácio Lula da Silva, e foram eles que decidiram interromper o corte da taxa na semana passada.",
+    "O BC opera sob um regime de metas: se as projeções de inflação estiverem dentro da meta de 3% (faixa de 1,5% a 4,5% desde o início de 2025), pode reduzir a taxa; caso contrário, mantém ou eleva a Selic, considerando a inflação esperada para os próximos anos.",
+    "Analistas alertam que os déficits fiscais recorrentes pressionam os juros de mercado e o endividamento público, exigindo um ajuste fiscal mais robusto, embora o mercado veja dificuldades devido aos compromissos sociais, ao aumento do salário mínimo acima da inflação e à manutenção de gastos em saúde e educação."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/d1a3554529a6.webp"
   },
   {
    "titulo": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
    "topicos": [
-    "As ações do Banco do Brasil despencaram 8,35% no Ibovespa na quinta-feira (12) e caíram mais 2,91% na sexta-feira (13), negociadas a R$ 15,03, após a divulgação dos resultados do terceiro trimestre de 2026. No acumulado do ano, os papéis recuaram 31,39% e o banco foi avaliado em R$ 85,8 bilhões na bolsa.",
-    "O principal motor da pressão foi o aumento da inadimplência no agronegócio, gerando R$ 12,2 bilhões em despesas com perdas esperadas no setor, alta de 45%. Dos R$ 28 bilhões em novos créditos inadimplentes no período, R$ 14,7 bilhões (53%) vieram do agro, com 189 novos processos de recuperação judicial envolvendo R$ 1,3 bilhão.",
-    "Apenas 15% dos clientes inadimplentes aderiram à Medida Provisória (MP) 1.376, que facilita a renegociação de dívidas rurais com juros reduzidos e prazos de até 10 anos. Entidades do setor apontam juros elevados, oscilações de preços e problemas climáticos como causas, enquanto analistas citam a expectativa de condições ainda melhores no futuro.",
-    "No crédito para pessoas físicas, 9,14% da carteira estava atrasada havia mais de 90 dias no terceiro trimestre, enquanto o índice no cartão de crédito atingiu 16,35%. A margem financeira bruta caiu 5,5%, para R$ 25,98 bilhões, e o custo do crédito subiu 14,9%, atingindo R$ 21,23 bilhões.",
-    "O banco registrou um resultado negativo de R$ 832 milhões antes dos impostos, mas fechou o terceiro trimestre de 2026 com lucro líquido ajustado de R$ 1,27 bilhão após o reconhecimento de R$ 3,12 bilhões em créditos tributários. O lucro ficou 59% abaixo das expectativas do mercado segundo a Genial Investimentos.",
-    "Diante da queda do índice de capital principal para 10,80% (abaixo da meta de 11%), o banco reduziu sua projeção de lucro para 2026 de R$ 18 bi a R$ 22 bi para uma faixa de R$ 9 bi a R$ 11 bi. A parcela do lucro destinada a dividendos e juros sobre capital próprio caiu de 30% para 25% em 2026 e 2027."
+    "As ações do Banco do Brasil despencaram 8,35% no Ibovespa na quinta-feira (12) e caíram mais 2,91% na sexta-feira (13), negociadas a R$ 15,03, após a divulgação dos resultados do terceiro trimestre de 2026. No acumulado do ano, os papéis já perderam 31,39% de seu valor na bolsa, onde a instituição era avaliada em R$ 85,8 bilhões.",
+    "O principal fator de pressão foi o avanço da inadimplência no agronegócio, gerando R$ 12,2 bilhões em despesas com perdas esperadas no setor, alta de 45% frente aos três meses anteriores. Apenas 15% dos clientes inadimplentes aderiram à MP 1.376, que oferece renegociação com juros reduzidos e prazos de até 10 anos.",
+    "A carteira de pessoas físicas registrou 9,14% de atrasos superiores a 90 dias, enquanto no cartão de crédito o índice atingiu 16,35%. A margem financeira bruta caiu 5,5% para R$ 25,98 bilhões, ao mesmo tempo em que o custo do crédito subiu 14,9% para R$ 21,23 bilhões e as despesas administrativas cresceram 2% para R$ 10,28 bilhões.",
+    "O banco registrou um resultado negativo de R$ 832 milhões antes dos impostos (LAIR), mas fechou o terceiro trimestre com lucro líquido ajustado de R$ 1,27 bilhão devido ao reconhecimento de R$ 3,12 bilhões em créditos tributários. O montante ficou 59% abaixo das expectativas do mercado.",
+    "Com o índice de capital principal (CET1) caindo para 10,80%, abaixo da meta de 11%, o banco reduziu a projeção de lucro para 2026 de uma faixa entre R$ 18 bilhões e R$ 22 bilhões para R$ 9 bilhões a R$ 11 bilhões. A parcela do lucro destinada a dividendos e JCP foi reduzida de 30% para 25% em 2026 e limitada ao mesmo percentual para 2027.",
+    "A instituição elevou a estimativa de despesas com possíveis calotes para o ano para uma faixa entre R$ 80 bilhões e R$ 83 bilhões. Analistas de mercado mantiveram recomendações cautelosas, incluindo recomendação de venda pelo Citi e posições neutras por XP Investimentos, Itaú BBA e BTG Pactual."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/2fe65d924eda.webp"
   },
   {
    "titulo": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva iniciará seu quarto mandato com o desafio central de equilibrar as contas públicas e cumprir promessas de campanha, tendo a escolha do futuro ministro da Fazenda como peça-chave para a condução fiscal.",
-    "O anúncio oficial do novo chefe da equipe econômica deve ocorrer após o retorno das viagens de Lula à Turquia para a COP31 e às Filipinas para a Cúpula da Asean, com volta ao Brasil prevista para o dia 16 de novembro.",
-    "Quatro nomes estão entre os mais cotados para o cargo: o vice-presidente Geraldo Alckmin, o atual ministro da Fazenda Dario Durigan, o governador reeleito do Piauí Rafael Fonteles e o ministro do Planejamento Bruno Moretti.",
-    "O país registra uma dívida bruta superior a R$ 11 trilhões, o que equivale a 82,9% do Produto Interno Bruto (PIB), pressionando a economia e elevando o custo de financiamento exigido pelos investidores.",
-    "O Senado aprovou em uma quinta-feira (12) um projeto do senador Jaques Wagner para racionalizar despesas, com impacto orçamentário estimado entre R$ 50 bilhões e R$ 60 bilhões para o ano de 2027.",
-    "Rafael Fonteles foi reeleito governador do Piauí com 70,90% dos votos, tendo sido secretário da Fazenda estadual entre 2015 e 2022 e formado em matemática pela UFPI aos 19 anos, além de mestre pelo Impa."
+    "O presidente Luiz Inácio Lula da Silva iniciará seu quarto mandato com o desafio central de equilibrar as contas públicas e cumprir sua agenda de campanha, tendo a dívida bruta acima de R$ 11 trilhões, o que equivale a 82,9% do PIB.",
+    "Quatro nomes são os mais cotados para o Ministério da Fazenda: o vice-presidente Geraldo Alckmin, o atual ministro Dario Durigan, o governador reeleito do Piauí Rafael Fonteles e o ministro do Planejamento Bruno Moretti.",
+    "O anúncio oficial do novo ministro da Fazenda deve ocorrer após o retorno de Lula ao Brasil, previsto para 16 de novembro, após passagens pela Turquia para a COP31 e pelas Filipinas para a Cúpula da Asean.",
+    "Para conter o cenário fiscal, o Senado aprovou em uma quinta-feira (12) o texto-base de um projeto de racionalização de despesas apresentado pelo senador Jaques Wagner, com impacto estimado de R$ 50 bilhões a R$ 60 bilhões no Orçamento de 2027.",
+    "Analistas do mercado financeiro avaliam que o futuro ministro precisará de capacidade de articulação com o Congresso e autonomia, em um contexto de Orçamento engessado, maioria de oposição legislativa e desconfiança dos investidores.",
+    "Rafael Fonteles foi reeleito governador do Piauí com 70,90% dos votos, mas precisaria renunciar ao cargo para assumir a Fazenda, embora tenha afirmado que não tratou de cargos com o presidente Lula."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/31985e038bda.webp"
   },
   {
    "titulo": "Pesquisa mostra que 66% dos consumidores pretendem antecipar compras de Natal na Black Friday",
    "topicos": [
-    "Uma pesquisa da DM realizada em outubro de 2026 com 2.600 clientes de todas as regiões do Brasil revelou que 66,1% dos consumidores pretendem antecipar compras de Natal na Black Friday.",
-    "Entre os que querem adiantar as aquisições, 33,8% planejam comprar tudo ou a maior parte para as festas, enquanto 32,3% vão adquirir apenas alguns itens.",
-    "Por outro lado, 18,7% dos entrevistados afirmaram que não pretendem antecipar as festas de fim de ano e 15,2% buscam produtos sem relação com o Natal.",
-    "Os eletrônicos lideram as intenções de compra gerais com 29,9% das citações, seguidos por eletrodomésticos e móveis, mencionados por 27,6%.",
-    "O levantamento mostra que 55,4% dos potenciais compradores pretendem gastar acima de R$ 1 mil, sendo que 33,3% esperam desembolsar mais de R$ 2 mil.",
-    "O desconto é o fator decisivo para 66,2% do público, embora existam receios com falsas promoções para 31,6% e com fraudes e golpes para 16,4%."
+    "Uma pesquisa realizada pela plataforma de serviços financeiros DM revelou que 66,1% dos consumidores pretendem usar a Black Friday de novembro para antecipar as compras de Natal no Brasil.",
+    "Entre os entrevistados que planejam a antecipação, 33,8% pretendem adiantar tudo ou a maior parte dos presentes, enquanto 32,3% vão adquirir apenas alguns itens.",
+    "O estudo aponta que 18,7% não querem antecipar as compras natalinas e 15,2% planejam adquirir produtos sem relação com as festas de fim de ano na data.",
+    "Os eletrônicos lideram a intenção geral de compra com 29,9% das menções, seguidos por eletrodomésticos e móveis, citados por 27,6% dos consumidores.",
+    "Um grupo de 55,4% dos potenciais compradores pretende gastar mais de R$ 1 mil, sendo que 33,3% esperam desembolsar mais de R$ 2 mil no período.",
+    "O desconto é o fator decisivo para 66,2% das pessoas, mas há receios: 31,6% temem falsas promoções e 16,4% preocupam-se com o risco de fraudes e golpes.",
+    "A pesquisa online ocorreu em outubro de 2026 com 2.600 consumidores da base da DM, abrangendo todas as regiões do país para avaliar o comportamento de consumo."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/black-friday/pesquisa-mostra-que-66-dos-consumidores-pretendem-antecipar-compras-de-natal-na-black-friday/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a6853e75228a.webp"
   },
   {
    "titulo": "Presidente do BB explica quem são os produtores que não aderiram à renegociação do banco",
    "topicos": [
-    "Em entrevista nesta sexta-feira (13) à GloboNews, a presidente do Banco do Brasil, Tarciana Medeiros, esclareceu declarações sobre a inadimplência no setor agropecuário.",
-    "Tarciana afirmou que o banco nunca generalizou a alta da inadimplência para todo o agronegócio, limitando a crítica a um grupo específico que recusou renegociações.",
-    "O subgrupo que rejeitou a renegociação via MP 1.376 é formado essencialmente por pecuaristas e produtores de milho e soja da região Centro-Oeste.",
-    "Embora representem uma fatia minoritária de clientes, esses produtores detêm um volume expressivo de operações, elevando as provisões para perdas do banco.",
-    "O Banco do Brasil atende mais de 2,5 milhões de produtores rurais, sendo que 566 mil possuem crédito ativo e cerca de 31 mil estão inadimplentes.",
-    "Cerca de 90% dos clientes rurais da instituição mantêm os pagamentos em dia, segundo dados divulgados pela presidente do banco estatal."
+    "Em entrevista nesta sexta-feira (13) à GloboNews, a presidente do Banco do Brasil, Tarciana Medeiros, esclareceu que o aumento da inadimplência não foi generalizado no agronegócio.",
+    "Uma parcela considerável de produtores de soja, milho e pecuaristas do Centro-Oeste recusou a renegociação de dívidas disponível pela MP 1.376, alegando que buscaria outras formas de quitação.",
+    "Embora representem um grupo pequeno de clientes, esses produtores concentram um volume muito relevante de operações de crédito, elevando as provisões para perdas do banco acima do previsto.",
+    "A executiva informou que cerca de 90% dos clientes rurais do banco pagam em dia, sendo que a instituição atende mais de 2,5 milhões de produtores, com 566 mil tendo crédito ativo e 31 mil inadimplentes.",
+    "O banco reportou lucro de R$ 1,27 bilhão no terceiro trimestre, uma queda de 66% frente ao mesmo período de 2025, ficando abaixo dos R$ 3,474 bilhões esperados pelo mercado.",
+    "Tarciana mencionou que a instituição enfrentou a persistência e intencionalidade do risco moral, quando devedores com condições de pagamento adiam a quitação à espera de condições mais vantajosas.",
+    "A Aprosoja Brasil contestou em nota, afirmando que o aumento das dívidas decorre de problemas climáticos, quebra de safra, custos altos, queda de preços e juros elevados, e não de inadimplência deliberada."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/presidente-do-bb-explica-quem-sao-os-produtores-que-nao-aderiram-a-renegociacao-do-banco.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/71b38c1eb45c.webp"
   },
   {
    "titulo": "Trava extra para gastos, mudanças no piso da saúde e corte em benefícios tributários: entenda ajuste fiscal aprovado pelo Senado",
    "topicos": [
-    "O Senado aprovou por 45 votos a 31 um projeto de ajuste fiscal enviado pelo governo que prevê uma economia entre R$ 50 bilhões e R$ 60 bilhões no orçamento de 2027.",
-    "A proposta limita o crescimento anual das despesas públicas a 2% nos anos em que o governo precisar cortar gastos para cumprir a meta fiscal.",
-    "O texto autoriza o corte linear de 10% em incentivos e benefícios tributários concedidos a diversos setores da economia, além de restringir créditos tributários.",
-    "O projeto estabelece um prazo de até 120 dias para o Congresso regulamentar os pagamentos de servidores públicos acima do teto de R$ 46,3 mil.",
-    "A medida prorroga até 2030 a exclusão das receitas extraordinárias do imposto de exportação de petróleo do cálculo do piso da saúde.",
-    "O texto permite desconsiderar até R$ 10,5 bilhões em despesas extraordinárias com subsídios ao diesel na meta fiscal de 2026 devido a conflitos no Oriente Médio.",
-    "Os senadores ainda analisarão destaques ao texto e a votação final na Casa está prevista para a próxima terça-feira (17), antes de o projeto seguir para a Câmara."
+    "O Senado aprovou por 45 votos a 31 um projeto de ajuste fiscal do governo que prevê reduzir entre R$ 50 bilhões e R$ 60 bilhões nos gastos de 2027. O texto ainda precisa passar por destaques na próxima terça-feira (17) antes de seguir para a Câmara dos Deputados.",
+    "A proposta altera o arcabouço fiscal limitando o teto de gastos a 2% em anos de corte e amplia os bloqueios para gastos obrigatórios sem proteção constitucional, montante que somou R$ 388 bilhões em 2026 segundo especialistas.",
+    "O texto estabelece um corte linear de 10% em benefícios tributários e autoriza o Executivo a restringir o uso de créditos fiscais para compensar tributos devidos, gerando críticas de 57 entidades do setor produtivo quanto à falta de prazos de devolução.",
+    "O projeto determina um prazo de até 120 dias para o Congresso regulamentar os pagamentos de servidores públicos acima do teto atual, fixado em R$ 46,3 mil, visando conter os chamados supersalários.",
+    "A proposta prorroga até 2030 a exclusão das receitas extraordinárias do imposto de exportação de petróleo do cálculo do piso da saúde, justificadas pelo encarecimento do combustível devido a conflitos no Oriente Médio.",
+    "O texto permite realocar até 40% do saldo não utilizado de fundos públicos do ano anterior para despesas constitucionais e autoriza desconsiderar até R$ 10,5 bilhões em subsídios ao diesel na meta fiscal de 2026."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/13/trava-extra-para-gastos-mudancas-no-piso-da-saude-e-corte-em-beneficios-tributarios-entenda-ajuste-fiscal-aprovado-pelo-senado.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/de2e3501fdee.webp"
   },
   {
    "titulo": "O melhor programa de fidelidade é o que não pede clique",
    "topicos": [
-    "A 5ª edição do Panorama da Fidelização no Brasil, realizada pelo Opinion Box em parceria com Tudo Sobre Incentivos e Abemf, revela que 85,9% dos brasileiros participam de programas de fidelidade, mas a paciência com o excesso de aplicativos diminuiu.",
-    "A pesquisa mostra que quem concentra o uso em até três programas subiu de 55,5% para 70,5% em um ano, enquanto o grupo que mantém quatro ou mais caiu de 32,8% para 15,3%, evidenciando uma faxina na carteira do consumidor.",
-    "Entre os que abandonaram programas, 68% citam pontos e benefícios que vencem antes do uso, 64,7% perderam vantagens por descobertas tardias, apenas 53,2% acham as regras claras e só 23,9% sentem reconhecimento frequente.",
-    "O NPS dos programas de fidelidade despenca de 55, entre os consumidores que consideram as regras claras, para 20 entre aqueles que precisam se esforçar para compreender o funcionamento das vantagens.",
-    "No varejo alimentar, onde a margem líquida raramente ultrapassa 2% a 3%, exigir que o cliente ative cupons pelo celular no caixa gera filas, lentidão e queda na eficiência operacional.",
-    "O estudo indica que 58,2% dos consumidores esperam poupar tempo com benefícios automáticos e 62,4% preferem receber poucas mensagens apenas com avisos realmente importantes, sem o incômodo de aplicativos complexos."
+    "A 5ª edição da pesquisa Panorama da Fidelização no Brasil indica que 85,9% dos brasileiros participam de algum programa de fidelidade, mas a paciência com esses serviços diminuiu.",
+    "Em um ano, o grupo que concentra tudo em até três programas subiu de 55,5% para 70,5%, enquanto a parcela com quatro ou mais despencou de 32,8% para 15,3%.",
+    "A pesquisa aponta que 68% já abandonaram algum programa, principalmente devido a pontos e benefícios que vencem antes do uso, e 64,7% perderam vantagens por descobrirem tarde demais.",
+    "Apenas 53,2% dos entrevistados consideram as regras claras, o pior resultado da série histórica, e somente 23,9% sentem-se reconhecidos com frequência pelas marcas.",
+    "O índice NPS dos programas de fidelidade atinge 55 entre os clientes que acham as regras claras, mas desaba para 20 entre aqueles que precisam se esforçar para entendê-las.",
+    "A maioria dos consumidores (58,2%) espera que os programas ajudem a economizar tempo com a automação de benefícios, enquanto 62,4% preferem receber poucas mensagens e apenas com avisos importantes."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/artigos/o-melhor-programa-de-fidelidade-e-o-que-nao-pede-clique/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/389d5979ca3d.webp"
   },
   {
    "titulo": "IDV lança Guia da Black Friday 2026 com recomendações de órgãos de defesa do consumidor",
    "topicos": [
-    "O Instituto para Desenvolvimento do Varejo lançou o Guia de Boas Práticas da Black Friday 2026 para orientar empresas associadas e promover relações de consumo transparentes.",
-    "O IDV congrega grandes redes varejistas nacionais que acumulam mais de R$ 670 bilhões em vendas anuais e empregam mais de 4 milhões de trabalhadores de forma direta.",
-    "O guia estabelece cinco frentes para as lojas monitorarem: oferta real, estoque e checkout, marketplaces seguros, pagamentos claros, e prazos e pós-venda.",
-    "Em São Paulo, o Procon recomenda que o cálculo de descontos use o menor preço praticado nos últimos 60 dias anteriores ao evento comercial.",
-    "No Paraná, a Lei Estadual nº 22.130/2024 exige a exibição do preço anterior pelo mesmo canal e a apresentação ostensiva dos valores à vista, parcelados e juros.",
-    "O material inclui dicas de segurança digital para os clientes, como checar endereços oficiais, consultar CNPJ na Receita Federal e usar cartões virtuais."
+    "O Instituto para Desenvolvimento do Varejo lançou o Guia de Boas Práticas da Black Friday 2026 para orientar empresas associadas na conformidade legal e transparência das relações de consumo.",
+    "O documento compila recomendações formais do Procon-SP e do Procon-PR, além de diretrizes discutidas entre o IDV e a diretoria do órgão paulista.",
+    "O IDV representa grandes redes varejistas nacionais que acumulam mais de R$ 670 bilhões em faturamento anual e empregam mais de 4 milhões de pessoas diretamente.",
+    "O guia estabelece cinco prioridades para o varejo: ofertas e preços reais sem aumentos artificiais, gestão de estoque e checkout, segurança em marketplaces, transparência nas condições de pagamento com exibição do CET, e prazos e pós-venda com respeito ao direito de arrependimento de 7 dias em compras fora de lojas físicas.",
+    "Em São Paulo, o Procon orienta que o cálculo dos descontos tenha como base o menor preço cobrado nos últimos 60 dias.",
+    "No Paraná, a Lei Estadual nº 22.130/2024 exige mostrar o preço anterior do mesmo canal e expor claramente valores à vista, parcelados e juros em todas as mídias de divulgação.",
+    "O material também traz dicas para consumidores evitarem fraudes digitais, como verificar URLs, consultar o CNPJ na Receita Federal, checar a data de criação do domínio no Registro.br, usar cartões virtuais temporários e ter cautela com Pix para pessoas físicas."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/black-friday/idv-lanca-guia-da-black-friday-2026-com-recomendacoes-de-orgaos-de-defesa-do-consumidor/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/37abe199212b.webp"
   },
   {
    "titulo": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade",
    "topicos": [
-    "As vendas do comércio varejista brasileiro registraram alta de 0,2% na passagem de agosto para setembro, segundo dados da Pesquisa Mensal de Comércio divulgada pelo IBGE nesta sexta-feira, 13.",
-    "Para o gerente da pesquisa, Cristiano Santos, o resultado representa um cenário de estabilidade, já que variações entre -0,5% e +0,5% são consideradas próximas de zero.",
-    "No terceiro trimestre, o setor apresentou recuo de -0,3% em comparação ao segundo trimestre, enquanto o acumulado de 12 meses mostra avanço de 1,7%.",
-    "A média móvel trimestral até setembro variou -0,1% frente ao trimestre móvel encerrado em agosto, dando continuidade a um cenário precedido por quedas após um primeiro trimestre de crescimento."
+    "As vendas no comércio varejista brasileiro registraram variação de 0,2% na passagem de agosto para setembro, segundo dados da Pesquisa Mensal de Comércio divulgada pelo IBGE em sexta-feira, 13.",
+    "O gerente da pesquisa, Cristiano Santos, aponta que o resultado indica um cenário de estabilidade para o setor, após um período anterior marcado por quedas.",
+    "No terceiro trimestre, o comércio apresentou recuo de -0,3% em comparação com o segundo trimestre, enquanto o acumulado de 12 meses mostra avanço de 1,7%.",
+    "A média móvel trimestral apontou variação de -0,1% no período encerrado em setembro, comparado ao trimestre móvel finalizado em agosto.",
+    "Cinco dos oito grupos pesquisados tiveram alta em setembro: equipamentos para escritório (7,6%), combustíveis (2,8%), vestuário (2,5%), artigos farmacêuticos (1,0%) e papelaria (0,8%).",
+    "Três grupos registraram queda no mês: móveis e eletrodomésticos (-2,6%), supermercados e alimentos (-0,5%), e outros artigos de uso pessoal (-0,3%).",
+    "O varejo ampliado, que engloba o atacado de veículos e materiais de construção, variou 0,2% frente a agosto e acumula alta de 1,3% em 12 meses."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/noticias-varejo/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/d7bd551eb375.webp"
   },
   {
    "titulo": "Presidente do BB diz que 31 mil produtores rurais estão inadimplentes e que 'portas' estão 'abertas' para renegociação",
    "topicos": [
-    "A presidente do Banco do Brasil, Tarciana Medeiros, informou na sexta-feira (13) que 31 mil produtores rurais estão inadimplentes com a instituição financeira e reforçou que o banco mantém canais abertos para renegociações.",
-    "O esclarecimento foi concedido em entrevista à GloboNews após repercussão negativa no agronegócio gerada por declaração anterior feita na quinta-feira (12), criticada pela Aprosoja Brasil.",
-    "O avanço da inadimplência no crédito rural e a necessidade de provisão adicional não prevista impactaram os resultados financeiros, contribuindo para uma queda no lucro do banco no terceiro trimestre.",
-    "De acordo com o banco, a instituição possui relacionamento com mais de 2,5 milhões de produtores rurais, sendo que 566 mil mantêm operações de crédito ativas e 31 mil possuem parcelas em aberto.",
-    "O BB convidou os inadimplentes para renegociar com base em medida provisória, mas uma parcela de grandes produtores de soja, milho e pecuaristas do Centro-Oeste recusou a proposta, afirmando que buscaria outros meios de quitação."
+    "A presidente do Banco do Brasil, Tarciana Medeiros, informou na sexta-feira (13) que 31 mil produtores rurais estão inadimplentes com a instituição financeira.",
+    "O banco possui relacionamento com mais de 2,5 milhões de produtores, sendo que 566 mil contam com operações de crédito ativas.",
+    "A inadimplência no agronegócio e a recusa de parte dos devedores em renegociar impactaram os resultados financeiros do banco, provocando queda no lucro.",
+    "A Aprosoja Brasil criticou declarações anteriores do banco, afirmando que os produtores não são caloteiros e que o setor enfrenta deterioração econômica.",
+    "Grandes produtores de soja, milho e pecuaristas da região Centro-Oeste recusaram propostas de renegociação oferecidas por meio de medida provisória.",
+    "O Banco do Brasil manteve a disposição para renegociar débitos tanto com produtores sem capacidade de pagamento quanto com aqueles que recusaram acordos anteriores."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/13/presidente-do-bb-diz-que-31-mil-produtores-rurais-estao-inadimplentes-e-que-portas-do-banco-estao-abertas-para-renegociacao.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/006fa87a234f.webp"
   },
   {
    "titulo": "Ucrânia faz grande ataque de drones contra a Rússia, que segue atacando energia ucraniana",
    "topicos": [
-    "A defesa aérea russa interceptou e destruiu 1.198 drones ucranianos em quase 20 regiões, incluindo Moscou, conforme o Ministério da Defesa russo e autoridades locais.",
-    "Os ataques deixaram nove mortos na Rússia: quatro na zona industrial de Volgogrado, quatro em Samara e um na região de Briansk, além de dois feridos em Volgogrado.",
-    "A ofensiva ocorreu após os emissários americanos Steve Witkoff e Jared Kushner visitarem Moscou para conversar com Vladimir Putin, antes de uma reunião em Dublin com Volodymyr Zelensky.",
-    "Na Ucrânia, bombardeios russos atingiram infraestruturas de energia em 12 regiões e um hospital em Kiev, deixando um ferido, 30 evacuados e danos parciais no segundo andar.",
-    "Novas mortes foram registradas na Ucrânia, sendo duas pessoas em Odessa e um jovem de 17 anos em Zaporizhzhia, segundo o vice-ministro da Energia, Artem Nekrasov.",
-    "Delegações da Rússia e da Ucrânia realizaram negociações intermediadas pelos EUA em Abu Dhabi, na Arábia Saudita, mas as tratativas se encerraram sem acordo."
+    "A defesa aérea russa interceptou e destruiu 1.198 drones ucranianos em quase 20 regiões, incluindo Moscou, conforme o Ministério da Defesa e autoridades locais.",
+    "Os ataques ucranianos deixaram quatro mortos em uma zona industrial em Volgogrado, quatro em Samara e um na região de Briansk, além de dois feridos em Volgogrado.",
+    "A ofensiva ocorreu logo após emissários dos EUA visitarem Vladimir Putin em Moscou e antes de uma reunião com Volodymyr Zelensky em Dublin para discutir a paz.",
+    "Bombardeios russos atingiram várias regiões da Ucrânia, danificaram um hospital em Kiev com 30 evacuados e ferido, e causaram mortes em Odessa e Zaporizhzhia.",
+    "Delegações de Rússia e Ucrânia realizaram negociações em Abu Dhabi, intermediadas pelos EUA, mas as conversas terminaram sem um acordo definitivo sobre o conflito."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ucrania-faz-grande-ataque-de-drones-contra-a-russia-que-segue-atacando-energia-ucraniana.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/85ffa2d216eb.webp"
   },
   {
    "titulo": "Irã diz ter atacado radar dos EUA no Bahrein",
    "topicos": [
     "A Guarda Revolucionária do Irã declarou nesta sexta-feira (13) ter atingido um radar de alerta antecipado dos Estados Unidos localizado no Bahrein.",
-    "Trata-se da primeira vez que Teerã reivindica um ataque contra instalações militares americanas em uma nação do Golfo desde o início de setembro.",
-    "A ação iraniana funcionou como uma retaliação a uma ofensiva aérea que atingiu uma torre de telecomunicações no condado de Sirik, na província de Hormozgan, sul iraniano.",
-    "O episódio ocorre durante uma trégua frágil no conflito deflagrado em 28 de fevereiro, data em que forças dos EUA e de Israel atacaram o território do Irã.",
-    "Desde o começo das hostilidades, o governo iraniano disparou mísseis e drones contra bases americanas no Golfo e tentou limitar o tráfego de navios no Estreito de Ormuz.",
-    "Como contramedida aos atos iranianos, Washington estabeleceu um bloqueio naval direcionado aos portos do Irã.",
-    "Até a última atualização desta reportagem, os governos dos Estados Unidos e do Bahrein ainda não haviam se pronunciado oficialmente sobre a alegação iraniana."
+    "Conforme a agência Reuters, esta foi a primeira vez que os iranianos assumiram a autoria de uma investida contra bases militares americanas na região do Golfo desde o início de setembro.",
+    "A ação iraniana funcionou como uma retaliação a um bombardeio aéreo direcionado a uma torre de telecomunicações situada no condado de Sirik, na província de Hormozgan, ao sul do Irã.",
+    "O episódio atual se insere em um cenário de trégua frágil decorrente do conflito deflagrado em 28 de fevereiro, data em que tropas dos EUA e de Israel investiram contra o território iraniano.",
+    "Como desdobramento das hostilidades, Teerã disparou mísseis e drones contra instalações militares norte-americanas no Golfo e tentou limitar o tráfego de embarcações no Estreito de Ormuz.",
+    "Em reação às investidas iranianas, o governo de Washington estabeleceu um bloqueio naval nos portos do Irã, enquanto os governos estadunidense e do Bahrein ainda não haviam se pronunciado até a última atualização."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-diz-ter-atacado-radar-dos-eua-no-bahrein.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7ad41e90c680.webp"
   },
   {
    "titulo": "Santander vê PIB mais fraco e inflação mais teimosa no Brasil até 2027; Selic também persistente",
    "topicos": [
-    "O Santander divulgou relatório na sexta-feira (13) com novas projeções para a economia brasileira, revisando o crescimento para baixo e elevando as estimativas de inflação até 2027.",
-    "A expansão do PIB foi ajustada para 0,8% no próximo ano (ante 1,3%) e caiu de 1,8% para 1,6% em 2026, com risco de recessão técnica em 2027 devido à queda nos investimentos.",
-    "A projeção para o IPCA de 2027 passou de 4% para 5%, enquanto a estimativa deste ano subiu de 5% para 5,3%, impulsionada por fatores como mudanças tributárias e custos do trabalho.",
-    "O banco prevê que a taxa Selic seja mantida em 13,75% ao longo de todo o primeiro semestre de 2027, com retomada de cortes na segunda metade e encerramento do ano em 12,50%.",
-    "O relatório aponta que o enfraquecimento econômico agora afeta os investimentos, cuja projeção para 2027 passou de um crescimento de 1,2% para uma retração de 0,1%.",
-    "A dívida bruta foi mantida em 88,5% do PIB para 2027, mas o banco alerta que o endividamento pode superar 100% do PIB no início da próxima década se o ajuste fiscal for gradual."
+    "O Santander revisou suas projeções econômicas para o Brasil em relatório divulgado na sexta-feira (13), apontando um PIB mais fraco e inflação persistente até 2027.",
+    "A expansão do PIB foi ajustada para 0,8% no próximo ano (ante 1,3%) e caiu de 1,8% para 1,6% em 2026, segundo a equipe liderada pelo economista-chefe Marco Antonio Caruso.",
+    "A inflação medida pelo IPCA em 2027 subiu de 4% para 5%, enquanto a estimativa para este ano avançou de 5% para 5,3%, impulsionada por tributos, custos de trabalho e serviços.",
+    "O enfraquecimento da economia agora afeta os investimentos, cuja projeção para 2027 passou de um crescimento de 1,2% para uma contração de 0,1%.",
+    "O banco alerta que a menor atividade econômica, o crédito apertado e a renda menor elevam a chance de recessão técnica em 2027, com dois trimestres de queda do PIB.",
+    "A taxa Selic deve ser mantida em 13,75% em todo o primeiro semestre de 2027, com cortes na segunda metade e encerramento do ano em 12,50%.",
+    "O Santander manteve a dívida bruta em 88,5% do PIB em 2027, mas alerta que o endividamento pode superar 100% do PIB no começo da próxima década sem ajuste fiscal."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/santander-ve-pib-mais-fraco-e-inflacao-mais-teimosa-no-brasil-ate-2027-selic-vai-sofrer-jcav/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/5746c9ef72f0.webp"
   },
   {
    "titulo": "Zara dobra área de vendas e loja no BarraShopping passa a ser maior do País",
    "topicos": [
-    "A Zara reinaugurou sua unidade no BarraShopping, localizado no Rio de Janeiro, duplicando sua área de vendas e tornando-se a maior loja da rede no Brasil.",
-    "As coleções Woman, Man e Kids foram reunidas em um único piso, contando com entradas independentes para a linha geral e para a Zara Man.",
-    "O projeto arquitetônico utiliza mobiliário e desníveis para delimitar as áreas, empregando aço inoxidável no setor feminino jovem, madeiras claras no infantil e madeiras escuras no masculino.",
-    "A seção feminina inclui os departamentos Shoes & Bags com calçados e acessórios de couro, área de Denim e fragrâncias, enquanto a masculina abrigará as linhas Zara Origins e Athleticz.",
-    "A unidade conta com sistemas de eficiência energética monitorados pela plataforma Inergy, ponto de coleta para caixas de papelão e contêiner para doação de roupas usadas.",
-    "A loja integra o ambiente físico e digital, permitindo consultar estoque, localizar mercadorias e retirar pedidos do site ou aplicativo em até 24 horas por meio de um sistema automatizado de silo."
+    "A Zara reinaugurou sua unidade no BarraShopping, localizado no Rio de Janeiro, dobrando a sua área de vendas anterior.",
+    "Com a reforma, o espaço passa a ser a maior loja da rede em território brasileiro, reunindo as linhas Woman, Man e Kids em um único piso.",
+    "A nova arquitetura traz entradas independentes para as seções Zara e Zara Man, além de interiores abertos com identidades visuais próprias para cada departamento.",
+    "A unidade conta com a plataforma Inergy para monitorar centralmente o consumo de eletricidade e ar-condicionado, visando maior eficiência energética.",
+    "Os consumidores podem retirar compras feitas pelo aplicativo ou site em até 24 horas, utilizando um sistema automatizado de silo."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/destaque-do-dia/zara-dobra-area-de-vendas-e-loja-no-barrashopping-passa-a-ser-maior-do-pais/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/aed6bca2e490.webp"
   },
   {
    "titulo": "Lucro líquido do Nubank sobe 31% no 3T26 e atinge recorde de US$ 1,091 bilhão",
    "topicos": [
-    "O Nubank registrou um lucro líquido recorde de US$ 1,091 bilhão no terceiro trimestre de 2026, anunciado na quinta-feira, 12, o que representa uma alta de 31% na comparação anual sem considerar os efeitos do câmbio.",
-    "Esse resultado é o segundo ganho trimestral acima de US$ 1 bilhão da instituição financeira, superando os US$ 1,061 bilhão reportados no segundo trimestre de 2026.",
-    "O retorno sobre o patrimônio (ROE) encerrou o período em 32%, comparado aos 31% de um ano antes e aos 33% registrados no trimestre imediatamente anterior.",
-    "A receita total somou US$ 6,3 bilhões, com avanço anual de 37%, enquanto a receita líquida atingiu o patamar recorde de US$ 1,1 bilhão, alta anual de 31%.",
-    "A carteira de crédito totalizou US$ 41,6 bilhões, um crescimento anual de 33%, sendo US$ 27,2 bilhões em cartões de crédito, US$ 11 bilhões em crédito sem garantia e US$ 3,4 bilhões com garantia.",
-    "A taxa de inadimplência acima de 90 dias ficou em 7,3% ao fim de setembro, ante 6,9% no segundo trimestre de 2026, enquanto a faixa abaixo de 90 dias encerrou em 4,9%.",
-    "A base global de clientes chegou a 143 milhões até o fim de setembro, com 120 milhões no Brasil, 16,6 milhões no México e 6,1 milhões na Colômbia."
+    "O Nubank registrou lucro líquido recorde de US$ 1,091 bilhão no terceiro trimestre de 2026, anunciado na quinta-feira, 12, o que representa um crescimento de 31% na comparação anual, sem considerar efeitos do câmbio.",
+    "A expansão financeira foi impulsionada pelo avanço do crédito e das receitas, marcando o segundo trimestre consecutivo com ganho superior a US$ 1 bilhão, após os US$ 1,061 bilhão do segundo trimestre.",
+    "O retorno sobre o patrimônio (ROE) fechou em 32%, ante 31% no mesmo período de 2025 e 33% no trimestre imediatamente anterior, mantendo-se entre os maiores do setor financeiro.",
+    "A receita total alcançou US$ 6,3 bilhões (alta anual de 37%), a receita líquida bateu recorde de US$ 1,1 bilhão (+31%) e a margem líquida de juros (NIM) ficou em 22,5%.",
+    "A carteira de crédito total cresceu 33% em um ano e atingiu US$ 41,6 bilhões, dividida em US$ 27,2 bilhões de cartões, US$ 11 bilhões de crédito sem garantia e US$ 3,4 bilhões com garantia.",
+    "A inadimplência acima de 90 dias subiu para 7,3% em setembro, comparada a 6,9% no segundo trimestre e 6,7% no ano anterior, enquanto o atraso curto (abaixo de 90 dias) foi a 4,9%.",
+    "A base total de clientes chegou a 143 milhões ao fim de setembro, com 120 milhões no Brasil, 16,6 milhões no México, 6,1 milhões na Colômbia e expansão para os EUA."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/mc-capital/lucro-liquido-do-nubank-sobe-31-no-3t26-e-atinge-recorde-de-us-1091-bilhao/",
-   "categoria": "Economia"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/3cba88b02d9d.webp"
   },
   {
    "titulo": "Alckmin na Agricultura poderia melhorar a relação do governo Lula com o agro",
    "topicos": [
-    "A possível indicação de Geraldo Alckmin para o Ministério da Agricultura é ventilada com o retorno de Carlos Fávaro ao Senado, mas o cargo pertence ao PSD, liderado por Gilberto Kassab.",
-    "A discussão sobre a liderança da pasta acontece no contexto de atritos entre o governo de Lula e o setor agropecuário, que possui perfil predominantemente conservador e apoiava o opositor Flávio Bolsonaro na eleição deste ano.",
-    "O histórico de tensões entre o Partido dos Trabalhadores e o agronegócio envolve a resistência da Frente Parlamentar da Agropecuária e a ligação histórica da legenda com o MST.",
-    "Apesar de Lula ter criticado o setor durante um evento em Santa Catarina neste ano ao citar o repasse de mais de R$ 500 bilhões no plano Safra, o governo adota um tom ambivalente com gestos de aproximação e críticas recíprocas.",
-    "Historicamente, administrações petistas já buscaram interlocutores com trânsito no agro para a pasta, como Roberto Rodrigues, Reinhold Stephanes e o próprio Carlos Fávaro."
+    "O retorno de Carlos Fávaro ao Senado gerou apostas de que Geraldo Alckmin possa assumir o Ministério da Agricultura, devido ao bom relacionamento que manteve com o agronegócio durante seu mandato como governador de São Paulo.",
+    "A escolha para o comando da pasta envolve articulações partidárias, visto que a vaga pertence ao PSD, partido liderado por Gilberto Kassab, e ainda não há uma definição oficial sobre o substituto de Fávaro.",
+    "A especulação ocorre em um cenário de atritos políticos entre o governo do presidente Lula e o setor agropecuário, marcado por divergências históricas e resistência de parlamentares conservadores da Frente Parlamentar da Agropecuária.",
+    "Durante a campanha eleitoral deste ano em Santa Catarina, Lula afirmou que o setor deveria se ajoelhar diante do governo devido aos recursos recordes direcionados aos planos Safra, sendo que o mais recente ultrapassou a marca de R$ 500 bilhões.",
+    "Outros fatores de tensão incluem a proximidade histórica do PT com o Movimento dos Trabalhadores Rurais Sem Terra (MST) e o apoio expressivo do agronegócio ao adversário Flávio Bolsonaro (PL) na última eleição."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/13/alckmin-agricultura-governo-lula-agro.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/48da226f8f16.webp"
   },
   {
    "titulo": "Congresso dos EUA convoca ex-CEO da Nvidia após caso com suposta espiã chinesa",
    "topicos": [
-    "O ex-CEO da Nvidia, Jensen Huang, foi convocado para prestar testemunho em dezembro a comissões do Congresso dos Estados Unidos sobre sua relação com uma suposta espiã chinesa, caso que motivou sua renúncia ao cargo.",
-    "Scott anunciou que solicitou a presença de Huang e do secretário do Comércio, Howard Lutnick, na Comissão de Bancos do Senado para o dia 3 de dezembro, enquanto a Câmara dos Representantes exige depoimento sob ameaça de intimação judicial.",
-    "O escândalo causou a perda de quase meio trilhão de dólares no valor de mercado da Nvidia, gerou preocupações sobre a segurança nacional americana e gerou incertezas na indústria de inteligência artificial.",
-    "Jensen Huang, que completará 63 anos no dia 1º de dezembro e é casado há mais de 40 anos, admitiu publicamente no domingo um relacionamento extraconjugal com Alice Huang, ex-executiva da Megaspeed.",
-    "A Megaspeed, empresa de centros de dados de Singapura, é investigada nos Estados Unidos por suposto desvio de chips de IA da Nvidia para a China, violando restrições de exportação americanas.",
-    "Autoridades de Singapura proibiram o retorno de Alice Huang ao país em fevereiro por falta de explicações sobre sua gestão na empresa, e a Malásia investiga uma filial da mesma companhia."
+    "Jensen Huang, ex-diretor-executivo da Nvidia, foi chamado para testemunhar em dezembro perante o Congresso dos Estados Unidos sobre sua ligação com uma suposta espiã chinesa.",
+    "A Comissão de Bancos do Senado norte-americano marcou a audiência de Huang e do secretário do Comércio, Howard Lutnick, para o dia 3 de dezembro.",
+    "Três comissões da Câmara dos Representantes também exigiram o depoimento de Huang, que fará 63 anos no dia 1º de dezembro, sob risco de intimação judicial.",
+    "O escândalo envolveu Alice Huang, ex-executiva da Megaspeed sediada em Singapura, apontada pelos serviços de inteligência dos EUA como colaboradora da segurança chinesa.",
+    "As autoridades de Singapura proibiram o retorno de Alice Huang ao país em fevereiro devido à falta de explicações sobre sua gestão na Megaspeed, empresa investigada por desviar chips.",
+    "A crise resultou na eliminação de quase meio trilhão de dólares do valor de mercado da Nvidia e gerou instabilidade no setor de inteligência artificial."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/congresso-dos-eua-convoca-ex-ceo-da-nvidia-apos-caso-com-suposta-espia-chinesa.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7be26dc6c1c4.webp"
   },
   {
    "titulo": "VÍDEO: 'Escola de Papais Noéis' treina novos recrutas antes de Natal em Londres",
    "topicos": [
-    "A empresa de eventos Ministry of Fun organizou uma escola de Papais Noéis em Londres na última quinta-feira (12) para o treinamento anual de recrutas antes das festas de fim de ano.",
-    "O evento reuniu Papais Noéis, elfos e Mamães Noéis com o objetivo de aprimorar a atuação do bom velhinho, treinar a risada tradicional e aperfeiçoar a interação com as crianças.",
-    "Durante a capacitação, os participantes compartilham experiências sobre o funcionamento das grutas natalinas e discutem maneiras de melhorar o atendimento.",
-    "Os alunos aprendem a linguagem de sinais voltada para o Natal como método de inclusão para conseguir se comunicar com todas as crianças durante a temporada.",
-    "Segundo o diretor-geral do Ministry of Fun, Matt Grist, os preparativos para o período natalino têm início meses antes com o suporte aos personagens."
+    "Na última quinta-feira (12), futuros Papais Noéis participaram de um dia de treinamento anual em Londres para aprimorar suas habilidades natalinas.",
+    "A capacitação foi organizada pela empresa de eventos Ministry of Fun e reuniu Papais Noéis, elfos e Mamães Noéis para o compartilhamento de experiências.",
+    "Os participantes treinaram como aperfeiçoar o papel do bom velhinho, praticaram risadas, aprenderam a interagir com crianças e a usar linguagem de sinais.",
+    "Segundo o diretor-geral da Ministry of Fun, Matt Grist, os preparativos para o Natal começam meses antes com o contato direto do Papai Noel."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/video-escola-de-papais-noeis-treina-novos-recrutas-antes-de-natal-em-londres.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7e94bcf86740.webp"
   },
   {
    "titulo": "Paraguai: promotoria acusa ex-presidente Santiago Peña de associação criminosa",
    "topicos": [
     "O Ministério Público do Paraguai incluiu a acusação de associação criminosa contra o ex-presidente Santiago Peña, conforme comunicado divulgado nesta sexta-feira (13).",
-    "Peña havia renunciado ao cargo em 5 de novembro de 2026 e foi destituído por impeachment há uma semana, após um escândalo financeiro envolvendo a quebra do Ueno Bank.",
-    "O ex-presidente está preso preventivamente desde o último sábado (7) em um regimento militar de Assunção e também é investigado por lesão de confiança e administração em benefício próprio.",
-    "A crise política começou em 3 de novembro, quando o Banco Central do Paraguai (BCP) interveio no Ueno Bank por insolvência, deixando cerca de 3 milhões de clientes sem acesso a depósitos.",
-    "O BCP apontou falta de capital, problemas em créditos e irregularidades em ativos, gerando protestos na capital e aumentando a pressão sobre o governo devido aos laços de Peña com o grupo controlador."
+    "Peña, que governava desde 2023 e renunciou em 5 de novembro de 2026, foi destituído por impeachment há uma semana devido a um escândalo com o Ueno Bank.",
+    "O ex-presidente está preso preventivamente desde o último sábado (7) em um regimento militar de Assunção e também responde por lesão de confiança e administração em benefício próprio.",
+    "A crise política eclodiu após a intervenção do Banco Central do Paraguai no Ueno Bank em 3 de novembro por insolvência, afetando cerca de 3 milhões de clientes e gerando protestos na capital."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ministerio-publico-do-paraguai-acusa-ex-presidente-santiago-pena-de-associacao-criminosa.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a3af193b2e65.webp"
   },
   {
    "titulo": "‘Relação com o agro é inabalável’: presidente do Banco do Brasil explica avanço da inadimplência no campo",
    "topicos": [
-    "A presidente do Banco do Brasil, Tarciana Medeiros, afirmou em entrevista na sexta-feira (13) que a pontualidade nos pagamentos do agronegócio caiu próximo ao período eleitoral. A instituição possui R$ 413 bilhões no setor rural, o que representa um terço de sua carteira de crédito.",
-    "A taxa de produtores pagando em dia, que era de 90% a 95% ao longo de 2025, caiu para uma média de 85% em 2026. No primeiro semestre de 2026 a média oscilou entre 83% e 85%, recuando para 79% e 69% no terceiro trimestre, com picos mínimos de 55%.",
-    "O atraso no pagamento no dia do vencimento obriga o banco a aumentar a provisão para liquidação duvidosa a partir do segundo dia. A queda na pontualidade sinaliza inadimplência futura e exige mais provisão financeira da instituição.",
-    "O endividamento cresceu após a expansão do crédito em 2021 e 2022 com a Selic a 2%, mas o cenário mudou em 2023 e 2024. O impacto foi gerado por eventos climáticos, guerras, queda nos preços das commodities e alta de insumos.",
-    "O Banco do Brasil buscou renegociar R$ 30 bilhões em dívidas e formalizou cerca de R$ 13,5 bilhões até o dia 11, prazo de vencimento da MP 1376. O banco notificou mais de 20 mil produtores e iniciou mais de 400 execuções de garantias judiciais.",
-    "Clientes em recuperação judicial estão sem crédito e sem acesso ao Plano Safra. Produtores inadimplentes que possuem capacidade financeira mas optam por não pagar entram em risco moral, enquanto o banco mantém conversas abertas para renegociações genuínas."
+    "Em entrevista na sexta-feira (13) à GloboNews, a presidente do Banco do Brasil, Tarciana Medeiros, afirmou que a pontualidade dos pagamentos do agronegócio caiu com a proximidade do período eleitoral.",
+    "A média de produtores pagando em dia, que era de 90% a 95% em 2025 e 85% em 2026, caiu no terceiro trimestre para faixas entre 79%, 69% e mínimas de 55% em alguns dias.",
+    "Segundo o banco, a queda na pontualidade exige maior provisão para liquidação duvidosa a partir do segundo dia de atraso, impactando a carteira rural que soma R$ 413 bilhões e representa um terço do total do BB.",
+    "O endividamento decorre da expansão de crédito em 2021 e 2022 com a Selic a 2%, seguida por eventos climáticos, guerras, queda nos preços das commodities e alta de insumos em 2023 e 2024.",
+    "O Banco do Brasil buscava renegociar pelo menos R$ 30 bilhões em dívidas e formalizou cerca de R$ 13,5 bilhões até o dia 11, data limite da MP 1376 sobre renegociação de débitos rurais.",
+    "Produtores em recuperação judicial estão sem crédito e sem acesso ao Plano Safra. O banco notificou mais de 20 mil produtores inadimplentes, iniciou mais de 400 execuções de garantias e mantém conversas abertas com quem tem problemas financeiros reais."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/relacao-com-o-agro-e-inabalavel-presidente-do-banco-do-brasil-explica-avanco-da-inadimplencia-no-campo-pads/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/33f38a40018d.webp"
   },
   {
    "titulo": "Comissão aprova proposta para integrar moradia, comércio e serviços nos bairros",
    "topicos": [
-    "A Comissão de Desenvolvimento Urbano da Câmara dos Deputados aprovou um projeto de lei que insere a diretriz de bairros integrados no Estatuto da Cidade.",
-    "O objetivo é promover a integração de habitação, comércio, serviços públicos, equipamentos comunitários e oportunidades econômicas nos bairros.",
-    "A medida decorre de um substitutivo elaborado pelo relator, deputado Duda Ramos (Pode-RR), ao projeto original PL 2675/24, de autoria da deputada Yandra Moura (União-SE).",
-    "A proposta original previa o \"Programa Bairro + Perto\", incluindo a descentralização de serviços essenciais a até dois quilômetros das residências e incentivos a ciclovias e creches.",
-    "O texto foi simplificado para alterar a lei geral em vez de criar um programa federal, pois regras de ocupação do solo competem aos municípios e distritos.",
-    "O projeto seguirá para análise na Comissão de Constituição e Justiça e de Cidadania e, caso aprovado, poderá ir direto ao Senado Federal sem passar pelo Plenário."
+    "A Comissão de Desenvolvimento Urbano da Câmara dos Deputados aprovou um projeto de lei para inserir a diretriz de bairros integrados no Estatuto da Cidade.",
+    "A iniciativa altera a política urbana para juntar moradia, serviços públicos, equipamentos comunitários, comércio e oportunidades econômicas em uma mesma região.",
+    "O projeto original (PL 2675/24) foi apresentado pela deputada Yandra Moura (União-SE) e recebeu um novo texto elaborado pelo relator, deputado Duda Ramos (Pode-RR).",
+    "A proposta inicial previa o 'Programa Bairro + Perto', com ciclovias, creches, feiras livres e descentralização de serviços a até dois quilômetros das casas.",
+    "A versão aprovada optou por simplificar a medida e alterar a lei geral, deixando as regras de ocupação do solo e construção para os municípios e o Distrito Federal.",
+    "O texto segue para análise na Comissão de Constituição e Justiça e de Cidadania, podendo ir direto para o Senado Federal sem passar pelo Plenário."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1319243-comissao-aprova-proposta-para-integrar-moradia-comercio-e-servicos-nos-bairros",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/00debc1230c2.webp"
   },
   {
    "titulo": "Placar do ajuste fiscal no Senado indica que Lula terá dificuldades para aprovar PECs em 2027",
    "topicos": [
-    "O governo do presidente Lula aprovou a proposta de ajuste fiscal no Senado nesta quinta-feira (12), registrando um placar de 45 votos favoráveis contra 31 contrários.",
-    "O projeto aprovado visa garantir um superávit primário de pelo menos 0,1% do PIB no ano de 2027, exigindo intensa articulação política e o apoio de dois parlamentares do PL.",
-    "A margem apertada de votação indica que o Palácio do Planalto enfrentará sérias dificuldades para aprovar Propostas de Emenda Constitucional no próximo ano, diante da futura bancada de 29 senadores do PL.",
-    "Na próxima terça-feira (17), o governo precisará assegurar ao menos 41 votos para rejeitar um destaque da oposição que pretende derrubar o limite de compensações tributárias.",
-    "A eventual remoção do limite de compensações para baixar o pagamento de impostos pode retirar uma economia estimada entre R$ 12,8 bilhões e R$ 18 bilhões.",
-    "O pacote fiscal total pode atingir R$ 60 bilhões no próximo ano, avaliado pelo mercado como positivo, porém insuficiente no médio e longo prazos para estabilizar e reduzir a dívida pública."
+    "O governo Lula aprovou no Senado, nesta quinta-feira (12), um projeto de lei complementar com medidas de ajuste fiscal, obtendo um placar de 45 votos a 31 e contando com o apoio de dois senadores do PL.",
+    "A proposta visa assegurar um superávit primário mínimo de 0,1% do PIB em 2027, embora o mercado considere o pacote de R$ 60 bilhões insuficiente a médio e longo prazos para reduzir a dívida pública.",
+    "Ministros avaliam que o placar apertado sinaliza grandes dificuldades para a aprovação de Propostas de Emenda Constitucional (PEC) no próximo ano, período em que a bancada do PL aumentará para 29 senadores.",
+    "Na próxima terça-feira (17), o governo precisará garantir ao menos 41 votos para derrubar um destaque da oposição que ameaça o limite de compensações tributárias e a economia estimada entre R$ 12,8 bilhões e R$ 18 bilhões.",
+    "Diante da polarização política e da previsão de um cenário mais desafiador em 2027, a estratégia do Palácio do Planalto é aproveitar a atual composição do Congresso, considerada mais amigável, para avançar com medidas essenciais neste final de ano."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/2a6d82e9fed0.webp"
   },
   {
    "titulo": "Comissão aprova isenção de imposto para bebidas à base de frutos regionais da Amazônia",
    "topicos": [
-    "A Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara dos Deputados aprovou o Projeto de Lei 3137/21, que concede isenção de IPI para bebidas alcoólicas da Amazônia Ocidental feitas com frutos regionais.",
-    "A proposta abrange itens como bebidas fermentadas (vermutes, sidra e hidromel), misturas fermentadas, aguardentes e licores elaborados com insumos como açaí, cupuaçu e buriti, mas exclui cervejas e vinhos.",
+    "A Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara dos Deputados aprovou o Projeto de Lei 3137/21, que isenta o IPI de bebidas alcoólicas da Amazônia Ocidental feitas com frutos regionais.",
+    "A proposta abrange bebidas como vermutes, sidra, hidromel, misturas fermentadas, aguardentes e licores à base de açaí, cupuaçu e buriti, mas exclui cervejas e vinhos.",
     "O texto recebeu parecer favorável da relatora, deputada Socorro Neri (PP-AC), com base na proposta original do deputado Capitão Alberto Neto (PL-AM).",
-    "Desde 1975, o Decreto-Lei 1.435/75 concede isenção de IPI para produtos locais na Amazônia Ocidental, mas o Decreto-Lei 1.593/77 havia retirado o benefício de bebidas alcoólicas e fumo em 1977.",
-    "A defesa da medida aponta a correção de excessos normativos, a valorização da biodiversidade e o apoio a extrativistas, agricultores familiares, cooperativas e comunidades tradicionais da região.",
-    "Para se tornar lei, a proposta ainda precisa passar pelas comissões de Finanças e Tributação e de Constituição e Justiça e de Cidadania, além de ser aprovada na Câmara e no Senado."
+    "A legislação de 1975 (Decreto-Lei 1.435/75) já garantia isenção de IPI para insumos locais na região, mas o Decreto-Lei 1.593/77 excluiu bebidas alcoólicas e fumo do benefício.",
+    "A medida visa corrigir restrições anteriores, agregar valor à biodiversidade e fortalecer extrativistas, agricultores familiares, cooperativas e comunidades tradicionais.",
+    "O projeto ainda passará pelas comissões de Finanças e Tributação e de Constituição e Justiça e de Cidadania, além de precisar de aprovação na Câmara e no Senado."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1319232-comissao-aprova-isencao-de-imposto-para-bebidas-a-base-de-frutos-regionais-da-amazonia",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b3ad5afebae6.webp"
   },
   {
    "titulo": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi",
    "topicos": [
     "O presidente do Senado, Davi Alcolumbre, afirmou em coletiva de imprensa na quinta-feira (12), após as 21h, que o adiamento da votação dos pontos pendentes do ajuste fiscal dará mais tempo para os senadores avaliarem suas posições.",
-    "A votação dos quatro destaques do projeto de lei complementar PLP 299/2026 foi transferida para terça-feira (17), após o Senado aprovar o texto base do ajuste fiscal do governo em uma sessão realizada em 13/11/2026.",
-    "O texto principal da proposta foi aprovado no plenário do Senado por 45 votos favoráveis e 31 contrários, após um dia inteiro de negociações entre os parlamentares.",
-    "A matéria aprovada é um substitutivo elaborado pelo senador Eduardo Braga (MDB-AM) a partir de um projeto apresentado pelo senador Jaques Wagner (PT-BA) a pedido do Executivo.",
-    "O projeto estabelece regras que limitam o crescimento dos gastos públicos acima da inflação a um patamar de 2%, substituindo o teto atual de 2,5%, além de ampliar as possibilidades de bloqueio temporário de despesas.",
-    "Após a conclusão da votação dos destaques na terça-feira (17), a matéria será encaminhada para análise da Câmara dos Deputados."
+    "A votação dos quatro destaques do projeto foi transferida para terça-feira (17), após uma sessão plenária longa e marcada por negociações e desgaste físico dos parlamentares, conforme explicou Alcolumbre.",
+    "O texto base do projeto de ajuste fiscal do governo (PLP 299/2026) foi aprovado pelo plenário do Senado com 45 votos favoráveis e 31 contrários na quinta-feira (12).",
+    "A proposta consiste em um substitutivo elaborado pelo senador Eduardo Braga (MDB-AM) a partir de um projeto apresentado pelo senador Jaques Wagner (PT-BA) a pedido do Poder Executivo.",
+    "O texto aprovado restringe o crescimento dos gastos públicos acima da inflação, estabelecendo um limite de 2% em substituição ao teto atual de 2,5%, além de ampliar as possibilidades de bloqueio temporário de despesas.",
+    "Após a conclusão da votação dos destaques prevista para terça-feira (17), a matéria será encaminhada para apreciação da Câmara dos Deputados."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/6f16a18e8c3d.webp"
   },
   {
    "titulo": "ECA Digital estabelece regras para proteger crianças e adolescentes",
    "topicos": [
-    "A Lei 15.211 de 2025, conhecida como ECA Digital e originada do PL 2.628/2022 do senador Alessandro Vieira, estabelece regras para proteger menores em serviços digitais, incluindo empresas estrangeiras. O texto foi aprovado no Senado em agosto de 2025 após relatar parecer favorável do senador Flávio Arns.",
-    "Segundo a pesquisa TIC Kids Online Brasil 2025, 92% dos brasileiros de 9 a 17 anos (cerca de 24 milhões de pessoas) usam a internet, sendo o celular o principal meio para 96% deles. Além disso, 99% dos adolescentes de 15 a 17 anos possuem perfil em redes sociais.",
-    "A Polícia Federal recebeu cerca de 926 mil relatórios de possíveis casos de exploração e abuso sexual infantojuvenil encaminhados pelo NCMEC em 2025, o que representa um aumento de 59% em relação a 2024. A lei exige verificação de idade confiável e proíbe perfis direcionados para publicidade comercial a menores.",
-    "Contas de usuários de até 16 anos em redes sociais devem ter o maior nível de segurança e vinculação com responsável legal. O download de aplicativos por menores exige consentimento livre dos pais, e o estatuto proíbe o uso de caixas de recompensa (loot boxes) em jogos acessíveis a esse público.",
-    "Plataformas com mais de 1 milhão de usuários crianças e adolescentes devem publicar relatórios semestrais em português sobre ações de proteção e moderação. Conteúdos de exploração, abuso ou aliciamento devem ser removidos pelas empresas ao receberem notificações, dispensando ordem judicial.",
-    "O descumprimento da norma pode gerar advertência com prazo de até 30 dias para correção e multa de até 10% do faturamento do grupo no Brasil no último exercício. Sem faturamento, a penalidade varia de R$ 10 a R$ 1 mil por usuário cadastrado, com limite de R$ 50 milhões por infração.",
-    "A fiscalização cabe à ANPD, regulamentada pelo Decreto 12.880 de 2026. O estatuto vigora desde março, com um período de adaptação para a verificação de idade estipulado entre agosto e novembro de 2026, embora o monitoramento e outras obrigações já estejam valendo."
+    "A Lei 15.211 de 2025, conhecida como ECA Digital, estabelece normas de segurança para proteger menores de 18 anos em aplicativos, jogos, redes sociais e lojas virtuais, com aplicação inclusive para empresas estrangeiras.",
+    "A legislação exige que as plataformas adotem por padrão configurações avançadas de privacidade, verificação confiável de idade e ferramentas de supervisão parental para contas de usuários com até 16 anos, cuja vinculação a um responsável é obrigatória.",
+    "O estatuto proíbe o uso de perfilamento para direcionar publicidade infantil, a venda de caixas de recompensa em jogos e recursos que estimulem o uso compulsivo, além de vetar a monetização de conteúdos erotizados envolvendo menores.",
+    "As empresas de tecnologia devem remover conteúdos de exploração sexual, sequestro e aliciamento independentemente de ordem judicial ao receberem denúncias, além de disponibilizar canais próprios para notificação de violações por usuários e vítimas.",
+    "Grandes plataformas com mais de 1 milhão de usuários infantojuvenis precisam publicar relatórios semestrais em português sobre medidas de proteção, denúncias, moderação e avaliações de risco, conforme determinado pela regulamentação.",
+    "O descumprimento das regras pode gerar advertência com prazo de até 30 dias para correção, multas de até 10% do faturamento do grupo no Brasil no último exercício ou penalidades por usuário cadastrado limitadas a R$ 50 milhões.",
+    "A fiscalização cabe à Autoridade Nacional de Proteção de Dados, com vigência das obrigações desde março e um período específico de adaptação para os mecanismos de verificação de idade estipulado entre agosto e novembro de 2026."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/eca-digital-estabelece-regras-para-proteger-criancas-e-adolescentes",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/782988f31cdc.webp"
   },
   {
    "titulo": "Hackers norte-coreanos roubam US$ 400 mi com IA para financiar programa de armas do governo, diz FBI",
    "topicos": [
-    "Hackers apoiados pelo governo da Coreia do Norte roubaram mais de US$ 400 milhões, o que equivale a R$ 2,24 bilhões, utilizando técnicas de engenharia social com inteligência artificial, segundo o FBI.",
-    "O FBI informou que o regime norte-coreano utiliza esses recursos obtidos por meio de criptomoedas para financiar seu programa ilícito de armas.",
-    "Neste mês, a agência americana também acusou outro grupo de hackers norte-coreanos pelo roubo de US$ 6 bilhões, ou R$ 33,6 bilhões, da plataforma de criptomoedas Binance, o que é negado por Pyongyang.",
-    "Os cibercriminosos adotam táticas enganosas para atingir indivíduos dos setores de criptomoedas e Web3, passando-se por conhecidos em videochamadas falsas manipuladas por inteligência artificial.",
-    "Durante as chamadas, os criminosos simulam um erro técnico para induzir a vítima a clicar em links ou mensagens que instalam um malware em seus dispositivos.",
-    "Com o acesso obtido, os invasores utilizam listas de contatos, redes sociais e aplicativos de mensagens das vítimas para encontrar novos alvos por meio do esquema FaceStealer."
+    "Hackers apoiados pelo governo da Coreia do Norte roubaram mais de US$ 400 milhões, o valor de R$ 2,24 bilhões, utilizando táticas de engenharia social com inteligência artificial, conforme divulgado pelo FBI.",
+    "O FBI relatou que o regime norte-coreano utiliza o roubo de criptomoedas em larga escala para financiar seu programa ilícito de armas, acumulando bilhões de dólares nos últimos anos.",
+    "Neste mês, a agência americana também acusou outro grupo de hackers norte-coreanos de subtrair US$ 6 bilhões, equivalente a R$ 33,6 bilhões, da plataforma de criptomoedas Binance, o que é negado por Pyongyang.",
+    "Os criminosos se fingem de conhecidos das vítimas em videochamadas com deepfakes de IA e simulam falhas técnicas para induzi-las a clicar em links que instalam malwares em seus dispositivos.",
+    "Com o acesso obtido, os invasores utilizam listas de contatos, redes sociais e aplicativos de mensagens dos infectados para enganar novos alvos nos setores de criptomoedas e Web3."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/hackers-norte-coreanos-roubaram-us-400-milhoes-com-videochamadas-manipuladas-por-ia-diz-fbi.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/dcde3b9d47c9.webp"
   },
   {
    "titulo": "As acusações de 'propina sexual' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
    "topicos": [
-    "O escândalo político envolvendo o ex-presidente da Colômbia, Gustavo Petro, veio a público em 25 de outubro, após uma entrevista de 22 minutos concedida por Deicy Jiménez à jornalista Vicky Dávila na revista Semana.",
-    "Jiménez afirmou ter mantido uma relação amorosa com Petro e relatou a existência de uma rede de 30 a 40 mulheres beneficiadas com cargos públicos em troca de festas sexuais com o ex-presidente.",
-    "O atual diretor do Dapre, Carlos Ríos, denunciou ao Congresso que Petro mantinha 48 mulheres na Presidência instrumentalizadas por meio de contratos de prestação de serviços (OPS).",
-    "Os contratos investigados foram firmados entre 2021 e 2026, somando 126.544.432 pesos colombianos (cerca de US$ 38 mil ou R$ 214 mil) em órgãos como o Senado, Superintendência de Vigilância e Ministério do Interior.",
-    "O último contrato registrado foi assinado em 21 de janeiro de 2026 e prevê pagamentos mensais de 2.648.443 pesos colombianos (US$ 800 ou R$ 4,5 mil) ao longo do ano de 2026.",
-    "Gustavo Petro negou ter oferecido contratos estatais em troca de relações sexuais, classificou as acusações como uma operação montada pelo governo do atual presidente, Abelardo de la Espriella, e alvo de investigações judiciais."
+    "O escândalo conhecido como 'sexocontratos' veio a público em 25 de outubro, envolvendo o ex-presidente da Colômbia, Gustavo Petro (que governou entre 2022 e 2026), e uma mulher identificada como Deicy Jiménez.",
+    "Jiménez afirmou em entrevista que obteve contratos públicos em troca de relações sexuais com Petro e relatou a existência de uma rede de 30 a 40 mulheres beneficiadas para acompanhar o ex-presidente em festas sexuais.",
+    "Os contratos investigados foram assinados entre 2021 e 2026, somando 126.544.432 pesos colombianos (cerca de US$ 38 mil ou R$ 214 mil), com passagens pelo Senado, Superintendência de Vigilância e Ministério do Interior.",
+    "O último contrato registrado foi assinado em 21 de janeiro de 2026 e prevê pagamentos mensais de 2.648.443 pesos colombianos (US$ 800 ou R$ 4,5 mil) ao longo deste ano, sem confirmação se os repasses continuam.",
+    "Gustavo Petro negou ter oferecido cargos públicos em troca de favores sexuais, classificou as acusações como uma operação política do governo do atual presidente Abelardo de la Espriella e afirmou que ajudava mulheres pobres.",
+    "O caso gerou investigações em múltiplas instâncias judiciais colombianas, incluindo a Promotoria, a Corte Suprema de Justiça e a Procuradoria, com depoimentos e análises forenses de celulares previstos na investigação."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/as-acusacoes-de-propina-sexual-que-levaram-a-investigacao-do-ex-presidente-colombiano-gustavo-petro.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/aa87e99b952d.webp"
   },
   {
    "titulo": "Proclamação da República é feriado ou ponto facultativo? Veja os direitos de quem trabalha",
    "topicos": [
-    "O Brasil celebra o feriado nacional da Proclamação da República no próximo domingo (15), data estabelecida em 1949 pela Lei Federal nº 662, sancionada pelo então presidente Eurico Gaspar Dutra.",
-    "Como o feriado de 15 de novembro cai no fim de semana, não há direito automático a pagamento em dobro ou folga adicional para quem já descansa aos domingos.",
-    "Trabalhadores de setores essenciais ou autorizados podem ser escalados no feriado, tendo direito a remuneração em dobro ou folga compensatória, conforme regras da CLT e de acordos coletivos.",
-    "A escolha entre pagamento em dobro ou folga deve ser definida em convenção coletiva ou negociação entre patrão e empregado, sendo proibida a decisão unilateral do empregador.",
-    "Faltar após ser escalado pode gerar desconto no salário e advertências, mas a demissão por justa causa exige análise de recorrência, impacto e comportamento reiterado.",
-    "Funcionários fixos e temporários seguem regras básicas similares, enquanto trabalhadores intermitentes devem ter os valores de feriados e adicionais definidos diretamente no contrato.",
-    "Em 2026, o Brasil terá dez feriados nacionais e pontos facultativos, com o Dia da Consciência Negra (20 de novembro) e o Natal (25 de dezembro) caindo em sextas-feiras."
+    "O feriado nacional da Proclamação da República ocorre no próximo domingo (15) e foi estabelecido em 1949 pela Lei Federal nº 662, sancionada pelo presidente Eurico Gaspar Dutra.",
+    "Como o feriado cai no fim de semana, não há direito automático a pagamento em dobro ou folga extra para quem já descansaria no domingo.",
+    "Trabalhadores de setores essenciais ou autorizados podem ser escalados no feriado, tendo direito à remuneração em dobro ou compensação com outra folga.",
+    "A escolha entre pagamento em dobro ou folga compensatória é definida em acordo coletivo ou negociada entre empregador e funcionário, sem decisão unilateral.",
+    "Faltar ao trabalho após ser escalado pode gerar desconto no salário e advertências, mas a demissão por justa causa exige reincidência e análise de impacto.",
+    "O ano de 2026 terá dez feriados nacionais, sendo nove em dias úteis, incluindo o Dia da Consciência Negra em 20 de novembro e o Natal em 25 de dezembro, ambos em sextas-feiras."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/13/proclamacao-da-republica-e-feriado.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/b108e5797983.webp"
   },
   {
    "titulo": "Líderes europeus pedem que Trump 'não crie surpresas' e definem representantes em negociações sobre a Ucrânia",
    "topicos": [
-    "Líderes europeus reunidos em cúpula em Dublin nesta sexta-feira (13) definiram que um grupo específico de nações e a União Europeia conduzirão as negociações com Estados Unidos, Rússia e Ucrânia.",
-    "O bloco negociador será encabeçado por Alemanha, França, Itália, Polônia e Reino Unido, além das instituições da União Europeia, conforme fontes da agência Reuters.",
-    "O chanceler alemão, Friedrich Merz, apelou para que o presidente norte-americano, Donald Trump, evite surpresas e permaneça integrado ao lado da Europa e da Ucrânia nas conversas.",
-    "Durante o encontro na Irlanda, autoridades expressaram receio de que as negociações com o presidente russo, Vladimir Putin, repitam um cenário semelhante a um segundo momento Anchorage.",
-    "Putin avaliou positivamente um cessar-fogo temporário em Olenshky e sugeriu uma nova trégua experimental na localidade de Kostyantynivka, situada no leste ucraniano.",
-    "O líder russo declarou apoio a uma paz duradoura, mas classificou a presença de tropas estrangeiras na Ucrânia como inaceitável e alvo legítimo para Moscou."
+    "Líderes europeus reunidos em uma cúpula em Dublin nesta sexta-feira (13) decidiram que um grupo específico de países e a União Europeia liderarão as negociações com Estados Unidos, Rússia e Ucrânia.",
+    "O grupo negociador será composto por Alemanha, França, Itália, Polônia e Reino Unido, além das instituições da União Europeia, conforme fontes da agência Reuters.",
+    "O chanceler alemão Friedrich Merz apelou publicamente para que o presidente dos EUA, Donald Trump, evite surpresas nas conversas com Vladimir Putin e atue integrado ao 'Time Europa' e ao 'Time Ucrânia'.",
+    "Durante a cúpula na Irlanda, autoridades expressaram receio de que as negociações possam repetir um cenário semelhante ao chamado 'segundo momento Anchorage'.",
+    "Em paralelo, enviados de Trump se reuniram com Vladimir Putin em Moscou, encontro no qual o líder russo avaliou positivamente o cessar-fogo em Olenshky e sugeriu uma nova trégua em Kostyantynivka.",
+    "Putin declarou à imprensa local que apoia uma paz duradoura na Ucrânia, mas criticou a presença de tropas estrangeiras no país, classificando-as como alvos legítimos e inaceitáveis."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/lideres-europeus-pedem-que-trump-nao-crie-surpresas-e-definem-representantes-em-negociacoes-sobre-a-ucrania.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/cb41d2110389.webp"
   },
   {
    "titulo": "BB e Petrobras: após decepções com balanços e proventos, o que esperar para ações?",
    "topicos": [
-    "As estatais Petrobras e Banco do Brasil decepcionaram o mercado ao divulgarem seus balanços e proventos referentes ao terceiro trimestre de 2026, gerando desconfiança entre os investidores na última semana.",
-    "Após a divulgação dos resultados, as ações da Petrobras caíram 2,09% (PETR3) e 3,11% (PETR4) em 11 de novembro, enquanto os papéis do Banco do Brasil despencaram 8,35% no dia seguinte, fechando a R$ 15,48.",
-    "A Petrobras obteve lucro líquido de R$ 39,8 bilhões e produção recorde de 3,5 milhões de barris diários, mas frustrou o mercado ao elevar o capex de 2026 para entre US$ 24 bilhões e US$ 25,5 bilhões e anunciar dividendos de R$ 15,3 bilhões.",
-    "O novo plano estratégico da Petrobras para o período de 2027 a 2031, que será divulgado em 23 de novembro, será crucial para definir se os investimentos maiores limitarão a distribuição futura de proventos.",
-    "O Banco do Brasil registrou lucro líquido recorrente de R$ 1,3 bilhão, queda anual de 66%, e reduziu pela metade sua projeção de lucro para 2026 após enfrentar forte pressão no crédito voltado ao agronegócio.",
-    "A inadimplência acima de 90 dias no BB atingiu 6,1%, sendo que o segmento rural chegou a quase 7%, com a pontualidade dos pagamentos caindo para cerca de 66% em outubro, ante a expectativa de 90%."
+    "As estatais Petrobras e Banco do Brasil decepcionaram o mercado ao divulgarem seus balanços financeiros referentes ao terceiro trimestre de 2026, gerando desconfiança entre os acionistas.",
+    "Na sessão seguinte ao resultado da Petrobras, os papéis PETR3 caíram 2,09% e os PETR4 recuaram 3,11%, enquanto as ações do BB despencaram 8,35%, fechando a R$ 15,48 no dia seguinte ao seu balanço.",
+    "A Petrobras registrou lucro de R$ 39,8 bilhões e produção recorde, mas frustrou investidores ao elevar o capex para 2026 para uma faixa entre US$ 24 bilhões e US$ 25,5 bilhões e anunciar dividendos de R$ 15,3 bilhões.",
+    "O plano estratégico 2027-2031 da Petrobras, que será divulgado em 23 de novembro, indicará se o aumento dos investimentos é uma mudança estrutural ou antecipação de desembolsos.",
+    "O Banco do Brasil reportou lucro recorrente de R$ 1,3 bilhão, queda anual de 66%, e reduziu pela metade sua projeção de lucro para 2026 devido a problemas com a inadimplência no agronegócio.",
+    "A inadimplência acima de 90 dias no BB atingiu 6,1% e o segmento rural chegou a quase 7%, com a pontualidade dos pagamentos caindo para cerca de 66% em outubro, ante os 90% esperados."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-petrobras-petr3-petr4-apos-decepcoes-com-balancos-e-proventos-o-que-esperar-para-acoes/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/cf2f6c33a3a9.webp"
   },
   {
    "titulo": "Lesões no tornozelo são mais comuns do que você imagina — veja como proteger o seu",
    "topicos": [
-    "Conforme o Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido (Nice), as lesões no tornozelo respondem por 5% dos atendimentos em emergências no país.",
-    "A fisioterapeuta Genevieve Tawiah aponta que tais lesões podem ser evitadas com fortalecimento muscular e maior consciência dos movimentos dos pés e tornozelos.",
-    "O primeiro passo preventivo envolve melhorar a conexão entre o cérebro e o corpo, percebendo os movimentos dos tornozelos por meio de exercícios com os dedos.",
-    "Para desenvolver força e equilíbrio, recomenda-se a elevação de calcanhares, caminhada em linha reta e controle na transição entre sentar e levantar.",
-    "Quem sofre de tendinopatia deve realizar treinos lentos e com cargas elevadas, como a elevação de panturrilha com peso.",
-    "A escolha correta do calçado é essencial para dar sustentação, sendo indicado evitar sapatos que espremam os dedos e usar solas planas para agachamentos.",
-    "Tênis com amortecimento são recomendados para corridas, enquanto botas de trilha ajudam em caminhadas longas, embora seu uso prolongado possa gerar rigidez."
+    "Conforme o Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido, lesões nos tornozelos respondem por 5% de todos os atendimentos emergenciais médicos no país.",
+    "A fisioterapeuta Genevieve Tawiah destaca que machucados na região podem ser prevenidos com musculatura fortalecida e percepção correta dos movimentos dos pés e tornozelos.",
+    "O primeiro passo preventivo envolve melhorar a conexão entre o cérebro e o corpo, permitindo perceber os movimentos dos tornozelos sem precisar olhar para eles.",
+    "Para desenvolver força e equilíbrio, recomenda-se fazer elevações de calcanhar, caminhar com um pé na frente do outro e praticar exercícios de transição entre sentar e levantar.",
+    "Pacientes com tendinopatia devem realizar movimentos lentos com cargas elevadas, a exemplo da elevação de panturrilha com peso em aparelhos como o leg press.",
+    "A escolha de sapatos adequados é fundamental para sustentar os pés, sendo necessário evitar modelos de sola reta, bico fino ou biqueiras apertadas que espremem os dedos.",
+    "Calçados planos ajudam em agachamentos, tênis com amortecimento são indicados para corridas e botas de trilha reduzem entorses, embora o uso prolongado possa enrijecer a articulação."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cqgkl7nz7y2zo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2af265fa589b.webp"
   },
   {
    "titulo": "VÍDEO: Na Alemanha, alpacas 'invadem' casa de repouso e alegram idosos",
    "topicos": [
-    "Alpacas visitaram uma casa de repouso em Berlim, na Alemanha, para interagir com os idosos e trazer alegria aos moradores locais.",
-    "Segundo a diretora administrativa Johanna Janssen, os animais transmitem pura alegria e confiança para os residentes da instituição.",
-    "O zelador e tratador Max Beier explicou que as alpacas são fáceis de cuidar, nunca são forçadas a interagir e ainda ajudam na jardinagem aparando a grama.",
-    "Para o morador Gerhard Guettler, de 94 anos, a presença dos animais serve como estímulo para mantê-lo ativo e motivado a se levantar e participar das atividades."
+    "Alpacas visitaram uma casa de repouso em Berlim, na Alemanha, para interagir com os idosos e trazer momentos de alegria e descontração aos moradores locais.",
+    "Segundo a diretora administrativa Johanna Janssen, os animais transmitem pura alegria e confiança aos residentes do local.",
+    "O zelador e tratador Max Beier explicou que os animais são fáceis de cuidar, nunca são forçados a interagir e ainda ajudam na jardinagem mantendo a grama aparada.",
+    "Para o morador Gerhard Guettler, de 94 anos, a presença dos animais funciona como um estímulo para mantê-lo ativo, fazendo com que ele se levante para interagir sempre que se sente bem."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/alpacas-alemanha-idosos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e09dd17347f2.webp"
   },
   {
    "titulo": "Banco do Brasil (BBAS3) ao contrário: Nubank (NU) vence mais uma batalha e ação salta mais de 10%; hora de comprar?",
    "topicos": [
-    "As ações do Nubank registraram forte alta nesta sexta-feira, avançando 9,26% e atingindo US$ 12,92 por volta das 12h55, impulsionadas por seus resultados financeiros.",
-    "A instituição financeira reportou um resultado de US$ 1,1 bilhão, valor equivalente a aproximadamente R$ 5,5 bilhões, superando o Santander e equiparando-se ao Bradesco.",
-    "O desempenho positivo foi alcançado sem a necessidade do auxílio do programa governamental de renegociação de dívidas chamado Desenrola.",
-    "O indicador de retorno sobre o patrimônio líquido (ROE) fechou o período em 32%, registrando uma retração de 1,2 ponto percentual no trimestre, mas uma alta de 0,5 ponto percentual no comparativo anual.",
-    "Analistas do mercado financeiro mantêm projeções de lucros em torno de US$ 4,2 bilhões para a instituição, sustentando recomendações favoráveis de compra para o papel."
+    "As ações do Nubank registraram forte alta nesta sexta-feira (13), avançando 9,26% e atingindo US$ 12,92 por volta das 12h55, impulsionadas pelos resultados financeiros e operacionais.",
+    "O banco digital reportou um resultado de US$ 1,1 bilhão, equivalente a cerca de R$ 5,5 bilhões, superando o Santander e ficando próximo ao Bradesco, sem o auxílio do programa Desenrola.",
+    "O ROE (retorno sobre o patrimônio líquido) da instituição ficou em 32%, o que representa um recuo trimestral de 1,2 ponto percentual, mas alta anual de 0,5 ponto percentual.",
+    "Especialistas do BTG estimam que as projeções de lucros da empresa de aproximadamente US$ 4,2 bilhões permanecem alcançáveis, apoiadas pelo forte desempenho e margem financeira.",
+    "Apesar dos bons resultados e da recomendação de compra mantida pelo Safra, analistas apontam desafios futuros para 2027, como um cenário de recessão previsto pelo Banco Central e o endividamento no Brasil."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-ao-contrario-nubank-nu-vence-mais-uma-batalha-e-acao-salta-mais-de-10-hora-de-comprar/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/eb43f0f368a4.webp"
   },
   {
    "titulo": "Anthropic alega ‘falha de autenticação’ após Claude e outras ferramentas saírem do ar",
    "topicos": [
-    "A ferramenta de inteligência artificial Claude, desenvolvida pela Anthropic e comandada por Dario Amodei, ficou fora do ar por aproximadamente duas horas nesta sexta-feira, 13.",
-    "A instabilidade ocorreu devido a uma falha de autenticação que aumentou os erros de acesso e atingiu plataformas como Claude.ai, Claude Code, Claude Console e Claude Cowork.",
-    "O problema começou às 6h58 e o serviço foi totalmente restabelecido às 8h58, no horário de Brasília, após a implementação de uma correção e o monitoramento da normalização.",
-    "O incidente antecede a abertura de capital da empresa, avaliada em US$ 1,3 trilhão e programada para 19 de novembro, que já registra forte demanda com ordens equivalentes a seis vezes o volume de ações.",
-    "A companhia lançou o Claude Opus 5.5, nova versão de seu modelo avançado que custa cerca de 40% menos que o Opus 5 e oferece uma geração de respostas mais de 30% mais rápida.",
-    "Na API do novo modelo, os preços definidos são de US$ 4 por milhão de tokens de entrada, US$ 20 por milhão de tokens de saída e US$ 0,20 por milhão de tokens para leituras de cache.",
-    "A empresa informou ainda que ampliou os limites de uso em intervalos de cinco horas para os clientes dos planos Pro, Max, Team e Enterprise."
+    "A ferramenta de inteligência artificial Claude e outros recursos da Anthropic ficaram fora do ar por cerca de duas horas nesta sexta-feira, 13, devido a um problema de autenticação.",
+    "O incidente teve início às 6h58 e afetou plataformas como Claude.ai, Claude Code, Claude Console e Claude Cowork, com o restabelecimento confirmado às 8h58 no horário de Brasília.",
+    "A companhia comandada por Dario Amodei implementou uma correção e encerrou o caso após acompanhar a normalização dos serviços afetados pelo aumento de erros de acesso.",
+    "A falha ocorre antes da oferta pública inicial (IPO) da empresa, avaliada em US$ 1,3 trilhão e marcada para 19 de novembro, que já registra alta demanda de investidores.",
+    "A Anthropic lançou o Claude Opus 5.5, nova versão de seu modelo avançado que custa cerca de 40% menos que o Opus 5 e entrega respostas mais de 30% mais rápidas.",
+    "Os preços da API do novo modelo passaram a ser de US$ 4 por milhão de tokens de entrada, US$ 20 por milhão de tokens de saída e US$ 0,20 por milhão de tokens em leituras de cache.",
+    "A empresa ampliou os limites de uso em intervalos de cinco horas para os planos Pro, Max, Team e Enterprise."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/tecnologia/anthropic-alega-falha-de-autenticacao-apos-claude-e-outras-ferramentas-sairem-do-ar/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8d9c34a9d5ea.webp"
   },
   {
    "titulo": "Ex-tesoureiro da Caixa é condenado por desviar quase R$ 890 mil para apostas em bets",
    "topicos": [
-    "A 5ª Turma Especializada do TRF2 confirmou a condenação por improbidade administrativa de um ex-tesoureiro da Caixa Econômica Federal por desviar R$ 889,5 mil de quatro caixas eletrônicos.",
-    "O caso foi confirmado no fim de outubro, com a publicação do acórdão em 6 de novembro, após processo movido pelo MPF e julgado inicialmente na 5ª Vara Federal Cível de Vitória.",
-    "Os desvios aconteceram ao longo de um ano, entre julho de 2020 e julho de 2021, e o montante foi totalmente direcionado para a realização de apostas em bets online.",
-    "O ex-funcionário, que já havia sido demitido pela Caixa após um processo disciplinar, admitiu em juízo que usava o caixa funcional para pagar boletos de plataformas de apostas sem a entrada do dinheiro.",
-    "O réu foi condenado a ressarcir o banco na quantia desviada e a pagar uma multa idêntica, totalizando R$ 1,779 milhão em sanções, além da perda futura de qualquer função pública.",
-    "A defesa alegou em juízo que o ex-tesoureiro possui diagnóstico de ludopatia, o vício em jogos, condição que teria sido reconhecida pelo INSS.",
-    "O ex-tesoureiro foi punido apenas na esfera cível porque firmou um acordo de não persecução penal com o Ministério Público Federal, escapando da esfera criminal."
+    "A 5ª Turma Especializada do TRF2 confirmou a condenação por improbidade administrativa de um ex-tesoureiro da Caixa Econômica Federal por desviar R$ 889,5 mil de quatro caixas eletrônicos da instituição financeira para gastar em apostas em bets online.",
+    "A decisão colegiada foi confirmada no final de outubro e publicada oficialmente em 6 de novembro, após processo movido pelo Ministério Público Federal e julgado inicialmente na 5ª Vara Federal Cível de Vitória.",
+    "Os desvios de dinheiro aconteceram durante o período de um ano, entre julho de 2020 e julho de 2021, e foram descobertos por um funcionário substituto enquanto o réu estava em licença médica.",
+    "O ex-tesoureiro Irineu Barth Júnior, já demitido pela Caixa após um processo disciplinar, confessou em juízo que usava o caixa funcional para pagar boletos de plataformas de apostas sem colocar o dinheiro em espécie correspondente.",
+    "Ele foi punido com a obrigação de devolver os R$ 889,5 mil desviados e ao pagamento de uma multa de igual valor, totalizando sanções de R$ 1,779 milhão, além da perda futura de qualquer função pública.",
+    "A defesa alegou no processo que o ex-funcionário possui ludopatia, que é o vício patológico em jogos, condição que foi reconhecida pelo INSS, e ainda pode apresentar recursos no STJ ou no STF.",
+    "O réu foi condenado exclusivamente na esfera cível porque firmou um acordo de não persecução penal com o Ministério Público Federal, escapando assim de responder na área criminal."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/economia/ex-tesoureiro-caixa-condenado-desvio-apostas-bets/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/db95efa05656.webp"
   },
   {
    "titulo": "Lucro da MBRF cresce 123,5% e atinge R$ 210 milhões no 3º trimestre",
    "topicos": [
-    "A MBRF encerrou o terceiro trimestre de 2026 com lucro líquido de R$ 210 milhões, alta de 123,5% em relação aos R$ 94 milhões registrados no mesmo período do ano anterior.",
-    "A receita líquida consolidada totalizou R$ 41,424 bilhões, um recuo de 0,8%, enquanto o Ebitda ajustado cresceu 1,6%, somando R$ 3,558 bilhões.",
-    "O volume consolidado de vendas caiu 2,4%, para 2,051 milhões de toneladas, com queda de 5,9% no mercado interno e alta de 4,2% nas exportações.",
-    "A dívida líquida consolidada atingiu R$ 45,737 bilhões no fim de setembro, representando alta de 10,6% na comparação anual e alavancagem de 3,45 vezes.",
-    "A fusão entre Marfrig e BRF gerou R$ 179 milhões em sinergias no trimestre, atingindo 76% do total previsto para o ano de 2026, enquanto o programa MBRF+ somou R$ 500 milhões em ganhos.",
-    "A operação BRF respondeu por 71% do Ebitda ajustado da companhia, seguida por Beef América do Sul com 18% e Beef América do Norte com 11%."
+    "A MBRF encerrou o terceiro trimestre de 2026 com lucro líquido de R$ 210 milhões, alta de 123,5% em relação aos R$ 94 milhões registrados no mesmo período de 2025.",
+    "A receita líquida consolidada caiu 0,8%, para R$ 41,424 bilhões, enquanto o Ebitda ajustado somou R$ 3,558 bilhões, um crescimento anual de 1,6%.",
+    "O volume consolidado de vendas recuou 2,4%, para 2,051 milhões de toneladas, com queda de 5,9% no mercado interno e alta de 4,2% no mercado externo.",
+    "A dívida líquida da companhia atingiu R$ 45,737 bilhões no fim de setembro, e a alavancagem passou de 3,09 vezes para 3,45 vezes na comparação anual.",
+    "A empresa capturou R$ 179 milhões em sinergias da fusão entre Marfrig e BRF no trimestre, atingindo 76% da meta prevista para 2026, e R$ 500 milhões com o programa MBRF+.",
+    "A operação BRF respondeu por 71% do Ebitda ajustado consolidado, enquanto Beef América do Sul representou 18% e Beef América do Norte, 11%."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/mc-capital/lucro-da-mbrf-cresce-1235-e-atinge-r-210-milhoes-no-3o-trimestre/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0f7e5beb86db.webp"
   },
   {
    "titulo": "Dino mantém fim da 6×1 para 16 de dezembro, mas flexibiliza folgas",
    "topicos": [
-    "Na quinta-feira, 12, o ministro do STF Flávio Dino manteve para 16 de dezembro o início da transição do fim da escala 6x1, com a redução da jornada de 44 para 42 horas semanais.",
-    "A decisão liminar ocorreu no âmbito de duas Ações Diretas de Inconstitucionalidade movidas pela CNC e pela CNI, que pediam mais prazo para a implementação das mudanças.",
-    "O ministro flexibilizou as folgas previstas na PEC aprovada pelo Congresso, retirando as travas temporais de quando o trabalhador poderá usufruir do descanso semanal e mensal.",
-    "A definição sobre o momento do usufruto das folgas passa a ficar a cargo de convenções ou acordos coletivos de trabalho, conforme a decisão liminar.",
-    "O direito a oito dias de repouso por mês e ao menos uma folga semanal, preferencialmente aos domingos, deve ser integralmente mantido, sem possibilidade de supressão.",
-    "A flexibilização atende a demandas sazonais de setores como comércio, serviços, agricultura, turismo, hotelaria e atividades em embarcações ou plataformas marítimas.",
-    "A liminar concedida por Flávio Dino ainda precisa ser confirmada pelo plenário do Supremo Tribunal Federal."
+    "Na quinta-feira, 12, o ministro do STF Flávio Dino emitiu decisão liminar mantendo para 16 de dezembro o início da transição do fim da escala 6x1.",
+    "A mudança prevê a redução da jornada de trabalho de 44 para 42 horas semanais, acompanhada de dois dias de folga remunerada.",
+    "A medida atendeu a Ações Diretas de Inconstitucionalidade movidas pela CNI e pela CNC, que solicitavam prazos maiores para a implementação.",
+    "A decisão flexibilizou as regras ao remover as travas temporais semanais e mensais para o usufruto das folgas estabelecidas pela PEC.",
+    "A definição de quando os descansos serão desfrutados passa a ser estabelecida por meio de convenção ou acordo coletivo de trabalho.",
+    "O ministro manteve a obrigatoriedade de garantir a média de dois dias de repouso por semana, totalizando oito dias por mês.",
+    "A flexibilização atende a setores como comércio, serviços, agricultura, turismo, hotelaria e atividades marítimas devido à sazonalidade."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/13/11/2026/noticias/dino-mantem-fim-da-6x1-para-16-de-dezembro-mas-flexibiliza-folgas/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/3057709e1bec.webp"
   }
  ]
 }
