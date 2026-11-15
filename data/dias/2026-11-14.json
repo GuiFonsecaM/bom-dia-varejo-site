@@ -748,7 +748,7 @@
    "categoria": "Política",
    "erro_materia": "HTTPError: 404 Client Error: Not Found for url: https://www.poder360.com.br/poder-justica/cnj-exige-contexto-de-morte-em-acao-polic",
    "erro_ia": "texto da matéria não encontrado",
-   "tentativas_ia": 2,
+   "tentativas_ia": 3,
    "sem_imagem": true
   },
   {
