@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T12:15:28-03:00",
+ "atualizado": "2026-11-16T18:10:13-03:00",
  "secoes": [
   {
    "nome": "Brasil",
@@ -128,13 +128,8 @@
        ],
        "hist_ini": "2025-10-01",
        "hist_fim": "2026-10-01",
-       "fonte": "ipea_indice",
-       "ref": "2026-10",
-       "fontes_falharam": [
-        "ibge: ConnectTimeout HTTPSConnectionPool(host='servicodados.ibge.gov.br', port=44",
-        "ibge: ConnectTimeout HTTPSConnectionPool(host='servicodados.ibge.gov.br', port=44",
-        "sgs: HTTPError 400 Client Error: Bad Request for url: https://api.bcb.gov.b"
-       ]
+       "fonte": "ibge",
+       "ref": "2026-10"
       },
       {
        "id": "ipca",
@@ -171,13 +166,8 @@
        ],
        "hist_ini": "2025-10-01",
        "hist_fim": "2026-10-01",
-       "fonte": "ipea_indice",
-       "ref": "2026-10",
-       "fontes_falharam": [
-        "ibge: ConnectTimeout HTTPSConnectionPool(host='servicodados.ibge.gov.br', port=44",
-        "ibge: ConnectTimeout HTTPSConnectionPool(host='servicodados.ibge.gov.br', port=44",
-        "sgs: HTTPError 400 Client Error: Bad Request for url: https://api.bcb.gov.b"
-       ]
+       "fonte": "ibge",
+       "ref": "2026-10"
       },
       {
        "id": "igpm",
@@ -255,12 +245,8 @@
        ],
        "hist_ini": "2025-09-01",
        "hist_fim": "2026-09-01",
-       "fonte": "ipea",
-       "ref": "2026-09",
-       "fontes_falharam": [
-        "ibge: ConnectTimeout HTTPSConnectionPool(host='servicodados.ibge.gov.br', port=44",
-        "sgs: HTTPError 400 Client Error: Bad Request for url: https://api.bcb.gov.b"
-       ]
+       "fonte": "ibge",
+       "ref": "2026-09"
       }
      ]
     },
@@ -275,10 +261,10 @@
        "casas": 4,
        "variacao": "pct",
        "unidade": "dia",
-       "valor": 5.7513,
-       "var": 1.9608,
+       "valor": 5.7904,
+       "var": 2.6539,
        "var_base": "2026-11-12",
-       "var12": 8.6053,
+       "var12": 9.3436,
        "base12": "2025-11-16",
        "seq": {
         "dir": "alta",
@@ -345,12 +331,12 @@
         5.3503,
         5.4363,
         5.5086,
-        5.7513
+        5.7904
        ],
        "hist_ini": "2025-11-16",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:15"
+       "ref": "2026-11-16T18:10"
       },
       {
        "id": "euro",
@@ -360,10 +346,10 @@
        "casas": 4,
        "variacao": "pct",
        "unidade": "dia",
-       "valor": 6.3297,
-       "var": 1.655,
+       "valor": 6.3637,
+       "var": 2.201,
        "var_base": "2026-11-12",
-       "var12": 3.2241,
+       "var12": 3.7785,
        "base12": "2025-11-16",
        "seq": {
         "dir": "alta",
@@ -430,12 +416,12 @@
         5.9513,
         6.079027,
         6.176652,
-        6.3297
+        6.3637
        ],
        "hist_ini": "2025-11-16",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:11"
+       "ref": "2026-11-16T18:06"
       },
       {
        "id": "ibov",
@@ -444,8 +430,8 @@
        "formato": "pts",
        "casas": 0,
        "variacao": "pct",
-       "valor": 170033.4,
-       "var": -1.4059,
+       "valor": 169168.45,
+       "var": -1.9074,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -512,12 +498,12 @@
         175710.0,
         167564.0,
         171337.0,
-        170033.4
+        169168.45
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:00"
+       "ref": "2026-11-16T17:55"
       }
      ]
     }
@@ -537,8 +523,8 @@
        "casas": 0,
        "variacao": "pct",
        "info": "EUA",
-       "valor": 7465.79,
-       "var": -1.268,
+       "valor": 7416.59,
+       "var": -1.9186,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -605,12 +591,12 @@
         7743.97998,
         7688.620117,
         7520.930176,
-        7465.79
+        7416.59
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:15"
+       "ref": "2026-11-16T18:10"
       },
       {
        "id": "nasdaq",
@@ -620,8 +606,8 @@
        "casas": 0,
        "variacao": "pct",
        "info": "EUA",
-       "valor": 24638.22,
-       "var": -1.9814,
+       "valor": 24509.758,
+       "var": -2.4925,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -688,12 +674,12 @@
         26549.849609,
         25736.509766,
         25065.869141,
-        24638.22
+        24509.758
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:15"
+       "ref": "2026-11-16T18:10"
       },
       {
        "id": "dow",
@@ -703,8 +689,8 @@
        "casas": 0,
        "variacao": "pct",
        "info": "EUA",
-       "valor": 52036.69,
-       "var": -0.5938,
+       "valor": 51608.17,
+       "var": -1.4124,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -771,12 +757,12 @@
         52475.101562,
         53356.121094,
         52231.890625,
-        52036.69
+        51608.17
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:15"
+       "ref": "2026-11-16T18:10"
       }
      ]
     },
@@ -791,8 +777,8 @@
        "casas": 2,
        "variacao": "pct",
        "info": "barril",
-       "valor": 93.39,
-       "var": -2.5563,
+       "valor": 92.35,
+       "var": -3.6415,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -859,12 +845,12 @@
         115.32,
         94.620003,
         91.489998,
-        93.39
+        92.35
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:05"
+       "ref": "2026-11-16T17:59"
       },
       {
        "id": "wti",
@@ -874,8 +860,8 @@
        "casas": 2,
        "variacao": "pct",
        "info": "barril",
-       "valor": 86.61,
-       "var": -2.2019,
+       "valor": 85.51,
+       "var": -3.444,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -942,12 +928,12 @@
         102.779999,
         88.120003,
         86.040001,
-        86.61
+        85.51
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:05"
+       "ref": "2026-11-16T18:00"
       },
       {
        "id": "ouro",
@@ -957,8 +943,8 @@
        "casas": 2,
        "variacao": "pct",
        "info": "onça",
-       "valor": 3883.0,
-       "var": -0.0849,
+       "valor": 3854.0,
+       "var": -0.8311,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -1025,12 +1011,12 @@
         4051.600098,
         4073.0,
         4030.199951,
-        3883.0
+        3854.0
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:05"
+       "ref": "2026-11-16T18:00"
       }
      ]
     },
@@ -1045,8 +1031,8 @@
        "casas": 2,
        "variacao": "pct",
        "info": "US¢/bushel · Chicago",
-       "valor": 1226.0,
-       "var": -1.3677,
+       "valor": 1226.75,
+       "var": -1.3073,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -1113,12 +1099,12 @@
         1224.5,
         1193.25,
         1224.5,
-        1226.0
+        1226.75
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:05"
+       "ref": "2026-11-16T16:19"
       },
       {
        "id": "milho",
@@ -1128,13 +1114,13 @@
        "casas": 2,
        "variacao": "pct",
        "info": "US¢/bushel · Chicago",
-       "valor": 444.5,
-       "var": -0.2245,
+       "valor": 448.5,
+       "var": 0.6734,
        "var_base": "2026-11-13",
        "seq": {
-        "dir": "queda",
-        "n": 1,
-        "desde": "2026-11-13"
+        "dir": "alta",
+        "n": 2,
+        "desde": "2026-11-12"
        },
        "hist": [
         434.75,
@@ -1196,12 +1182,12 @@
         451.75,
         444.25,
         449.0,
-        444.5
+        448.5
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:05"
+       "ref": "2026-11-16T16:19"
       },
       {
        "id": "trigo",
@@ -1211,13 +1197,13 @@
        "casas": 2,
        "variacao": "pct",
        "info": "US¢/bushel · Chicago",
-       "valor": 588.25,
-       "var": -0.8428,
+       "valor": 601.75,
+       "var": 1.4328,
        "var_base": "2026-11-13",
        "seq": {
-        "dir": "queda",
-        "n": 1,
-        "desde": "2026-11-13"
+        "dir": "alta",
+        "n": 2,
+        "desde": "2026-11-12"
        },
        "hist": [
         544.25,
@@ -1279,12 +1265,12 @@
         599.0,
         598.5,
         592.75,
-        588.25
+        601.75
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:05"
+       "ref": "2026-11-16T16:19"
       },
       {
        "id": "cafe",
@@ -1294,8 +1280,8 @@
        "casas": 2,
        "variacao": "pct",
        "info": "US¢/libra · Nova York",
-       "valor": 276.3,
-       "var": -0.8433,
+       "valor": 274.4,
+       "var": -1.5252,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -1362,12 +1348,12 @@
         286.75,
         279.75,
         271.399994,
-        276.3
+        274.4
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T11:55"
+       "ref": "2026-11-16T15:29"
       },
       {
        "id": "acucar",
@@ -1377,8 +1363,8 @@
        "casas": 2,
        "variacao": "pct",
        "info": "US¢/libra · Nova York",
-       "valor": 18.25,
-       "var": -0.8691,
+       "valor": 18.1,
+       "var": -1.6839,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -1445,12 +1431,12 @@
         19.34,
         18.469999,
         18.09,
-        18.25
+        18.1
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T11:55"
+       "ref": "2026-11-16T14:59"
       }
      ]
     },
@@ -1465,10 +1451,10 @@
        "casas": 4,
        "variacao": "pct",
        "unidade": "dia",
-       "valor": 1.1013,
-       "var": -0.3368,
+       "valor": 1.0999,
+       "var": -0.4635,
        "var_base": "2026-11-12",
-       "var12": -5.1858,
+       "var12": -5.3063,
        "base12": "2025-11-16",
        "seq": {
         "dir": "queda",
@@ -1535,12 +1521,12 @@
         1.112966,
         1.119207,
         1.122246,
-        1.1013
+        1.0999
        ],
        "hist_ini": "2025-11-16",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:14"
+       "ref": "2026-11-16T18:09"
       },
       {
        "id": "tnx",
@@ -1550,8 +1536,8 @@
        "casas": 2,
        "variacao": "pp",
        "info": "Treasury",
-       "valor": 5.123,
-       "var": -0.031,
+       "valor": 5.121,
+       "var": -0.033,
        "var_base": "2026-11-13",
        "seq": {
         "dir": "queda",
@@ -1618,12 +1604,12 @@
         5.045,
         4.894,
         4.983,
-        5.123
+        5.121
        ],
        "hist_ini": "2025-11-17",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:00"
+       "ref": "2026-11-16T16:59"
       },
       {
        "id": "btc",
@@ -1633,15 +1619,15 @@
        "casas": 0,
        "variacao": "pct",
        "unidade": "dia",
-       "valor": 64249.63,
-       "var": 0.0,
+       "valor": 64950.92,
+       "var": -0.0,
        "var_base": "2026-11-15",
-       "var12": -30.2346,
+       "var12": -29.4731,
        "base12": "2025-11-16",
        "seq": {
-        "dir": "alta",
-        "n": 1,
-        "desde": "2026-11-15"
+        "dir": "queda",
+        "n": 2,
+        "desde": "2026-11-14"
        },
        "hist": [
         92093.875,
@@ -1703,12 +1689,12 @@
         77775.109375,
         75942.125,
         73964.46875,
-        64249.63
+        64950.92
        ],
        "hist_ini": "2025-11-16",
        "hist_fim": "2026-11-16",
        "fonte": "yahoo",
-       "ref": "2026-11-16T12:15"
+       "ref": "2026-11-16T18:10"
       }
      ]
     }
