@@ -1155,532 +1155,610 @@
   {
    "titulo": "No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
    "topicos": [
-    "Em audiência na Comissão de Assuntos Econômicos do Senado nesta terça-feira (17), o ministro da Fazenda, Dario Durigan, defendeu a implementação da reforma tributária e previu uma alíquota efetiva de 8,5% para a nova Contribuição sobre Bens e Serviços (CBS).",
-    "A CBS substituirá o PIS/Pasep e o Cofins a partir de janeiro. O Senado tem até 15 de dezembro para definir a alíquota por resolução; caso contrário, será adotada provisoriamente a alíquota de 11,3% proposta pelo Tribunal de Contas da União.",
-    "A diferença entre a estimativa de 8,5% e os 11,3% do TCU ocorre porque setores como restaurantes e hotéis terão redução de 40%, cultura e arte de 60%, e locação de imóveis de 70%, exigindo uma alíquota-base maior para manter a neutralidade de arrecadação.",
-    "O secretário especial da Receita Federal, Robinson Sakiyama Barreirinhas, informou que cerca de R$ 10 bilhões em impostos sobre o consumo serão devolvidos via cashback em 2027.",
-    "Terão direito ao cashback famílias inscritas no CadÚnico com renda de até meio salário mínimo por pessoa, e a devolução deverá ocorrer em até 25 dias após a apuração do valor.",
-    "Durigan comprometeu-se a apresentar metas de superávit primário progressivas nas futuras LDOs, citando previsões de 0,5% do PIB para o próximo ano (R$ 73,2 bilhões), 1% em 2028 e 1,5% em 2029, diante de uma dívida pública de R$ 11,1 trilhões."
+    "Em audiência pública na Comissão de Assuntos Econômicos do Senado nesta terça-feira (17), o ministro da Fazenda, Dario Durigan, defendeu a implementação do novo imposto CBS, criado pela reforma tributária.",
+    "A nova Contribuição sobre Bens e Serviços (CBS) substituirá os tributos PIS/Pasep e Cofins a partir de janeiro, com previsão de alíquota efetiva de 8,5%, segundo Durigan.",
+    "O Senado tem até 15 de dezembro para definir a alíquota por resolução; caso não haja decisão, vigorará provisoriamente a taxa de 11,3% proposta pelo TCU.",
+    "Setores específicos terão reduções na CBS, como restaurantes e hotéis (40%), cultura e arte (60%) e locação de imóveis (70%), o que eleva a alíquota-base dos demais setores.",
+    "O programa de cashback devolverá cerca de R$ 10 bilhões em impostos sobre o consumo em 2027 para famílias do CadÚnico com renda de até meio salário mínimo por pessoa, em até 25 dias."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0f7b0210dfa7.webp"
   },
   {
    "titulo": "Durigan diz que pacote fiscal é só o 'primeiro passo' e defende ajuste gradual e 'sem negacionismo' para baixar juros",
    "topicos": [
-    "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira (17) que o pacote fiscal em análise no Congresso é apenas o primeiro passo de um processo mais amplo para as contas públicas.",
-    "A expectativa do governo é que o Senado conclua nesta terça-feira a votação do pacote, que inclui contenção de recursos na Saúde, corte de benefícios fiscais e limitação de créditos para empresas.",
-    "A equipe econômica planeja um ajuste gradual de cerca de dois pontos percentuais do PIB, saindo de um déficit de aproximadamente 0,4% do PIB em 2024 para um superávit próximo de 1,5% do PIB em 2030.",
-    "O governo assumiu o compromisso de registrar superávits fiscais em todos os próximos quatro anos, com valores crescentes a partir de 2028, visando conter o endividamento e estimular a queda dos juros.",
-    "A reforma tributária sobre o consumo, que inicia sua vigência em janeiro com a implementação de um novo imposto federal, poderá provocar um pequeno reflexo na inflação, segundo o Ministério da Fazenda."
+    "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira (17) que o atual pacote fiscal é o passo inicial de um ajuste gradual previsto para o quarto mandato do presidente Lula.",
+    "A votação do pacote de contas no Senado ocorre nesta terça, incluindo cortes na Saúde, redução de incentivos fiscais e limites para créditos de empresas com o fim de elevar a arrecadação.",
+    "A meta do governo é gerar superávits crescentes a partir de 2028, equilibrando as contas públicas para tentar derrubar os juros e conter o endividamento do país.",
+    "A equipe econômica projeta um ajuste de cerca de dois pontos percentuais do PIB, saindo de um déficit de 0,4% do PIB em 2024 para um superávit de 1,5% do PIB em 2030.",
+    "A reforma tributária sobre o consumo, que começa a valer em janeiro com o novo imposto federal, pode trazer um pequeno impacto sobre a inflação, segundo o ministério."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/5aae43242bbc.webp"
   },
   {
    "titulo": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e defende reduzir tributos sobre a folha de pagamento",
    "topicos": [
-    "O ministro da Fazenda, Dario Durigan, admitiu em audiência pública na Comissão de Assuntos Econômicos do Senado Federal, realizada nesta terça-feira (17), que a reforma tributária sobre o consumo pode provocar um pequeno impacto na inflação.",
-    "O efeito inflacionário está ligado à transição para o sistema não cumulativo, no qual o tributo incide em cada fase da cadeia e as empresas abatem valores anteriores, exigindo um período de aprendizado dos empresários na precificação.",
-    "Durigan defendeu a redução dos tributos sobre a folha de pagamentos para incentivar a criação de vagas e citou a necessidade de uma ampla reforma na tributação corporativa a partir de janeiro do próximo ano, visando também o debate sobre a escala de trabalho.",
-    "Atualmente, a contribuição patronal da folha é de 20%, somando-se a encargos como FGTS de 8%, seguro contra acidentes, salário-educação e Sistema S, enquanto as taxas combinadas de empregadores e empregados chegam de 34% a quase 43%, com regras próprias para o Simples Nacional.",
-    "A proposta de desoneração deve seguir o princípio da progressividade e manter neutralidade fiscal, transferindo a incidência de impostos da folha para o faturamento ou resultados das empresas.",
-    "Como exemplo de progressividade, o ministro mencionou a ampliação da isenção do Imposto de Renda para quem recebe até R$ 5 mil mensais, combinada com uma tributação mínima para ganhos superiores a R$ 600 mil anuais."
+    "O ministro da Fazenda, Dario Durigan, admitiu em audiência pública na Comissão de Assuntos Econômicos do Senado nesta terça-feira que a reforma tributária sobre o consumo pode causar um pequeno impacto na inflação.",
+    "A reforma tributária começa a valer em janeiro com a implementação do novo imposto federal e o sistema não cumulativo, onde as empresas abatem valores pagos nas etapas produtivas anteriores.",
+    "Durigan explicou que o impacto inflacionário pode ocorrer enquanto os empresários aprendem a precificar considerando os créditos e débitos, e o Ministério da Fazenda seguirá acompanhando o processo de perto.",
+    "O ministro defendeu a redução da tributação sobre a folha de pagamentos para estimular a criação de empregos a partir de janeiro do ano que vem, sem prejudicar a previdência.",
+    "Atualmente, a contribuição patronal sobre a folha é de 20%, e as somas das contribuições de empregadores e trabalhadores variam de 34% a quase 43% no Brasil, com regras próprias para o Simples Nacional."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b32fa5e528cc.webp"
   },
   {
    "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
    "topicos": [
-    "Empresas declararam ter usado R$ 200,1 bilhões em créditos tributários para pagar tributos federais entre janeiro e setembro de 2026, um aumento de 14,6 % em relação ao mesmo período de 2025, segundo dados da Receita Federal compilados pelo g1.",
-    "A compensação tributária permite que empresas apliquem créditos provenientes de pagamentos a maior ou de decisões judiciais para quitar impostos federais, substituindo o desembolso em dinheiro.",
-    "Nesta terça‑feira (17), o Senado debate proposta do governo, inserida no projeto de ajuste fiscal, que pode limitar o uso de créditos de um tributo federal para pagar outro; o texto‑base foi aprovado na quinta‑feira (12) e o dispositivo foi separado para nova votação.",
-    "Especialistas alertam que a restrição pode obrigar empresas, sobretudo exportadoras que acumulam créditos de PIS, Cofins e IPI, a pagar tributos em dinheiro, reduzindo o capital de giro e afetando fornecedores e funcionários.",
-    "Dos R$ 200,1 bilhões registrados, R$ 166,3 bilhões correspondem a créditos não judiciais (impostos pagos a mais e créditos de insumos) e R$ 33,8 bilhões a créditos judiciais (valores recuperados por decisão judicial), representando aumento de R$ 25,5 bilhões em relação a 2025 e o maior valor nominal desde 2019.",
-    "O Executivo estima que a limitação dos créditos pode melhorar o resultado fiscal de 2027 entre R$ 12,8 bilhões e R$ 18,3 bilhões, embora a nota técnica do Senado indique que as projeções não foram revisadas após alterações no texto; especialistas consideram o efeito como um diferimento temporário de caixa, não como nova receita."
+    "Empresas declararam o uso de R$ 200,1 bilhões em créditos tributários para quitar tributos federais entre janeiro e setembro de 2026, segundo levantamento da Receita Federal divulgado pelo g1.",
+    "O valor nominal registrado em 2026 é o maior para o período na série histórica iniciada em 2019, representando alta de 14,6% sobre os R$ 25,5 bilhões a mais que o mesmo período de 2025.",
+    "Do total em 2026, R$ 166,3 bilhões vieram de créditos não judiciais e R$ 33,8 bilhões de ações judiciais para cobrir principal, multas e juros.",
+    "O Senado debate nesta terça-feira (17) uma proposta do governo no ajuste fiscal que autoriza o Executivo a limitar o uso de créditos de um tributo federal para pagar outro.",
+    "A restrição pode gerar um ganho fiscal estimado entre R$ 12,8 bilhões e R$ 18,3 bilhões em 2027, mas especialistas alertam que o efeito pode ser de antecipação de recursos e não receita nova.",
+    "Empresas exportadoras estão entre as mais expostas devido ao acúmulo de créditos de PIS, Cofins e IPI, e a mudança pode pressionar o capital de giro para fornecedores e funcionários."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/7d418adc8a5b.webp"
   },
   {
    "titulo": "Nestlé lança espelho com IA que analisa saúde para impulsionar venda de suplementos",
    "topicos": [
-    "A Nestlé lançou o Espelho do Bem-Estar, um equipamento com leitura facial de 30 segundos para mostrar indicadores de saúde e nutrição, com o objetivo de dobrar as vendas de seus suplementos, vitaminas e minerais nas lojas participantes.",
-    "A estreia do equipamento físico ocorre em Fortaleza, em parceria com a rede Pague Menos, ao passo que uma versão adaptada para iPad chega a farmácias localizadas em Salvador e em São Paulo.",
-    "A tecnologia foi criada com base na análise de imagens de mais de 60 mil indivíduos e utiliza câmera integrada com visão computacional e Inteligência Artificial para detectar variações visuais na circulação sanguínea facial.",
-    "O sistema estima frequência cardíaca, frequência respiratória, nível de estresse, equilíbrio emocional, idade aparente da pele e índices de composição corporal, entregando os resultados de forma confidencial no celular do cliente.",
-    "Estudantes de nutrição auxiliam nas farmácias, interpretando os dados aos compradores e indicando itens da fabricante ao lado de profissionais de saúde, enquanto a assistente virtual Nina dá seguimento ao suporte digitalmente.",
-    "A experiência oferecida aos consumidores é totalmente gratuita, tem caráter informativo e educacional, servindo como estimativa e não substituindo exames, diagnósticos clínicos ou acompanhamento médico.",
-    "A expansão nacional do projeto para todas as regiões do Brasil está prevista para o ano de 2027, sendo o País o primeiro da América Latina a receber a novidade, que já passou por mercados como Europa, Ásia, EUA e Canadá."
+    "A Nestlé lançou o Espelho do Bem-Estar, um equipamento que realiza leitura facial em 30 segundos para avaliar indicadores de saúde e nutrição.",
+    "A novidade estreia em Fortaleza por meio de uma parceria com a rede Pague Menos, ao passo que uma versão para iPad passa a ser disponibilizada em farmácias de Salvador e São Paulo.",
+    "O objetivo da fabricante com a estratégia é duplicar as vendas de suplementos proteicos, vitaminas e minerais nos estabelecimentos participantes.",
+    "Baseada em visão computacional e Inteligência Artificial, a tecnologia foi criada utilizando imagens faciais de mais de 60 mil indivíduos com supervisão médica.",
+    "A ferramenta calcula dados como batimentos cardíacos, ritmo respiratório, estresse, humor, idade da pele e índices corporais, enviando os dados de forma sigilosa para o celular do cliente.",
+    "Estudantes de nutrição e profissionais de saúde auxiliam no atendimento presencial nas farmácias, e o suporte pode prosseguir de maneira digital com a assistente virtual Nina.",
+    "O projeto é gratuito, tem caráter educativo e não substitui exames médicos, sendo que a expansão nacional para todas as regiões do Brasil está programada para o ano de 2027."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/tecnologia/nestle-lanca-espelho-com-ia-que-analisa-saude-para-impulsionar-venda-de-suplementos/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/19ec99d5f26d.webp"
   },
   {
    "titulo": "Sessão especial destaca atuação da CNseg no setor de seguros",
    "topicos": [
-    "A sessão especial no Senado, realizada em 17 de novembro de 2026, celebrou os 75 anos da CNseg, entidade que reúne as federações FenSeg, FenaPrevi, FenSaúde e FenaCap, com a presença dos senadores Eduardo Gomes (PL‑TO) e Tereza Cristina (PP‑MS).",
-    "Eduardo Gomes destacou que a CNseg é fundamental para o fortalecimento do mercado segurador brasileiro, que, segundo projeções da própria entidade, deve gerar arrecadação de cerca de R$ 808 bilhões em 2026, equivalentes a 5,8 % do PIB nacional.",
-    "No primeiro semestre de 2026, o setor de seguros privados arrecadou R$ 207 bilhões e desembolsou R$ 126 bilhões em indenizações, benefícios, resgates e sorteios, recursos que retornam diretamente a famílias e empresas.",
-    "Tereza Cristina ressaltou a importância do seguro rural e citou a Lei 15.526, de 2026, recentemente sancionada, que moderniza a legislação do seguro rural, mas apontou que é necessária subvenção previsível, fundo de catástrofe e um mercado forte para sua efetividade.",
-    "O presidente da CNseg, Dyogo Oliveira, lembrou a atuação do seguro durante a pandemia de Covid‑19, as enchentes no Rio Grande do Sul em 2024 e as secas recentes, e afirmou que o segmento está cada vez mais tecnológico e inovador.",
-    "Alessandro Serafin Octaviani Luis, superintendente da Susep, afirmou que a expansão do mercado depende da capacidade técnica e do diálogo da CNseg com formuladores de políticas públicas.",
-    "Luiz Carlos Trabuco Cappi, presidente do Conselho de Administração do Bradesco, destacou a importância do Marco Legal dos Seguros, sancionado no final de 2025, como base regulatória para o crescimento do setor."
+    "O Senado realizou, em 17 de novembro de 2026, sessão especial para comemorar os 75 anos da Confederação Nacional das Empresas de Seguros (CNseg), com participação dos senadores Eduardo Gomes (PL‑TO) e Tereza Cristina (PP‑MS).",
+    "A CNseg, que reúne as federações FenSeg, FenaPrevi, FenSaúde e FenaCap, destacou seu papel na expansão da cultura de proteção pessoal e patrimonial e na modernização do seguro rural, citando a Lei 15.526, de 2026, recentemente sancionada.",
+    "Segundo projeções da própria entidade, o mercado de seguros privado deve gerar cerca de R$ 808 bilhões em 2026, equivalentes a 5,8 % do PIB brasileiro; no primeiro semestre do ano, arrecadou R$ 207 bilhões e pagou R$ 126 bilhões em indenizações, benefícios, resgates e sorteios.",
+    "A senadora Tereza Cristina ressaltou que o seguro rural pode mitigar os impactos de secas, enchentes e geadas, mas enfatizou que a nova lei precisa de subvenção previsível, fundo de catástrofe e um mercado segurador robusto para ser efetiva.",
+    "O presidente da CNseg, Dyogo Oliveira, lembrou a atuação do seguro durante a pandemia de Covid‑19, as enchentes no Rio Grande do Sul em 2024 e as recentes secas, e afirmou que o setor está cada vez mais tecnológico e inovador.",
+    "Alessandro Serafin Octaviani Luis, superintendente da Susep, apontou a necessidade de ampliar o mercado e elogiou a capacidade técnica e o diálogo da CNseg para construir um setor de seguros adequado ao tamanho do país.",
+    "Luiz Carlos Trabuco Cappi, presidente do Conselho de Administração do Bradesco, citou o Marco Legal dos Seguros, sancionado no final de 2025, como marco regulatório que deve apoiar o crescimento e a penetração ainda baixa de seguros no Brasil."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/senado-celebra-os-75-anos-da-cnseg-pelo-desenvolvimento-dos-seguros-privados",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a36fa41f59bf.webp"
   },
   {
    "titulo": "Liv Up cria linha de pratos de baixa caloria para usuários de canetas emagrecedoras",
    "topicos": [
-    "A Liv Up lançou kits de refeições congeladas com até 390 calorias por unidade, vendidos a R$ 17,99, voltados para consumidores que utilizam canetas emagrecedoras à base de GLP-1.",
-    "O cardápio inicial conta com pratos como almôndegas de frango com arroz de sete grãos e legumes, estrogonofe de frango, frango oriental e yakisoba de frango com legumes.",
-    "Pesquisa do Instituto Locomotiva de fevereiro de 2026 indica que 33% dos lares brasileiros possuem pelo menos um morador que usa ou já usou esses medicamentos emagrecedores.",
-    "Entre os clientes da Liv Up, a parcela que declara uso de GLP-1 passou de 6% para 14% em um ano, registrando 8% há seis meses e dobrando no período.",
-    "A foodtech inaugurou uma dark store em João Pessoa (PB) e planeja abrir novas unidades em Niterói (RJ) e Blumenau (SC), além de quatro centros de distribuição no Nordeste.",
-    "A meta da companhia é alcançar um faturamento de R$ 450 milhões em 2026, expandindo sua atuação no e-commerce, no varejo físico e no segmento B2B com a marca Generosa."
+    "A Liv Up lançou kits de refeições congeladas voltados para consumidores que utilizam medicamentos GLP-1, conhecidos como canetas emagrecedoras. As opções custam R$ 17,99 por unidade e contam com até 390 calorias cada.",
+    "O cardápio inicial traz pratos como almôndegas de frango com arroz de sete grãos e legumes, estrogonofe de frango com brócolis, frango oriental e yakisoba de frango com legumes.",
+    "Segundo dados da Liv Up, a fatia de clientes que declaram usar remédios à base de GLP-1 saltou de 6% há um ano para 8% há seis meses, atingindo 14% atualmente.",
+    "Uma pesquisa do Instituto Locomotiva de fevereiro de 2026 indica que 33% dos lares brasileiros possuem pelo menos um morador que usa ou já usou canetas emagrecedoras.",
+    "A Liv Up abriu uma dark store em João Pessoa (PB) e planeja novas unidades em Niterói (RJ) e Blumenau (SC), além de quatro novos centros de distribuição no Nordeste.",
+    "A meta financeira da empresa é atingir um faturamento de R$ 450 milhões em 2026, expandindo sua atuação no e-commerce, no varejo físico e no segmento B2B com a marca Generosa."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/noticias-varejo/consumidores-de-canetas-emagrecedoras/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/77d32eff42fc.webp"
   },
   {
    "titulo": "Senado adia votação de destaques ao projeto de ajuste fiscal do governo para quarta-feira",
    "topicos": [
-    "O Senado adiou para quarta-feira (18) a votação dos destaques do projeto de ajuste fiscal do governo, após falta de acordo entre os parlamentares nesta terça-feira (17). Sete novas emendas também foram apresentadas e serão analisadas pelo relator, senador Eduardo Braga (MDB-AM).",
-    "Na última quinta-feira (12), o plenário aprovou o texto-base da proposta por 45 votos a 31 para conter despesas e aumentar a arrecadação. Para concluir a votação e enviar o texto à Câmara, restam analisar cinco destaques que tratam de créditos, gastos, repasses e supersalários.",
-    "Um dos destaques quer excluir a autorização para o Executivo limitar créditos tributários de empresas para quitar impostos federais, medida que o governo estima arrecadar de R$ 12,8 bilhões a R$ 18,3 bilhões em 2027 e que gerou forte oposição de 119 entidades empresariais.",
-    "A oposição propõe reduzir o limite de crescimento real das despesas federais de 2% para 0,6% ao ano a partir de 2027, obrigando o Executivo a cortes para atingir o centro da meta fiscal e permitindo a redução de despesas obrigatórias que não sejam constitucionais.",
-    "Outro ponto em disputa é a redução temporária dos repasses da Lei Kandir a estados e municípios, limitados pelo texto a R$ 1 bilhão por ano entre 2027 e 2030 (frente aos R$ 4 bilhões atuais). O Comsefaz aponta perda de R$ 3 bilhões em 2027 e R$ 12 bilhões até 2030.",
-    "A oposição também quer barrar um teto anual de R$ 3 bilhões entre 2027 e 2030 para compensações previdenciárias da União a estados e municípios. Segundo a CNM, a medida pode reduzir repasses em cerca de R$ 5 bilhões anuais, acumulando mais de R$ 20 bilhões até 2030."
+    "O Senado Federal adiou para quarta-feira (18) a votação dos destaques do projeto de lei complementar do ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva, após falta de acordo entre os senadores na terça-feira (17).",
+    "Sete novas emendas foram apresentadas nesta terça-feira e serão analisadas exclusivamente pelo relator da proposta, o senador Eduardo Braga (MDB-AM), somando-se aos cinco destaques que precisam ser votados para enviar o texto aos deputados.",
+    "O texto-base da proposta foi aprovado no plenário em 12 de novembro (quinta-feira) por 45 votos a 31 para conter despesas públicas, aumentar arrecadação e estabilizar a dívida pública, preservando políticas sociais.",
+    "Um dos destaques visa excluir a autorização para o Executivo limitar créditos tributários de empresas para quitar impostos federais, medida que o governo estima gerar arrecadação de R$ 12,8 bilhões a R$ 18,3 bilhões em 2027.",
+    "Outra proposta da oposição quer reduzir, a partir de 2027, o limite de crescimento real das despesas federais de 2% para 0,6%, além de impedir a redução dos repasses da Lei Kandir, que prevê transferências de R$ 4 bilhões anuais até 2030.",
+    "O Comsefaz apontou que a redução temporária da Lei Kandir retira R$ 3 bilhões do caixa de estados e municípios em 2027 e R$ 12 bilhões até 2030, sendo R$ 9 bilhões dos governos estaduais e R$ 3 bilhões das prefeituras."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/17/senado-adia-votacao-de-destaques-ao-projeto-de-ajuste-fiscal-do-governo-para-quarta-feira.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/7396ec5c62ce.webp"
   },
   {
    "titulo": "Senado aprova R$ 13,5 bilhões em crédito a exportadores afetados por tarifas e guerras",
    "topicos": [
-    "O Senado Federal aprovou nesta terca-feira (17) a medida provisoria do programa Brasil Soberano 3, que destina R$ 13,5 bilhoes em credito a exportadores afetados por tarifas internacionais e guerras.",
-    "A proposta, criada pelo governo federal para apoiar a industria e ampliar mercados, foi enviada para sancao presidencial apos a aprovacao no Senado.",
-    "Do valor total, R$ 5 bilhoes vao para empresas atingidas pelas tarifas dos Estados Unidos e R$ 3,5 bilhoes para quem comercializa com o Golfo Pérsico.",
-    "O programa destina ainda R$ 2 bilhoes para minerais, R$ 2 bilhoes para fertilizantes e R$ 1 bilhao para setores industriais relevantes para a balanca comercial.",
-    "Podem acessar as linhas de credito empresas, cooperativas e associacoes exportadoras de bens industriais, agropecuario, pesca e recursos minerais, alem de fornecedores.",
-    "Os beneficiarios podem usar o dinheiro para comprar maquinas, reforcar o capital de giro e investir em inovacao tecnologica, com fiscalizacao do BNDES."
+    "O Senado Federal aprovou nesta terça-feira (17) uma medida provisória que institui R$ 13,5 bilhões em crédito por meio do programa Brasil Soberano 3, seguindo agora para sanção presidencial.",
+    "O repasse foi criado para minimizar impactos de tarifas de 25% impostas pelos Estados Unidos desde julho e os reflexos da guerra no Oriente Médio sobre o transporte marítimo.",
+    "Do total, R$ 5 bilhões vão para exportadores afetados pelas alíquotas norte-americanas e R$ 3,5 bilhões para companhias que negociam com países do Golfo Pérsico.",
+    "O plano destina ainda R$ 2 bilhões para minerais, R$ 2 bilhões para fertilizantes e R$ 1 bilhão para setores industriais relevantes para a balança comercial.",
+    "Podem acessar as linhas cooperativas, associações, produtores rurais, da pesca, da pecuária e empresas exportadoras de bens industriais e minerais e seus fornecedores.",
+    "Os beneficiados podem usar os recursos para capital de giro, compra de máquinas e inovação tecnológica, com fiscalização do BNDES e relatórios mensais ao governo."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/17/senado-aprova-mp-que-libera-r-135-bilhoes-em-credito-a-exportadores-afetados-por-tarifas-e-guerras.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/8ab7ac47efd5.webp"
   },
   {
    "titulo": "TikTok Shop já é opção de compra para 22% dos consumidores e entra no top 3 do e-commerce",
    "topicos": [
-    "O TikTok Shop alcançou a terceira posição entre os canais de e-commerce mais citados por consumidores às vésperas da Black Friday, segundo levantamento da Worldpanel by Numerator.",
-    "Na pesquisa, 22% dos entrevistados afirmaram ter realizado compras pelo aplicativo ao longo dos últimos 30 dias.",
-    "A rede social ficou atrás da Shopee, que registrou 79%, e do Mercado Livre, com 41%, enquanto superou a Shein, com 20%, e a Amazon, com 16%.",
-    "Os dados refletem exclusivamente as respostas dos participantes do estudo e não podem ser generalizados para o total da população brasileira.",
-    "O levantamento apontou que cada consumidor online citou, em média, o uso de 2,2 plataformas diferentes no período recente.",
-    "Entre os 1.804 entrevistados que informaram a quantidade de pedidos, a média foi de 3,7 compras nos últimos 30 dias.",
-    "Compradores que realizaram cinco ou mais pedidos representaram 28% do grupo e foram responsáveis por 55% do total de compras declaradas na pesquisa."
+    "O TikTok Shop alcançou a terceira posição entre as plataformas de e-commerce mais citadas por compradores online no período que antecede a Black Friday, segundo levantamento da Worldpanel by Numerator.",
+    "Na pesquisa, 22% dos entrevistados afirmaram ter realizado compras pelo aplicativo do TikTok nos últimos 30 dias.",
+    "A liderança da preferência ficou com a Shopee, mencionada por 79% dos participantes, seguida pelo Mercado Livre, com 41%.",
+    "O TikTok Shop superou concorrentes consolidadas como a Shein, lembrada por 20% dos compradores, e a Amazon, citada por 16%.",
+    "O estudo apontou que a média de plataformas utilizadas por cada consumidor online foi de 2,2 nos últimos 30 dias, indicando o uso de múltiplos canais.",
+    "Entre os 1.804 entrevistados que informaram seus hábitos, a média foi de 3,7 compras online no período, sendo que os consumidores com cinco ou mais pedidos representaram 28% do grupo e concentraram 55% do total de compras declaradas."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/ecommerce/tiktok-shop-ja-e-opcao-de-compra-para-22-dos-consumidores-e-entra-no-top-3-do-e-commerce/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/f64e468edae8.webp"
   },
   {
    "titulo": "Em meio a dúvidas dos partidos, Câmara dos Deputados adia projeto que regulamenta big techs",
    "topicos": [
-    "O presidente da Câmara dos Deputados, Hugo Motta, informou que o plenário adiou a votação do projeto do governo que estabelece regras de concorrência para mercados digitais por meio do Cade.",
-    "A proposta do governo do presidente Luiz Inácio Lula da Silva não aborda a moderação de conteúdo nas big techs, concentrando-se exclusivamente em questões de livre concorrência e defesa do consumidor.",
-    "O relator da matéria, deputado Aliel Machado, está realizando reuniões com as bancadas partidárias para esclarecer dúvidas sobre os futuros controles do Cade antes da definição da data de pauta.",
-    "O projeto prevê a criação de uma superintendência no Cade com poder para aplicar sanções administrativas a plataformas digitais com critérios específicos de faturamento e mercado.",
-    "Serão submetidas à nova estrutura empresas que alcançarem faturamento bruto anual global superior a R$ 50 bilhões ou faturamento bruto anual no Brasil superior a R$ 5 bilhões.",
-    "Gigantes da tecnologia como Alphabet, Meta, ByteDance, Amazon, Apple e Microsoft estão entre as companhias que poderão ser reguladas conforme os critérios da proposta.",
-    "Um estudo da Secretaria de Política Econômica aponta que o aumento da concorrência digital pode gerar de R$ 15,3 bilhões a R$ 50,6 bilhões anuais, representando até 0,4% do PIB."
+    "O presidente da Câmara, Hugo Motta, informou que o plenário adiou a votação do projeto do governo de Lula que cria um órgão de regulação de mercados digitais no Cade.",
+    "A proposta estabelece regras de concorrência para as big techs sem envolver moderação de conteúdo, mas enfrenta incertezas entre as bancadas partidárias quanto ao controle do Cade.",
+    "O relator do projeto, deputado Aliel Machado, está realizando visitas às bancadas partidárias para dialogar com os parlamentares antes de definir a data da votação em pauta.",
+    "O texto prevê a criação de uma superintendência no Cade para garantir a livre concorrência, proteger o consumidor e aplicar sanções administrativas.",
+    "Serão submetidas à nova estrutura empresas com faturamento bruto anual global superior a R$ 50 bilhões ou faturamento bruto anual no Brasil acima de R$ 5 bilhões.",
+    "O Cade também avaliará o poder de mercado, controle de dados e dependência de terceiros para definir quais companhias, como Alphabet, Meta, ByteDance, Amazon, Apple e Microsoft, serão reguladas.",
+    "Um estudo do Ministério da Fazenda estima que ampliar a concorrência digital pode gerar de R$ 15,3 bilhões a R$ 50,6 bilhões anuais, equivalendo a 0,1% a 0,4% do PIB."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/17/em-meio-a-duvidas-dos-partidos-camara-dos-deputados-adia-projeto-que-regulamenta-big-techs.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/e7ce2044606c.webp"
   },
   {
    "titulo": "Paim relembra comissão que propôs política de valorização do salário mínimo",
    "topicos": [
-    "O senador Paulo Paim (PT-RS) relembrou no Plenário, nesta terça-feira (17), a atuação da Comissão Mista Especial do Salário Mínimo, criada em 2005 para discutir reajustes permanentes do piso nacional.",
-    "A comissão, da qual Paim foi relator, promoveu 15 audiências públicas em capitais como Curitiba, São Paulo, Salvador, Porto Alegre e Manaus para ouvir trabalhadores, empregadores, aposentados e pesquisadores.",
-    "O objetivo dos debates foi coletar dados e experiências sobre o impacto do salário mínimo no orçamento familiar, considerando despesas como alimentação, aluguel, transporte, remédios e contas básicas.",
-    "O relatório final foi aprovado por unanimidade em outubro de 2006, propondo que o reajuste do piso nacional incluísse a reposição da inflação somada ao crescimento do Produto Interno Bruto (PIB).",
-    "A política de valorização idealizada foi instituída legalmente pela Lei 12.382, de 2011, ficou paralisada entre 2019 e 2022 e acabou sendo retomada posteriormente por meio da Lei 14.663, de 2023."
+    "O senador Paulo Paim relembrou, nesta terça-feira (17), no Plenário, a atuação da Comissão Mista Especial do Salário Mínimo, criada em 2005 para debater regras permanentes de reajuste do piso nacional.",
+    "Paim destacou a realização de 15 audiências públicas em capitais como Curitiba, São Paulo, Salvador, Porto Alegre e Manaus, ouvindo diversos setores da sociedade sobre o impacto do salário no orçamento familiar.",
+    "O relatório final da comissão, do qual Paim foi relator, foi aprovado por unanimidade em outubro de 2006 e propunha a reposição da inflação somada ao crescimento do PIB para garantir ganho real.",
+    "O senador pontuou que a política de valorização foi instituída pela Lei 12.382 de 2011, paralisada entre 2019 e 2022, e retomada posteriormente por meio da Lei 14.663 de 2023."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/paim-relembra-comissao-que-propos-politica-de-valorizacao-do-salario-minimo",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/1f6b612a4188.webp"
   },
   {
    "titulo": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
    "topicos": [
-    "A Receita Federal vai liberar nesta semana a apuração assistida da reforma tributária para todas as empresas brasileiras, funcionando como uma declaração pré-preenchida. O anúncio foi feito nesta terça-feira (17) pelo secretário Robinson Barreirinhas em audiência na CAE do Senado.",
-    "A ferramenta indicará o valor do imposto a pagar e o montante com direito a ressarcimento por créditos anteriores, exigindo apenas a confirmação dos dados pelas companhias. Até o momento, o sistema beta em fase de testes estava restrito a 500 empresas desde janeiro.",
-    "Haverá treinamento em parceria com o Conselho Federal de Contabilidade (CFC) para orientar os contribuintes sobre o uso da apuração assistida, com início de capacitações intensivas programado para dezembro.",
-    "Também será ofertado treinamento para o Recolhimento pelo Adquirente (RAD), formato utilizado para o recebimento de créditos enquanto o split payment não entra em vigor ao longo de 2027.",
-    "No modelo RAD, a empresa compradora recolhe diretamente o tributo da operação para garantir o crédito mais rápido, enquanto a vendedora recebe o valor da venda já com o desconto do imposto."
+    "O secretário da Receita Federal, Robinson Barreirinhas, anunciou na terça‑feira (17) que a “apuração assistida”, descrita como declaração pré‑preenchida, será disponibilizada a todas as empresas brasileiras ainda nesta semana.",
+    "Até o momento o recurso está em fase teste, restrito a 500 empresas, e funciona desde janeiro em ambiente beta, permitindo que o contribuinte veja o imposto a pagar e os créditos a receber.",
+    "O sistema exige apenas a confirmação dos dados pelas empresas, seguindo modelo semelhante à declaração pré‑preenchida do Imposto de Renda de pessoa física.",
+    "Durante audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado, Barreirinhas informou que haverá treinamento conjunto com o Conselho Federal de Contabilidade (CFC) para uso da apuração assistida e para o “Recolhimento pelo Adquirente” (RAD).",
+    "O RAD consiste no recolhimento direto dos tributos pelo comprador, que obtém crédito tributário mais rápido, enquanto o vendedor recebe o valor da venda já descontado o imposto; o formato será usado até a implantação do split payment, prevista para todo o período de 2027.",
+    "Os treinamentos intensivos para o RAD e para o módulo de ajuste da apuração assistida tiveram início em dezembro, preparando as empresas para a transição."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/dca6b37b4977.webp"
   },
   {
    "titulo": "Indústria e acordo ambiental serão temas de audiências na CRE",
    "topicos": [
-    "A Comissão de Relações Exteriores (CRE) aprovou nesta terça-feira (17/11/2026) três requerimentos para a realização de audiências públicas sobre a indústria nacional e o Acordo de Escazú.",
-    "O primeiro debate, proposto pelo senador Nelsinho Trad (REQ 19/2026 – CRE), discutirá os impactos de importações, a chegada de empresas estrangeiras e políticas para fortalecer a produção.",
-    "Para o debate industrial, foram sugeridos o ex-diretor da OMC Roberto Azevêdo, além de representantes do setor produtivo e de trabalhadores metalúrgicos.",
-    "Dois outros requerimentos tratam do Acordo de Escazú, que trata de acesso à informação, participação pública e justiça ambiental na América Latina e Caribe.",
-    "O pedido de Tereza Cristina (REQ 20/2026 – CRE) abordará reflexos jurídicos, econômicos e diplomáticos do acordo (PDL 934/2025) sobre o agronegócio, indústrias e licenciamentos.",
-    "O requerimento de Leany Lemos (REQ 21/2026 – CRE) focará em dados ambientais, proteção de defensores de direitos humanos, combate à lavagem de dinheiro, desmatamento e cooperação climática.",
-    "O Brasil assinou o Acordo de Escazú em 2018, e o texto foi enviado ao Congresso Nacional em maio de 2023, mas as novas audiências ainda não possuem data definida."
+    "A Comissão de Relações Exteriores aprovou, em reunião na terça-feira (17/11/2026), três requerimentos para a realização de audiências públicas sobre a indústria nacional e o Acordo de Escazú.",
+    "O primeiro debate, proposto pelo senador Nelsinho Trad (REQ 19/2026 – CRE), discutirá os impactos das importações, a concorrência estrangeira e políticas para fortalecer a produção do país.",
+    "Para a discussão industrial, sugeriu-se a presença de Roberto Azevêdo, ex-diretor-geral da OMC, além de representantes do setor produtivo e de trabalhadores metalúrgicos.",
+    "Dois outros requerimentos tratam do Acordo de Escazú, que trata do acesso à informação, participação pública e justiça ambiental na América Latina e Caribe.",
+    "O pedido da senadora Tereza Cristina (REQ 20/2026 – CRE) abordará reflexos jurídicos, econômicos e diplomáticos do acordo, associado ao PDL 934/2025, no agronegócio e na indústria.",
+    "O requerimento da senadora Leany Lemos (REQ 21/2026 – CRE) focará em temas como participação social, proteção a defensores de direitos humanos, combate ao desmatamento e cooperação climática.",
+    "O Brasil assinou o Acordo de Escazú em 2018, e a proposta foi enviada ao Congresso Nacional em maio de 2023, sendo que as novas audiências ainda não possuem datas definidas."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/industria-e-acordo-ambiental-serao-temas-de-audiencias-na-cre",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b3e022d5f4ef.webp"
   },
   {
    "titulo": "Serasa: demanda das empresas por crédito segue em alta, mas dá sinais de desaceleração",
    "topicos": [
-    "A procura de empresas brasileiras por financiamentos apresentou indícios de arrefecimento após resistir às limitações impostas pelas taxas elevadas de juros, de acordo com pesquisa da Serasa Experian divulgada recentemente.",
-    "No acumulado de doze meses encerrados em setembro, a busca empresarial por recursos financeiros registrou expansão de 9,9%, conforme o levantamento da instituição.",
-    "O avanço do período foi puxado pelos micro e pequenos negócios, que registraram alta de 10%, seguidos pelas grandes empresas com 8,3% e pelas médias com 5%.",
-    "Em setembro, a taxa avançou 0,6% na comparação com o mesmo mês do ano passado, marcando uma forte desaceleração em relação aos crescimentos de 5,3% em agosto e 17,6% em julho.",
-    "O avanço recente concentrou-se nos setores de serviços, com alta de 15,5% em doze meses, e agropecuária, com 15,1%, enquanto a indústria subiu 6,9% e o comércio teve incremento de 5,6%.",
-    "Na análise mensal de setembro, comércio e indústria registraram quedas de 1,4% e 3,4%, respectivamente, enquanto a economista-chefe Camila Abdelmalack aponta que os credores estão mais restritivos devido à inadimplência elevada."
+    "A procura de empresas brasileiras por crédito apresentou alta de 9,9% no acumulado de 12 meses até setembro, conforme levantamento divulgado pela Serasa Experian.",
+    "O movimento de busca por recursos foi liderado pelas micro e pequenas empresas com expansão de 10%, seguidas pelas grandes companhias (+8,3%) e médias (+5%).",
+    "No recorte isolado de setembro, o indicador avançou 0,6% em comparação com o mesmo mês do ano passado, representando uma forte desaceleração frente aos meses anteriores.",
+    "A desaceleração ocorre após altas expressivas de 5,3% em agosto e de 17,6% em julho, indicando sinais de arrefecimento na demanda corporativa por financiamento.",
+    "O crescimento em setembro ficou concentrado nos setores de serviços e agropecuária, enquanto comércio e indústria registraram recuo no período.",
+    "Nos 12 meses encerrados em setembro, o setor de Serviços liderou a expansão com 15,5%, seguido por Agronegócio (15,1%), Indústria (6,9%) e Comércio (5,6%).",
+    "A economista-chefe da Serasa Experian, Camila Abdelmalack, destaca que os credores estão reduzindo a exposição ao risco e endurecendo critérios devido à inadimplência elevada."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/economia/serasa-demanda-das-empresas-por-credito-segue-em-alta-mas-da-sinais-de-desaceleracao/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/6fe54b12ffd8.webp"
   },
   {
    "titulo": "Amazon contrata 12 mil temporários para a Black Friday e abre 3.500 vagas permanentes em SP",
    "topicos": [
-    "A Amazon contratou mais de 12 mil trabalhadores temporários no Brasil para atender ao aumento da demanda durante a Black Friday.",
-    "Para suportar as entregas em 100% dos municípios brasileiros, a empresa opera com 350 centros logísticos, somando mais de 120 unidades abertas desde o ano passado.",
-    "A expansão logística da varejista ocorreu a uma média de duas novas instalações abertas por semana.",
-    "Apesar de serem temporárias para o período de maior movimento, há possibilidade de efetivação, a exemplo de mais de 5 mil pessoas que foram contratadas permanentemente em 2026.",
-    "Paralelamente às contratações sazonais, a Amazon abriu mais de 3.500 vagas efetivas na Grande São Paulo para candidatos com 18 anos ou mais, cujas inscrições devem ser feitas pelo site da empresa.",
-    "O pacote de benefícios para as vagas em São Paulo inclui convênio médico e odontológico desde o primeiro dia, plano de progressão salarial, bônus, descontos e o Programa de Apoio ao Empregado."
+    "A Amazon recrutou mais de 12 mil trabalhadores temporários no Brasil para atender à demanda da Black Friday deste ano, reforçando sua operação logística em todo o país.",
+    "A empresa conta agora com 350 centros logísticos, incluindo mais de 120 unidades inauguradas desde a última edição da data, com uma média de duas novas instalações por semana.",
+    "O objetivo da contratação temporária é garantir entregas rápidas em 100% dos municípios brasileiros durante o pico de pedidos da Black Friday.",
+    "Há possibilidade de efetivação: até 2026, mais de 5 mil colaboradores que começaram como temporários foram convertidos em funcionários permanentes, como exemplificado por Yorrana Laura, que entrou em 2025 e hoje é Assistente de Processos.",
+    "Além dos temporários, a Amazon abriu mais de 3.500 vagas efetivas na Grande São Paulo, oferecendo convênio médico e odontológico desde o primeiro dia, plano de progressão salarial, bônus, desconto para funcionários e Programa de Apoio ao Empregado (PAE).",
+    "Os candidatos às vagas permanentes devem ter 18 anos ou mais e podem se inscrever diretamente no site da empresa."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/ecommerce/amazon-contrata-12-mil-temporarios-para-a-black-friday-e-abre-3-500-vagas-permanentes-em-sp/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/65c45d29a08e.webp"
   },
   {
    "titulo": "Jensen Huang, ex-CEO da Nvidia, vai depor no Congresso dos EUA após caso com suposta espiã chinesa",
    "topicos": [
-    "Jensen Huang, ex-CEO da Nvidia, aceitou prestar depoimento ao Congresso dos Estados Unidos após renunciar ao cargo em meio a um escândalo envolvendo uma suposta espiã chinesa.",
-    "A audiência perante os parlamentares americanos foi agendada para o dia 1 de dezembro, data em que o executivo completa 63 anos de idade.",
-    "O caso gerou uma crise que resultou na perda de quase meio trilhão de dólares no valor de mercado da Nvidia e gerou preocupações sobre a segurança nacional norte-americana.",
-    "A convocação formal foi feita na quinta-feira passada (12) pelo senador republicano Tim Scott, que também pediu a presença do secretário do Comércio dos EUA, Howard Lutnick.",
-    "Huang admitiu no domingo (15) ter tido um relacionamento extraconjugal com Alice Huang, ex-executiva da Megaspeed apontada por inteligência dos EUA como ligada à inteligência chinesa.",
-    "Autoridades de Singapura proibiram o retorno de Alice Huang ao país em fevereiro por falta de esclarecimentos sobre sua gestão, enquanto a Malásia investiga uma filial da empresa."
+    "Jensen Huang, ex-diretor-executivo da Nvidia, aceitou prestar depoimento ao Congresso dos Estados Unidos sobre sua relação extraconjugal com Alice Huang, apontada pelos serviços de inteligência americanos como suposta espiã ligada à inteligência chinesa.",
+    "A audiência perante os parlamentares americanos foi agendada para o dia 1 de dezembro, data em que o executivo completará 63 anos, conforme convocações emitidas após o escândalo que resultou na sua renúncia ao cargo na gigante de inteligência artificial.",
+    "O caso gerou uma crise que eliminou quase meio trilhão de dólares do valor de mercado da Nvidia, além de gerar preocupações sobre a segurança de dados estratégicos dos Estados Unidos e instabilidade no setor de tecnologia.",
+    "A requisição oficial foi apresentada na quinta-feira passada (12) pelo senador republicano Tim Scott à Comissão Bancária do Senado, que também pediu a presença do secretário do Comércio, Howard Lutnick.",
+    "Três comissões da Câmara dos Representantes também exigiram o depoimento de Huang a portas fechadas, sob o risco de intimação judicial, enquanto autoridades de Singapura proibiram o retorno de Alice Huang ao país em fevereiro e a Malásia investiga uma filial da Megaspeed."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/jensen-huang-ex-ceo-da-nvidia-comparecera-ao-congresso-norte-americano-apos-caso-com-suposta-espia-chinesa.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/31fe7db62eca.webp"
   },
   {
    "titulo": "Trump minimiza série de falhas tecnológicas nos EUA e diz que está 'tudo bem'",
    "topicos": [
-    "O presidente dos EUA, Donald Trump, minimizou nesta terça-feira (17), em Manila, uma série de falhas tecnológicas recentes que atingiram o transporte aéreo, o setor bancário e a segurança nacional do país.",
-    "Os incidentes recentes incluíram uma pane no tráfego aéreo na sexta-feira (13) que afetou centenas de milhares de pessoas, um problema na rede da NSA na terça-feira (17) e falhas da United Airlines e do JPMorgan Chase na segunda-feira (16).",
-    "A porta-voz da Casa Branca, Lauren Bis, declarou nesta terça-feira que não há indícios de ataque cibernético ou de crise preocupante, e informou que Trump mobilizou equipes de elite para resolver os problemas da FAA.",
-    "O secretário de Transportes, Sean Duffy, explicou que a paralisação dos voos decorreu de uma falha de comunicação ligada a obras de instalação de roteadores e troca de fiação de cobre por fibra óptica.",
-    "Parlamentares e ex-integrantes do governo expressaram preocupação e ceticismo diante da sucessão de falhas diárias desde quinta-feira, quando a Microsoft sofreu instabilidade, exigindo maior transparência e explicações oficiais.",
-    "A Agência Federal de Gestão de Emergências (Fema) realizou um teste nacional de seu sistema de alerta na tarde desta terça-feira, procedimento obrigatório exigido ao menos uma vez a cada três anos."
+    "O presidente dos EUA, Donald Trump, minimizou na terça-feira (17) uma série de falhas tecnológicas recentes em setores como transporte aéreo, bancos e segurança nacional, declarando que \"está tudo bem\". Membros do governo afirmaram que os episódios não têm relação entre si.",
+    "Os incidentes envolveram uma interrupção no tráfego aéreo na sexta-feira (13) que afetou centenas de milhares de pessoas, um problema de software no JPMorgan Chase na segunda-feira (16), além de falhas na United Airlines e na NSA na terça-feira (17).",
+    "A porta-voz da Casa Branca, Lauren Bis, declarou que não há indícios de ataque cibernético ou crise, informando que Trump mobilizou equipes de elite para a FAA e pediu ao Congresso a aprovação de uma lei para modernizar os sistemas da agência.",
+    "A série de problemas começou na quinta-feira com uma falha na Microsoft que afetou serviços como e-mails. A paralisação dos voos na sexta-feira durou 4 horas e meia, sendo a mais longa interrupção no tráfego aéreo americano desde os ataques de 11 de setembro de 2001.",
+    "O secretário de Transportes, Sean Duffy, explicou que a falha aérea envolveu problemas de comunicação decorrentes de obras de instalação de um roteador e substituição de fiação antiga de cobre por cabo de fibra óptica.",
+    "A Fema realizou um teste regular de seu sistema de alerta de emergência na tarde de terça-feira, procedimento obrigatório ao menos uma vez a cada três anos, transmitido por rádio, TV aberta, cabo e satélite."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/trump-serie-falhas-tecnologias-estados-unidos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/11ad4754d55f.webp"
   },
   {
    "titulo": "Senado aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço; texto vai à sanção",
    "topicos": [
-    "O Senado aprovou nesta terça-feira, 17, o projeto da Medida Provisória (MP) 1.379/2026, conhecida como MP do Brasil Soberano 3, que segue agora para sanção presidencial.",
-    "A medida cria linhas de crédito com juros subsidiados no valor total de R$ 22,6 bilhões para empresas atingidas pela sobretaxação dos Estados Unidos e por instabilidades.",
-    "A composição financeira reúne R$ 13,5 bilhões repassados pelo Tesouro Nacional e R$ 9,1 bilhões originados de recursos próprios do BNDES.",
-    "O plano de apoio contempla exportadores de setores industriais, agropecuários, florestais, pesqueiros, aquícolas, minerais e suas respectivas redes de fornecedores.",
-    "Um montante de R$ 8,8 bilhões será direcionado aos afetados por tarifas comerciais dos EUA, enquanto R$ 6,8 bilhões atenderão exportadores voltados ao Golfo Pérsico.",
-    "Outros R$ 7 bilhões foram divididos entre indústrias de comércio exterior (R$ 1 bilhão), fertilizantes (R$ 4 bilhões) e minerais críticos e estratégicos (R$ 2 bilhões)."
+    "O Senado aprovou nesta terça-feira, 17, o projeto originado da Medida Provisória 1.379/2026, que estabelece linhas de crédito com juros subsidiados para companhias prejudicadas pela sobretaxação dos Estados Unidos.",
+    "A medida, que tem validade até quarta-feira, 18, e segue agora para sanção presidencial, integra o Plano Brasil Soberano de apoio a empresas atingidas por barreiras comerciais e instabilidades geopolíticas.",
+    "O montante total das linhas de crédito é de R$ 22,6 bilhões, combinando recursos do Tesouro Nacional, no valor de R$ 13,5 bilhões, com verbas próprias do BNDES, que somam R$ 9,1 bilhões.",
+    "Inicialmente estimado em R$ 18,5 bilhões com uma previsão de R$ 5 bilhões do BNDES em setembro, o orçamento final do plano foi ampliado pelo banco para R$ 9,1 bilhões.",
+    "Do total de recursos, R$ 8,8 bilhões vão para exportadores e fornecedores atingidos pelas tarifas dos EUA, e R$ 6,8 bilhões para os afetados pelo conflito no Oriente Médio e exportações ao Golfo Pérsico.",
+    "O restante de R$ 7 bilhões será dividido entre R$ 1 bilhão para indústrias de comércio exterior, R$ 4 bilhões para o setor de adubos e fertilizantes, e R$ 2 bilhões para minerais críticos.",
+    "A iniciativa beneficia exportadores dos setores industrial, agropecuário, florestal, pesqueiro, aquícola e mineral, além de suas respectivas redes de fornecedores."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/senado-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco-texto-vai-a-sancao/",
-   "categoria": "Economia"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/07265af074b1.webp"
   },
   {
    "titulo": "Ouro fecha em leve alta em meio às expectativas de juros dos EUA e ao dólar forte",
    "topicos": [
-    "Na terça-feira (17), o ouro fechou em leve alta na Comex, divisão de metais da bolsa de Nova York (Nymex), mantendo-se abaixo dos US$ 3.900.",
+    "Na terça-feira (17), o ouro fechou em leve alta na Comex, divisão de metais da bolsa de Nova York (Nymex), mantendo-se abaixo de US$ 3.900.",
     "O contrato do ouro para dezembro registrou valorização de 0,30%, encerrando cotado a US$ 3.864,2 por onça-troy.",
-    "A prata com vencimento em dezembro avançou 1,06% na mesma sessão, fechando a US$ 47,357 por onça-troy.",
-    "A alta do metal foi limitada pela força persistente do dólar e pelas expectativas de aperto monetário e juros altos nos Estados Unidos.",
-    "A ferramenta FedWatch, do CME Group, aponta 100% de probabilidade de um reajuste nas taxas americanas em dezembro.",
-    "O presidente do Fed de St. Louis, Alberto Musalem, afirmou que a economia dos EUA pode precisar de várias elevações de juros até a primavera de 2027.",
-    "Nos indicadores, a produção industrial caiu inesperadamente em outubro e as vendas no varejo subiram conforme as projeções."
+    "A prata para dezembro teve alta de 1,06% na mesma sessão, atingindo o valor de US$ 47,357 por onça-troy.",
+    "A alta do metal foi limitada pela força do dólar e pelas expectativas de aperto monetário e juros mais altos nos Estados Unidos.",
+    "A ferramenta FedWatch, do CME Group, indica 100% de chances de uma elevação nas taxas do Federal Reserve em dezembro.",
+    "Alberto Musalem, presidente do Fed de St. Louis, afirmou que a economia americana pode precisar de várias altas de juros até a primavera de 2027.",
+    "Nos indicadores dos EUA, a produção industrial caiu de forma inesperada em outubro, enquanto as vendas no varejo avançaram em linha com as projeções."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ouro-fecha-em-alta-leve-limitada-pelas-expectativas-de-juros-dos-eua-e-dolar-forte-davs/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/160f7516ee8b.webp"
   },
   {
    "titulo": "IA muda o ritmo do varejo e exige revisão de processos e controles",
    "topicos": [
-    "A adoção de Inteligência Artificial no varejo foi tema do evento \"Quando os Líderes se Encontram\", realizado na terça-feira, 10, pela Gouvêa Consulting e Gouvêa Experience, com patrocínio da Kyndryl, Google Cloud e SAP.",
-    "O encontro reuniu executivos para discutir como transformar testes com IA em resultados de negócio, conciliando a expansão tecnológica com a segurança e a contenção de custos operacionais.",
-    "Segundo o Estudo de Modernização 2026 da Kyndryl, 50% das empresas varejistas reinvestem economias de custos de nuvem em inovação como IA, enquanto 47% direcionam os recursos para outras modernizações.",
-    "Especialistas apontam que os projetos devem ser escolhidos com base em KPIs relevantes e necessidades operacionais, visando aumentar vendas, melhorar margens, reduzir rupturas e acelerar processos.",
-    "A revisão de processos foi apontada como essencial, pois acelerar uma etapa isolada não garante ganho de velocidade em toda a cadeia, conforme exemplificado no desenvolvimento de produtos.",
-    "O uso de IA requer gradação de riscos e controles proporcionais, diferenciando tarefas simples, como criar descrições de itens, de atividades sensíveis, a exemplo de ferramentas que concedem crédito."
+    "A Gouvêa Consulting e a Gouvêa Experience realizaram na terça-feira, 10, o evento \"Quando os Líderes se Encontram\", com patrocínio de Kyndryl, Google Cloud e SAP, para debater o uso de inteligência artificial no varejo.",
+    "O encontro reuniu executivos para discutir como transformar testes de IA em resultados práticos, superando a dificuldade de traduzir ganhos isolados de produtividade em melhorias para toda a companhia.",
+    "Conforme o Estudo de Modernização 2026 da Kyndryl, 50% das empresas varejistas reinvestem a economia de custos com nuvem em inovações como IA, enquanto 47% direcionam esses recursos para outros projetos de modernização.",
+    "Especialistas apontam que a escolha das iniciativas deve priorizar indicadores relevantes do setor, como aumento de vendas, melhoria de margens, redução de rupturas de estoque e aceleração de processos operacionais.",
+    "O uso da tecnologia exige rever processos internos para que a velocidade gerada por ferramentas digitais não seja anulada por gargalos em etapas posteriores do desenvolvimento de produtos e da cadeia de negócios.",
+    "Empresas como a MBRF utilizam dados para potencializar o desempenho de sua equipe de 3.500 vendedores, focando em decisões comerciais que ajudem a ampliar a receita e a experiência do cliente.",
+    "O evento destacou que a expansão da IA requer controles proporcionais aos riscos, distinguindo tarefas simples, como criar descrições de produtos, de operações sensíveis, como a concessão de crédito a consumidores."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/noticias/ia-muda-o-ritmo-do-varejo-e-exige-revisao-de-processos-e-controles/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/f8160963d692.webp"
   },
   {
    "titulo": "Protestos no Irã pedem volta da monarquia após morte de 13 trabalhadores em acidente de ônibus",
    "topicos": [
     "Centenas de pessoas protestaram nesta terça-feira (17) em Abdanan, no oeste do Irã, exigindo a renúncia de autoridades e o retorno da monarquia após a morte de 13 trabalhadores de uma empresa petrolífera em um acidente de ônibus na cidade.",
-    "Forças de segurança usaram gás lacrimogêneo e dispararam para o alto para dispersar os manifestantes, enquanto moradores relataram que o acesso à internet na cidade foi bastante prejudicado durante os atos.",
-    "Nesta terça-feira (17), o príncipe iraniano no exílio, Reza Pahlavi, e o presidente de Israel, Isaac Herzog, participam de um evento virtual sobre as relações entre Israel e o Irã, laços históricos e um Irã livre.",
-    "A Guarda Revolucionária iraniana anunciou um ataque com drones de combate contra um sistema de radar operado por forças americanas na base aérea de Sheikh Isa, no Bahrein, após o Irã realizar dois ataques no país em três dias.",
-    "Um petroleiro sofreu graves danos, pegou fogo e teve a tripulação dada como desaparecida após atingir uma mina em uma zona restrita no leste do Estreito de Ormuz, próximo à cidade portuária de Khasab, em Omã, nesta terça-feira (17)."
+    "Forças de segurança usaram gás lacrimogêneo e dispararam para o alto para dispersar os manifestantes, enquanto moradores relataram que o acesso à internet na cidade foi severamente prejudicado durante os atos.",
+    "O príncipe iraniano exilado Reza Pahlavi e o presidente de Israel, Isaac Herzog, participam nesta terça-feira (17) de um evento virtual para debater laços históricos, ameaças da República Islâmica e perspectivas de cooperação para um Irã livre.",
+    "A AIEA estimou que o Irã possuía 440,9 kg de urânio enriquecido a 60% quando instalações nucleares iranianas foram atacadas por Israel e EUA em junho de 2025, embora a quantidade sobrevivente seja incerta.",
+    "A Guarda Revolucionária iraniana anunciou nesta terça (17) um ataque com drones de combate contra um sistema de radar de forças americanas na base aérea de Sheikh Isa, no Bahrein, após o aumento de hostilidades no Oriente Médio.",
+    "Um petroleiro sofreu graves danos, pegou fogo e deixou a tripulação desaparecida após atingir uma mina em uma zona restrita na parte leste do Estreito de Ormuz, próximo à cidade portuária de Khasab, em Omã."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/protestos-ira-monarquia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/cd418fc634b2.webp"
   },
   {
    "titulo": "Durigan defende alíquota da reforma e estima média efetiva de 8,5%",
    "topicos": [
-    "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira, 17, na Comissão de Assuntos Econômicos (CAE) do Senado, que a reforma tributária trará ganhos de responsabilidade fiscal e transparência.",
-    "Durigan reiterou que a alíquota máxima de referência da CBS é de 11,3% (aprovada pelo TCU em outubro no patamar de 11,3468%), enquanto a carga efetiva média estimada será de 8,5%.",
-    "A reforma prevê caráter social com tributação zero na cesta básica, cashback para inscritos no Cadastro Único e redução ou isenção de impostos em medicamentos, vacinas e saúde da mulher.",
-    "O novo sistema passará por revisão anual, na qual a Receita Federal fornecerá dados ao TCU para recalibrar a alíquota, ajustar benefícios e avaliar os custos das renúncias fiscais.",
-    "A Contribuição sobre Bens e Serviços (CBS) substituirá o PIS/Pasep e a Cofins a partir de 2027, formando o IVA dual junto com o Imposto sobre Bens e Serviços (IBS).",
-    "Novas isenções ou decisões judiciais que ampliarem benefícios poderão elevar a alíquota geral do IVA, exigindo responsabilidade fiscal dos Três Poderes, segundo o ministro."
+    "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira, 17, na Comissão de Assuntos Econômicos (CAE) do Senado, que a reforma tributária trará ganhos de responsabilidade fiscal e justiça social.",
+    "Durigan reiterou que a alíquota máxima de referência da CBS é de 11,3%, índice superior à projeção anterior de 9,21% devido à incorporação de benefícios e tratamentos diferenciados previstos em lei.",
+    "A carga efetiva média deverá ficar em 8,5% devido às reduções setoriais, regimes diferenciados e devoluções de tributos para famílias de menor renda, que terão tributação menor ou zerada.",
+    "A reforma prevê a tributação zero da cesta básica, cashback pelo Cadastro Único e isenções ou reduções para medicamentos, vacinas e itens de saúde da mulher.",
+    "A alíquota será revisada anualmente com dados fornecidos pela Receita Federal e metodologia aplicada pelo Tribunal de Contas da União (TCU) para ajustar parâmetros do sistema.",
+    "A Contribuição sobre Bens e Serviços (CBS) substituirá o PIS/Pasep e a Cofins a partir de 2027, compondo o IVA dual ao lado do IBS, enquanto o Senado ainda precisa deliberar e fixar a alíquota por resolução."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/economia/durigan-defende-aliquota-da-reforma-e-estima-media-efetiva-de-85/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/c52e5c66e875.webp"
   },
   {
    "titulo": "Subway cria petição para transformar frango com Catupiry em patrimônio afetivo",
    "topicos": [
-    "A rede Subway iniciou uma campanha para registrar a combinação de frango com Catupiry como Patrimônio Afetivo Brasileiro, celebrando a volta do sanduíche de frango desfiado ao cardápio.",
-    "A iniciativa conta com uma petição online e ações de publicidade em espaços públicos localizados em dez cidades do Brasil, com veiculação programada até o dia 23 de novembro.",
-    "Em São Paulo, um abrigo de ônibus situado na Avenida Paulista, em frente ao Edifício Gazeta, foi transformado em um ponto interativo equipado com tela sensível ao toque e contador digital.",
-    "A campanha publicitária na capital paulista também marca presença em um painel digital instalado na estação Faria Lima do metrô.",
-    "A estratégia de divulgação foi elaborada pela agência Streetwise, baseando-se em um conceito original desenvolvido pela AlmapBBDO.",
-    "O sanduíche feito com frango desfiado e Catupiry Original passa a integrar a linha Clássicos Subway, mantendo o modelo tradicional de personalização com escolha de vegetais e molhos."
+    "A rede Subway iniciou uma campanha para registrar a combinação de frango com Catupiry como Patrimônio Afetivo Brasileiro, coincidindo com a volta do sanduíche de frango desfiado ao seu cardápio.",
+    "A iniciativa conta com uma petição online e ações de publicidade em espaços públicos espalhados por dez cidades do Brasil, com veiculação programada até o dia 23 de novembro.",
+    "Em São Paulo, a ação inclui um ponto interativo na Avenida Paulista, situado em um abrigo de ônibus em frente ao Edifício Gazeta, que possui uma tela sensível ao toque e contador digital.",
+    "A campanha paulistana também marca presença em um painel digital localizado na estação Faria Lima do metrô.",
+    "A estratégia de marketing foi desenvolvida pela agência Streetwise, baseando-se em um conceito original criado pela AlmapBBDO.",
+    "O sanduíche de frango desfiado com Catupiry Original faz parte da linha Clássicos Subway, permitindo que os clientes personalizem o pedido escolhendo vegetais e molhos."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/foodservice/subway-cria-peticao-para-transformar-frango-com-catupiry-em-patrimonio-afetivo/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/53a5d4587dca.webp"
   },
   {
    "titulo": "Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem",
    "topicos": [
-    "Medidas propostas pelo governo no pacote fiscal enviado ao Congresso podem fazer com que a Saúde deixe de receber R$ 9 bilhões em 2027, conforme cálculo do economista Felipe Salto, da Warren Investimentos.",
-    "A Consultoria de Orçamentos do Senado confirmou um impacto menor, de R$ 6,8 bilhões, resultando em um piso de R$ 272,2 bilhões para a área em 2027, valor que ainda assim supera o montante destinado em 2026.",
-    "O pacote prevê a retirada das receitas de petróleo e gás natural e do imposto de exportação do cálculo da receita corrente líquida, base que define o piso constitucional de 15% para a saúde.",
-    "A regra que exclui as receitas com petróleo do cálculo fiscal vale até 2030, independentemente de haver déficit ou superávit no ano anterior, limitando a alta dos recursos nos próximos anos.",
-    "A Consultoria do Senado estimou que cada R$ 10 bilhões na arrecadação do imposto de exportação sobre o petróleo representam uma redução de R$ 1,5 bilhão no piso da saúde.",
-    "Organizações sociais, como o Conselho Nacional de Saúde e o Inesc, criticaram duramente as propostas, apontando que a flexibilização do piso prejudica o financiamento do SUS e de serviços essenciais."
+    "Mudanças propostas pelo governo em um pacote fiscal podem fazer o Ministério da Saúde deixar de receber R$ 9 bilhões em 2027, segundo cálculos do economista Felipe Salto, da Warren Investimentos.",
+    "A Consultoria de Orçamento do Senado confirmou um impacto de R$ 6,8 bilhões para 2027 devido às alterações governamentais, apontando que a base de cálculo mínima da saúde será reduzida.",
+    "O pacote fiscal enviado ao Congresso propõe excluir as receitas da União com petróleo e gás natural do cálculo da receita corrente líquida até 2030, além de retirar o imposto de exportação da mesma conta.",
+    "Como o piso constitucional da saúde equivale a 15% da receita corrente líquida, a nova regra limita a alta de recursos para a área nos próximos anos, embora o valor previsto para 2027 seja maior que o de 2026.",
+    "A votação do texto pelos senadores tem conclusão prevista para esta terça-feira (17), enquanto organizações sociais como o Conselho Nacional de Saúde e o Inesc criticam a medida e apontam perdas para o SUS.",
+    "O ministro do Planejamento, Bruno Moretti, defendeu a mudança como uma racionalização de despesas e estimou que o orçamento da saúde crescerá R$ 20 bilhões em 2027 mesmo com a exclusão das receitas petroleiras."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a40997b45a94.webp"
   },
   {
    "titulo": "Ataque usa páginas de sites famosos para roubar criptomoedas e infectar celulares; entenda",
    "topicos": [
-    "Páginas na internet de 178 organizações globais foram usadas em uma campanha maliciosa para furtar criptomoedas, dados bancários e infectar iPhones.",
-    "Entre as companhias cujos sites foram associados aos ataques estão Zoom, HSBC, Equifax, CNN, Salesforce e IKEA.",
-    "A ação cibernética explorou uma vulnerabilidade na plataforma Optimizely, serviço utilizado por empresas para testar e aprimorar seus portais.",
-    "Os códigos maliciosos trocavam endereços de carteiras de criptomoedas, roubavam dados de cartões de crédito e cookies, e capturavam telas.",
-    "A Optimizely declarou que corrigiu a falha, excluiu os scripts nocivos, aumentou a segurança das contas e bloqueou novos códigos não autorizados.",
-    "Desde o ano de 2021, mais de US$ 22,3 bilhões já foram subtraídos em crimes cibernéticos direcionados a criptomoedas, conforme a Chainalysis."
+    "Grandes marcas globais como Zoom, HSBC, Equifax, CNN, Salesforce e IKEA tiveram páginas usadas em uma campanha cibernética maliciosa.",
+    "A ação explorou uma vulnerabilidade na plataforma Optimizely, afetando sites de 178 organizações para roubar criptomoedas, dados bancários e infectar iPhones.",
+    "Os códigos maliciosos trocavam endereços de carteiras virtuais em transferências, capturavam dados de cartões, cookies e faziam capturas de tela.",
+    "A Optimizely corrigiu a falha, retirou os scripts maliciosos, aumentou a segurança das contas e bloqueou novos códigos não autorizados.",
+    "A Salesforce suspendeu a ferramenta por precaução, a Equifax investigou sem achar comprometimento interno e a IKEA avaliou os impactos digitais.",
+    "Desde 2021, crimes com criptomoedas somaram mais de US$ 22,3 bilhões em prejuízos, segundo dados da Chainalysis citados na matéria."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ataque-usa-paginas-de-sites-famosos-para-roubar-criptomoedas-e-infectar-celulares.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/d34f396f0777.webp"
   },
   {
    "titulo": "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
    "topicos": [
-    "A Justiça federal dos EUA anulou nesta segunda-feira (16), em Massachusetts, a regulamentação do governo Donald Trump que limitava a quatro anos a permanência de estudantes e intercambistas estrangeiros.",
-    "A decisão, emitida pelo juiz F. Dennis Saylor IV, afasta a exigência de novas autorizações migratórias para programas acadêmicos longos, beneficiando brasileiros com vistos F-1 e J-1 em universidades americanas.",
-    "A norma derrubada havia sido publicada pelo Departamento de Segurança Interna (DHS) em julho de 2026 e previa vigência em 15 de setembro, estabelecendo limites de 240 dias para jornalistas e 90 dias para profissionais chineses.",
-    "Com a sentença, o sistema de duration of status continua válido, permitindo que estudantes permaneçam no país durante toda a atividade autorizada sem precisar de extensão apenas por ultrapassarem quatro anos.",
-    "No ano acadêmico de 2025/2026, os EUA receberam 17.934 estudantes brasileiros (alta de 3,8%), movimentando cerca de US$ 1,2 bilhão na economia americana em 2025, enquanto o total internacional somou US$ 39,9 bilhões.",
-    "Para quem planeja estudar nos EUA em 2027, as regras anteriores são mantidas, dispensando a nova burocracia, embora o governo americano ainda possa recorrer da decisão na segunda instância."
+    "A Justiça federal dos Estados Unidos anulou, nesta segunda-feira (16), a regulamentação do governo Donald Trump que limitava a quatro anos a permanência de estudantes estrangeiros e intercambistas no país.",
+    "A decisão do juiz federal F. Dennis Saylor IV, de Massachusetts, afasta a exigência de novas autorizações migratórias para cursos superiores ao prazo estipulado pela administração republicana.",
+    "A regra anulada havia sido publicada pelo Departamento de Segurança Interna (DHS) em julho de 2026 e entraria em vigor em 15 de setembro, estabelecendo tetos para vistos F, J e I.",
+    "O texto previa limite inicial de 240 dias para jornalistas estrangeiros com visto I, e de 90 dias especificamente para profissionais chineses da imprensa.",
+    "No ano acadêmico de 2025/2026, os Estados Unidos receberam 17.934 estudantes brasileiros, alta de 3,8%, movimentando cerca de US$ 1,2 bilhão na economia americana em 2025.",
+    "Globalmente, estudantes internacionais contribuíram com US$ 39,9 bilhões no último ano acadêmico, conforme dados da Association of International Educators (NAFSA).",
+    "Com a anulação, continua valendo o sistema duration of status para vistos F-1 e J-1, permitindo que estrangeiros permaneçam no país durante toda a atividade autorizada."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/carreira/justica-dos-eua-derruba-limite-de-permanencia-de-estudantes-imposto-por-trump/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/46f17f3bbe56.webp"
   },
   {
    "titulo": "Dólar à vista fecha perto da estabilidade após ultrapassar os R$ 5,80 hoje",
    "topicos": [
-    "Dólar à vista fechou em R$5,7830, alta de 0,09%, após ter ultrapassado a marca de R$5,80 na manhã de terça‑feira, 17 de novembro, permanecendo próximo da estabilidade ao longo do pregão.",
-    "A valorização ocorreu após a divulgação do pacote fiscal do governo federal, que prevê economia de até R$60 bilhões em 2027, embora os mercados considerem as medidas tímidas demais.",
-    "Por volta de 17h50 (horário de Brasília), o índice DXY, que mede o dólar frente a seis moedas globais, recuou 0,06%, cotado em 103,4890 pontos.",
-    "Rebecca Nossig, estrategista da Nomad, afirmou que investidores estão em compasso de espera, ajustando posições defensivas enquanto avaliam se o governo garantirá previsibilidade para conter a pressão compradora de moeda estrangeira e a desvalorização do real.",
-    "O Plenário do Senado deveria concluir hoje a votação do texto‑base do ajuste fiscal; o projeto foi aprovado pelo Senado na quinta‑feira, 12, mas ainda tem pontos pendentes a serem analisados antes de seguir para a Câmara dos Deputados, podendo alterar seu alcance.",
-    "Nos EUA, as vendas no varejo subiram 0,2% em outubro, com crescimento de 0,6% no núcleo, enquanto a produção industrial recuou 0,4% e a atividade manufatureira avançou 0,3%; esses dados mistos dificultam a decisão do Fed sobre manter juros restritivos, e investidores aguardam a ata da reunião do Fed prevista para amanhã."
+    "Dólar à vista ultrapassou R$5,80, mas encerrou a R$5,7830, alta de 0,09% na terça‑feira (17), após oscilar próximo à estabilidade ao longo do pregão.",
+    "A valorização ocorreu em meio ao pacote fiscal do governo federal, que prevê economia de até R$60 bilhões até 2027, embora economistas considerem as medidas tímidas.",
+    "O índice DXY, que compara o dólar a seis moedas, recuou 0,06% às 17h50 (horário de Brasília), cotado em 103,4890 pontos, indicando desempenho abaixo da tendência global.",
+    "O Senado deve concluir hoje a votação do texto‑base do ajuste fiscal; o projeto foi aprovado em plenário na quinta‑feira (12), mas ainda tem pontos pendentes antes de seguir à Câmara dos Deputados.",
+    "Nos EUA, as vendas no varejo de outubro subiram 0,2% e o núcleo de controle avançou 0,6%, enquanto a produção industrial recuou 0,4% e a atividade manufatureira cresceu 0,3%, gerando dúvidas ao Fed.",
+    "Analistas como Rebecca Nossig (Nomad) e Rafael Dadoorian (Convexa Investimentos) apontam que investidores aguardam sinais de previsibilidade fiscal e a ata da reunião do Fed, prevista para amanhã, para definir a política monetária."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/dolar-a-vista-fecha-perto-da-estabilidade-apos-ultrapassar-os-r-580-hoje-davs/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/2a72456efb80.webp"
   },
   {
    "titulo": "Dólar hoje sobe 0,08%, a R$ 5,78, à espera de votação de destaques de ajuste fiscal",
    "topicos": [
-    "O dólar comercial encerrou a terça-feira próximo da estabilidade, com alta de 0,08%, cotado a R$ 5,7819, após um pregão volátil de oscilações entre altas e baixas.",
-    "Às 17h12 da terça-feira, o dólar futuro com vencimento em dezembro registrava queda de 0,03% na B3, negociado a R$ 5,7970.",
-    "No fechamento da segunda-feira, a moeda americana havia registrado alta de 2,13%, cotada a R$ 5,7770, chegando a operar perto de R$ 5,80 nas máximas.",
-    "O mercado financeiro monitora a votação de quatro destaques no Senado nesta terça-feira e aguarda sinalizações sobre a nova equipe econômica do governo Lula.",
-    "Na segunda-feira, aliados como Camilo Santana, Rui Costa e Rafael Fonteles reuniram-se com Lula para retomar as conversas sobre a formação do governo.",
-    "O ministro da Fazenda, Dario Durigan, defendeu disciplina fiscal e afirmou que o governo planeja alcançar superávits primários crescentes a partir de 2027.",
-    "Após a votação dos destaques no Senado, que podem alterar o texto-base aprovado na semana anterior, a proposta do ajuste fiscal ainda passará pela Câmara."
+    "O dólar comercial à vista fechou esta terça-feira com alta de 0,08%, cotado a R$ 5,7819, após uma sessão volátil marcada por oscilações entre altas e baixas.",
+    "O movimento da moeda ocorreu enquanto o mercado monitora a votação de quatro destaques do pacote de ajuste fiscal no Senado e aguarda definições sobre a equipe econômica.",
+    "Na B3, o dólar futuro com vencimento para dezembro registrava queda de 0,03% às 17h12, negociado a R$ 5,7970.",
+    "As cotações de compra e venda do dólar comercial encerraram o dia cotadas a R$ 5,781.",
+    "Na sessão anterior de segunda-feira, o dólar à vista havia fechado em alta de 2,13%, cotado a R$ 5,7770, chegando a operar próximo de R$ 5,80 nas máximas.",
+    "O presidente Luiz Inácio Lula da Silva reuniu-se nesta terça-feira com aliados, incluindo os senadores Camilo Santana e Rui Costa e o governador Rafael Fonteles, para discutir a formação do novo governo."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17112026/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/78fb70dd4f64.webp"
   },
   {
    "titulo": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
    "topicos": [
-    "Dados divulgados pelo Tribunal Superior Eleitoral (TSE) no último fim de semana confirmaram que idosos, especialmente idosas, impulsionaram o comparecimento no segundo turno das eleições, gerando a maior queda de abstenção entre turnos desde a redemocratização.",
-    "Eleitores com mais de 70 anos, cuja votação é facultativa, registraram comparecimento de 58,32% no segundo turno, representando uma alta de 7,51 pontos percentuais ou 1.295.980 pessoas, a maior variação entre faixas etárias no país.",
-    "O aumento geral no comparecimento entre os turnos foi de 2,96 milhões de pessoas, sendo que os idosos com mais de 70 anos responderam por 43,76% de todo esse crescimento eleitoral nacional.",
-    "O grupo de 70 anos soma 17,2 milhões de pessoas, equivalendo a cerca de 11% do eleitorado brasileiro. Entre mulheres de 70 a 79 anos, o avanço foi de 8,04 pontos percentuais, superior aos 6,6 pontos registrados entre os homens.",
-    "Pesquisas pós-eleição da Quaest indicaram que o presidente Luiz Inácio Lula da iva alcançou 61% dos votos entre pessoas com mais de 60 anos, contra 39% de Flávio Bolsonaro (PL), enquanto o Datafolha apontava 47% a 43% antes do pleito.",
-    "Na Bahia, os idosos com mais de 80 anos registraram o maior salto de comparecimento entre turnos no país, indo a 50,79% no segundo turno frente a 36,31% no primeiro, uma alta de 14,48 pontos percentuais."
+    "Dados divulgados pelo Tribunal Superior Eleitoral confirmam que idosos, especialmente mulheres, impulsionaram a queda na abstenção entre o primeiro e o segundo turno das eleições, gerando a maior redução desde a redemocratização.",
+    "Entre eleitores com mais de 70 anos, faixa sem obrigatoriedade de voto, 58,32% compareceram às urnas no segundo turno, representando alta de 7,51 pontos percentuais ou 1.295.980 pessoas, a maior variação etária do país.",
+    "O aumento geral de comparecimento entre os turnos foi de 2,96 milhões de pessoas, sendo que os idosos com mais de 70 anos, grupo que soma 17,2 milhões de cidadãos e cerca de 11% do eleitorado, responderam por 43,76% desse total.",
+    "Entre mulheres de 70 a 79 anos, a alta no comparecimento foi de 8,04 pontos percentuais, superando o avanço de 6,6 pontos registrado entre os homens da mesma faixa etária.",
+    "Segundo especialistas, a motivação principal desse público foi o medo de alterações em benefícios e aposentadorias, além de estratégias de campanha focadas nesse segmento e a identificação com o candidato Luiz Inácio Lula da Silva, de 81 anos.",
+    "Pesquisas pós-eleição da Quaest apontaram que Lula obteve 61% dos votos entre pessoas com mais de 60 anos, contra 39% de Flávio Bolsonaro, enquanto o Datafolha indicava empate técnico de 47% a 43% antes do pleito.",
+    "Os estados com maiores avanços na participação geral entre os turnos foram Bahia, com alta de 3,25 pontos percentuais, e Pernambuco, com 2,98 pontos percentuais, ambos na região Nordeste."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b2a4eb86adbc.webp"
   },
   {
    "titulo": "Caças dos EUA atacam ilha do Irã",
    "topicos": [
-    "Caças dos Estados Unidos bombardearam uma base de lançamento de mísseis da Guarda Revolucionária Islâmica na ilha de Qeshm, situada no Estreito de Ormuz, segundo fontes ouvidas pela Reuters e AFP.",
-    "A ação militar norte-americana ocorreu como retaliação a investidas iranianas contra militares e ativos dos EUA no Golfo Pérsico, incluindo ataques de Teerã a bases no Bahrein nesta semana.",
-    "O ataque foi realizado com munições de precisão em legítima defesa, conforme relatado por um representante dos Estados Unidos sob anonimato, embora o governo americano ainda não tenha confirmado oficialmente.",
-    "Moradores da ilha relataram explosões, e a agência estatal iraniana Fars informou que drones do tipo LUCAS atingiram a área afetada.",
-    "O evento marca a retomada dos ataques dos EUA após uma pausa nas operações militares durante as eleições de meio de mandato norte-americanas, realizadas em 3 de novembro.",
-    "A guerra entre Washington e Teerã teve início em 28 de fevereiro, e a derrota do partido de Donald Trump nas eleições foi atribuída, por avaliações, ao conflito com o Irã."
+    "Caças dos Estados Unidos bombardearam uma base de lançamento de mísseis da Guarda Revolucionária Islâmica na ilha de Qeshm, segundo fontes das agências Reuters e AFP.",
+    "A ofensiva militar ocorreu como retaliação a investidas iranianas contra militares e instalações norte-americanas no Golfo Pérsico, incluindo ataques recentes no Bahrein.",
+    "Um representante dos EUA afirmou à AFP, sob anonimato, que aviões americanos empregaram munições de precisão na ação defensiva.",
+    "O governo norte-americano ainda não confirmou oficialmente o episódio, mas agências iranianas relataram explosões na ilha e o uso de drones do tipo LUCAS.",
+    "A ilha de Qeshm localiza-se no Estreito de Ormuz, corredor estratégico para o comércio global de petróleo e ponto central de conflitos desde o início da guerra, em 28 de fevereiro de 2026.",
+    "O ataque interrompe uma pausa nos bombardeios adotada por causa das eleições de meio de mandato nos EUA, realizadas em 3 de novembro de 2026, onde o partido de Donald Trump foi derrotado."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7729017a2579.webp"
   },
   {
    "titulo": "EUA fazem teste nacional em serviço de emergência; mensagem foi transmitida em rádios e TVs",
    "topicos": [
-    "A população dos Estados Unidos presenciou nesta terça-feira (17) a transmissão da mensagem do Sistema de Alerta de Emergência (EAS) em todas as emissoras de rádio e televisão do país, que interrompeu a programação regular com um comunicado protocolar de teste.",
-    "A ação coordenada foi realizada pela Agência Federal de Gestão de Emergências (FEMA) em conjunto com a Comissão Federal de Comunicações (FCC), sendo uma checagem do sistema público exigida por lei para ocorrer no mínimo uma vez a cada três anos.",
-    "O objetivo do teste é permitir que a FEMA localize possíveis falhas operacionais ou técnicas e garanta a eficiência do sistema antes de uma situação real de emergência, que pode ser ordenada pelo presidente dos Estados Unidos ou por seu representante.",
-    "O teste havia sido anunciado oficialmente em 30 de setembro, mas sua divulgação gerou boatos falsos ao longo de novembro nas redes sociais sobre um suposto apagão global de energia e comunicações, impulsionados por falhas tecnológicas e ataques hackers anteriores."
+    "A população dos Estados Unidos acompanhou nesta terça-feira (17) um teste nacional do Sistema de Alerta de Emergência (EAS) em todas as emissoras de rádio e televisão do país, que interrompeu a programação com um comunicado protocolar informando tratar-se apenas de uma simulação sem necessidade de ação.",
+    "A ação coordenada foi realizada pela Agência Federal de Gestão de Emergências dos EUA (FEMA) e pela Comissão Federal de Comunicações (FCC), sendo uma checagem do sistema público exigida por lei e realizada ao menos uma vez a cada três anos.",
+    "O objetivo da FEMA com o teste é identificar falhas técnicas ou operacionais e assegurar o funcionamento adequado do sistema antes de uma situação de emergência real, quando o alerta pode ser ordenado pelo presidente norte-americano ou seu representante.",
+    "O teste serviu para desmentir boatos que circularam em novembro nas redes sociais sobre um suposto apagão global de energia e comunicações, rumores que surgiram a partir da distorção do aviso oficial divulgado inicialmente em 30 de setembro."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/eua-fazem-teste-nacional-em-servico-de-emergencia-mensagem-foi-exibida-em-radios-e-tvs.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/23a724b44104.webp"
   },
   {
    "titulo": "EUA suspendem instalação de roteadores que levaram à paralisação de voos no país",
    "topicos": [
-    "A FAA (Agência de Aviação dos EUA) suspendeu nesta terça-feira (17) a instalação de roteadores associados à pane que paralisou todos os voos do país na semana passada.",
-    "A decisão ocorreu após técnicos vincularem a falha no controle de tráfego aéreo a um roteador recém-instalado em um centro de controle no Arkansas.",
-    "Na sexta-feira (13), a ordem da FAA manteve todos os voos em solo após problemas em 17 dos 22 centros regionais de controle, gerando cancelamentos e adiamentos.",
-    "A agência desativou novos roteadores da marca Juniper e passou a usar equipamentos mais antigos da Cisco, com 25 anos de operação, enquanto investiga o caso.",
-    "Os dispositivos com falhas estão em testes num laboratório da L3Harris, empresa encarregada pela instalação dos equipamentos nos Estados Unidos.",
-    "A rede interna de comunicações sigilosas da NSA (Agência de Segurança Nacional) também ficou fora do ar nesta terça-feira (17), sem indícios de ataques cibernéticos."
+    "A FAA (Agência de Aviação dos EUA) suspendeu na terça-feira (17) a instalação de novos roteadores em seu sistema de comunicação após uma falha associada aos equipamentos causar a paralisação de voos no país na semana passada.",
+    "O problema de sexta-feira (13) atingiu 17 dos 22 centros regionais de controle de tráfego aéreo, obrigando a FAA a manter todos os voos em solo e resultando em centenas de cancelamentos e atrasos.",
+    "Como medida de segurança, a agência desativou os novos roteadores da marca Juniper instalados recentemente e retomou o uso de modelos antigos da Cisco, que operam há 25 anos, enquanto investiga o caso.",
+    "Os aparelhos defeituosos estão sob análise em um laboratório da L3Harris, empresa encarregada de realizar a instalação dos dispositivos nos centros de controle.",
+    "Na mesma terça-feira (17), a rede interna de comunicações da NSA (Agência de Segurança Nacional dos EUA), chamada NSA Net, saiu do ar, levando a agência a adotar um esquema de chegada escalonada para os funcionários."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/eua-suspendem-instalacao-de-roteadores-que-levaram-a-paralisacao-de-voos-no-pais.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/d2d3b8502ba9.webp"
   },
   {
    "titulo": "Por que EUA perderam certificado de eliminação do sarampo após 26 anos",
    "topicos": [
-    "A Organização Pan-Americana da Saúde (Opas) revogou, em 17/11, o certificado de eliminação do sarampo dos EUA após 26 anos, ao identificar transmissão ininterrupta da mesma linhagem viral por mais de 12 meses.",
-    "Neste ano, os Estados Unidos contabilizaram 5,4 mil casos de sarampo e 10 mortes, número recorde desde a década de 1990.",
-    "A Opas também retirou o status de erradicação do México e da Bolívia, apontando falhas persistentes de vacinação como causa do ressurgimento na América.",
-    "O CDC reafirmou o compromisso de recuperar o status, ampliando o acesso à vacina tríplice viral, recomendada em duas doses para crianças de 1 a 6 anos, com 97% de proteção contra a doença.",
-    "O governo americano destinou US$ 100 milhões (cerca de R$ 580 milhões) a departamentos de saúde estaduais e regionais para suprir lacunas de imunização nas comunidades afetadas.",
-    "O secretário de Saúde, Robert F. Kennedy Jr., tem questionado a segurança da vacina tríplice viral, contribuindo para a queda nas coberturas vacinais nos últimos anos."
+    "Os Estados Unidos perderam o status de país livre do sarampo após mais de duas décadas, devido à transmissão ininterrupta do vírus por mais de 12 meses.",
+    "A decisão foi anunciada pela Organização Pan-Americana da Saúde (Opas) na terça-feira (17/11), apontando falhas persistentes de vacinação no continente.",
+    "México e Bolívia também perderam o status de erradicação, enquanto o Canadá registrou progressos após perdê-lo no ano passado, segundo a Opas.",
+    "Os EUA registraram 5,4 mil casos de sarampo e 10 mortes este ano, o maior número desde os anos 1990, incluindo um surto na Pensilvânia com mais de 1,4 mil infectados e sete óbitos.",
+    "A taxa de vacinação da tríplice viral nos EUA caiu para 92,4%, ficando abaixo dos 95% necessários para garantir a imunidade de rebanho e conter a transmissão.",
+    "Para tentar recuperar o status, os Centros de Controle e Prevenção de Doenças (CDC) investiram US$ 100 milhões (cerca de R$ 580 milhões) em departamentos de saúde estaduais e regionais."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cq78258y8np9o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/1390db8a28b1.webp"
   },
   {
    "titulo": "Vladimir Putin chega à China para reunião trilateral com Xi Jinping e Trump",
    "topicos": [
-    "O presidente russo Vladimir Putin desembarcou nesta quarta-feira (18, horário local; terça-feira em Brasília) em Shenzhen, no sul da China, para a 33ª reunião de líderes da Apec.",
-    "O encontro trilateral reúne Putin, o presidente chinês Xi Jinping e o presidente americano Donald Trump para debater segurança internacional e as relações entre as três potências.",
-    "Donald Trump declarou que pretende abordar a diminuição dos arsenais nucleares, o conflito no Irã, o mercado econômico e comercial, além da guerra na Ucrânia.",
-    "O governo de Pequim informou que a cúpula deve focar na preservação da paz global e na estabilidade das relações entre as grandes nações.",
-    "Existem divergências entre os países sobre a pauta, já que Moscou deseja tratar do conflito ucraniano, enquanto autoridades dos EUA indicam que o assunto pode ficar fora das prioridades.",
-    "A China manifestou resistência em integrar negociações trilaterais voltadas ao desarmamento nuclear, segundo apontado no evento."
+    "O presidente russo Vladimir Putin desembarcou nesta quarta-feira, no horário local, na cidade de Shenzhen, no sul da China, para a 33ª reunião de lideranças da Apec.",
+    "Putin participa de um encontro trilateral na China ao lado do presidente chinês Xi Jinping e do presidente americano Donald Trump.",
+    "Os mandatários pretendem debater questões de segurança internacional e a dinâmica diplomática entre as três potências globais.",
+    "Trump declarou a intenção de abordar a diminuição de arsenais nucleares, o conflito no Irã, relações econômicas e comerciais e a guerra na Ucrânia.",
+    "Pequim sinalizou que o grupo deve focar na manutenção da paz global e na estabilidade geopolítica entre as nações.",
+    "Existem divergências na pauta, pois Moscou quer debater a Ucrânia, mas americanos indicam que o tema pode não ser prioridade e a China resiste a negociações nucleares."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/vladimir-putin-chega-a-china-para-reuniao-trilateral-com-xi-jiping-e-trump.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/987578a0f4ea.webp"
   },
   {
    "titulo": "'Perturbador': mulher que acusa Russell Brand reage à mensagem que ele enviou de dentro da prisão",
    "topicos": [
-    "Uma mulher que acusa o comediante britânico Russell Brand de estupro classificou como perturbador que ele tenha enviado uma mensagem da prisão alegando inocência após a condenação.",
-    "Brand começou a cumprir pena de 10 anos e meio na semana passada, após ser considerado culpado por estupro e três agressões sexuais contra quatro mulheres.",
-    "A esposa do comediante leu uma mensagem dele em um programa do YouTube na qual Brand afirma não ser culpado dos crimes pelos quais foi preso.",
-    "Mia Latter, de 37 anos, relatou à BBC que conheceu Brand quando tinha 16 anos e ele 30, fazendo parte de acusações reveladas em uma investigação conjunta em 2023.",
-    "Um porta-voz do premiê britânico Andy Burnham afirmou em 16/11 que espera medidas caso seja confirmado que Brand violou regras prisionais ao fazer declarações."
+    "O comediante britânico Russell Brand foi condenado a 10 anos e meio de prisão por estupro e três casos de agressão sexual, envolvendo quatro mulheres, e começou a cumprir a pena na semana passada.",
+    "Após a prisão, a esposa de Brand leu uma mensagem dele no YouTube na qual o comediante nega os crimes, gerando forte reação de Mia Latter, mulher que o acusa de abuso quando ela tinha 16 anos e ele 30.",
+    "Mia Latter, hoje com 37 anos, classificou a manifestação de dentro da prisão como perturbadora e chocante, destacando a dor causada às vítimas pela recusa do comediante em aceitar a condenação.",
+    "Em entrevista recente, Latter relatou que conheceu Brand no passado e abriu mão do anonimato para defender a criação de uma idade de consentimento escalonada no Reino Unido para proibir relações entre jovens e adultos.",
+    "Na segunda-feira, 16/11, um porta-voz do premiê britânico Andy Burnham e o secretário de Justiça Alex Norris indicaram que esperam medidas se for confirmado que Brand violou regras penitenciárias ao emitir declarações que causam sofrimento às vítimas."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/c804w7wppw5ko?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2463d7af7fe8.webp"
   },
   {
    "titulo": "UE aponta falhas da Temu no combate à venda de produtos ilegais",
    "topicos": [
-    "A Comissão Europeia declarou nesta terca-feira, 17, em analise preliminar, que os esforcos da Temu para barrar mercadorias ilegais sao insuficientes, apontando possivel violacao das normas do bloco.",
-    "Caso a infracao seja comprovada, a plataforma de e-commerce, pertencente ao grupo chines PDD Holdings, podera receber multa de ate 6% do seu faturamento anual global.",
-    "O comite regulador apontou falhas como moderacao de conteudo fragil, punicoes ineficientes que permitem a reincidencia de vendedores e foco na conformidade interna em detrimento da seguranca.",
-    "A legislacao europeia de servicos digitais exige que grandes plataformas protejam consumidores contra ameacas online, a exemplo de itens falsificados, motivando uma investigacao aberta em 2024."
+    "A Comissão Europeia divulgou nesta terça-feira, 17, conclusões preliminares apontando que as ações da Temu contra a venda de mercadorias ilegais são insuficientes e podem violar leis da União Europeia.",
+    "Caso a infração seja confirmada, a plataforma controlada pela chinesa PDD Holdings poderá receber uma multa de até 6% do seu faturamento anual global.",
+    "O órgão regulador apontou falhas como moderação de conteúdo fraca, foco excessivo em regras internas em vez da segurança dos produtos e punições ineficazes que permitem reabertura de lojas.",
+    "A Temu contestou a avaliação, declarou estar confiante em uma solução amigável com a Comissão e afirmou que irá responder às conclusões preliminares antes do encerramento da investigação.",
+    "A legislação da União Europeia exige que grandes plataformas protejam consumidores contra riscos online, sendo que a Temu já havia sido investigada a partir de 2024 e multada em 200 milhões de euros em maio.",
+    "No contexto de fiscalização de e-commerces asiáticos, a AliExpress foi multada em 550 milhões de euros em julho, e a Shein virou alvo de investigação em fevereiro após autoridades francesas encontrarem itens inadequados em 2025."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/ecommerce/ue-aponta-falhas-da-temu-no-combate-a-venda-de-produtos-ilegais/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7c7dc2fec96e.webp"
   },
   {
    "titulo": "Suplementos alimentares têm fabricação e venda suspensas no Brasil",
    "topicos": [
-    "A Anvisa suspendeu nesta terça-feira, 17, a fabricação, a venda e determinou o recolhimento de suplementos alimentares de pelo menos três empresas no Brasil devido a irregularidades na produção.",
-    "O suplemento líquido Melatonina Spray-Norvy, da Norvy Saúde, foi proibido porque o ingrediente não teve a segurança para uso sublingual avaliada e trazia promessas não aprovadas na propaganda.",
-    "A agência reguladora também proibiu todos os suplementos da Nutrymed Indústria Farmacêutica e Alimentícia após uma inspeção sanitária em Goiás detectar falhas graves na produção.",
-    "A fiscalização na Nutrymed encontrou problemas como armazenamento inadequado e com sujidades, produtos com validade expirada, falta de controle de qualidade, problemas estruturais e água imprópria.",
-    "Foram suspensos ainda os suplementos em cápsulas Nutri Bluwey e Nutri AN-T, fabricados pela Morbach Nutri Complementos Alimentares, por falta de documentos que comprovem segurança, qualidade e composição.",
-    "A Morbach Nutri também utilizava ingredientes que não possuem autorização para serem empregados na formulação de suplementos alimentares."
+    "A Anvisa suspendeu nesta terca-feira, 17, a fabricação, a comercialização e o uso de suplementos alimentares de pelo menos tres empresas em todo o território nacional, ordenando tambem o recolhimento dos itens.",
+    "O spray Melatonina Spray-Norvy, da Norvy Saúde, foi proibido porque o ingrediente nao teve seguranca avaliada para uso sublingual e trazia promessas falsas de acao rapida na propaganda.",
+    "A Nutrymed Indústria Farmacêutica e Alimentícia, situada em Goiás, sofreu suspensão em todos os seus suplementos apos uma inspecao sanitaria revelar problemas graves de producao.",
+    "A fiscalizacao na Nutrymed apontou armazenamento inadequado com sujidades e validade vencida, ausencia de controle de qualidade, falhas estruturais, fluxo cruzado e problemas na agua.",
+    "A Morbach Nutri Complementos Alimentares teve dois produtos suspensos: as capsulas Nutri Bluwey e Nutri AN-T, devido a documentos insuficientes para provar seguranca e qualidade.",
+    "A Morbach tambem utilizou ingredientes nao autorizados em suplementos alimentares, conforme apontado nas notificacoes que motivaram a medida da agencia reguladora."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/17/11/2026/economia/suplementos-alimentares-tem-fabricacao-e-venda-suspensas-no-brasil/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6e0f43530585.webp"
   }
  ]
 }
