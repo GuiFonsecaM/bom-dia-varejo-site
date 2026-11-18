@@ -1159,493 +1159,559 @@
   {
    "titulo": "CAE debate redução da sonegação como saída para baixar alíquota da futura CBS",
    "topicos": [
-    "A Comissão de Assuntos Econômicos (CAE) debateu na quarta-feira (18/11/2026), em Brasília, se a redução da sonegação pode baixar a alíquota de 11,3% da CBS proposta pelo TCU.",
-    "O novo tributo federal substituirá IPI, PIS/Pasep e Cofins a partir de janeiro de 2027, mantendo a carga tributária atual conforme a legislação.",
-    "O relator Eduardo Braga propôs adotar o hiato de conformidade de 12,5%, média entre o piso de 10% e o teto de 15% estudados pela Fazenda e pelo TCU.",
-    "O cálculo do TCU considerou um hiato de 15,9% (com base em 2023, gerando R$ 39,1 bi a mais que a Receita), enquanto a Receita Federal usou 22,6%.",
-    "A melhoria na arrecadação ocorrerá por meio do split payment (recolhimento automático) e da autofiscalização exigindo notas fiscais de fornecedores para créditos.",
-    "O Senado tem até 15 de dezembro para definir a alíquota por resolução; caso contrário, a taxa provisória de 11,3% do TCU será aplicada.",
-    "A digitalização da CBS pode elevar a arrecadação do ICMS em R$ 75 bilhões anuais e o Imposto sobre a Renda entre R$ 30 bilhões e R$ 110 bilhões por ano."
+    "A Comissão de Assuntos Econômicos (CAE) debateu na quarta-feira (18/11/2026), em Brasília, se a redução da sonegação tributária pode baixar a alíquota da nova Contribuição sobre Bens e Serviços (CBS). A CBS é o tributo federal que substituirá o IPI, o PIS/Pasep e o Cofins a partir de janeiro de 2027.",
+    "O Tribunal de Contas da União (TCU) propôs inicialmente uma alíquota de 11,3% para a CBS, enquanto a Receita Federal calculou um hiato de conformidade de 22,6%. O TCU adotou um hiato de 15,9%, o que geraria R$ 39,1 bilhões a mais em arrecadação com base em dados de 2023.",
+    "O senador Eduardo Braga, relator da matéria (AVS 1/2026), propôs adotar um hiato intermediário de 12,5%, justificando que estudos anteriores da Fazenda e do TCU trabalhavam com percentuais entre 10% e 15%, o que resultaria em alíquotas de 8% a 9,3%.",
+    "O Senado tem até o dia 15 de dezembro para definir a alíquota da CBS por meio de resolução; caso não haja decisão no prazo, o percentual de 11,3% sugerido pelo TCU será adotado de forma provisória.",
+    "A legislação determina que a nova tributação mantenha a carga atual dos impostos substituídos e estabelece que, em 2033, a soma da CBS com o futuro IBS não poderá ultrapassar o limite de 26,5%.",
+    "O relator propôs exigir publicações bimensais para monitorar os estudos da alíquota, e a CAE aprovou pedido para que o TCU e o Ministério da Fazenda divulguem detalhes de suas metodologias de cálculo, que foram feitas sob sig."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cae-debate-reducao-da-sonegacao-como-saida-para-baixar-aliquota-da-futura-cbs",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/d598df86dc63.webp"
   },
   {
    "titulo": "IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
    "topicos": [
-    "A Anthropic, criadora do chatbot Claude, estreia nesta quinta-feira (19) na Nasdaq e busca avaliação de até US$ 1,4 trilhão (R$ 8,2 trilhões) em sua oferta pública inicial de ações (IPO). A empresa e acionistas pretendem levantar até US$ 64,4 bilhões (R$ 375 bilhões) com a venda de 825 milhões de papéis, além de captar US$ 26 bilhões (R$ 151,4 bilhões) em operação privada com Google, Nvidia e AMD.",
-    "No Brasil, a B3 disponibilizará o BDR da companhia sob o código ANTH34, permitindo que investidores negociem o ativo em reais sem precisar de conta no exterior ou conversão direta de dólares. Os BDRs devem estrear com preço inferior a R$ 100, reflexo de uma proporção de 1 para 8 em relação à faixa indicativa nos EUA, que varia de US$ 70 a US$ 78 (R$ 405 a R$ 452).",
-    "A negociação do ANTH34 na B3 começa às 10h desta quinta-feira, enquanto a Nasdaq abre às 11h30. Especialistas recomendam aguardar a abertura do mercado americano para evitar incertezas na formação de preço. A participação direta no IPO nos EUA é restrita a investidores profissionais com mais de R$ 10 milhões investidos, enquanto o BDR dispensa essa exigência no varejo.",
-    "O investimento em BDRs envolve renda variável, flutuação cambial e riscos específicos do setor de inteligência artificial, como altos gastos em infraestrutura e dúvidas sobre a conversão de investimentos em lucro. Há também riscos regulatórios e regras de governança que limitam o poder de voto dos acionistas ordinários, além de volatilidade acentuada nos primeiros dias.",
-    "Os lucros na venda de BDRs estão sujeitos ao Imposto de Renda com alíquota de 15% para operações comuns e 20% em day trade, sem direito à isenção de vendas mensais de até R$ 20 mil aplicável a ações. Operações também podem incluir taxas de corretagem, emolumentos da B3 e custos cobrados pela instituição depositária.",
-    "Fundada em 2021 e liderada por Dario Amodei, a Anthropic concorre diretamente com a OpenAI. A abertura de capital ocorre cinco meses após o IPO da SpaceX, que movimentou US$ 75 bilhões e estabeleceu a maior oferta da história com avaliação de cerca de US$ 1,75 trilhão (R$ 9 trilhões)."
+    "A Anthropic, criadora do chatbot Claude, estreia nesta quinta-feira (19) na Nasdaq buscando uma avaliação de até US$ 1,4 trilhão (cerca de R$ 8,2 trilhões) em seu IPO.",
+    "No Brasil, a B3 disponibilizará o BDR da companhia sob o código ANTH34, com preço inicial estimado em menos de R$ 100 e uma proporção de 1 para 8 em relação às ações nos EUA.",
+    "A negociação do ANTH34 na B3 começa às 10h (horário de Brasília) desta quinta-feira, enquanto a Nasdaq abre às 11h30, gerando recomendação para aguardar o mercado americano.",
+    "Para investir via BDR no Brasil, o investidor de varejo precisa apenas de conta em corretora ou banco com acesso à B3, sem necessidade de conta internacional ou dólar.",
+    "A participação direta no IPO nos EUA exige ser investidor profissional com mais de R$ 10 milhões investidos, operando no exterior em moeda estrangeira.",
+    "Os lucros na venda de BDRs têm alíquota de 15% (operações comuns) ou 20% (day trade), sem direito à isenção mensal de R$ 20 mil aplicável às ações.",
+    "A oferta pretende levantar até US$ 64,4 bilhões (R$ 375 bilhões) com a venda de 825 milhões de ações, além de uma captação privada de US$ 26 bilhões (R$ 151,4 bilhões) com Google, Nvidia e AMD."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/74fc36eea3f4.webp"
   },
   {
    "titulo": "Durigan descarta recessão, mas vê crescimento em 'patamar menor' em 2027; ministro diz acreditar em aprovação de ajuste fiscal",
    "topicos": [
-    "O secretário-executivo e ministro em exercício da Fazenda, Dario Durigan, descartou a ocorrência de recessão no Brasil durante evento do Bradesco BBI realizado na quarta-feira (18).",
-    "Apesar de apontar preocupação com a desaceleração, a projeção do mercado financeiro indica uma alta do PIB de 1% em 2027, após 1,7% em 2026 e 2,3% em 2025 pelo IBGE.",
-    "Durigan declarou que a economia brasileira deve avançar em um patamar menor no próximo ano, mas sem passar por dois trimestres consecutivos de queda na atividade.",
-    "O ministro afirmou que não prevê dificuldades para aprovar o pacote fiscal no Senado, cuja votação do texto-base teve placar favorável de 45 a 31 votos.",
-    "Ainda restam cinco propostas de alteração no projeto que podem modificar o alcance dos cortes de gastos, enquanto empresários criticam o aumento de arrecadação.",
-    "O pacote fiscal representa o início de um ajuste gradual aplicado ao longo dos próximos quatro anos da gestão do presidente Luiz Inácio Lula da Silva.",
-    "A meta do governo com a melhora do resultado fiscal primário é criar condições favoráveis para que o Banco Central reduza a taxa básica de juros."
+    "O secretário-executivo e ministro em exercício da Fazenda, Dario Durigan, afirmou na quarta-feira (18) que descarta uma recessão na economia brasileira para 2027, embora preveja um crescimento em patamar menor.",
+    "Aproximando-se de um cenário de juros altos, o mercado financeiro estima alta do PIB de 1% em 2027, ficando abaixo dos 1,7% previstos para 2026 e dos 2,3% registrados pelo IBGE em 2025.",
+    "Durigan declarou em seminário do Bradesco BBI que conversou com senadores e líderes do governo e não enxerga riscos para a aprovação do pacote fiscal do governo no Senado.",
+    "O texto-base da proposta fiscal já recebeu aprovação por 45 votos a 31, restando ainda cinco propostas de alteração no projeto que podem modificar o alcance do corte de gastos.",
+    "O pacote fiscal atual representa a etapa inicial de um ajuste mais amplo que será aplicado gradualmente ao longo dos próximos quatro anos da gestão do presidente Luiz Inácio Lula da Silva.",
+    "O ajuste fiscal tem como principal finalidade melhorar os indicadores fiscais do país, o que ajudará a criar condições para o Banco Central reduzir a taxa básica de juros."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/3b8b5ffeb88e.webp"
   },
   {
    "titulo": "Governo tem votos para concluir votação do pacote fiscal no Senado, avalia ministro",
    "topicos": [
-    "O ministro José Guimarães afirmou nesta quarta-feira (18) que o governo possui votos suficientes para aprovar o pacote fiscal no Senado e rejeitar os destaques da oposição.",
-    "Para manter o texto, o governo precisa de 41 votos nos três destaques supressivos, enquanto a oposição precisa do mesmo número para aprovar seus dois destaques de alteração.",
-    "Na semana passada, o plenário aprovou o texto-base por 45 votos a 31 para conter despesas, elevar arrecadação e estabilizar a dívida, mantendo políticas sociais.",
-    "Cinco destaques pendentes incluem a restrição de créditos tributários, ajuste no limite de despesas, repasses da Lei Kandir e regras para o teto salarial.",
-    "A emenda do senador Rogério Marinho propõe reduzir de 2% para 0,6% o limite real de crescimento das despesas federais a partir de 2027.",
-    "Após a conclusão no Senado, a matéria irá para a Câmara dos Deputados, com votação prevista para a próxima terça-feira (24), exigindo o quórum de 257 votos."
+    "O ministro José Guimarães afirmou nesta quarta-feira (18) que o governo possui votos suficientes para aprovar o pacote de ajuste fiscal no Senado e rejeitar os destaques da oposição.",
+    "Para barrar os destaques supressivos da oposição, o governo precisa de 41 votos, a mesma quantidade exigida para que os oposicionistas modifiquem o conteúdo da proposta.",
+    "Na semana anterior, o plenário aprovou o texto-base da proposta por 45 votos a 31 para conter despesas, elevar a arrecadação, estabilizar a dívida e proteger políticas sociais.",
+    "Os senadores devem analisar cinco destaques pendentes, incluindo regras sobre créditos tributários, limites de gastos, repasses da Lei Kandir e transferências de renda.",
+    "Após a conclusão no Senado, o texto seguirá para a Câmara dos Deputados, onde a votação é esperada para esta quinta-feira (19) ou, mais provavelmente, na terça-feira (24).",
+    "O deputado Mauro Benevides destacou que a Câmara precisará de 257 votos entre os 513 deputados para aprovar as medidas enviadas pelo Senado."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/18/governo-tem-votos-para-concluir-votacao-do-pacote-fiscal-no-senado-avalia-ministro.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/d97a21abed40.webp"
   },
   {
    "titulo": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
    "topicos": [
     "O secretário da Receita Federal, Robinson Barreirinhas, lembrou na quarta-feira (18) que a alíquota de 11,3% da CBS, se aprovada, vigorará exclusivamente em 2027.",
-    "O Senado tem até o dia 15 de dezembro para definir o percentual final cobrado em 2027, com base em cálculos de técnicos do TCU para preservar a carga tributária.",
-    "A alíquota provisória de 2027 passará por um recálculo para 2028, utilizando dados reais de arrecadação do primeiro ano de vigência do novo imposto.",
-    "Se a arrecadação com 11,3% ultrapassar a projeção, o tributo poderá diminuir; caso fique abaixo, o percentual subirá para equiparar a carga tributária.",
-    "A revisão anual das alíquotas ocorrerá até 2032, considerando fatores como a queda da sonegação fiscal e o desempenho do Imposto Seletivo.",
-    "Eventuais cortes do Congresso no Imposto Seletivo que reduzam a arrecadação exigirão alta na CBS para compensar a diferença e manter a arrecadação global."
+    "A proposta está no Congresso Nacional e cabe ao Senado definir a alíquota final para 2027 até o dia 15 de dezembro.",
+    "Técnicos do TCU calcularam o percentual para manter a carga tributária atual, baseando-se na arrecadação dos tributos que serão substituídos.",
+    "O percentual de 11,3% será recalculado para 2028 utilizando dados reais de arrecadação do primeiro ano de funcionamento da nova taxa.",
+    "Se a arrecadação superar a previsão, a alíquota poderá diminuir; caso fique abaixo do esperado, o percentual poderá subir.",
+    "A revisão anual das alíquotas ocorrerá até 2032 para ajustar com precisão a carga tributária, considerando o combate à sonegação.",
+    "A arrecadação do Imposto Seletivo também influenciará a CBS: se o Congresso reduzir o tributo e faltar arrecadação, a CBS poderá subir."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/3a74045ad635.webp"
   },
   {
    "titulo": "Fed alerta para dívida ligada à IA e propõe novas altas de juros",
    "topicos": [
-    "O Federal Reserve divulgou em 18 de novembro de 2026 a ata de sua reunião do Fomc realizada nos dias 27 e 28 de outubro, alertando sobre dívidas de IA e sinalizando novos apertos monetários.",
-    "Na reunião de outubro, a taxa básica de juros foi mantida entre 3,75% e 4% ao ano por 10 votos a 2, com Lisa Cook e Beth Hammack divergindo por alta de 0,25 ponto percentual.",
-    "Quase todos os dirigentes indicaram que novas elevações serão necessárias para levar a inflação à meta de 2%, e dois participantes consideraram um aumento acima de 0,25 ponto percentual para a reunião de 8 e 9 de dezembro se os dados forem ruins.",
-    "O PCE acumulado em 12 meses até setembro de 2026 chegou a 3,6%, com núcleo de 3,1%, impulsionado por energia, tarifas comerciais e investimentos em inteligência artificial, projetando-se o retorno à meta em 2028.",
-    "O Fed apontou riscos financeiros no financiamento opaco de centros de dados de IA, incluindo contratos fora do balanço e acordos circulares, concentrados em poucas companhias e com fundos alavancados.",
-    "A economia dos Estados Unidos cresceu de forma sólida no 3º trimestre de 2026, com desemprego de 4,2% em setembro e criação média próxima de 50.000 vagas mensais no trimestre encerrado no mesmo mês."
+    "O Federal Reserve divulgou nesta 4ª feira (18.nov.2026) a ata da reunião do Fomc de outubro, alertando sobre dívidas de IA e sinalizando novos apertos monetários.",
+    "Na reunião de 27 e 28 de outubro, o Fomc manteve a taxa básica entre 3,75% e 4% ao ano por 10 votos a 2, com dois votos divergentes por alta de 0,25 ponto percentual.",
+    "Quase todos os dirigentes indicaram que novos aumentos nos juros serão necessários para puxar a inflação de volta à meta de 2%.",
+    "Dois participantes cogitaram um acréscimo superior a 0,25 ponto percentual no encontro de 8 e 9 de dezembro se os dados inflacionários forem ruins.",
+    "O PCE acumulado em 12 meses até setembro chegou a 3,6%, enquanto o núcleo ficou em 3,1%, pressionado por energia, tarifas e investimentos em IA.",
+    "O Fed apontou riscos financeiros na expansão da IA devido a financiamentos opacos, contratos fora do balanço e forte concentração em poucas empresas.",
+    "A economia dos EUA teve crescimento sólido no 3º trimestre de 2026, com desemprego de 4,2% em setembro e criação média de 50.000 vagas mensais."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/fed-alerta-para-divida-ligada-a-ia-e-propoe-novas-altas-de-juros/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/6c1563930f0d.webp"
   },
   {
    "titulo": "Senado rejeita dois dos cinco requerimentos para modificar proposta de ajuste fiscal",
    "topicos": [
-    "O Senado Federal rejeitou, nesta quarta-feira (18), os dois primeiros requerimentos de destaque para modificar a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva.",
-    "Os parlamentares ainda precisam analisar outros três requerimentos para conseguir concluir a votação completa da proposta de ajuste fiscal na Casa.",
-    "O primeiro destaque votado foi apresentado pelo Partido Liberal e pedia amplas modificações no projeto, mas acabou rejeitado pelo plenário da Casa.",
-    "O presidente do Senado, Davi Alcolumbre (União-AP), alterou a ordem dos destaques na sessão para obrigar o PL a buscar votos logo no início, quando o quórum estava incompleto.",
-    "Entidades como CNI, Fiesp e Fiemg criticaram a proposta e afirmaram que os grandes empresários vão arcar com a maior parte do custo do ajuste fiscal.",
-    "A Confederação Nacional de Municípios pediu a rejeição total do projeto e calculou que as prefeituras perderão mais de R$ 32 bilhões até 2030."
+    "Nesta quarta-feira (18), o Senado Federal rejeitou os dois primeiros requerimentos de destaque para alterar a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva.",
+    "Os senadores ainda precisam analisar outros três requerimentos para finalizar a votação da proposta de ajuste fiscal enviada pelo governo.",
+    "O primeiro destaque votado foi apresentado pelo Partido Liberal e pretendia fazer grandes mudanças na proposta oficial, mas acabou rejeitado pelo plenário.",
+    "O presidente do Senado, Davi Alcolumbre (União-AP), alterou a ordem das votações e obrigou o PL a buscar votos logo no início de uma sessão sem quórum completo.",
+    "Na terça-feira (17), o senador Alessandro Vieira (MDB-SE) apresentou o último destaque, enquanto parlamentares protocolaram mais sete novas emendas para análise do relator Eduardo Braga (MDB-AM).",
+    "Em quinta-feira (12) anterior, o plenário aprovou o texto-base do governo por 45 votos a 31 para conter despesas e aumentar a arrecadação, preservando políticas sociais.",
+    "Entidades como CNI, Fiesp, Fiemg e CNM criticaram o projeto, sendo que a Confederação Nacional de Municípios apontou que prefeituras perderão mais de R$ 32 bilhões até 2030."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/18/senado-comeca-a-votar-requerimentos-para-modificar-proposta-de-ajuste-fiscal-de-lula.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b9cd487ea88f.webp"
   },
   {
    "titulo": "Na FAO, Wellington Dias celebra avanços no combate à fome",
    "topicos": [
-    "O governo brasileiro participou de um encontro na sede da FAO, em Roma, na Itália, nesta quarta-feira (18), para celebrar avanços mundiais no combate à fome.",
-    "O ministro Wellington Dias destacou que o Brasil derrotou a fome duas vezes e que o combate ao problema depende de vontade política e urgência.",
-    "O evento marcou os dois anos da Aliança Global contra a Fome e a Pobreza, criada em 2024 na presidência brasileira do G20 e que hoje reúne 225 membros.",
-    "Foi lançado o relatório Race to 2030, que traz 146 ações executadas por 81 países desde julho de 2024 para assegurar proteção social e alimentação.",
-    "O Banco Mundial alcançou 234 milhões de pessoas adicionais com proteção social até junho de 2026, atingindo 47% da meta estabelecida para 2030.",
-    "A União Africana ampliou a alimentação escolar de 66 milhões para 87 milhões de crianças, e o BID aprovou cerca de US$ 10 bilhões de um total de US$ 25 bilhões previstos entre 2025 e 2030.",
-    "Dados da FAO mostram que a insegurança alimentar severa no Brasil despencou de 8,1% em 2022 para 0,6% em 2025, retirando 26 milhões de pessoas da fome."
+    "O governo brasileiro participou, nesta quarta‑feira (18), de encontro na sede da FAO, em Roma, Itália, onde o ministro Wellington Dias destacou avanços no combate à fome.",
+    "O evento celebrou os dois anos da Aliança Global contra a Fome e a Pobreza, criada em 2024 durante a presidência brasileira do G20 e liderada pelo presidente Luiz Inácio Lula da Silva, que hoje reúne 225 membros (países, organizações internacionais, instituições financeiras e sociedade civil).",
+    "Foi lançado o relatório “Race to 2030: Recent Progress Against Hunger and Poverty and Lessons for Acceleration”, que reúne 146 ações realizadas por 81 países desde julho de 2024 para garantir proteção social e alimentação.",
+    "Entre as ações, o Grupo do Banco Mundial alcançou 234 milhões de pessoas adicionais com proteção social até junho de 2026, representando 47 % da meta para 2030.",
+    "A União Africana ampliou a alimentação escolar de 66 milhões para 87 milhões de crianças, principalmente com recursos nacionais; a Indonésia passou de zero beneficiários em 2024 para 55 milhões em 2026.",
+    "O Brasil lançou um plano recorde de crédito à agricultura familiar de US$ 19 bilhões com taxas de juros concessionais; dados da FAO mostram que a insegurança alimentar severa no país caiu de 8,1 % em 2022 para 0,6 % em 2025, e a insegurança alimentar grave de 15,5 % para 3,2 % entre 2022 e 2024, tirando 26 milhões de pessoas da fome e atingindo 75,8 % dos domicílios com segurança alimentar."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/na-fao-wellington-dias-celebra-avancos-no-combate-fome",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/23fabc47e1f5.webp"
   },
   {
    "titulo": "Vivara inaugura loja “ícone” no Shopping JK Iguatemi",
    "topicos": [
-    "A Vivara abriu uma nova unidade de alto padrão no Shopping JK Iguatemi, localizado em São Paulo, com o objetivo de fortalecer sua atuação no mercado de luxo da capital paulista.",
-    "O novo ponto de venda adota o conceito arquitetônico chamado “de-novo”, desenvolvido pelo Estúdio Tupi para atualizar a identidade visual tradicional da joalheria brasileira.",
-    "A proposta do projeto busca misturar a história da marca com uma abordagem contemporânea de varejo, reinterpretando elementos visuais conhecidos da empresa.",
-    "O ambiente interno da loja recém-inaugurada combina revestimentos de pedra, marcenaria em madeira, balcões de mármore rosado e um piso com padronagem geométrica.",
-    "Segundo Marina Kaufman, presidente do Conselho de Administração da Vivara, o espaço foi planejado para aprimorar a experiência de compra e estreitar o vínculo com os clientes."
+    "A Vivara inaugurou uma nova loja no Shopping JK Iguatemi, localizado em São Paulo, fortalecendo sua atuação em um endereço de luxo da capital paulista.",
+    "O novo espaço marca a renovação da experiência de compra da marca por meio de um projeto que une a tradição da joalheria brasileira a uma visão contemporânea.",
+    "A arquitetura do estabelecimento foi desenvolvida pelo Estúdio Tupi com base no conceito \"de-novo\", que reorganiza elementos visuais tradicionais em novas composições.",
+    "Segundo Marina Kaufman, presidente do Conselho de Administração da Vivara, a loja busca expressar a essência da marca de forma inovadora e estreitar a relação com os clientes.",
+    "O ambiente interno combina revestimentos de pedra, marcenaria em madeira, balcões de mármore rosado e um piso geométrico para equilibrar sofisticação e modernidade.",
+    "A estrutura da loja integra vitrines, expositores e áreas de atendimento estruturados para oferecer uma experiência de compra individualizada e acolhedora."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/noticias/vivara-inaugura-loja-icone-no-shopping-jk-iguatemi/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7af66ccc6ad8.webp"
   },
   {
    "titulo": "Justiça suspende licitação que previa gasto de R$ 6 milhões com iPhones e outros celulares para parlamentares e servidores do Senado",
    "topicos": [
-    "A Justiça Federal suspendeu, nesta quarta-feira (18), uma licitação de R$ 6 milhões do Senado Federal voltada à telefonia e fornecimento de celulares para parlamentares e servidores.",
-    "A decisão da 18ª Vara Federal Cível do Distrito Federal atendeu a uma ação popular ajuizada pelo deputado Nikolas Ferreira (PL-MG).",
-    "O edital previa a entrega de 95 iPhones 18 Pro e 330 smartphones de outros modelos em regime de empréstimo (comodato), com troca obrigatória a cada 2 anos.",
-    "O juiz apontou ilegalidades como a exigência de marca específica sem justificativa e a aquisição de bens de luxo acima da necessidade da administração pública.",
-    "A Justiça proibiu atos de homologação, adjudicação e assinatura do contrato, determinando suspensão imediata caso já estivesse firmado.",
-    "Foi estabelecido um prazo de 5 dias para o Senado comprovar o cumprimento da ordem, sob pena de multa diária de R$ 50 mil.",
-    "O Senado declarou que vai recorrer da decisão judicial, sustentando que o certame seguiu a Lei nº 14.133/2021 e visava garantir conectividade institucional."
+    "A Justiça Federal suspendeu nesta quarta-feira (18) uma licitação de R$ 6 milhões do Senado Federal voltada para serviços de telefonia, incluindo iPhones para parlamentares e servidores.",
+    "A decisão da 18ª Vara Federal Cível do Distrito Federal atendeu a uma ação popular movida pelo deputado Nikolas Ferreira (PL-MG).",
+    "A ordem proíbe homologação, adjudicação e assinatura do contrato, determinando a suspensão imediata caso o acordo já tenha sido firmado.",
+    "O Senado tem prazo de 5 dias para comprovar o cumprimento da decisão judicial, sob pena de multa diária de R$ 50 mil.",
+    "A licitação previa 95 iPhones 18 Pro e 330 smartphones de outros modelos em comodato por dois anos, além de chips, modems, ligações e roaming.",
+    "O juiz apontou ilegalidades como a indicação indevida de marca sem justificativa e a vedação legal à compra de artigos de luxo."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/justica-suspende-licitacao-que-previa-gasto-de-r-6-milhoes-com-celulares-para-parlamentares-e-servidores-do-senado.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b36202746c97.webp"
   },
   {
    "titulo": "Novo SAC na véspera da Black Friday: o que o varejo precisa ajustar já",
    "topicos": [
-    "O Decreto nº 13.135/2026, que reescreve as regras do Serviço de Atendimento ao Consumidor, entrou em vigor em 2 de novembro após ser publicado no Diário Oficial em 13 de outubro.",
-    "A norma exige atendimento humano obrigatório das 8h às 20h, inclusive aos sábados, domingos e feriados, no telefone e nos canais digitais, com ao menos um canal eletrônico funcionando 24 horas.",
-    "O atendimento telefônico para quem pede uma pessoa deve ocorrer em até 20 segundos em pelo menos 80% dos casos, e em até 5 minutos nos demais, com retorno obrigatório em 5 minutos se a ligação cair.",
-    "Menus eletrônicos e URA ficam limitados a cinco níveis, sem exigir dados como CPF antes do contato humano, e a publicidade em qualquer etapa do atendimento foi totalmente proibida.",
-    "O cancelamento deve ser oferecido pelo mesmo canal da contratação com efeito imediato, enquanto reclamações comuns exigem resposta em até sete dias corridos e cobranças indevidas em até 48 horas.",
-    "O prazo de conservação do histórico de atendimento caiu de dois anos para seis meses, e o das gravações para 90 dias, mas especialistas alertam para o risco de apagar provas diante do prazo prescricional de cinco anos."
+    "O Decreto nº 13.135/2026, conhecido como a nova Lei do SAC, entrou em vigor em 2 de novembro após ser publicado no Diário Oficial em 13 de outubro, sem regra de transição para o mercado.",
+    "A norma exige atendimento humano obrigatório das 8h às 20h, inclusive aos sábados, domingos e feriados, em telefones e canais digitais, além de um canal eletrônico funcionando 24 horas.",
+    "Os menus de URA foram limitados a cinco níveis, proibindo a exigência de dados antes do contato humano, barramentos de canais e qualquer tipo de propaganda durante a espera do consumidor.",
+    "No telefone, 80% dos casos devem ser atendidos em até 20 segundos, e os demais em até 5 minutos. Se a ligação cair, a empresa deve retornar em até 5 minutos com o mesmo protocolo.",
+    "O cancelamento deve ser feito no mesmo canal de contratação com efeito imediato, e reclamações comuns exigem resposta clara em até sete dias corridos, enquanto cobranças indevidas pedem ação em até 48 horas.",
+    "O histórico de atendimento teve o prazo de guarda reduzido de dois anos para seis meses e as gravações para 90 dias, mas especialistas alertam para o risco diante do prazo de cinco anos do Código de Defesa do Consumidor."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/artigos/novo-sac-na-vespera-da-black-friday-o-que-o-varejo-precisa-ajustar-ja/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2be01aefebae.webp"
   },
   {
    "titulo": "Projeto prevê parcelamento de dívidas e perdão de débitos para entidades sem fins lucrativos",
    "topicos": [
-    "O Projeto de Lei 3088/26 estabelece o Programa Nacional de Regularização e Fortalecimento das Entidades do Terceiro Setor, conhecido como Refis Social do Terceiro Setor, para permitir a quitação de débitos federais.",
-    "A proposta abrange associações civis, fundações, organizações religiosas, entidades filantrópicas e instituições sem fins lucrativos das áreas cultural, esportiva, educacional, ambiental, entre outras, com dívidas vencidas até a futura lei.",
-    "O pagamento à vista prevê descontos de até 100% em juros e multas. Para o parcelamento mensal em até 60 vezes, a redução é de até 90%; em até 120 vezes, de até 80%; em até 180 vezes, de até 70%; e em até 240 vezes, de até 50%.",
-    "O texto permite abater o saldo devedor com precatórios, créditos tributários e outros créditos reconhecidos pela União, além de viabilizar acordos baseados na capacidade econômica e no impacto social da instituição.",
-    "O projeto prevê a remissão e o perdão total ou parcial de dívidas para entidades ativas há pelo menos 3 anos, que prestam serviços gratuitos, comprovem incapacidade financeira e risco de encerramento, desde que sem fraudes.",
-    "Terão prioridade organizações que atuam em saúde, educação, assistência social, combate à fome, proteção de idosos, crianças e pessoas com deficiência, cultura e esporte social, segundo a autora deputada Renata Abreu (Pode-SP).",
-    "A proposta tramita na Câmara dos Deputados para análise nas comissões de Previdência, Finanças e Tributação, e Constituição e Justiça, devendo depois passar pelo Senado para virar lei."
+    "O Projeto de Lei 3088/26 cria o Refis Social do Terceiro Setor para permitir o parcelamento de dívidas e o perdão de débitos de entidades sem fins lucrativos no Brasil.",
+    "Podem participar associações civis, fundações privadas, organizações religiosas, entidades beneficentes, filantrópicas e organizações culturais, esportivas, ambientais e educacionais.",
+    "O programa abrange débitos federais, previdenciários, dívida ativa, execuções fiscais e multas administrativas vencidos até a data de publicação da futura lei.",
+    "O pagamento à vista oferece até 100% de desconto em juros, multas e encargos, enquanto o parcelamento pode ser feito em até 60 meses (com 90% de desconto), 120 meses (80%), 180 meses (70%) ou 240 meses (50%).",
+    "O texto permite quitar o saldo devedor com créditos tributários e precatórios, além de prever acordos que avaliam a capacidade econômica e o impacto social das instituições.",
+    "O perdão total ou parcial de dívidas exige atuação regular há pelo menos três anos, prestação de serviços gratuitos, incapacidade financeira e risco de encerramento, sem histórico de fraude.",
+    "A proposta foi apresentada pela deputada Renata Abreu (Pode-SP) e passará pelas comissões da Câmara antes de seguir para análise no Senado."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1311401-projeto-preve-parcelamento-de-dividas-e-perdao-de-debitos-para-entidades-sem-fins-lucrativos",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/ac35da424679.webp"
   },
   {
    "titulo": "VÍDEO: mais de 100 robôs humanoides fazem coreografia na cidade chinesa onde acontece cúpula mundial",
    "topicos": [
-    "Mais de 100 robôs humanoides realizaram uma dança coletiva em uma praça central de Shenzhen, na China, na terça-feira (17), atraindo moradores e turistas.",
-    "O evento integrou as atrações tecnológicas da cidade durante a realização da cúpula da Cooperação Econômica Ásia-Pacífico (APEC), que reúne líderes mundiais.",
-    "O público acompanhou lutas em gaiolas de metal, demonstrações de artes marciais, robôs em formato de bebês e modelos humanoides com até dois metros de altura.",
-    "Visitantes também viram um braço robótico servindo sorvete, ilustrando a aplicação prática da automação em serviços cotidianos.",
-    "Moradores e turistas destacaram o orgulho e a velocidade do desenvolvimento tecnológico chinês no setor de alta tecnologia durante a exposição."
+    "Mais de 100 robôs humanoides realizaram uma dança coletiva em uma praça no centro de Shenzhen, na China, na terça-feira (17). O espetáculo integrou a programação tecnológica paralela à cúpula da Cooperação Econômica Ásia-Pacífico (APEC), que reúne líderes mundiais na cidade.",
+    "O público acompanhou demonstrações de artes marciais e lutas entre robôs dentro de uma gaiola de metal. Na Galaxy Robotics 6S Base, crianças interagiram com robôs em formato de bebê e famílias fotografaram modelos que alcançam até dois metros de altura.",
+    "Um braço robótico demonstrou o uso da automação em serviços cotidianos ao servir sorvete aos visitantes. Moradores e turistas elogiaram a velocidade dos avanços tecnológicos e o nível de desenvolvimento robótico na região.",
+    "Shenzhen, situada no sul da China, funciona como um polo tecnológico nacional e abriga diversas empresas e centros voltados para a pesquisa e o desenvolvimento de automação e robótica."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/video-mais-de-100-robos-humanoides-fazem-coreografia-na-cidade-chinesa-onde-acontece-cupula-mundial.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/76ba1b4487e9.webp"
   },
   {
    "titulo": "CTFC vai apurar possíveis fraudes na Previdência e no crédito consignado",
    "topicos": [
-    "A Comissão de Fiscalização e Controle (CTFC) aprovou em 18/11/2026 a proposta PFS 2/2026, do senador Marcio Bittar, para investigar fraudes na Previdência e no crédito consignado com o apoio do TCU.",
-    "A apuração, divulgada pela Agência Senado, focará em desvios de recursos, concessões irregulares de benefícios, fraudes em cadastros, intermediação indevida e movimentações financeiras atípicas.",
-    "O colegiado poderá requisitar dados ao INSS, Dataprev, Ministério da Previdência, Polícia Federal, CGU, MPF, AGU, Coaf e aproveitar documentos da CPMI do INSS.",
-    "A fiscalização também prevê acompanhar o ressarcimento aos prejudicados, bloquear descontos não autorizados, revisar acordos e suspender entidades sob suspeita.",
-    "A CTFC aprovou ainda um pedido para o TCU auditar o licenciamento ambiental do Porto Piauí, em Luís Correia (PI), conduzido pelo Ibama.",
-    "Outro requerimento aprovado solicita esclarecimentos ao TCU sobre a contagem do tempo de serviço de servidores dos ex-territórios para fins de aposentadoria com base na Lei 13.681, de 2018."
+    "A Comissão de Fiscalização e Controle (CTFC) aprovou em 18/11/2026 uma proposta de fiscalização para investigar fraudes estruturadas na Previdência e no crédito consignado.",
+    "A iniciativa (PFS 2/2026), apresentada pelo senador Marcio Bittar (PL-AC), contará com o auxílio do Tribunal de Contas da União (TCU).",
+    "Serão apurados desvios de recursos, concessões irregulares, manipulação de cadastros, intermediação indevida e movimentações financeiras atípicas de operadores privados.",
+    "A CTFC poderá pedir dados ao INSS, Dataprev, Ministério da Previdência, Polícia Federal, CGU, MPF, AGU e Coaf, além de acompanhar o ressarcimento às vítimas.",
+    "O colegiado também aprovou requisições para o TCU auditar o licenciamento ambiental do Porto Piauí e esclarecer a contagem de tempo de serviço de servidores dos ex-territórios."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/ctfc-vai-apurar-possiveis-fraudes-na-previdencia-e-no-credito-consignado",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/db0bed131c3b.webp"
   },
   {
    "titulo": "Petróleo fecha em queda em meio à alta do dólar e recuperação da oferta",
    "topicos": [
-    "Os preços do petróleo fecharam em baixa nesta terça-feira (18), pressionados pelas perspectivas de maior oferta e pela forte valorização do dólar no mercado internacional.",
-    "Negociado na Intercontinental Exchange de Londres (ICE), o contrato do petróleo Brent para janeiro recuou 1,27%, encerrando a sessão cotado a US$ 91,95 o barril.",
-    "O petróleo WTI para o mesmo mês negociado na Nymex registrou queda de 2,76%, fechando o dia a US$ 82,31 o barril.",
-    "A produção e as exportações russas avançaram, com os embarques externos atingindo o patamar mais elevado desde o final de julho, segundo o ING.",
-    "A Opep+ ampliou sua produção pela segunda vez consecutiva, enquanto o Departamento de Energia (DoE) dos EUA reportou um crescimento de 3,38 milhões de barris nos estoques semanais.",
-    "A alta da moeda norte-americana, impulsionada pela expectativa de taxas de juros elevadas por mais tempo nos EUA, contribuiu para a desvalorização da commodity."
+    "Na terça-feira (18), os contratos futuros do petróleo registraram queda no mercado internacional devido à perspectiva de aumento na oferta da commodity e à valorização do dólar.",
+    "O petróleo Brent para janeiro, negociado na ICE de Londres, recuou 1,27% e fechou cotado a US$ 91,95 o barril.",
+    "O petróleo WTI para janeiro, negociado na Nymex, registrou queda de 2,76%, encerrando o dia a US$ 82,31 o barril.",
+    "A oferta da commodity foi impulsionada pelo avanço na produção e nas exportações da Rússia, que atingiram o maior patamar desde o final de julho, segundo o ING.",
+    "A Opep+ ampliou sua produção pela segunda vez consecutiva, enquanto o Departamento de Energia dos EUA informou um crescimento de 3,38 milhões de barris nos estoques semanais.",
+    "O encarecimento do dólar, impulsionado pela expectativa de manutenção de juros elevados por mais tempo nos Estados Unidos, também pressionou os preços do petróleo para baixo."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-em-meio-a-alta-do-dolar-e-recuperacao-da-oferta-davs/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6d369e356008.webp"
   },
   {
    "titulo": "Três petroleiros pegam fogo após atingirem minas navais a leste do Estreito de Ormuz",
    "topicos": [
-    "Na tarde desta quarta-feira (18), três navios petroleiros pegaram fogo e ficaram inoperantes após colidirem com minas navais a leste do Estreito de Ormuz, conforme dados da Marinha do Irã.",
-    "Um evento semelhante ocorreu na terça-feira (17), quando outro petroleiro sofreu danos graves e incêndio ao atingir uma mina em uma área restrita da mesma região leste, segundo o Exército iraniano.",
-    "Conforme a UKMTO, o ocorrido se deu ao norte de Khasab, em Omã, com a tripulação estando desaparecida depois de um incêndio a bordo.",
-    "A embarcação atingida também havia sido atacada na segunda-feira (16), ficando inoperante devido a chamas na casa de máquinas, segundo agência de segurança marítima citada pela UKMTO.",
-    "Os ministros das Relações Exteriores do Irã e de Omã se reuniram na terça-feira (17) para debater a segurança dos corredores marítimos, a proteção do comércio global e evitar o agravamento da crise."
+    "Na tarde de quarta‑feira (18), a Marinha iraniana informou que três petroleiros incendiaram‑se e ficaram inoperantes após detonarem minas navais enquanto navegavam a leste do Estreito de Ormuz; a informação foi divulgada pela imprensa do Irã.",
+    "Na terça‑feira (17), outro petroleiro sofreu graves danos e pegou fogo ao atingir uma mina em zona restrita na parte leste do estreito, conforme comunicado do Exército iraniano.",
+    "Segundo a agência britânica UKMTO, o incidente de 18 ocorreu ao norte da cidade portuária de Khasab, em Omã, e a tripulação está desaparecida após o incêndio a bordo.",
+    "A UKMTO acrescentou que a mesma embarcação já havia sido alvo de ataque na segunda‑feira (16), ficando inoperante por causa de um incêndio na casa de máquinas.",
+    "A navegação na região foi tema de reunião entre os chanceleres do Irã e de Omã na terça‑feira, com o ministro iraniano Abbas Araqchi em visita ao país vizinho para discutir a proteção dos corredores marítimos e a garantia do fluxo normal do comércio global.",
+    "Após a reunião, porta‑voz do Ministério das Relações Exteriores do Irã usou o X para refutar reportagem da CNN que alegava plano iraniano de detonar bomba suja em Washington, classificando a afirmação como infundada."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/petroleiros-pegam-fogo-minas-navais-estreito-ormuz.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/636a5e32c407.webp"
   },
   {
    "titulo": "Mercado exige o maior prêmio contra inflação desde Dilma e cobra mais para financiar o Brasil",
    "topicos": [
     "A inflação implícita de um ano atingiu 7,76%, o maior patamar desde outubro de 2015, quando alcançou 9,22%, segundo relatório divulgado nesta terça-feira (17) pela Empiricus Research.",
-    "O indicador reflete a piora nas expectativas para os preços e para a atividade econômica brasileira no próximo ano, conforme aponta a analista de renda fixa Lais Costa.",
-    "O Boletim Focus elevou a projeção para o IPCA de 2027 para 5% e reduziu a estimativa de crescimento do PIB para 1,02%, acumulando queda de cerca de 80 pontos-base.",
-    "A alta da inflação implícita demonstra que os investidores exigem maior proteção contra riscos inflacionários devido à deterioração fiscal e à pressão cambial.",
-    "O mercado financeiro passou a precificar mais de 50% de chance de uma alta de 0,25 ponto percentual na taxa Selic na reunião do Copom de dezembro.",
-    "A Empiricus avalia que desvalorizações do real e preocupações fiscais podem forçar o Banco Central a retomar o aperto monetário no início de 2027.",
-    "Diante da volatilidade, a Empiricus passou a recomendar títulos indexados à inflação com prazos de vencimento mais curtos para garantir proteção e taxas reais elevadas."
+    "O indicador reflete a piora nas expectativas para os preços e para a atividade econômica brasileira no próximo ano, conforme apontado pela analista de renda fixa Lais Costa.",
+    "O Relatório Focus elevou a projeção para o IPCA de 2027 a 5%, após cinco semanas de revisões para cima, enquanto há um mês a estimativa estava em 4,32%.",
+    "A projeção para o crescimento do PIB do próximo ano caiu para 1,02%, acumulando uma redução de cerca de 80 pontos-base desde o pico registrado ao longo de 2026.",
+    "O mercado financeiro passou a precificar mais de 50% de chance de uma alta de 0,25 ponto percentual na taxa Selic durante a reunião do Copom marcada para dezembro.",
+    "A Empiricus recomenda aos investidores a aplicação em títulos indexados à inflação com prazos mais curtos, buscando proteção, taxas reais elevadas e menor exposição a riscos de volatilidade."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/mercado-exige-o-maior-premio-contra-inflacao-desde-dilma-e-cobra-mais-para-financiar-o-brasil/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/fba636601360.webp"
   },
   {
    "titulo": "CCJ aprova punição a fraude financeira para evitar ‘caso Americanas’",
    "topicos": [
-    "A Comissão de Constituição e Justiça do Senado aprovou, nesta quarta-feira, 18, o Projeto de Lei 2.091/2023 por 15 votos a 0, com o objetivo de punir fraudes contábeis e evitar escândalos como o da Lojas Americanas.",
-    "O relator Oriovisto Guimarães alterou o texto original da senadora Augusta Brito para manter apenas a tipificação de fraude contábil, eliminando quatro dos cinco novos crimes propostos.",
-    "Quem fraudar a contabilidade ou entregar documentos falsos a auditorias independentes enfrentará pena de dois a seis anos de reclusão, além de multa.",
-    "A punição poderá ser aumentada da metade até o dobro conforme os prejuízos, a vantagem ilícita, o abalo ao sistema financeiro ou o número de vítimas, podendo triplicar em caso de reincidência.",
-    "Condenados poderão ficar inabilitados para a atividade empresarial e impedidos de ocupar cargos de gestão por até cinco anos após o trânsito em julgado.",
-    "A proposta altera a Lei dos Crimes contra o Sistema Financeiro Nacional, definindo pena de dois a seis anos e multa para quem enganar acionistas ou autoridades sobre a situação patrimonial.",
-    "O projeto ainda precisa passar por uma votação suplementar no Senado antes de ser encaminhado para análise da Câmara dos Deputados."
+    "A Comissão de Constituição e Justiça do Senado aprovou, nesta quarta-feira, 18, por 15 a 0, o Projeto de Lei 2.091/2023, que visa punir fraudes contábeis no mercado de capitais para prevenir escândalos como o das Lojas Americanas.",
+    "O relator Oriovisto Guimarães modificou o projeto original da senadora Augusta Brito, eliminando quatro dos cinco novos crimes propostos e preservando apenas a tipificação específica para fraude contábil.",
+    "A nova infração penal abrange quem adulterar a contabilidade ou entregar documentos falsos a auditores independentes, com pena de reclusão de dois a seis anos e aplicação de multa.",
+    "O projeto prevê o acréscimo da penalidade de metade até o dobro conforme o tamanho dos danos, o ganho ilícito, a pluralidade de vítimas ou o impacto na confiança do sistema financeiro, podendo triplicar em caso de reincidência.",
+    "Condenados poderão ser inabilitados de gerir negócios, atuar em atividade empresarial e ocupar cargos de direção ou em conselhos fiscais e de administração por um período de até cinco anos após o trânsito em julgado.",
+    "O texto atualiza a legislação de crimes contra o sistema financeiro para punir com dois a seis anos de reclusão e multa quem enganar investidores, acionistas ou órgãos públicos sobre a situação financeira da sociedade."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/economia/ccj-aprova-punicao-a-fraude-financeira-para-evitar-caso-americanas/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/6e753f2d2019.webp"
   },
   {
    "titulo": "Trump terá reunião a sós com Putin na China, diz agência",
    "topicos": [
-    "Os presidentes Donald Trump, dos EUA, e Vladimir Putin, da Rússia, realizarão uma reunião a sós na China, conforme revelado nesta quarta-feira (18) por uma fonte do governo norte-americano à agência Reuters.",
-    "O trio de líderes, formado por Trump, Putin e o presidente chinês Xi Jinping, tem encontro trilateral marcado para esta quinta-feira (19), sendo considerado um dos principais eventos geopolíticos do ano.",
-    "A pauta oficial do encontro bilateral entre Trump e Putin não foi especificada, mas ambos mantêm conversas recentes a respeito do encerramento do conflito na Ucrânia.",
-    "Donald Trump desembarcou no aeroporto de Shenzhen por volta das 6h do horário de Brasília nesta quarta-feira (18), vindo de Manila, capital das Filipinas, sendo recebido com festa pelo presidente Xi Jinping."
+    "Os presidentes dos EUA, Donald Trump, e da Rússia, Vladimir Putin, farão uma reunião a sós na China, conforme revelado por uma fonte do governo americano à agência Reuters nesta quarta-feira (18).",
+    "Os líderes estão no país asiático para a cúpula da Cooperação Econômica Ásia-Pacífico (APEC) e também participarão de uma reunião trilateral com o presidente chinês, Xi Jinping, marcada para quinta-feira (19).",
+    "Donald Trump desembarcou no aeroporto de Shenzhen por volta das 6h do horário de Brasília nesta quarta-feira (18), vindo de Manila, e foi recebido por Xi Jinping com festa e um abraço.",
+    "Durante a cúpula da APEC, Xi prometeu combater o protecionismo comercial e defender o comércio livre e aberto, enquanto Putin criticou as sanções ocidentais impostas ao seu país.",
+    "A pauta da cúpula inclui discussões sobre o conflito na Ucrânia, inteligência artificial, comércio, armas nucleares e a guerra dos EUA no Irã, gerando apreensão em líderes de economias menores."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-tera-reuniao-a-sos-com-putin-na-china.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e4c467889435.webp"
   },
   {
    "titulo": "Vazamento de documentos expõe relações do Deutsche Bank com Epstein, Trump e oligarcas russos",
    "topicos": [
-    "Uma investigação jornalística baseada em milhões de documentos vazados revelou na terça-feira (17) que o Deutsche Bank priorizou interesses comerciais sobre alertas internos em operações com Jeffrey Epstein, Donald Trump e oligarcas russos.",
-    "O trabalho investigativo foi feito por mais de 200 jornalistas de veículos como Financial Times, Der Spiegel, Le Monde, The New York Times, elDiario.es e ZDF, a partir de dados fornecidos por dois denunciantes anônimos.",
-    "O banco acumulou sanções históricas por irregularidades, incluindo multas de US$ 7,2 bilhões em 2017 por hipotecas subprime e US$ 2,5 bilhões em 2015 pela manipulação da taxa Libor.",
-    "A instituição afirmou que parte dos fatos ocorreu há quase vinte anos, destacando que entre 2019 e 2025 investiu € 7 bilhões para reforçar seus controles e que hoje registra lucros recordes.",
-    "Documentos indicam que o CEO Christian Sewing participou de um grupo que planejava ampliar receitas com clientes russos ricos antes de 2020, ignorando riscos de lavagem de dinheiro.",
-    "Em 2017, um funcionário enviou por engano documentos fiscais de 1.586 contas, incluindo três ligadas a Donald Trump, período em que o político devia cerca de US$ 331 milhões ao banco após sua eleição em 2016.",
-    "A apuração apontou operações de cerca de US$ 600 milhões com Jeffrey Epstein, além de transações envolvendo o envio de armas para zonas de conflito e práticas contábeis questionáveis."
+    "Uma investigação jornalística divulgada na terça-feira (17) revelou que o Deutsche Bank priorizou lucros sobre alertas internos em operações com Jeffrey Epstein, Donald Trump e oligarcas russos.",
+    "O trabalho chamado \"Inside Deutsche Bank\" envolveu mais de 200 jornalistas de um consórcio internacional com veículos como Financial Times, Der Spiegel, Le Monde e The New York Times.",
+    "O banco acumulou multas históricas, incluindo US$ 7,2 bilhões em 2017 por hipotecas subprime e US$ 2,5 bilhões em 2015 por manipular a taxa Libor, além de lidar com fluxos de risco e sonegadores.",
+    "Entre os dados vazados, um erro de um funcionário em 2017 expôs documentos fiscais de 1.586 contas, sendo três ligadas a Donald Trump, a quem o banco avaliou riscos reputacionais em 2016 com uma dívida de US$ 331 milhões.",
+    "A instituição financeira movimentou cerca de US$ 600 milhões com Jeffrey Epstein, além de realizar operações com oligarcas russos e transações associadas ao envio de armas para regiões de conflito.",
+    "O Deutsche Bank informou que os episódios ocorreram há quase duas décadas e destacou ter investido € 7 bilhões entre 2019 e 2025 para aprimorar controles, resultando em lucros recordes e novo perfil corporativo."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/18/vazamento-de-documentos-expoe-relacoes-do-deutsche-bank-com-epstein-trump-e-oligarcas-russos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/44fa09f05a4c.webp"
   },
   {
    "titulo": "Receita: organização criminosa do ramo das bets movimentou R$ 11 bi em 2025",
    "topicos": [
     "A Operação Cash Out investigou um grupo empresarial do setor de apostas online, sediado em Curaçao, que movimentou aproximadamente R$ 11 bilhões durante o exercício de 2025.",
-    "A organização criminosa utilizava empresas laranjas do setor de eventos, beneficiadas pela isenção de tributos federais do Perse, para lavar o dinheiro ilícito.",
-    "O esquema de ocultação de recursos contava com operações de câmbio, simulação de remessas e o uso de apostadores fictícios para esconder a origem do capital.",
-    "Segundo o secretário especial da Receita Federal, Robinson Barreirinhas, o grupo acumulava valores de forma irregular para pagar a outorga de R$ 30 milhões exigida para a regularização.",
-    "O dinheiro ilícito, após ser enviado ao exterior e retornar ao Brasil, era empregado no pagamento da outorga legal e no patrocínio de clubes esportivos, programas de TV e figuras da mídia."
+    "A investigação apontou que a organização utilizava empresas laranjas do setor de eventos, beneficiadas pela isenção de tributos federais do Perse, para ocultar dinheiro ilícito.",
+    "Segundo o secretário especial da Receita Federal, Robinson Barreirinhas, o esquema ilegal recorria a evasão de divisas, lavagem de dinheiro, operações de câmbio simuladas e apostadores fictícios.",
+    "O Fisco descobriu que o grupo criminoso acumulava recursos de forma irregular para conseguir pagar a taxa de outorga de R$ 30 milhões exigida para a regularização das atividades.",
+    "O secretário informou que o esquema contava com uma casa de apostas fortemente infiltrada no esporte brasileiro, com patrocínios a clubes, programas de TV e figuras da mídia nacional.",
+    "Os recursos ilícitos enviados ao exterior retornavam ao Brasil e, conforme a Receita Federal, eram empregados na quitação da outorga necessária para a operação legal das bets."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/economia/receita-organizacao-criminosa-do-ramo-das-bets-movimentou-r-11-bi-em-2025/",
-   "categoria": "Economia"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/60f963da701d.webp"
   },
   {
    "titulo": "Toyota do Brasil apresenta a Corolla Deck; picape tem motor híbrido flex e chega em maio de 2027",
    "topicos": [
-    "A Toyota anunciou em uma quarta-feira (18) a Corolla Deck, nova picape híbrida flex da família Corolla voltada exclusivamente para 23 países da América Latina.",
-    "A fabricação do modelo começará no primeiro semestre de 2027 na nova unidade de Sorocaba, localizada no estado de São Paulo, e a estreia está programada para maio de 2027.",
-    "A engenharia nacional participou do projeto, que visa unir o conforto e a dirigibilidade de um utilitário esportivo com uma caçamba de tampa amortecida e facilidade de carga.",
-    "A nova fábrica Sorocaba 2, inaugurada durante o anúncio, tem 160 mil m² e integra um aporte financeiro de R$ 11,5 bilhões divulgado pela montadora em 2024.",
-    "A planta inicia as atividades com capacidade para 100 mil veículos anuais, elevando a capacidade total da empresa no Brasil para 270 mil unidades por ano.",
-    "A operação fabril gera inicialmente 1.700 postos de trabalho diretos, com meta de alcançar 2.000 funcionários até 2030, sendo 50% das vagas ocupadas por mulheres.",
-    "A nova unidade fabril utiliza robôs em 99,5% da soldagem, consome 52% menos água e emite cerca de 42% menos gás carbônico por veículo do que a antiga planta de Indaiatuba."
+    "A Toyota anunciou nesta quarta-feira (18) a Corolla Deck, uma picape híbrida flex desenvolvida com participação da engenharia local para oferecer conforto de SUV.",
+    "O modelo será fabricado na nova planta Sorocaba (SP), com lançamento comercial programado para maio de 2027 e vendas exclusivas para 23 países latino-americanos.",
+    "A nova unidade Sorocaba 2 tem capacidade inicial de 100 mil veículos por ano, elevando a capacidade total da Toyota no Brasil para 270 mil unidades anuais.",
+    "A fábrica possui 160 mil m² de área construída e integra o ciclo de investimentos de R$ 11,5 bilhões anunciado pela montadora em 2024.",
+    "A operação da nova unidade começa com 1.700 vagas de emprego diretas, com meta de alcançar 2.000 postos até 2030, sendo 50% das contratações ocupadas por mulheres.",
+    "Robôs realizam 99,5% das operações de soldagem na nova linha, que consome 52% menos água e emite cerca de 42% menos CO₂ por veículo que a unidade de Indaiatuba."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-mostra-novo-produto.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/659cefd44b28.webp"
   },
   {
    "titulo": "Klabin (KLBN11): impacto de acidente pode afetar até 7% do Ebitda, mas é administrável, diz Safra",
    "topicos": [
-    "A Klabin suspendeu nesta quarta-feira (18) as operações da unidade de Otacílio Costa (SC) após um incidente em sua caldeira de recuperação. Dez colaboradores foram encaminhados a um hospital da região, mas a empresa ainda não detalhou a extensão dos danos ou o tempo de paralisação.",
-    "A fábrica paralisada tem capacidade para produzir cerca de 350 mil toneladas anuais de papel kraft, o que representa cerca de 19% da capacidade total de papel da companhia, conforme dados do Safra.",
-    "Em um cenário conservador de paralisação prolongada, o Safra projeta um impacto anual de aproximadamente R$ 540 milhões no Ebitda, equivalente a cerca de 7% da projeção para a Klabin.",
-    "O banco aponta que a compra de celulose de terceiros, com custo cerca de 30% maior que o próprio, reduziria o impacto anual para cerca de R$ 440 milhões.",
-    "A venda de madeira não utilizada pela planta (cerca de 1,3 milhão de metros cúbicos anuais a R$ 120 o metro cúbico) pode reduzir o impacto líquido no Ebitda para cerca de R$ 285 milhões (4%).",
-    "A reconstrução da caldeira exigiria investimentos entre R$ 1,5 bilhão e R$ 1,7 bilhão em cerca de dois anos, elevando os aportes da companhia em 2027 e 2028 acima das estimativas atuais."
+    "A Klabin suspendeu nesta quarta-feira (18) as operações da unidade de Otacílio Costa (SC) após um incidente em sua caldeira de recuperação, tendo encaminhado dez colaboradores a um hospital local.",
+    "A planta possui capacidade para produzir cerca de 350 mil toneladas anuais de papel kraft, representando aproximadamente 19% da capacidade total de papel da companhia.",
+    "O banco Safra avalia que o impacto do acidente é negativo, mas administrável, embora ainda seja cedo para mensurar todas as consequências e o tempo de paralisação.",
+    "Em um cenário conservador com paralisação prolongada, o Safra estima um impacto anual de cerca de R$ 540 milhões no Ebitda, equivalente a cerca de 7% do indicador."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/klabin-klbn11-impacto-de-acidente-pode-variar-entre-4-e-7-do-ebitda-mas-e-administravel-diz-safra-pads/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/f207d7a4f000.webp"
   },
   {
    "titulo": "O teste inovador em que paciente engole esponja para detectar câncer",
    "topicos": [
-    "Novas diretrizes preliminares recomendam ao NHS, o sistema de saúde britânico, a expansão de um teste rápido com uma \"esponja no esôfago\" para detectar câncer em pessoas com indigestão intensa e persistente.",
-    "O procedimento dura poucos minutos em consultórios de clínicos gerais e é menos invasivo que a endoscopia hospitalar, consistindo em engolir uma cápsula solúvel com uma esponja presa a um fio que recolhe células do esôfago.",
-    "No Brasil, a tecnologia ainda não tem previsão de chegada nem na rede pública nem no mercado privado de saúde, e as recomendações finais do Nice serão publicadas no início do próximo ano.",
-    "Aproximadamente entre um e dois adultos a cada cem possuem o esôfago de Barrett, condição que altera as células e pode resultar de azia ou refluxo ácido prolongado.",
-    "Pacientes com resultados negativos no teste com esponja precisarão continuar sendo monitorados a longo prazo, visto que nenhum exame diagnóstico identifica todos os casos."
+    "Novas diretrizes preliminares recomendam ao NHS, sistema de saúde pública do Reino Unido, a oferta de testes rápidos de câncer de esôfago com uma esponja para pessoas com indigestão persistente.",
+    "O exame consiste em engolir uma cápsula solúvel presa a um fio que libera uma esponja no estômago; o médico puxa o fio pela boca para recolher células do esôfago.",
+    "O procedimento dura poucos minutos em consultórios de clínicos gerais, sendo menos invasivo que a endoscopia hospitalar e servindo para detectar câncer e esôfago de Barrett.",
+    "Estima-se que de um a dois adultos a cada cem tenham o esôfago de Barrett, condição associada à azia ou refluxo ácido que eleva o risco de câncer a longo prazo.",
+    "As recomendações finais do Instituto Nacional de Excelência em Saúde e Cuidados (Nice) serão publicadas no início do próximo ano para expansão em toda a Inglaterra.",
+    "O teste já funciona em algumas localidades por meio de projetos-piloto, mas no Brasil ainda não há previsão de chegada ao setor público ou privado."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/ckvg292l4yvwo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/d88b5b8fff38.webp"
   },
   {
    "titulo": "'Estamos fartos': policiais cobram governo francês por aumento e falam em 'desgaste' após protestos",
    "topicos": [
-    "Dezenas de policiais protestaram nesta quarta-feira em frente ao Ministério do Interior, em Paris, para cobrar aumento imediato do adicional de risco e mais efetivo.",
-    "A mobilização, convocada pelo sindicato Alliance, ocorre após semanas de atos sociais e estudantis que sobrecarregaram as forças de segurança francesas.",
-    "Os sindicatos exigem uma valorização de 35% no adicional de risco. O Ministério do Interior propôs elevar o índice para 33,5% de forma escalonada até 2029, com a primeira etapa em abril de 2027.",
-    "A proposta do governo foi considerada insuficiente pelas entidades sindicais Alliance, Un1té e Unsa, mantendo o impasse nas negociações iniciadas em 13 de novembro.",
-    "A tensão foi acentuada por ações como licenças médicas simultâneas adotadas por integrantes das Companhias Republicanas de Segurança para expressar insatisfação."
+    "Dezenas de policiais protestaram na quarta-feira (18) em frente ao Ministério do Interior, em Paris, para cobrar aumento do adicional de risco e mais efetivo.",
+    "A mobilização foi convocada pelos sindicatos Alliance, Un1té e Unsa após semanas de intensa atuação em protestos sociais e estudantis na França.",
+    "Os sindicatos exigem uma valorização de 35% no adicional de risco, enquanto o Ministério do Interior propôs elevar o índice para 33,5% de forma escalonada até 2029.",
+    "O governo planeja iniciar a primeira etapa do reajuste em abril de 2027, justificando a lentidão por restrições orçamentárias, o que desagradou a categoria.",
+    "Integrantes da força de choque da polícia francesa (CRS), impedidos de fazer greve, recorreram a licenças médicas simultâneas para demonstrar insatisfação.",
+    "A relação entre polícia e manifestantes na França enfrenta forte desgaste desde o movimento dos coletes amarelos, ocorrido entre 2018 e 2019."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/protesto-policiais-franca.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/3b54f7cdffde.webp"
   },
   {
    "titulo": "O disco de ouro com mensagens para extraterrestres levado pela sonda Voyager 1 (e como eles poderão decifrá-lo)",
    "topicos": [
-    "A sonda Voyager 1, lançada pela Nasa na década de 1970, atingiu a distância de um dia-luz da Terra, o equivalente a cerca de 26 bilhões de quilômetros, após 50 anos de viagem no espaço.",
-    "As naves Voyager contam com discos de ouro projetados para durar um bilhão de anos, criados para transmitir informações sobre a humanidade a eventuais espécies extraterrestres.",
-    "Para escapar da gravidade do Sol sem combustível adicional, as sondas utilizaram o impulso gravitacional dos planetas, um alinhamento perfeito que ocorre apenas a cada 175 anos.",
-    "A equipe liderada por Carl Sagan e Frank Drake incluiu nos discos instruções físicas e matemáticas, saudações em pelo menos 55 idiomas, sons terrestres, músicas diversas e 116 imagens.",
-    "A capa dos discos traz instruções sobre como reproduzir o material com a agulha incluída, além de um mapa indicando a posição da Terra com base em 14 pulsares."
+    "A sonda Voyager 1, lançada pela Nasa na década de 1970, atingiu a distância de um dia-luz da Terra, ou cerca de 26 bilhões de quilômetros, após 50 anos de viagem no espaço sideral nesta quarta-feira (18/11).",
+    "As sondas Voyager 1 e 2 transportam dois discos de ouro projetados para durar um bilhão de anos, criados para explicar quem somos a eventuais espécies extraterrestres caso sejam encontrados no futuro.",
+    "Para escapar da gravidade do Sol sem combustível suficiente na época, a missão aproveitou o impulso gravitacional das órbitas planetárias, um alinhamento perfeito que ocorre apenas a cada 175 anos.",
+    "A equipe liderada por Carl Sagan e Frank Drake incluiu na capa instruções com a estrutura molecular do hidrogênio e código binário para indicar a velocidade de reprodução, além de saudações em pelo menos 55 idiomas e músicas diversas.",
+    "Os discos também contêm 116 imagens codificadas em áudio (retratando biologia, paisagens e tecnologia), a localização da Terra em relação a 14 pulsares e as ondas cerebrais de Ann Druyan gravadas durante sua meditação."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cm0rkq4x2e1yo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e3f6e3928fb4.webp"
   },
   {
    "titulo": "Fungos zumbis são vegetarianos? Estudo na Amazônia revela relação inesperada com plantas",
    "topicos": [
-    "Um estudo revelou uma fase até então pouco conhecida do ciclo de vida dos chamados \"fungos zumbis\" na Amazônia, indicando que eles também podem viver associados a plantas.",
-    "Pesquisadores identificaram DNA de fungos zumbis em amostras de briófitas, grupo que inclui musgos e hepáticas, com o uso de ferramentas de análise genética.",
-    "O trabalho de mestrado envolveu coletas na Reserva Florestal Adolpho Ducke, localizada ao norte de Manaus, onde o biólogo Tales Alves Júnior realizou mais de dez viagens.",
-    "O DNA dos fungos foi detectado em amostras de briófitas coletadas a pelo menos dez metros de distância dos locais onde insetos infectados haviam morrido.",
-    "Uma associação semelhante entre outra espécie de Ophiocordyceps e plantas já havia sido encontrada em um estudo realizado na China em 2020.",
-    "Novas pesquisas serão conduzidas para entender o papel real das plantas nessa relação, investigando se os fungos colonizam os tecidos vegetais ou se funcionam como reservatórios."
+    "Pesquisadores descobriram que os \"fungos zumbis\" na Amazônia podem ter uma fase do ciclo de vida associada a plantas, especificamente a briófitas como musgos e hepáticas.",
+    "O estudo foi realizado com análises genéticas e amostras coletadas na Reserva Florestal Adolpho Ducke, localizada ao norte de Manaus, exigindo mais de dez viagens de campo.",
+    "O biólogo Tales Alves Júnior coletou insetos infectados e briófitas a pelo menos dez metros de distância para servirem como controle nas análises.",
+    "A técnica de sequenciamento genético chamada metabarcoding identificou o DNA do fungo zumbi nas amostras de musgo, surpreendendo os cientistas envolvidos.",
+    "O papel exato das plantas na relação ainda é desconhecido, e novas pesquisas avaliarão se o fungo coloniza tecidos vegetais, serve como reservatório ou atua como vetor."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cx987yn9jz54o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/fa33c1539e1b.webp"
   },
   {
    "titulo": "Por que o real caiu mais que outras moedas? Commodities explicam só parte",
    "topicos": [
-    "O dólar americano registrou alta e aproximou-se de R$ 5,87, fechando cotado a R$ 5,86 com avanço de cerca de 1,5% no pregão desta quarta-feira (18), impulsionado pelo cenário internacional e discussões fiscais no Congresso.",
-    "O Banco Central realizou dois leilões de linha, correspondentes à venda de dólares com compromisso de recompra, totalizando US$ 1 bilhão para conter as pressões sobre o câmbio.",
-    "Levantamento da Wagner Investimentos aponta que o real acumulou desvalorização de 10,8% até 16 de novembro frente a uma média anterior à eleição (R$ 5,15 entre 4 de agosto e 9 de setembro).",
-    "Em relação à cotação mínima de R$ 4,98 registrada em 6 de outubro, a desvalorização do real chegou a 13,9% até 16 de novembro, superando as perdas de diversas moedas emergentes no mesmo intervalo.",
-    "No acumulado de 2026 até 17 de novembro, o real apresentava queda de 5,1%, enquanto o peso chileno recuava 9,3% e o peso colombiano acumulava valorização de 14,3%, demonstrando respostas distintas entre países exportadores.",
-    "Estudo do banco Citi aponta que uma alta de 1% nas commodities está associada a uma valorização de 0,16% do real, enquanto um avanço de 1% no Dollar Index (DXY) se relaciona a uma desvalorização de 0,26% da moeda brasileira."
+    "Na quarta‑feira (18), o dólar subiu cerca de 1,5%, cotando R$ 5,86‑5,87, pressionando o real, que já havia perdido 10,8% até 16 de novembro em relação à média de R$ 5,15 entre 4 ago e 9 set, e 13,9% em relação à mínima de R$ 4,98 em 6 out.",
+    "Desde agosto, moedas de Chile, Colômbia, México, África do Sul e Austrália também recuaram frente ao dólar, refletindo a força da moeda americana e a queda de commodities que afetam economias exportadoras de matérias‑primas.",
+    "O real ainda registrou queda de 5,1% no acumulado de 2026 até 17 de novembro, enquanto o peso chileno recuou 9,3% e o peso colombiano, apesar de correção recente, acumulou alta de 14,3% no mesmo período.",
+    "Três fatores combinados explicam a desvalorização brasileira: dólar forte globalmente, preços de commodities em baixa e maior percepção de risco sobre a economia nacional, especialmente em torno do pacote fiscal em debate no Congresso.",
+    "O Banco Central realizou dois leilões de linha – venda de dólares com compromisso de recompra – totalizando US$ 1 bilhão, numa tentativa de conter a pressão cambial.",
+    "Analista Matheus Medeiros (Nomos) destaca que, embora o dólar forte afete diversas moedas, vulnerabilidades fiscais, juros elevados e comportamento dos investidores tornam o cenário brasileiro mais desfavorável que o de outras economias emergentes."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/real-cai-mais-outras-moedas-commodities-dolar/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/39d03456d258.webp"
   },
   {
    "titulo": "Dólar hoje sobe mais de 1%, a R$ 5,87, com foco em pacote fiscal e ata do Fed",
    "topicos": [
-    "Nesta quarta-feira (18), o dólar à vista subiu 1,46% e fechou a R$ 5,86 na venda, enquanto a máxima atingiu R$ 5,865, o patamar mais elevado desde 16 de abril de 2025.",
-    "O dólar futuro com vencimento para dezembro teve alta de 0,47% na B3, negociado a R$ 5,818, após encerrar a terça-feira cotado a R$ 5,7819.",
-    "O presidente do Senado, Davi Alcolumbre (União-AP), adiou a votação do projeto fiscal na quarta-feira (18) para buscar entendimentos sobre os destaques da proposta.",
-    "O governo tenta evitar a aprovação de um destaque que limita compensações tributárias, medida que pode impactar em até R$ 60 bilhões as contas de 2027.",
-    "A aprovação do projeto fiscal sem alterações é vista pelo governo como essencial para garantir um superávit primário de 0,5% do PIB no próximo ano.",
-    "Especialistas apontam que a alta da moeda americana reflete tanto a desconfiança com a dívida pública quanto o fortalecimento global do dólar.",
-    "O Banco Central realizou dois leilões de linha, que somaram a venda de US$ 1 bilhão com compromisso de recompra, enquanto o mercado aguarda a ata do Fed."
+    "O dólar comercial subiu 1,48% nesta quarta-feira, fechando cotado a R$ 5,8677, o que representa a maior cotação desde 15 de abril de 2025.",
+    "A alta da moeda norte-americana ocorreu pela quinta sessão consecutiva, impulsionada pelo cenário externo e por apreensões com o pacote fiscal do governo.",
+    "Desde a vitória de Luiz Inácio Lula da Silva no segundo turno em 25 de outubro, o dólar acumulou valorização de 17,60% frente ao real, somando 6,90% de ganho no ano.",
+    "O presidente do Senado, Davi Alcolumbre, adiou a votação do projeto fiscal nesta quarta-feira para buscar entendimentos sobre os destaques apresentados.",
+    "O governo tenta evitar a aprovação de um destaque que limita compensações tributárias, medida que pode impactar em até R$ 60 bilhões o ano de 2027 e viabilizar um superávit primário de 0,5% do PIB.",
+    "O Banco Central realizou pela manhã dois leilões de linha, totalizando US$ 1 bilhão em vendas de dólares com compromisso de recompra para dar liquidez ao mercado."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/8b61f9e9e3d6.webp"
   },
   {
    "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
    "topicos": [
-    "A ata do Fomc, divulgada em uma quarta-feira (18), revelou que o Federal Reserve poderá avaliar uma alta de juros acima de 0,25 ponto em dezembro nos Estados Unidos.",
-    "O documento aponta que o aumento superior a 25 pontos-base será considerado caso os próximos dados sobre a inflação venham desfavoráveis.",
-    "Na reunião de 27 e 28 de outubro, o banco central americano manteve os juros na faixa de 3,75% a 4% ao ano por dez votos a dois.",
-    "Os dirigentes Lisa Cook e Beth Hammack divergiram e votaram por uma elevação de 0,25 ponto percentual já no encontro de outubro.",
-    "A inflação continua sendo a principal preocupação do Fed, com pressões disseminadas, custos de energia elevados e riscos ligados a inteligência artificial.",
-    "Os dirigentes reforçaram que a pausa nos juros não enfraquece o compromisso de retornar a inflação à meta de 2%, com os próximos passos guiados por indicadores."
+    "O Federal Reserve (Fed), banco central dos Estados Unidos, avalia aplicar um reajuste de juros acima de 0,25 ponto na reunião marcada para dezembro, conforme revelado na ata do Fomc divulgada nesta quarta-feira (18).",
+    "A possibilidade de uma alta maior no próximo encontro ocorrerá caso os indicadores inéditos sobre a inflação apresentem resultados desfavoráveis, segundo apontaram alguns participantes do comitê.",
+    "Na reunião realizada nos dias 27 e 28 de outubro, o Fed optou por manter os juros no patamar de 3,75% a 4% ao ano, com uma votação de dez votos favoráveis e dois contrários.",
+    "Os dirigentes Lisa Cook e Beth Hammack divergiram da maioria no encontro de outubro e votaram a favor de um acréscimo imediato de 0,25 ponto percentual na taxa.",
+    "A decisão de pausar os reajustes em outubro foi considerada difícil por parte dos membros, que avaliaram ser preciso coletar mais dados sobre inflação, condições financeiras e os reflexos da alta de setembro.",
+    "A autoridade monetária reforçou que a inflação continua sendo a principal preocupação, impulsionada por pressões disseminadas, custos altos de energia e investimentos em inteligência artificial.",
+    "A manutenção da taxa em outubro não diminui o compromisso de reconduzir a inflação à meta de 2%, e os passos futuros seguirão dependentes dos indicadores econômicos e dos riscos."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ata-do-fed-comite-considera-alta-de-juros-superior-a-025-ponto-em-dezembro-veja-detalhes/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7504fa4fa0e2.webp"
   },
   {
    "titulo": "'Grand Theft Auto 6' é uma obra-prima, dizem os críticos: 'Não há nada igual'",
    "topicos": [
-    "O jogo 'Grand Theft Auto 6' recebeu avaliações altamente positivas dos críticos após 13 anos de espera, alcançando uma média de 99 de 100 no agregador Metacritic.",
-    "O título foi elogiado por veículos como IGN, Eurogamer, The New York Times, The Guardian, Forbes e Bloomberg, sendo chamado de obra-prima e inovador.",
-    "Estimativas apontam que o desenvolvimento do jogo pela Rockstar custou mais de US$ 1 bilhão, equivalente a R$ 5,84 bilhões.",
-    "O jogo traz como cenários gráficos realistas baseados em Miami e destaca a relação entre os protagonistas Jason e Lucia, esta última apontada como um marco por ser protagonista feminina.",
-    "Na terça-feira (17/11), o The Game Awards revelou as indicações para 2026, onde GTA 6 liderou com oito indicações, incluindo jogo do ano e melhor música.",
-    "A indicação de Manni L. Perez na categoria de melhor atuação confirmou sua participação como a voz da personagem Lucia no jogo."
+    "Depois de 13 anos de espera, Grand Theft Auto VI foi lançado e recebeu avaliações extremamente positivas dos críticos, que consideram o título o mais aguardado do ano.",
+    "O Metacritic atribuiu ao jogo média de 99/100, empatando com The Legend of Zelda: Ocarina of Time, recorde mantido desde 1998.",
+    "Principais veículos (IGN, Eurogamer, The New York Times, The Guardian, Forbes, Washington Post e Bloomberg) elogiaram gráficos, narrativa e mundo aberto, embora apontem pequenos pontos críticos como realismo excessivo e lentidão em cenas densas.",
+    "Usuários de fóruns online criticaram o que chamaram de \"exageros dos fãs\" e relataram que o jogo pode ficar mais lento quando muitas ações ocorrem simultaneamente.",
+    "A Rockstar não divulgou o preço final, mas estimativas sugerem um custo de desenvolvimento superior a US$ 1 bilhão (R$ 5,84 bilhões).",
+    "Na divulgação das indicações ao The Game Awards em 17/11/2026, GTA VI liderou com oito categorias, incluindo Jogo do Ano e Melhor Música, e a indicação de Manni L. Perez como melhor atuação reforçou rumores de que ela dublará a protagonista feminina Lucia."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cj20qkl5w1qpo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a774b52b253d.webp"
   },
   {
    "titulo": "Integrante da delegação russa carrega maleta nuclear de Putin em visita à China",
    "topicos": [
-    "Um membro da comitiva do presidente russo Vladimir Putin foi visto transportando a maleta nuclear conhecida como Cheget durante uma viagem à China. O equipamento assegura que Putin mantenha o controle e o comando permanente sobre o arsenal atômico da Rússia, independentemente de onde esteja.",
-    "Putin chegou à China na tarde de terça-feira (17) para participar de uma reunião trilateral com o presidente americano Donald Trump e o líder chinês Xi Jinping nesta quinta-feira (19). O encontro acontece na cidade chinesa de Shenzhen, no âmbito da cúpula da Cooperação Econômica Ásia-Pacífico (Apec).",
-    "Esta é a primeira oportunidade em que os chefes de Estado dos Estados Unidos, da Rússia e da China realizam uma reunião conjunta reservada e presencial, apontada pela Rússia como uma demonstração da ordem mundial multipolar e considerada de significado histórico pela China.",
-    "A pauta oficial confirmada inclui discussões sobre o controle de armas nucleares, com foco na tentativa de Donald Trump de negociar um acordo para diminuir o total de armamentos atômicos no planeta. O líder americano também planeja abordar o conflito no Irã durante a cúpula.",
-    "Houve divergências quanto à inclusão do tema da Ucrânia nas conversas bilaterais e multilaterais. O governo dos Estados Unidos inicialmente informou que o assunto seria excluído, mas o presidente americano declarou posteriormente que pretende debatê-lo."
+    "Um membro da delegação do presidente russo Vladimir Putin foi visto transportando a maleta nuclear do país, conhecida como Cheget, durante uma viagem à China.",
+    "O equipamento militar permite que Putin mantenha o controle contínuo sobre o arsenal atômico russo de qualquer lugar do mundo.",
+    "Putin chegou à China na tarde de terça-feira (17) para participar de uma reunião trilateral inédita com os presidentes Donald Trump (EUA) e Xi Jinping (China).",
+    "O encontro reservado ocorre nesta quinta-feira (19) na cidade chinesa de Shenzhen, durante a cúpula da Cooperação Econômica Ásia-Pacífico (Apec).",
+    "A pauta principal confirmada é o controle e a redução de armas nucleares globais, além de discussões sobre conflitos armados e geopolítica mundial.",
+    "Líderes dos três países destacaram o caráter histórico da cúpula, que também deve abordar temas como a guerra no Irã e a situação na Ucrânia."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/delegacao-dputin-maleta-nuclear-russia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/17efc9a325a6.webp"
   },
   {
    "titulo": "Inteligência dos EUA descarta atividade 'maliciosa' por trás de falhas tecnológicas",
    "topicos": [
-    "O diretor nacional de Inteligência dos EUA, Jay Clayton, afirmou ao Congresso, em audiência da Comissão de Segurança Interna da Câmara, que as recentes falhas tecnológicas nos EUA não têm relação entre si nem foram provocadas por agentes maliciosos.",
-    "Clayton explicou que as interrupções — que afetaram o serviço de e‑mail da Microsoft, o transporte aéreo e portais bancários — são independentes e resultam de trabalhos de manutenção e atualizações de sistemas.",
-    "O secretário de Segurança Interna, Markwayne Mullin, corroborou a avaliação, dizendo ter 98 % de certeza de que nenhum adversário externo invadiu ou atacou os sistemas.",
-    "O vice‑diretor do FBI, Christopher Raia, acrescentou que não há indícios de atividade cibernética maliciosa ligada a nenhum dos incidentes.",
-    "O vice‑presidente JD Vance cancelou sua participação em evento do New York Times na quarta‑feira, 18, para atender a reunião sobre as interrupções de serviço.",
-    "Na terça‑feira anterior, a rede de comunicação interna da NSA ficou fora do ar; a agência informou que a degradação temporária ocorreu durante manutenção rotineira programada.",
-    "As declarações foram feitas durante a audiência sobre “ameaças globais”, reforçando que as falhas são atribuídas a atualizações tecnológicas e não a ataques patrocinados por Estados."
+    "Falhas tecnológicas nos Estados Unidos foram declaradas ao Congresso nesta quarta‑feira (18) como interrupções independentes, sem vínculo entre si, segundo o diretor nacional de Inteligência, Jay Clayton.",
+    "Clayton explicou que as paralisações estão associadas a trabalhos de manutenção e a mudanças tecnológicas, incluindo a necessidade de atualizar sistemas e redes.",
+    "O secretário de Segurança Interna, Markwayne Mullin, afirmou ter 98% de certeza de que os incidentes não foram provocados por adversários externos ou ataques a sistemas americanos.",
+    "O vice‑diretor do FBI, Christopher Raia, corroborou que não há indícios de atividade cibernética maliciosa relacionada a nenhum dos incidentes.",
+    "O vice‑presidente JD Vance cancelou sua participação em evento do New York Times para atender a uma reunião sobre as interrupções que afetaram o serviço de e‑mail da Microsoft, o transporte aéreo e portais bancários.",
+    "Na terça‑feira anterior, a rede de comunicação interna da Agência de Segurança Nacional (NSA) ficou fora do ar, sendo atribuída a uma degradação temporária durante manutenção rotineira programada."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/inteligencia-dos-eua-descarta-atividade-maliciosa-por-tras-de-falhas-tecnologicas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/926dc906f647.webp"
   },
   {
    "titulo": "O que Jeff Bezos tem a ver com a escolha de Robert Pattinson como o novo James Bond?",
    "topicos": [
-    "O fundador da Amazon, Jeff Bezos, declarou na terça-feira, 17, durante a conferência Silicon Valley & The World, que participou ativamente da escolha de Robert Pattinson como o novo James Bond para o 26º filme da franquia 007, que será dirigido por Denis Villeneuve.",
-    "A Amazon adquiriu o estúdio MGM em 2022 e, em fevereiro de 2025, passou a deter os direitos criativos do agente secreto, que antes eram geridos pela família Broccoli desde 1962.",
-    "A empresa enxugou a relação de concorrentes e conduziu testes de câmera com cinco finalistas, nos quais cada intérprete executou três cenas completas com figurino e em cenários reais.",
-    "Pattinson, de 40 anos, superou na disputa os atores Nicholas Hoult, Josh O’Connor, Callum Turner e Jack Lowden.",
-    "Embora Bezos inicialmente preferisse um nome menos famoso para o papel, o desempenho nos testes convenceu os executivos de que ele era o ideal para suceder Daniel Craig na famosa série de espionagem."
+    "Jeff Bezos declarou na terça-feira, 17, na conferência Silicon Valley & The World, que participou ativamente da escolha de Robert Pattinson como o novo James Bond para o 26º filme da franquia, dirigido por Denis Villeneuve.",
+    "A Amazon concluiu a aquisição da MGM, estúdio original de 007, em 2022, e em fevereiro de 2025 passou a controlar os direitos criativos da produção, que estavam sob a tutela da família Broccoli desde 1962.",
+    "A empresa enxugou a relação de postulantes e conduziu testes de câmera com cinco artistas, nos quais cada um atuou em três cenas usando trajes completos e cenários de filmagem.",
+    "O ator Robert Pattinson, de 40 anos, superou na disputa final os concorrentes Nicholas Hoult, Josh O’Connor, Callum Turner e Jack Lowden.",
+    "Pattinson vai substituir Daniel Craig no papel principal da tradicional série de filmes de espionagem, após acumular participações em produções de grande bilheteria."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/economia/o-que-jeff-bezos-tem-a-ver-com-a-escolha-de-robert-pattinson-como-o-novo-james-bond/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/c744cb896e76.webp"
   },
   {
    "titulo": "Adidas abre espaço de treinos híbridos com aulas gratuitas no Parque Ibirapuera",
    "topicos": [
-    "A Adidas inaugurou a Hybrid House, um espaço de treinos híbridos localizado no Parque Ibirapuera, na cidade de São Paulo.",
-    "O local oferece sessões gratuitas abertas ao público às terças e sábados, exigindo inscrição prévia dos interessados.",
-    "As atividades acontecem de segunda a sexta-feira, das 5h30 às 19h30, e aos sábados e domingos, das 6h às 11h.",
-    "Alunos matriculados no Hyper Training Club (HTC) e usuários dos serviços Totalpass e Wellhub também podem agendar as aulas na nova unidade.",
-    "O projeto é fruto de uma parceria entre a Adidas, o HTC e a Urbia, concessionária que administra o Parque Ibirapuera, que recebe 9,6 milhões de visitantes anuais para esportes.",
-    "Esta é a oitava unidade do HTC em São Paulo, tornando-se permanente após o sucesso de uma iniciativa anterior para divulgar o tênis Adizero Dropset Pro.",
-    "A marca lançou o tênis Intimidation Low inspirado na capivara, em parceria com a Guadalupe Store, marcando a primeira colaboração latino-americana da plataforma Adidas Consortium."
+    "A Adidas inaugurou a Hybrid House, um espaço de treinos híbridos localizado no Parque Ibirapuera, em São Paulo, desenvolvido em parceria com o Hyper Training Club (HTC) e a concessionária Urbia.",
+    "O local oferece sessões gratuitas e abertas ao público às terças e sábados, exigindo inscrição prévia para participação.",
+    "As atividades funcionam diariamente, das 5h30 às 19h30 de segunda a sexta-feira, e das 6h às 11h aos sábados e domingos.",
+    "Alunos matriculados na rede de academias e usuários do Totalpass e Wellhub também podem agendar as aulas na nova unidade, que é a oitava do HTC em São Paulo e opera de forma permanente.",
+    "O Parque Ibirapuera recebe cerca de 9,6 milhões de pessoas anualmente para a prática de esportes, segundo Samuel Lloyd, diretor da Urbia.",
+    "A Adidas lançou uma nova versão do tênis Intimidation Low inspirada na capivara, desenvolvida em parceria com a loja brasileira Guadalupe, marcando a primeira colaboração latino-americana da plataforma Adidas Consortium."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/servicos/adidas-abre-espaco-de-treinos-hibridos-com-aulas-gratuitas-no-parque-ibirapuera/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9f28b3e4d76f.webp"
   }
  ]
 }
