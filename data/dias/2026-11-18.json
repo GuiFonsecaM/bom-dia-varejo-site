@@ -567,519 +567,594 @@
   {
    "titulo": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
    "topicos": [
-    "Uma onda de ataques cibernéticos e boatos de apagão global dominaram as redes e afetaram diversos setores no mundo desde o mês de outubro, atingindo empresas, bancos e governos.",
-    "Em 12 de outubro, hackers elevaram a 50 °C a temperatura de geladeiras de supermercados na França, causando incêndios e perdas de alimentos. O problema em refrigeradores conectados também atingiu Suécia, Irlanda, Holanda, Estônia, Finlândia, Bélgica e Luxemburgo.",
-    "A corretora de criptomoedas Binance sofreu um roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões) em cerca de 20 minutos na quinta-feira, 29 de outubro, em ação divulgada pela empresa no dia seguinte e considerada a maior do setor.",
-    "O banco regional francês Crédit Mutuel Arkéa informou em 5 de novembro que foi alvo de um ataque hacker estimado em 100 milhões de euros (cerca de R$ 615 milhões), em ocorrência sem relação com o caso da Binance.",
-    "Usuários de plataformas da Microsoft como Outlook, Teams e Copilot enfrentaram instabilidade global entre os dias 12 e 13 de novembro, afetando dezenas de países. A Microsoft descartou a hipótese de invasão hacker.",
-    "Um ataque hacker revelado em 16 de novembro atingiu cerca de 178 sites, incluindo BBC, IKEA e Air France. Criminosos inseriram código malicioso na plataforma Optimizely para roubar dados e criptomoedas, obtendo cerca de US$ 7 mil (R$ 40 mil)."
+    "Uma onda de ataques cibernéticos e boatos de apagão mundial dominaram o cenário internacional e redes sociais recentemente, afetando desde supermercados até grandes bancos globais.",
+    "No dia 12 de outubro, hackers elevaram a temperatura de refrigeradores em supermercados na França para 50 °C, causando incêndios e perdas de alimentos em centenas de lojas, além de atingir outros sete países europeus.",
+    "A corretora de criptomoedas Binance sofreu o roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões) em um ataque cibernético ocorrido em 29 de outubro e divulgado no dia 30, considerado o maior crime do setor.",
+    "O banco francês Crédit Mutuel Arkéa informou em 5 de novembro que foi alvo de um ataque hacker estimado em 100 milhões de euros (aproximadamente R$ 615 milhões), sem relação com o caso da Binance.",
+    "Uma pane global da Microsoft entre os dias 12 e 13 de novembro gerou instabilidade no Outlook, Teams e Copilot, afetando empresas, governos e serviços de emergência em dezenas de países, embora a empresa tenha descartado invasão hacker.",
+    "Entre 16 e 17 de novembro, um ataque divulgado pelo pesquisador Scott Helme comprometeu cerca de 178 sites, incluindo BBC, IKEA e Air France, injetando código malicioso para roubar dados e criptomoedas e gerando cerca de US$ 7 mil (R$ 40 mil) aos invasores."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/fe63c052867d.webp"
   },
   {
    "titulo": "Clima afeta produção e eleva preço do tomate em diversas capitais",
    "topicos": [
-    "O preço do tomate disparou nas capitais brasileiras nos últimos meses, chegando a custar até o dobro em comparação ao início do ano devido a problemas climáticos na produção.",
-    "Pesquisa da Conab e do Dieese nas 27 capitais apontou altas expressivas: Florianópolis registrou o maior aumento, de 181%, seguida pelo Rio de Janeiro com 174% e Fortaleza com 120%.",
-    "A alta é motivada pela quebra na colheita nos principais estados produtores (Goiás, São Paulo e Minas Gerais), que concentram 70% da produção nacional.",
-    "Em Goiás, a Secretaria de Agricultura prevê 1,3 milhão de toneladas colhidas neste ano, um recuo de 18,5%.",
-    "São Paulo projeta queda de 1,9% no tomate de mesa e de 15,5% no industrial, enquanto Minas Gerais estima redução de 3,7% no ano.",
-    "O Brasil produziu cerca de 4,7 milhões de toneladas de tomate no ano passado, e a estimativa para 2026 é de 4,3 milhões de toneladas, representando uma retração média de 8%.",
-    "Como a primavera e o verão são os períodos de maior safra, os preços devem permanecer elevados a curto e médio prazo, pressionados pela previsão de chuvas e calor."
+    "O preço do quilo do tomate disparou nos últimos meses em várias capitais brasileiras, chegando a custar até duas vezes mais que no início do ano e pressionando a inflação dos alimentos.",
+    "Segundo levantamento da Conab e do Dieese nas 27 capitais, Florianópolis registrou a maior alta, de 181%, seguida pelo Rio de Janeiro, com 174%, e por Fortaleza, com 120%.",
+    "A alta nos preços decorre de problemas climáticos que reduziram a colheita nos maiores estados produtores (Goiás, São Paulo e Minas Gerais), que respondem por 70% da oferta nacional.",
+    "A Secretaria de Agricultura, Pecuária e Abastecimento de Goiás prevê uma safra de 1,3 milhão de toneladas em 2024, o que representa uma queda de 18,5% no estado.",
+    "Em São Paulo, a produção de tomate de mesa recuou 1,9% e a do industrial caiu 15,5%; em Minas Gerais, a redução esperada para o ano é de 3,7%.",
+    "O Brasil produziu cerca de 4,7 milhões de toneladas de tomate no ano passado, enquanto a projeção para 2026 é de 4,3 milhões de toneladas, configurando um recuo médio de 8%.",
+    "Como a primavera e o verão são os períodos de maior safra e a previsão meteorológica indica chuvas e calor intenso, os preços devem permanecer elevados a curto e médio prazo."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/economia/clima-afeta-producao-e-eleva-preco-do-tomate-em-diversas-capitais/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/dfa56c080eff.webp"
   },
   {
    "titulo": "Sargento Reginauro critica projeto de ajuste fiscal do governo",
    "topicos": [
-    "O senador Sargento Reginauro (PSDB-CE) criticou, em pronunciamento no Plenário nesta terça-feira (17), as medidas de ajuste fiscal propostas pelo governo.",
-    "Para o parlamentar, o projeto de ajuste pode prejudicar recursos direcionados à educação, à saúde e a programas sociais.",
-    "Reginauro defendeu a diminuição das despesas governamentais em vez de novas medidas fiscais e cobrou cortes nos gastos da própria gestão.",
-    "A proposta em questão permite expandir o congelamento de despesas e restringir a alta dos gastos públicos acima da inflação.",
-    "O texto-base do Projeto de Lei Complementar (PLP) 299/2026 recebeu aprovação na semana anterior, e os destaques da oposição têm análise prevista para esta quarta-feira (18)."
+    "O senador Sargento Reginauro (PSDB-CE) criticou, em pronunciamento no Plenário na terça-feira (17/11/2026), as medidas de ajuste fiscal propostas pelo governo federal.",
+    "Para o parlamentar, o projeto de ajuste pode prejudicar os recursos direcionados à saúde, à educação e a programas sociais, recaindo o custo sobre o cidadão brasileiro.",
+    "Reginauro defendeu a redução das despesas estatais e cobrou cortes de gastos do governo em vez de aumentos de ministérios, apontando isso como alternativa para equilibrar as contas.",
+    "O Projeto de Lei Complementar (PLP) 299/2026 viabiliza a ampliação do bloqueio de despesas e impõe limites para a expansão dos gastos públicos acima da inflação.",
+    "O texto-base da proposta foi aprovado na semana anterior, enquanto os destaques apresentados pela oposição têm previsão de análise separada nesta quarta-feira (18/11/2026)."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/sargento-reginauro-critica-projeto-de-ajuste-fiscal-do-governo",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/545704e8a688.webp"
   },
   {
    "titulo": "Leany defende ajuste fiscal e revisão de benefícios",
    "topicos": [
-    "Em pronunciamento no Plenário na terça-feira (17), a senadora Leany Lemos (PSB-DF) defendeu a aprovação do projeto de lei complementar que estabelece regras para o equilíbrio das contas públicas.",
-    "Segundo a parlamentar, o PLP 299/2026 propõe ações de ajuste fiscal destinadas a reestabelecer a capacidade de investimento do Estado e a qualificar a prestação de serviços públicos.",
-    "A senadora destacou que a responsabilidade fiscal e a responsabilidade social são metas complementares que precisam avançar de forma conjunta para atender à população vulnerável.",
-    "O texto prevê a revisão de benefícios e de renúncias fiscais que não entreguem resultados proporcionais aos recursos públicos investidos, como as deduções de despesas com saúde no Imposto de Renda da Pessoa Física.",
-    "Leany informou que apresentou uma proposta para impor limites a esse benefício de saúde, adotando critérios comparáveis aos que já vigoram para os gastos com educação.",
-    "A legisladora também manifestou apoio a iniciativas voltadas a combater pagamentos acima do teto constitucional no setor público e a ampliar a fiscalização sobre a qualidade dos gastos do governo."
+    "A senadora Leany Lemos (PSB-DF) defendeu, em pronunciamento no Plenário na terça-feira (17), o projeto de lei complementar voltado ao equilíbrio das contas públicas.",
+    "O projeto PLP 299/2026 estabelece medidas de ajuste fiscal para recuperar a capacidade de investimento estatal e aprimorar a oferta de serviços públicos.",
+    "A parlamentar destacou que a responsabilidade fiscal e a responsabilidade social são metas complementares que devem avançar de forma conjunta.",
+    "Leany apontou a necessidade de revisar benefícios e renúncias fiscais que não tragam resultados compatíveis com o montante de dinheiro público aplicado.",
+    "A senadora mencionou as deduções de gastos com saúde no Imposto de Renda da Pessoa Física e apresentou uma proposta para impor limites a esse benefício.",
+    "A nova regra sugerida para a saúde busca seguir moldes semelhantes aos critérios já utilizados atualmente para as despesas com educação.",
+    "O pronunciamento também incluiu a defesa de ações para barrar salários acima do teto constitucional no setor público e elevar o controle dos gastos estatais."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/leany-defende-ajuste-fiscal-e-revisao-de-beneficios",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/752a02ca56a3.webp"
   },
   {
    "titulo": "Henrique Vorcaro, pai do dono do Master, fez operações suspeitas com alvo da PF e fundo de gestora mineira",
    "topicos": [
-    "Henrique Vorcaro, pai de Daniel Vorcaro do Banco Master, realizou operações financeiras suspeitas com um alvo da Polícia Federal e um fundo de Belo Horizonte, segundo documentos e mensagens obtidas pelo g1.",
-    "As movimentações envolveram Fernando Alves Vieira, da Clínica Mais Médicos e alvo da Operação Compliance Zero em janeiro, e o fundo GFS Excelência FIDC, da GFS Investimentos, pertencente ao sócio de Henrique, Leonardo Mattos de Oliveira.",
-    "O fundo GFS Excelência era administrado pela Reag, investigada por fraudes do Master. O ex-dono da Reag, João Carlos Mansur, fez delação premiada admitindo crimes com fundos de investimento.",
-    "O governo do Distrito Federal pediu ao STF em outubro de 2024 a destinação de R$ 2,2 bilhões bloqueados de Henrique Vorcaro para cobrir um rombo no Banco de Brasília (BRB) gerado por negociações com o Banco Master.",
-    "O Master vendeu ao BRB, entre julho de 2024 e outubro de 2025, R$ 17,5 bilhões em carteiras de crédito, sendo que pelo menos R$ 12,2 bilhões não tinham existência comprovada, segundo a Polícia Federal.",
-    "Investigações revelam que a Clínica Mais Médicos emitiu R$ 361.147.355,00 em Notas Comerciais sem garantias, com capital social zero e receita bruta de R$ 54.079,64 em 2023, superada pela dívida em mais de 6.500 vezes."
+    "Henrique Vorcaro, pai do banqueiro Daniel Vorcaro, realizou operações financeiras suspeitas com Fernando Alves Vieira, alvo da PF, e com o fundo GFS Excelência FIDC, ligado à gestora mineira GFS Investimentos e administrado pela Reag.",
+    "Preso desde maio, Henrique Vorcaro é investigado por supostos pagamentos ilícitos e tenta responder em liberdade no STF, enquanto o governo do DF pediu R$ 2,2 bilhões bloqueados dele para cobrir um rombo no BRB gerado pelo Banco Master.",
+    "O Banco Master vendeu ao BRB R$ 17,5 bilhões em carteiras de crédito entre julho de 2024 e outubro de 2025, sendo que R$ 12,2 bilhões não tinham existência comprovada, segundo a Polícia Federal.",
+    "Documentos revelam um empréstimo inicial de R$ 60 milhões em 03/01/2023 entre as empresas PMD Participações e Health Enterprises, ambas de Fernando Alves Vieira, com multa de 10% para atraso até 22 de dezembro daquele ano.",
+    "A dívida foi renegociada em 26/12/2023 por R$ 66 milhões com aval de Henrique Vorcaro, sua filha Natália e cinco empresas como fiadoras, enquanto em 22/12/2023 a PMD cedeu o crédito ao fundo GFS Excelência por R$ 60 milhões.",
+    "Investigações do MPF apontam que a Clínica Mais Médicos, ligada a Vieira, emitiu R$ 361.147.355,00 em notas comerciais sem garantias, com capital social zero e receita bruta de R$ 54.079,64 em 2023, superada pela dívida em mais de 6.500 vezes."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/18/henrique-vorcaro-pai-do-dono-do-master-fez-operacoes-suspeitas-com-alvo-da-pf-e-fundo-de-gestora-mineira.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/94c1adcfb19f.webp"
   },
   {
    "titulo": "Dólar oscila, de olho em ajuste fiscal e ata do Fed; Ibovespa cai",
    "topicos": [
-    "Na quarta‑feira (18), o dólar recuou e operou com volatilidade, cotado às 11h50 em R$ 5,7843 (+0,03%) após ter tocado R$ 5,8290 na máxima do dia; o Ibovespa caiu 0,29%, para 169.322 pontos, no mesmo horário.",
-    "Investidores aguardam a ata da última reunião do Federal Reserve, prevista para a tarde de 18/10, que deve indicar a visão sobre a economia dos EUA e possíveis mudanças nas taxas de juros, mantidas no último encontro entre 3,75% e 4% ao ano.",
-    "No Brasil, o Senado adiou para 18/10 a votação do pacote de ajuste fiscal do governo Lula; o texto pode impactar até R$ 60 bi em 2027, sendo R$ 50 bi destinados ao cumprimento das metas fiscais e R$ 10 bi para novas despesas como o Pé‑de‑Meia Universitário.",
-    "Entre as principais medidas do pacote estão limites mais rígidos ao crescimento dos gastos públicos, bloqueio temporário de despesas obrigatórias, redução de até 20 % em alguns benefícios fiscais a empresas, mudança no cálculo dos recursos mínimos para a saúde e prazo para regulamentar os supersalários do funcionalismo.",
-    "O ministro da Fazenda, Dario Durigan, afirmou que o pacote em análise é apenas o primeiro passo de um processo mais amplo, com compromisso de superávits nos próximos quatro anos e que o ajuste deve ser gradual.",
-    "A Nvidia divulgou lucro líquido de US$ 65,3 bi (R$ 377,8 bi) no terceiro trimestre, 105 % maior que no mesmo período do ano anterior, com receita de US$ 115,8 bi, sendo este o primeiro balanço após a saída de Jensen Huang da liderança.",
-    "O dólar acumulou alta de +2,25 % na semana, +6,21 % no mês e +5,35 % no ano; o Ibovespa registrou -1,53 % na semana, +1,13 % no mês e +5,39 % no ano, enquanto analistas da Nomad apontam que a falta de sinais claros de ajuste fiscal mantém pressão sobre o dólar e o prêmio de risco."
+    "Na quarta‑feira (18), o dólar recuou e operou com volatilidade, cotado a R$ 5,7843 (alta de 0,03%) após ter tocado R$ 5,8290; o Ibovespa registrou 169.322 pontos, queda de 0,29% no mesmo horário.",
+    "Investidores aguardam a ata da última reunião do Fed, prevista para a tarde, que deve trazer a visão sobre a economia dos EUA e possíveis indícios sobre a trajetória dos juros, que permanecem entre 3,75% e 4% ao ano.",
+    "No Brasil, o Senado adiou para 18/11 a votação do pacote de ajuste fiscal, originalmente prevista para 17/11; sete novas emendas foram apresentadas e serão analisadas pelo relator, senador Eduardo Braga (MDB‑AM).",
+    "O Ministério do Planejamento estima que o pacote pode impactar até R$ 60 bi em 2027 – R$ 50 bi para cumprir metas fiscais e R$ 10 bi para novas despesas como o Pé‑de‑Meia Universitário – incluindo limites mais rígidos ao crescimento de gastos, bloqueio temporário de despesas obrigatórias, corte de até 20% em benefícios fiscais a empresas, mudanças no cálculo de recursos mínimos para a saúde e prazo para regulamentação dos supersalários.",
+    "O ministro da Fazenda, Dario Durigan, afirmou que a proposta em análise é apenas o primeiro passo de um processo mais amplo, com compromisso de superávits nos próximos quatro anos e ajuste gradual como única via.",
+    "O presidente Lula sinalizou que realizará uma série de reuniões com integrantes do governo e lideranças do PT para debater a equipe econômica e medidas de controle da dívida pública, buscando reduzir a desconfiança dos investidores.",
+    "A Nvidia divulgou lucro líquido de US$ 65,3 bi (R$ 377,8 bi) no terceiro trimestre, alta de 105% em relação ao mesmo período do ano anterior, com receita de US$ 115,8 bi, sendo o primeiro balanço após a saída de Jensen Huang da direção."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/b262a91cbc5e.webp"
   },
   {
    "titulo": "Nova era diplomática? Trump chega em desvantagem para a cúpula histórica com Putin sorridente e Xi cauteloso",
    "topicos": [
-    "Donald Trump, Xi Jinping e Vladimir Putin realizam nesta quinta-feira (18) uma cúpula apelidada de G-3 em Shenzhen, no sul da China, com foco simbólico e pauta vaga.",
-    "Vladimir Putin chega ao encontro com expectativas positivas para buscar apoio de Xi Jinping e influenciar Trump a pressionar o governo ucraniano, embora o conflito esteja fora da agenda oficial.",
-    "As ações de influência apontadas incluem um acordo para exportar mais diesel russo, a suspensão de sanções do projeto de Lindsey Graham e o corte de satélites Starlink em Kiev.",
-    "Xi Jinping atua como anfitrião cauteloso para ampliar sua influência global, mantendo apoio econômico à Rússia sem endossar abertamente a guerra que dura quase cinco anos.",
-    "Donald Trump chega em desvantagem devido a sua popularidade abalada nas eleições de meio de mandato, um escândalo com o ex-CEO da Nvidia e indefinições no Irã.",
-    "Na chegada a Shenzhen, Trump foi recebido no aeroporto por Xi Jinping com uma rara deferência e um abraço caloroso, marcando o início da cúpula trilateral."
+    "Na quinta‑feira, 18 de novembro, Donald Trump, Xi Jinping e Vladimir Putin se encontrarão em Shenzhen, sul da China, em reunião trilateral apelidada de G‑3, que ocorre simultaneamente à cúpula da APEC.",
+    "O encontro tem caráter mais simbólico que de resultados concretos; a pauta ainda é vaga e a guerra da Rússia na Ucrânia não consta oficialmente na agenda, embora se espere que seja abordada.",
+    "Analistas do Atlantic Council apontam que Putin vê Trump como facilitador da campanha russa, citando a assinatura de acordo para exportar mais diesel, a suspensão de sanções prevista no projeto de lei de Lindsey Graham, e o corte dos satélites Starlink e Starshield em Kiev.",
+    "O presidente chinês, Xi, atuará como anfitrião cauteloso, buscando ampliar a influência diplomática da China, mantendo apoio econômico e político à Rússia, mas sem respaldar abertamente o Kremlin nem se envolver nas negociações de paz da Ucrânia ou do Irã.",
+    "Trump chega em desvantagem, ainda abalado pela rejeição popular nas eleições de meio de mandato, por escândalo envolvendo Jensen Huang, ex‑CEO da Nvidia, e pela indefinição de um acordo para encerrar a guerra no Irã.",
+    "Na chegada ao aeroporto de Shenzhen, Trump foi recebido por Xi com um abraço, sinalizando uma rara deferência chinesa e marcando o início da coreografia que pode institucionalizar um novo formato de relações entre EUA, China e Rússia, gerando preocupação entre seus aliados tradicionais."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/18/nova-era-diplomatica-trump-desvantagem-putin-sorridente-xi-cauteloso.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6650d0a3c697.webp"
   },
   {
    "titulo": "Dólar abre em alta nesta 4ª feira e bate R$ 5,829",
    "topicos": [
     "A cotação do dólar em relação ao real apresentou alta de 0,34% às 11h21 desta 4ª feira (18.nov.2026), sendo negociada a R$ 5,802.",
-    "A moeda norte-americana atingiu o valor máximo de R$ 5,829 mais cedo, às 9h48 do mesmo dia.",
-    "O Senado Federal adiou na 3ª feira (17.nov) a votação dos destaques referentes ao pacote fiscal do governo do presidente Luiz Inácio Lula da Silva (PT).",
-    "A análise e votação desses destaques do ajuste fiscal pelo Senado foram reprogramadas para ocorrer nesta 4ª feira (18.nov)."
+    "No mesmo dia, a moeda norte-americana atingiu o valor máximo de R$ 5,829 por volta das 9h48.",
+    "O Senado Federal adiou para esta 4ª feira (18.nov) a votação dos destaques referentes ao pacote de ajuste fiscal proposto pelo governo do presidente Luiz Inácio Lula da Silva (PT).",
+    "A apreciação dos destaques do pacote fiscal governamental estava inicialmente prevista para ocorrer na 3ª feira (17.nov), mas acabou sendo postergada pela Casa legislativa."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/dolar-abre-em-alta-nesta-4a-feira-e-bate-r-5829/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/4965f29b95b3.webp"
   },
   {
    "titulo": "Crime de fraude contábil no mercado de valores avança na CCJ",
    "topicos": [
-    "A Comissão de Constituição e Justiça aprovou em primeiro turno, nesta quarta-feira (18), o substitutivo ao projeto que tipifica a fraude contábil no mercado de valores mobiliários.",
-    "O projeto original (PL 2.091/2023) é de autoria da ex-senadora Augusta Brito e recebeu texto alternativo do relator senador Oriovisto Guimarães.",
-    "Será crime inserir dados falsos ou inexatos na contabilidade, omitir operações ou entregar documentos falsos à auditoria, com pena de dois a seis anos de reclusão e multa.",
-    "A punição por induzir acionistas ou órgãos públicos em erro com informações falsas ou omissões também será de dois a seis anos de reclusão e multa.",
-    "As penas poderão ser aumentadas de metade até o dobro devido a prejuízos, vantagens obtidas, abalo ao sistema financeiro ou vítimas, e triplicadas em caso de reincidência.",
-    "Condenados poderão ser proibidos de exercer atividades empresariais ou cargos de gestão por um prazo de cinco anos após o trânsito em julgado da sentença.",
-    "A matéria ainda passará por turno suplementar na CCJ, que possui decisão terminativa, antes de ser enviada para apreciação na Câmara dos Deputados."
+    "A Comissão de Constituição e Justiça aprovou em primeiro turno, nesta quarta-feira (18), um substitutivo ao projeto que tipifica a fraude contábil no mercado de valores mobiliários.",
+    "O projeto original (PL 2.091/2023) é de autoria da ex-senadora Augusta Brito e recebeu texto alternativo do senador Oriovisto Guimarães.",
+    "Será crime contábil inserir dados falsos ou inexistentes na contabilidade, ocultar operações reais ou entregar documentos falsos à auditoria, com pena de dois a seis anos de reclusão e multa.",
+    "A pena para o crime de indução ou manutenção em erro sobre a situação financeira de empresas também será de dois a seis anos de reclusão e multa.",
+    "O juiz poderá elevar as penas de metade até o dobro devido aos prejuízos, vantagem ilícita, abalo ao sistema financeiro ou vítimas, e até o triplo em caso de reincidência.",
+    "Condenados poderão ser proibidos de exercer atividades empresariais ou ocupar cargos de gestão por um prazo de cinco anos, contado após o trânsito em julgado da sentença."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/crime-de-fraude-contabil-no-mercado-de-valores-avanca-na-ccj",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/ac78ca779546.webp"
   },
   {
    "titulo": "Track & Field (TFCO4): exposição diferenciada ao consumo doméstico com crescimento e rentabilidade",
    "topicos": [
-    "Em agosto, a Track & Field (TFCO4) foi destacada como uma opção de investimento com crescimento, rentabilidade e posição diferenciada no consumo doméstico.",
-    "Três meses depois, o balanço do terceiro trimestre de 2026 confirmou a tese, impulsionado por tendências estruturais de bem-estar e prática esportiva.",
-    "Apesar de obstáculos como férias escolares, Copa do Mundo, chuvas atípicas e rupturas de estoque, o sell-out da marca avançou 6,4%.",
-    "No mesmo período, o Ebitda apresentou expansão de 12,6%, acompanhado por um ganho de 2 pontos percentuais na margem operacional.",
-    "O lucro líquido da companhia registrou alta de 9,3%, mantendo um balanço confortável em meio a um ambiente de consumo seletivo."
+    "Em agosto, a Track & Field (TFCO4) foi destacada como uma opção de investimento no consumo doméstico, unindo crescimento, rentabilidade e diferenciação no varejo.",
+    "Três meses mais tarde, os números referentes ao terceiro trimestre de 2026 (3T26) confirmaram a tese favorável para a companhia.",
+    "A empresa aproveitou tendências de bem-estar e esporte, crescendo com rentabilidade em um cenário seletivo graças à força de sua marca e posicionamento premium.",
+    "O sell-out teve alta de 6,4%, o Ebtida avançou 12,6% com expansão de margem de 2 pontos percentuais, e o lucro líquido registrou aumento de 9,3%.",
+    "Os avanços ocorreram mesmo em meio a obstáculos como férias escolares, Copa do Mundo, chuvas atípicas e rupturas temporárias de estoque.",
+    "A empresa é vista como um investimento atrativo no varejo brasileiro que não depende unicamente de uma melhora no ciclo econômico, mantendo balanço confortável."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/track-field-tfco4-exposicao-diferenciada-ao-consumo-domestico-com-crescimento-e-rentabilidade-mlem/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/c97074565a28.webp"
   },
   {
    "titulo": "VÍDEO: Trump, Xi e Putin se encontram antes de reunião trilateral",
    "topicos": [
     "Donald Trump, Xi Jinping e Vladimir Putin se cumprimentaram nesta quarta-feira (18) na China, antes de um jantar para líderes na cúpula da APEC.",
-    "Trump chegou a Shenzhen às 6h do horário de Brasília, vindo de Manila, e foi recebido com festa e abraço pelo presidente chinês Xi Jinping.",
-    "Xi afirmou a Trump que busca uma relação bilateral construtiva e estrategicamente estável baseada no respeito mútuo, equidade e reciprocidade.",
+    "Trump chegou a Shenzhen às 6h do horário de Brasília, vindo de Manila, e foi recepcionado no aeroporto por Xi Jinping com festa e abraço.",
+    "Xi declarou a Trump buscar uma relação bilateral construtiva e estrategicamente estável, baseada em respeito mútuo, equidade e reciprocidade.",
     "Putin discutiu o conflito na Ucrânia com Xi em reunião na quarta-feira (18), após a destruição da ponte rodoviária de Kerch na guerra de quatro anos.",
-    "Na cúpula da APEC, Xi prometeu combater o protecionismo e Putin criticou as sanções ocidentais, após novas restrizioni dos EUA a chips de IA da Nvidia.",
-    "Os três líderes têm encontro agendado para esta quinta-feira (19) para discutir temas como a guerra na Ucrânia, Irã, comércio, IA e armas nucleares."
+    "Xi criticou o protecionismo em discurso na APEC defendendo o comércio livre, enquanto Putin atacou sanções ocidentais e chamou potências de ex-hegemonias.",
+    "Trump, Xi e Putin têm encontro marcado nesta quinta-feira (19) para debater temas como a guerra na Ucrânia, Irã, comércio, IA e armas nucleares."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/video-trump-xi-e-putin-se-encontram-antes-de-reuniao-trilateral.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6cf76d017fc2.webp"
   },
   {
    "titulo": "Brasil simplifica exportação de cosméticos para América Latina",
    "topicos": [
-    "O governo federal publicou nesta terça-feira, 17, um decreto que internaliza o acordo da Aladi para simplificar a exportação de cosméticos na América Latina.",
-    "O Brasil tornou-se o primeiro país a concluir os procedimentos do acordo assinado em fevereiro de 2026, que envolve nações como Argentina, Chile e Uruguai.",
-    "A medida elimina barreiras técnicas, como o Certificado de Livre Venda, e aproxima normas de rotulagem e fabricação, sem alterar as tarifas de importação.",
-    "O setor brasileiro de higiene e cosméticos movimentou exportações de US$ 1,06 bilhão em 2025, com alta de 20,1% sobre o ano anterior, segundo dados do MDIC.",
-    "Os países da Aladi compraram 76,3% das vendas externas brasileiras do setor em 2025, totalizando cerca de US$ 791 milhões em mercados como Argentina e México.",
-    "O decreto entrou em vigor na data de publicação, enquanto a aplicação prática começará 60 dias após dois países notificarem a Secretaria-Geral da Aladi."
+    "O governo federal publicou nesta terça-feira, 17, um decreto que internaliza o acordo da Aladi para simplificar a exportação de cosméticos na América Latina, eliminando barreiras técnicas sem alterar tarifas.",
+    "O Brasil tornou-se o primeiro signatário a concluir os trâmites internos do acordo firmado em fevereiro de 2026, que envolve Argentina, Bolívia, Chile, Equador, Paraguai, Peru e Uruguai, enquanto o México participou das negociações mas ainda não aderiu.",
+    "A medida impacta um mercado regional estimado em mais de US$ 55 bilhões e busca reduzir burocracia e custos para produtos de higiene pessoal, perfumaria e cosméticos.",
+    "Em 2025, as exportações brasileiras do setor somaram US$ 1,06 bilhão, alta de 20,1% sobre 2024, com superávit de US$ 29,6 milhões e os países da Aladi respondendo por 76,3% das vendas externas, totalizando cerca de US$ 791 milhões.",
+    "O acordo elimina o Certificado de Livre Venda, aproxima normas de rotulagem, boas práticas e ingredientes, e visa substituir registros sanitários por procedimentos de notificação baseados em risco, mantendo padrões de segurança.",
+    "A aplicação do pacto terá início 60 dias após pelo menos dois países notificarem a Secretaria-Geral da Aladi sobre a conclusão de seus procedimentos internos, valendo os prazos individualmente para os demais signatários a partir de suas respectivas comunicações."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/economia/brasil-simplifica-exportacao-de-cosmeticos-para-america-latina/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/50ce19879d39.webp"
   },
   {
    "titulo": "Vídeo: Novembro Roxo é tema de debate na CDH",
    "topicos": [
-    "No dia 17 de novembro de 2026, data dedicada ao Dia Mundial da Prematuridade, a campanha Novembro Roxo foi o principal assunto de um debate ocorrido na Comissão de Direitos Humanos (CDH).",
-    "O encontro teve como foco debater a prevenção do parto prematuro, o aprimoramento do atendimento no pré-natal, as condições das UTIs neonatais e os desafios das políticas de saúde materno-infantil no SUS.",
-    "Durante a audiência na CDH, os participantes convidados também ressaltaram a importância de oferecer suporte psicológico e social adequado aos pais de recém-nascidos prematuros."
+    "No dia 17 de novembro de 2026, data dedicada ao Dia Mundial da Prematuridade, a Comissão de Direitos Humanos (CDH) debateu a campanha internacional Novembro Roxo.",
+    "A audiência na CDH focou na conscientização sobre o nascimento prematuro de bebês, abordando a prevenção de partos antecipados e o aprimoramento do pré-natal.",
+    "Também foram debatidos a estrutura das unidades de terapia intensiva neonatal e os desafios das políticas públicas de saúde voltadas para mães e crianças no SUS.",
+    "Os participantes convidados para o debate enfatizaram a importância de garantir suporte social e emocional adequado aos pais de crianças nascidas prematuramente."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/videos/2026/11/novembro-roxo-e-tema-de-debate-na-cdh",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/190a025297e9.webp"
   },
   {
    "titulo": "Juros e tributos andaram na direção errada, diz conselheiro do Bradesco",
    "topicos": [
-    "Em 18 de novembro de 2026, na abertura do lançamento da nova medição do Custo Brasil em São Paulo, Luiz Carlos Trabuco Cappi, presidente do Conselho de Administração do Bradesco, alertou que juros, encargos trabalhistas, carga tributária e logística pioraram nos últimos anos, superando avanços na escolaridade e digitalização.",
-    "O estudo do MBC, com apoio técnico da Deloitte, estima que os custos adicionais para produzir, contratar e investir no Brasil chegam a R$ 3,5 trilhão por ano, o que corresponde a 27,5 % do PIB de 2025, ao comparar o país com referências da OCDE.",
-    "A nova metodologia incorpora custos de juros reais e da insegurança, ampliando o diagnóstico dos obstáculos ao setor produtivo; Trabuco afirmou que o problema pode ser ainda maior do que o mensurado pelo levantamento.",
-    "Trabuco defendeu que a redução do Custo Brasil seja tratada como política de Estado, com continuidade entre governos, exigindo prioridades claras, parcerias público‑privadas e mecanismos de governança para acelerar a competitividade.",
-    "O deputado federal Julio Lopes (PP‑RJ) destacou perdas anuais de R$ 55 bilhões com o mercado ilegal de bebidas e R$ 35 bilhões com o de cigarros, e apontou que o Imposto Seletivo pode elevar a tributação sobre bebidas a cerca de 90 %; medidas contra irregularidades no combustível do RJ podem gerar R$ 2,5 bilhões a mais de ICMS em 2026.",
-    "Marcelo Magalhães, CEO da Deloitte Brasil, explicou que a medição reorganizou os indicadores de 12 para 7 e que infraestrutura, capital humano e financiamento concentram mais de R$ 2,1 trilhão dos custos adicionais, servindo de base para propostas de melhoria do ambiente de negócios."
+    "Luiz Carlos Trabuco Cappi, presidente do Conselho de Administração do Bradesco, afirmou em 18 de novembro de 2026, em São Paulo, que indicadores como juros, carga tributária e logística pioraram no país.",
+    "Nova medição do Custo Brasil, lançada pelo MBC com apoio da Deloitte, aponta que os custos adicionais para produzir, contratar e investir no Brasil alcançam R$ 3,5 trilhões anualmente.",
+    "O montante estimado de R$ 3,5 trilhões equivale a 27,5% do Produto Interno Bruto de 2025, conforme o levantamento apresentado durante evento sobre competitividade.",
+    "O deputado federal Julio Lopes afirmou que o país perde R$ 55 bilhões por ano com o mercado ilegal de bebidas e R$ 35 bilhões com o de cigarros.",
+    "O parlamentar também criticou a tributação e alertou que o Imposto Seletivo pode elevar a carga tributária sobre o setor de bebidas para cerca de 90%.",
+    "Ações de combate a fraudes em combustíveis no Rio de Janeiro devem gerar um incremento de R$ 2,5 bilhões na arrecadação estadual de ICMS em 2026."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/juros-e-tributos-andaram-na-direcao-errada-diz-conselheiro-do-bradesco/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/ef338cdf84a2.webp"
   },
   {
    "titulo": "Senado bate recorde de vendas na Feira do Livro de Porto Alegre",
    "topicos": [
-    "A Livraria do Senado vendeu 12.177 livros na 72ª Feira do Livro de Porto Alegre, realizada de 30 de outubro a 15 de novembro na Praça da Alfândega.",
-    "O volume comercializado representa um recorde de vendas para a Casa em mais de 20 anos de participação, com alta de 33,3% sobre os 9.134 exemplares de 2025.",
-    "A forte procura exigiu o envio de mais 800 livros de reforço ao estoque, sendo que publicações como a Constituição Federal esgotaram uma semana antes do fim do evento.",
-    "A instituição levou 227 títulos à feira, incluindo obras jurídicas, históricas, legislativas e clássicos, com destaque para buscas pelo Vade Mecum e Código Civil.",
-    "A edição geral da Feira do Livro de Porto Alegre, com o tema “Essência que Faz Histórias”, comercializou 260,7 mil exemplares, alta de 6,2% ante o ano anterior.",
-    "O estande do Senado incluiu o conceito “Senado na Praça”, oferecendo debates, oficinas do portal e-Cidadania para estudantes e o lançamento de obra do senador Paulo Paim."
+    "A Livraria do Senado vendeu 12.177 livros na 72ª Feira do Livro de Porto Alegre, realizada de 30 de outubro a 15 de novembro de 2026 na Praça da Alfândega.",
+    "O volume comercializado representou o maior recorde da Casa em mais de 20 anos de participação no evento, superando em 33,3% o resultado de 2025, quando foram vendidos 9.134 exemplares.",
+    "O estoque inicial precisou ser reforçado com o envio de mais 800 livros devido à forte demanda, esgotando quase todos os exemplares ao fim da feira, com destaque para a Constituição Federal.",
+    "A instituição levou 227 títulos ao evento, incluindo obras jurídicas, históricas, legislativas e clássicos do Conselho Editorial, com exemplares da Constituição esgotados uma semana antes do encerramento.",
+    "A 72ª Feira do Livro de Porto Alegre teve como tema “Essência que Faz Histórias” e registrou a venda total de 260,7 mil exemplares, alta de 6,2% sobre o ano anterior.",
+    "O estande do Senado integrou o conceito “Senado na Praça” pelo terceiro ano consecutivo, oferecendo debates, oficinas do portal e-Cidadania para estudantes e lançamento de livro do senador Paulo Paim."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-bate-recorde-de-vendas-na-feira-do-livro-de-porto-alegre",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/5005d63af754.webp"
   },
   {
    "titulo": "Rede franqueada do KFC no Texas entra com pedido de recuperação após queda nas vendas",
    "topicos": [
-    "O grupo Tasty Chick’n, franqueado do KFC e do Taco Bell com sede no Texas, protocolou um pedido de recuperação judicial pelo Capítulo 11 em um tribunal de falências dos EUA na terça-feira.",
-    "A empresa administra atualmente 84 unidades das marcas de fast-food espalhadas por dez estados americanos e enfrenta problemas de rentabilidade nas lojas desde o ano de 2023.",
-    "As vendas dos restaurantes sofreram uma retração de cerca de 15,6% ao longo de três exercícios fiscais, enquanto as margens caíram de 11,8% em 2023 para 4,0% no exercício fiscal de 2026.",
-    "O pedido judicial aponta que a queda na receita coincidiu com a alta nos gastos com insumos, funcionários, operações e aluguéis, além de obrigações de reformas exigidas pelos contratos de franquia.",
-    "A crise financeira gerou mais de US$ 15,6 milhões em royalties pendentes, levando o grupo Yum! a notificar o franqueado em 15 de setembro de 2026 sobre a intenção de cancelar os acordos.",
-    "O processo sob o Capítulo 11 tem a finalidade de proteger o valor dos estabelecimentos em funcionamento e viabilizar a comercialização dos ativos sob controle judicial, além de buscar reestruturações."
+    "O grupo Tasty Chick’n, franqueado das marcas KFC e Taco Bell nos EUA, registrou pedido de recuperação judicial sob o Capítulo 11 no Tribunal de Falências do Distrito Sul do Texas, na terça‑feira, operando 84 unidades distribuídas por dez estados.",
+    "As vendas das unidades recuaram aproximadamente 15,6 % ao longo de três exercícios fiscais (2023‑2026) e as margens operacionais caíram de 11,8 % em 2023 para 4,0 % no exercício fiscal de 2026.",
+    "O aumento dos custos com insumos alimentícios, mão de obra, operações e aluguéis deteriorou o EBITDA dos restaurantes, resultando em mais de US$ 15,6 milhões em royalties não pagos.",
+    "Em 15 de setembro de 2026, a Yum! notificou as devedoras operacionais sobre a intenção de rescindir os contratos de franquia, alegando obrigações substanciais de reforma e modernização.",
+    "O pedido de Capítulo 11 visa preservar o valor dos restaurantes em operação, possibilitar a venda dos ativos sob supervisão judicial e explorar outras alternativas de reestruturação autônoma."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/foodservice/rede-franqueada-do-kfc-no-texas-entra-com-pedido-de-recuperacao-apos-queda-em-vendas/",
-   "categoria": "Mundo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/97f297907504.webp"
   },
   {
    "titulo": "Desemprego cai em 8 estados brasileiros no 3º trimestre de 2026, diz IBGE",
    "topicos": [
-    "A taxa de desemprego recuou em oito estados brasileiros no terceiro trimestre de 2026, conforme dados da Pnad Contínua divulgados pelo IBGE nesta quarta-feira (18). Pernambuco registrou a maior taxa do país, com 8,6%, enquanto Santa Catarina apresentou a menor, com 2,2%.",
-    "As maiores quedas na comparação trimestral ocorreram na Bahia (-2,0 p.p.), no Amapá (-1,9 p.p.) e no Piauí (-1,5 p.p.). O Espírito Santo foi a única unidade da federação a registrar alta, de 0,7 ponto percentual, enquanto os demais estados permaneceram estáveis.",
-    "O desemprego continuou a atingir mais as mulheres (6,3%) do que os homens (4,3%). Entre pessoas brancas, a taxa foi de 4,2%, abaixo da média nacional de 5,2%, ao passo que pretas e pardas registraram 6,2% e 5,8%, respectivamente.",
-    "A escolaridade influenciou diretamente o acesso às vagas no período: o ensino médio incompleto liderou a desocupação com 9,1%, seguido por ensino superior incompleto (5,0%) e ensino superior completo (3,0%).",
-    "A informalidade atingiu 37,5% dos trabalhadores brasileiros no terceiro trimestre, com o Pará liderando (58%) e Santa Catarina registrando o menor índice (25,7%). No setor privado, 74,2% dos empregados contavam com carteira assinada.",
-    "O rendimento médio mensal do trabalhador chegou a R$ 3.790, ficando estável frente ao trimestre anterior, mas superando os R$ 3.660 de um ano antes já descontada a inflação. A massa de rendimentos do país somou R$ 387,5 bilhões."
+    "A taxa de desemprego caiu em 8 estados brasileiros no terceiro trimestre de 2026, conforme dados da Pnad Contínua divulgados pelo IBGE nesta quarta-feira (18). Pernambuco registrou a maior taxa do país (8,6%), enquanto Santa Catarina teve a menor (2,2%).",
+    "As maiores quedas na taxa de desemprego ocorreram na Bahia (-2,0 pontos percentuais), no Amapá (-1,9 p.p.) e no Piauí (-1,5 p.p.). O Espírito Santo foi o único estado a registrar alta, de 0,7 p.p., enquanto os demais permaneceram estáveis.",
+    "O desemprego atingiu mais as mulheres (6,3%) do que os homens (4,3%). Entre pessoas brancas a taxa foi de 4,2%, abaixo da média nacional de 5,2%, ao passo que entre pretos e pardos ficou em 6,2% e 5,8%, respectivamente.",
+    "A escolaridade influenciou o acesso às vagas no período: a maior taxa de desemprego ocorreu no ensino médio incompleto (9,1%), seguida por ensino superior incompleto (5,0%) e ensino superior completo (3,0%).",
+    "A informalidade atingiu 37,5% dos trabalhadores brasileiros, com a maior taxa no Pará (58%) e a menor em Santa Catarina (25,7%). No setor privado, 74,2% dos empregados tinham carteira assinada no terceiro trimestre.",
+    "O rendimento médio mensal dos trabalhadores chegou a R$ 3.790, ficando estável ante o trimestre anterior (R$ 3.753), mas superando os R$ 3.660 de um ano antes, já descontada a inflação. A massa de rendimentos do país somou R$ 387,5 bilhões."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/18/desemprego-estados-pnad.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/8f2e998884a7.webp"
   },
   {
    "titulo": "Maioria dos trabalhadores não está engajada; veja motivos e quais jornadas têm piores índices",
    "topicos": [
-    "A pesquisa Engaja S/A, 4ª edição, revelou que 60% dos trabalhadores brasileiros não se consideram engajados; apenas 39% se declaram engajados. O desengajamento pode gerar perdas de até R$ 74,1 bilhões por ano para as empresas, equivalente a cerca de 0,58 % do PIB.",
-    "O nível de engajamento diminui com jornadas maiores e deslocamentos longos: entre quem trabalha 30 horas semanais, 49% estão engajados, enquanto entre os que cumprem 44 horas, o índice cai para 32%. Quem passa mais de duas horas diárias no trajeto, apenas 25% se sentem engajados.",
-    "Quanto ao modelo de trabalho, 53% dos profissionais em regime híbrido se declaram engajados, 45% dos que atuam remotamente e 37% dos que trabalham exclusivamente presencialmente. Metade dos entrevistados realiza horas extras ao menos uma vez por semana, muitas vezes sem compensação financeira ou em folga.",
-    "O engajamento varia conforme a posição: 67% dos executivos se consideram engajados, contra 28% dos colaboradores sem cargo de liderança. Executivos também relatam maior acesso a capacitação e recursos para suas atividades.",
-    "Nos seis meses anteriores à pesquisa, 55% dos trabalhadores pensaram em pedir demissão, contra 60% no levantamento anterior; a participação em entrevistas de emprego subiu de 42% para 52%. Entre os engajados, 42% cogitaram a demissão, enquanto 61% dos desengajados e 83% dos ativamente desengajados fizeram o mesmo.",
-    "A pesquisa foi realizada entre março e abril de 2026, com 4.033 trabalhadores de diferentes regiões, níveis hierárquicos e setores da economia, buscando medir o grau de engajamento e identificar os fatores que mais influenciam a relação com o trabalho.",
-    "Os principais fatores associados ao desengajamento incluem queda na percepção de propósito, aumento do estresse e esgotamento emocional, distância entre líderes e equipes, dificuldade de acesso a oportunidades de desenvolvimento e descompasso entre ofertas das empresas e expectativas dos profissionais."
+    "A 4ª edição do estudo Engaja S/A, realizada pela Flash e FGV EAESP, aponta que 60% dos trabalhadores brasileiros não estão engajados, sendo apenas 39% considerados engajados. A pesquisa ouviu 4.033 profissionais entre março e abril de 2026 em diversas regiões do país.",
+    "O desengajamento gera perdas anuais de até R$ 74,1 bilhões para as empresas brasileiras, o que equivale a aproximadamente 0,58% do Produto Interno Bruto (PIB).",
+    "O engajamento diminui com jornadas longas e deslocamentos demorados: a taxa é de 49% para 30 horas semanais e cai para 32% nas 44 horas. No trânsito, o índice desce de 46% (para quem leva de 30 minutos a uma hora) para 25% (para quem gasta mais de duas horas).",
+    "O modelo híbrido lidera o engajamento com 53%, seguido pelo remoto (45%) e presencial (37%). Além disso, 50% dos profissionais fazem horas extras semanais, muitas vezes sem compensação financeira ou folga.",
+    "O engajamento varia conforme a hierarquia: 67% dos executivos se dizem engajados, contra apenas 28% dos colaboradores sem cargo de liderança. Entre os desengajados ou ativamente desengajados, 61% e 83% pensaram em pedir demissão nos seis meses anteriores, respectivamente.",
+    "Nos seis meses antes da pesquisa, 55% dos entrevistados pensaram em deixar o emprego com alguma frequência (ante 60% antes), e a participação em entrevistas subiu de 42% para 52%, indicando permanência por cautela e não por satisfação."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/maioria-dos-trabalhadores-nao-esta-engajada-veja-motivos-e-quais-jornadas-tem-piores-indices.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/761c8761c3fd.webp"
   },
   {
    "titulo": "STF julga nesta quarta (18) regra sobre nepotismo em cargos políticos; entenda",
    "topicos": [
-    "O STF julga nesta quarta-feira (18) se a proibição do nepotismo, vigente desde 2008, deve se estender a cargos políticos de primeiro escalão, como ministros e secretários estaduais e municipais.",
-    "Atualmente, a Súmula Vinculante nº 13 proíbe a contratação de cônjuges, companheiros ou parentes até o terceiro grau para cargos comissionados e de confiança, mas deixa brechas para auxiliares diretos do Executivo.",
-    "A discussão chegou ao Supremo em 2018 após um recurso do município de Tupã (SP) contra uma decisão do TJ-SP que anulou uma lei municipal de 2013 permitindo a nomeação de parentes para secretarias.",
-    "O caso tem repercussão geral e servirá de orientação para ao menos outros 15 processos em tramitação em estados como Santa Catarina, Minas Gerais, Rio de Janeiro, Bahia, Paraná e Sergipe.",
-    "O placar parcial registra 6 votos a 1 pela legalidade das indicações, liderado pelo relator Luiz Fux com exigência de qualificação técnica, enquanto a divergência aberta por Flávio Dino defende a proibição absoluta.",
-    "Restam os votos do presidente da Corte, Edson Fachin, e de Gilmar Mendes, e o resultado final pode sofrer alterações ou não alcançar maioria absoluta para efeito vinculante nacional até o término da votação."
+    "O STF julga nesta quarta-feira (18) se cônjuges, companheiros e parentes até o terceiro grau de autoridades podem assumir cargos políticos, como ministros e secretários.",
+    "Atualmente, a Súmula Vinculante nº 13 proíbe a contratação de parentes em cargos comissionados e de confiança, mas deixa margem sobre o primeiro escalão do Executivo.",
+    "A discussão chegou ao STF por meio de uma ação originada em Tupã (SP), após o município aprovar uma lei em 2013 permitindo a nomeação de parentes para secretarias.",
+    "A Corte reconheceu a repercussão geral do tema em 2018, o que significa que a decisão orientará o julgamento de ao menos outros 15 processos em todo o país.",
+    "Até o momento, o placar registra votos favoráveis à legalidade dessas nomeações com exigência de qualificação técnica, enquanto a divergência defende a proibição absoluta.",
+    "O resultado final depende dos votos do presidente da Corte, Edson Fachin, e de Gilmar Mendes, podendo alterar o entendimento vigente ou exigir maioria absoluta para fixar tese."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/18/stf-nepotismo-entenda.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/89ff81a1d382.webp"
   },
   {
    "titulo": "Câmara aprova crédito extraordinário de R$ 300 milhões para combate a incêndios na Amazônia",
    "topicos": [
     "A Câmara dos Deputados aprovou a Medida Provisória 1398/26, que libera um crédito extraordinário no valor de R$ 300 milhões para o Ministério da Integração e do Desenvolvimento Regional realizar ações de defesa civil.",
-    "O texto aprovado pela Câmara seguirá agora para análise e votação no Senado.",
-    "A Medida Provisória, que foi editada em outubro deste ano, tem o objetivo de financiar atividades de socorro, assistência às vítimas, restabelecimento de serviços essenciais e recuperação de áreas atingidas por desastres climáticos em várias regiões.",
-    "De acordo com o governo, a liberação de recursos adicionais ocorre devido aos múltiplos eventos climáticos, à expansão de cidades com seca moderada a severa e à persistência de riscos hidrológicos.",
-    "O estado do Amazonas é apontado como o principal destaque, tendo registrado um crescimento expressivo de focos de queimadas, intensificação de incêndios florestais e a proximidade do fogo em áreas urbanas locais."
+    "Editada em outubro deste ano, a verba é destinada a atividades de socorro, assistência a vítimas, reestabelecimento de serviços essenciais e recuperação de locais afetados por desastres climáticos em várias regiões.",
+    "O repasse financeiro ocorre após o governo identificar eventos climáticos extremos, crescimento nos municípios com seca moderada a severa e a persistência de riscos hidrológicos importantes no país.",
+    "O estado do Amazonas recebeu destaque na justificativa oficial devido ao crescimento de focos de queimadas, ao agravamento de incêndios florestais e à proximidade das chamas de zonas urbanas em cidades locais.",
+    "Com a aprovação na Câmara dos Deputados, o texto oficial da Medida Provisória seguirá agora para análise e votação no Senado."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1320344-camara-aprova-credito-extraordinario-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/00068d222e27.webp"
   },
   {
    "titulo": "Presidente do México viraliza na China após viajar para cúpula da APEC em voo comercial",
    "topicos": [
-    "A presidente do México, Claudia Sheinbaum, viralizou na rede social chinesa Weibo ao optar por um voo comercial para participar da cúpula da Cooperação Econômica Ásia-Pacífico (APEC) em Shenzhen, na China.",
-    "Na quarta-feira (18), a hashtag sobre a chegada da presidente mexicana acumulou mais de 10,2 milhões de visualizações na plataforma digital.",
-    "A decisão de utilizar voos comerciais segue a política de austeridade adotada por seu antecessor, Andrés Manuel López Obrador, cujo governo colocou o avião presidencial à venda em 2023.",
-    "Usuários da rede social relataram que a governante, de 64 anos e doutora em engenharia energética, viajou na classe econômica de uma aeronave da China Southern Airlines e conversou com passageiros.",
-    "A viagem da presidente durou praticamente dois dias de voo e envolveu o desafio da diferença de fuso horário, contando com a companhia de uma numerosa delegação de ministros.",
-    "Em Shenzhen, Sheinbaum se encontrou com o líder chinês, Xi Jinping, para discutir uma nova era nas relações bilaterais e a cooperação em tecnologia e energia limpa, em meio às relações com os Estados Unidos."
+    "A presidente do México, Claudia Sheinbaum, embarcou em um voo comercial da China Southern Airlines, classe econômica, rumo a Shenzhen, China, para participar da cúpula da APEC, e divulgou o embarque em vídeo no X.",
+    "A viagem viralizou no Weibo chinês; a hashtag \"A presidente mexicana Sheinbaum chega a Shenzhen\" já somava mais de 10,2 milhões de visualizações na quarta‑feira, 18 de novembro.",
+    "Sheinbaum mantém a política de austeridade de seu antecessor Andrés Manuel López Obrador, que vendeu o avião presidencial em 2023, passando a usar voos comerciais para deslocamentos oficiais.",
+    "Antes de partir, a presidente afirmou que o trajeto até a China levaria \"praticamente dois dias de voo\" e seria desafiador devido à diferença de fuso horário.",
+    "Em Shenzhen, chegou de ônibus, caminhou pelo tapete vermelho na pista e se encontrou com o presidente chinês Xi Jinping e a primeira‑dama Peng Liyuan; o Ministério das Relações Exteriores da China destacou discussões sobre uma \"nova era\" nas relações bilaterais, incluindo tecnologia e energia limpa.",
+    "Sheinbaum viajou acompanhada de uma numerosa delegação de ministros, enquanto a APEC reúne também líderes como Donald Trump, Vladimir Putin e Xi Jinping em encontros paralelos.",
+    "Usuários do Weibo postaram fotos alegando vê‑la na classe econômica, elogiando a economia de recursos públicos; a AFP não pôde confirmar a autenticidade das imagens."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/presidente-do-mexico-viraliza-na-china-apos-viajar-para-cupula-da-apec-em-voo-comercial.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/088f7abdbb06.webp"
   },
   {
    "titulo": "Monitor do PIB medido pela FGV aponta queda de 0,2% no 3º trimestre ante 2º trimestre",
    "topicos": [
-    "O Produto Interno Bruto (PIB) brasileiro caiu 0,2% no terceiro trimestre de 2026 em relação ao segundo trimestre, conforme dados do Monitor do PIB da FGV Ibre com ajuste sazonal.",
-    "O recuo trimestral encerrou uma série de 20 trimestres seguidos de crescimento da economia nacional, refletindo uma desaceleração contínua desde 2025.",
-    "Na comparação com o terceiro trimestre de 2025, a atividade econômica registrou alta de 1,4%, enquanto o resultado de setembro ficou estável frente a agosto de 2026.",
-    "O indicador apontou crescimento de 1,0% em setembro de 2026 ante setembro de 2025 e taxa acumulada de 1,8% nos 12 meses encerrados em setembro.",
-    "Pelo lado da oferta, o resultado do terceiro trimestre decorreu das quedas na produção agropecuária e no comércio, afetando a economia geral.",
-    "Sob a ótica da demanda, pesaram negativamente a desaceleração do consumo das famílias e da formação bruta de capital fixo.",
-    "O PIB acumulado até o terceiro trimestre de 2026 atingiu R$ 10,188 trilhões em valores correntes, com taxa de investimento de 18,9% no período."
+    "O Produto Interno Bruto brasileiro caiu 0,2% no terceiro trimestre de 2026 em relação ao segundo trimestre, de acordo com o Monitor do PIB do Ibre/FGV, com ajuste sazonal.",
+    "Esse recuo encerrou uma série de 20 trimestres seguidos de crescimento econômico e reflete a continuidade da desaceleração observada desde o ano de 2025.",
+    "Frente ao terceiro trimestre de 2025, a atividade econômica registrou alta de 1,4%, enquanto o resultado de setembro ficou estável ante agosto.",
+    "A taxa acumulada em 12 meses até setembro alcançou 1,8%, e o valor monetário do PIB somou R$ 10,188 trilhões em valores correntes no período.",
+    "Pelo lado da oferta, a retração trimestral decorreu da baixa na produção agropecuária e no comércio, afetando também o consumo das famílias e os investimentos.",
+    "O consumo familiar subiu 0,3% no confronto anual (menor taxa desde outubro de 2025), a Formação Bruta de Capital Fixo caiu 0,2% e a taxa de investimento ficou em 18,9%."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/economia/monitor-do-pib-medido-pela-fgv-aponta-queda-de-02-no-3o-trimestre-ante-2o-trimestre/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a44013b75e5d.webp"
   },
   {
    "titulo": "Polícia das Filipinas pede indiciamento do pai de Meghan Markle",
    "topicos": [
-    "A polícia das Filipinas pediu o indiciamento de Thomas Markle, pai da duquesa de Sussex Meghan Markle, por suspeita de posse e distribuição de material de abuso sexual infantil.",
-    "O inquérito policial foi apresentado na segunda-feira (16) na província de Cebu, onde as autoridades acreditam que ele tenha vivido por um ano, segundo o promotor regional Graeme Elmido.",
-    "A recomendação policial inclui duas acusações de distribuição de pornografia infantil e uma acusação de posse desse mesmo tipo de material.",
-    "As denúncias passarão por uma avaliação preliminar para decidir se Thomas Markle, de 82 anos, será intimado a responder às acusações formalmente no processo de investigação.",
-    "Thomas Markle, que nega todas as acusações e está afastado da filha desde 2018, também é alvo de investigações nos Estados Unidos e no México.",
-    "Nos Estados Unidos, ele foi detido pelo FBI na Flórida e a juíza do caso pediu uma avaliação psiquiátrica. No México, autoridades revistaram um depósito ligado a ele.",
-    "No início de novembro, a polícia filipina relatou a apreensão de material de abuso infantil em três cartões de memória e um celular em uma antiga residência do investigado."
+    "A polícia das Filipinas pediu o indiciamento de Thomas Markle, pai da duquesa de Sussex, por suspeita de posse e distribuição de material de abuso sexual infantil, conforme afirmou o promotor Graeme Elmido à agência AFP nesta quarta-feira (18).",
+    "O inquérito policial foi protocolado na segunda-feira (16) na província de Cebu, onde as autoridades estimam que ele tenha residido por um ano, recomendando duas acusações de distribuição de pornografia infantil e uma de posse.",
+    "As denúncias passarão por uma avaliação preliminar para decidir se Thomas Markle será intimado a responder formalmente na investigação, segundo o promotor.",
+    "O investigado, de 82 anos, também é alvo de apurações nos Estados Unidos, onde agentes do FBI o detiveram em uma casa de repouso na Flórida, e a juíza do caso pediu uma avaliação psiquiátrica.",
+    "As autoridades mexicanas também conduzem investigações e realizaram buscas em um depósito que teria sido alugado por Thomas Markle.",
+    "No início de novembro, a polícia filipina relatou a localização de material de abuso infantil em um celular e três cartões de memória apreendidos em um antigo endereço atribuído a ele.",
+    "O investigado nega todas as acusações e está rompido com a filha Meghan desde o casamento dela com o príncipe Harry em 2018."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/policia-filipina-pede-indiciamento-do-pai-de-meghan-markle.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/094cf08d5f20.webp"
   },
   {
    "titulo": "Avião de companhia aérea russa faz pouso na Turquia após falsa ameaça de bomba",
    "topicos": [
-    "Um avião Sukhoi Superjet 100 da Azimuth Airlines sofreu uma falsa ameaça de bomba nesta quarta-feira (18), enquanto voava rumo ao sul da Turquia.",
-    "A aeronave fazia o trajeto entre Mineralnye Vody, na Rússia, e Antália, local que sedia a conferência climática COP31 da ONU.",
-    "O voo aterrissou em segurança no aeroporto de Antália e foi direcionado para uma zona protegida, segundo as agências locais DHA e IHA.",
-    "A bordo estavam 65 passageiros e quatro tripulantes, que foram devidamente evacuados após a chegada, conforme os relatos da imprensa turca.",
-    "As equipes de segurança realizaram vistorias no avião, mas nenhum artefato suspeito foi localizado pelas autoridades locais.",
-    "O incidente ocorre após uma série de falsas ameaças contra voos comerciais vindos da Europa no início do mês, gerando investigações internacionais."
+    "Um avião Sukhoi Superjet 100 da Azimuth Airlines sofreu uma falsa ameaça de bomba durante voo nesta quarta-feira (18), no sul da Turquia.",
+    "A aeronave fazia o trajeto entre Mineralnye Vody, na Rússia, e Antália, cidade turca que sedia a conferência climática COP31 da ONU.",
+    "Após o pouso em segurança no aeroporto de Antália, a aeronave foi direcionada a uma área isolada e os 65 passageiros mais quatro tripulantes foram evacuados.",
+    "Vistorias realizadas pelas agências de notícias locais DHA e IHA confirmaram que nenhum artefato ou objeto suspeito foi encontrado a bordo.",
+    "No início do mês, voos comerciais vindos da Europa também sofreram falsas ameaças de bomba, motivando investigações internacionais sobre os casos."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/aviao-de-companhia-aerea-russa-faz-pouso-na-turquia-apos-falsa-ameaca-de-bomba.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/de3c8fc44d9d.webp"
   },
   {
    "titulo": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
    "topicos": [
-    "Jensen Huang renunciou ao cargo de cofundador e principal executivo da fabricante americana de chips Nvidia na semana passada, após a revelação de casos extraconjugais, incluindo um suposto envolvimento com uma espiã chinesa.",
-    "A saída de Huang causou forte impacto e abalou a companhia, fazendo com que a empresa perdesse centenas de bilhões de dólares em valor de mercado e provocando queda nas ações.",
-    "A avaliação atual da Nvidia é de US$ 3,8 trilhões (cerca de R$ 22 trilhões). Na terça-feira (17/11), a empresa declarou que seu crescimento acelerado deve continuar após registrar vendas trimestrais duas vezes maiores do que no ano anterior.",
-    "Analistas apontam que a saída do executivo gera riscos de mudança de estratégia e redução de investimentos, o que poderia desacelerar o setor de inteligência artificial devido a um modelo de financiamento circular que envolve clientes como Meta, SpaceX e OpenAI.",
-    "O Goldman Sachs projeta que os investimentos em inteligência artificial devem superar US$ 1 trilhão (cerca de R$ 5,8 trilhões) em 2026, mantendo a tecnologia como principal motor do crescimento dos investimentos corporativos.",
-    "Apesar de executivos como Elon Musk pedirem o retorno de Huang e do próprio ex-CEO declarar disposição para voltar, o conselho de administração da Nvidia afirmou que não considera sua reintegração, deixando Colette Kress no comando temporário da empresa."
+    "Jensen Huang renunciou ao cargo de cofundador e principal executivo da Nvidia na semana passada após a revelação de casos extraconjugais, incluindo um supostamente com uma espiã chinesa.",
+    "A fabricante americana de chips está avaliada em US$ 3,8 trilhões, o equivalente a cerca de R$ 22 trilhões, e registrou vendas trimestrais duas vezes maiores do que no mesmo período do ano anterior.",
+    "A saída de Huang provocou uma perda de centenas de bilhões de dólares no valor de mercado da companhia e gerou dúvidas sobre os rumos futuros dos investimentos da empresa em inteligência artificial.",
+    "A Nvidia pratica o chamado financiamento circular, vendendo chips e investindo ou concedendo empréstimos a clientes como Meta, SpaceX e OpenAI, além de fornecedores da sua cadeia.",
+    "O banco de investimentos Goldman Sachs projeta que os aportes globais em inteligência artificial ultrapassem US$ 1 trilhão, ou cerca de R$ 5,8 trilhões, no ano de 2026.",
+    "Mesmo com executivos e acionistas lançando a campanha Bring Jensen Back pedindo seu retorno e com Huang declarando disposição para voltar, o conselho de administração descartou sua reintegração."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cm3eg1nq1ynpo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2ac69cbba245.webp"
   },
   {
    "titulo": "Bancos fecham nesta sexta-feira; veja como pagar contas no feriado",
    "topicos": [
-    "Na próxima sexta-feira, 20, as agências bancárias de todo o Brasil fecham para atendimento presencial devido ao feriado nacional do Dia da Consciência Negra, conforme informou a Federação Brasileira de Bancos (Febraban).",
-    "Canais digitais como aplicativos e internet banking seguem disponíveis, e o Pix funciona normalmente 24 horas por dia, mas a abertura das salas de autoatendimento fica a critério de cada instituição financeira.",
-    "Transferências via TED e compensação de cheques não serão processadas no feriado, exigindo agendamento pelos canais digitais para o próximo dia útil.",
-    "Contas de consumo (como água, energia e telefone) e boletos com vencimento no dia 20 de novembro poderão ser quitados na segunda-feira, 23, sem cobrança de acréscimos.",
-    "Tributos e impostos com vencimento no feriado precisam ser pagos antecipadamente para evitar a aplicação de juros e multa.",
-    "Os feriados prolongados de novembro em uma segunda e uma sexta-feira devem movimentar R$ 4 bilhões nos setores de hospedagem e alimentação fora do lar no Estado de São Paulo, beneficiando viagens curtas."
+    "Na sexta-feira, 20, feriado do Dia da Consciência Negra, as agências bancárias de todo o Brasil não terão atendimento presencial, conforme informou a Federação Brasileira de Bancos (Febraban).",
+    "Canais digitais como aplicativos e internet banking continuam disponíveis, e o Pix funciona normalmente 24 horas por dia para consultas, transferências e pagamentos.",
+    "Operações dependentes de compensação bancária, a exemplo de TEDs e cheques, não serão processadas na data, mas podem ser agendadas para o próximo dia útil.",
+    "Contas de consumo (como água, energia e telefone) e boletos bancários que vencem no dia 20 de novembro poderão ser quitados na segunda-feira, 23, sem cobrança de acréscimos.",
+    "Tributos e impostos com vencimento no feriado precisam ser pagos de forma antecipada para que o contribuizante evite a cobrança de juros e multa.",
+    "Os dois feriados prolongados de novembro devem injetar R$ 4 bilhões nos setores de hospedagem e alimentação fora do lar no Estado de São Paulo, segundo a Fhoresp."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/servicos/bancos-fecham-nesta-sexta-feira-veja-como-pagar-contas-no-feriado/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/374b0cf797ae.webp"
   },
   {
    "titulo": "Pretos e pardos ocupam apenas 30,7% dos cargos gerenciais",
    "topicos": [
-    "Embora representem 55,1 % dos trabalhadores ocupados no Brasil, pretos e pardos ocupam apenas 30,7 % dos cargos gerenciais; os brancos, que correspondem a 43,8 % da força de trabalho, detêm 67,4 % desses postos de liderança.",
-    "Nos 20 % dos cargos gerenciais mais bem remunerados, a participação de pretos ou pardos cai para 19,6 %, enquanto a dos brancos sobe para 78,3 %.",
-    "A taxa de desemprego é de 4,3 % entre brancos, 7,1 % entre pretos e 6,5 % entre pardos; a informalidade atinge 33,4 % dos brancos e 44,8 % dos negros.",
-    "O rendimento médio por hora é de R$ 27,2 para brancos e R$ 16,6 para negros; entre quem tem ensino superior, os brancos recebem R$ 46,1 e os negros R$ 33,0 por hora.",
-    "Na distribuição de renda domiciliar per capita, 13,1 % dos negros estão no 10 % mais pobre, contra 5,9 % dos brancos; já entre os 10 % mais ricos, 16,3 % são brancos e apenas 5,1 % são negros.",
-    "Em 2025, 16,1 % dos brancos viviam abaixo da linha de pobreza (US$ 8,30/dia ≈ R$ 773/mês) contra 31,5 % dos pretos e pardos; a extrema pobreza (US$ 3/dia ≈ R$ 279/mês) afetava 2,9 % dos brancos e 5,8 % dos negros.",
-    "Segundo o Censo 2022, 12,7 % dos pretos e 10,1 % dos pardos moravam em favelas, frente a 5 % dos brancos; dados de 2024 do SIM mostram homicídios de 17,7 (pretos) e 29,5 (pardos) por 100 mil, contra 10 por 100 mil entre brancos, e entre jovens de 15‑29 anos, 105,5 por 100 mil para homens negros versus 33,2 para brancos."
+    "O estudo \"Desigualdades Sociais por Cor ou Raça no Brasil\", divulgado pelo IBGE nesta quarta-feira, 18, apontou que pessoas pretas e pardas somam 55,1% dos trabalhadores do país, mas ocupam apenas 30,7% dos cargos gerenciais.",
+    "Nos 20% dos cargos gerenciais mais bem remunerados, a participação de pretos ou pardos cai para 19,6%, enquanto a de brancos atinge 78,3%, segundo dados de 2025 da Pnad Contínua.",
+    "A taxa de desemprego em 2025 foi de 4,3% entre os brancos, ficando abaixo dos percentuais registrados entre pretos (7,1%) e pardos (6,5%). A informalidade atingiu 33,4% dos brancos e 44,8% dos negros.",
+    "O rendimento médio por hora dos trabalhadores brancos alcançou R$ 27,2, enquanto o de negros foi de R$ 16,6. Entre pessoas com ensino superior, brancos recebiam R$ 46,1 por hora e negros, R$ 33.",
+    "Em 2025, 16,1% das pessoas brancas viviam abaixo da linha da pobreza, com renda domiciliar per capita inferior a US$ 8,30 diários (R$ 773 mensais), patamar que alcançou 31,5% entre pretos e pardos.",
+    "A extrema pobreza, definida com renda inferior a US$ 3 por dia (R$ 279 mensais), atingiu 2,9% dos brancos e 5,8% dos negros em 2025.",
+    "Conforme o Censo de 2022, 12,7% dos pretos e 10,1% dos pardos moravam em favelas, frente a 5% dos brancos. Em 2024, a taxa de homicídios foi de 10 por 100 mil entre brancos, contra 17,7 entre pretos e 29,5 entre pardos."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/economia/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/99b01d695cf9.webp"
   },
   {
    "titulo": "Rede D’Or vende participação na Sul América Investimentos para Blackrock por R$ 850 milhões",
    "topicos": [
-    "A Rede D’Or comunicou nesta quarta-feira, 18, a assinatura de documentos para vender toda sua fatia na Sul América Investimentos para a Blackrock Brasil por cerca de R$ 850 milhões.",
-    "O montante da venda da SAMI está sujeito a ajustes de caixa líquido e capital de giro, conforme comunicado enviado à Comissão de Valores Mobiliários (CVM).",
-    "O pagamento estipulado prevê R$ 700 milhões à vista na conclusão e R$ 150 milhões divididos em duas parcelas futuras no terceiro e no quinto aniversários do fechamento.",
-    "A concretização da venda da gestora depende de condições que incluem o aval do Banco Central e do Conselho Administrativo de Defesa Econômica (Cade).",
-    "A Rede D’Or firmou acordo com a Atlântica para construir o Hospital São Conrado D’Or, no bairro de São Conrado, na cidade do Rio de Janeiro.",
-    "A Rede D’Or terá 50% de participação no empreendimento e fará a gestão médica, enquanto a Bradsaúde, via Atlântica, deterá 49,9% e pagará R$ 59.246.915,32 pelos imóveis."
+    "Na quarta‑feira, 18, a Rede D’Or assinou documentos definitivos para vender toda a sua participação nas empresas Sul América Investimentos Distribuidora de Títulos e Valores Mobiliários e Sul América Investimentos Gestora de Recursos (SAMI) à BlackRock Brasil, por aproximadamente R$ 850 milhões.",
+    "O valor de cerca de R$ 850 milhões está sujeito a ajustes usuais de caixa líquido e capital de giro; o pagamento será de R$ 700 milhões à vista no fechamento e R$ 150 milhões em duas parcelas contingentes, previstas para o 3º e 5º aniversário da operação.",
+    "A conclusão da venda depende de condições precedentes, entre elas a aprovação do Banco Central e do Conselho Administrativo de Defesa Econômica (Cade).",
+    "Em paralelo, a Rede D’Or São Luiz firmou acordo com a Atlântica Hospitais e a Atlântica Empreendimentos Imobiliários para construir e desenvolver um novo hospital no bairro de São Conrado, Rio de Janeiro.",
+    "A Rede D’Or aportará imóveis no local e deterá 50 % do futuro Hospital São Conrado D’Or; a Bradsaúde, via Atlântica, comprará 49,99 % dos imóveis por R$ 59.246.915,32, pagamento em parte à vista e o restante em até seis meses após o fechamento.",
+    "A gestão médica do hospital ficará a cargo da Rede D’Or, e a efetivação da transação está condicionada a aprovações regulatórias típicas de operações desse porte.",
+    "Ambas as operações foram divulgadas em fatos relevantes enviados à Comissão de Valores Mobiliários (CVM), demonstrando a estratégia da Rede D’Or de desinvestir ativos e ampliar sua presença no setor de saúde."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/servicos/rede-dor-vende-participacao-na-sul-america-investimentos-para-blackrock-por-r-850-milhoes/",
-   "categoria": "Varejo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/15dc88fe6d27.webp"
   },
   {
    "titulo": "Piora do crédito separa os bancões no 3T26: quem tem mais fôlego para proteger lucros e dividendos em 2027",
    "topicos": [
-    "No terceiro trimestre de 2026 (3T26), o Banco do Brasil registrou queda de 66,5% no lucro, ROE de 2,8% e precisou limitar a distribuição de dividendos para preservar capital.",
-    "O Itaú Unibanco manteve lucro de R$ 12,6 bilhões, ROE de 23,6% e inadimplência acima de 90 dias em 2%, além de possuir capital tangível equivalente a 61% do patrimônio líquido, segundo o Bank of America.",
-    "O Bradesco apresentou lucro recorrente de R$ 7,1 bilhões, ROE de 16,1%, índice de eficiência de 45,4% e CET1 de 12,1% após aumento de capital de R$ 10 bilhões; inadimplência >90 dias subiu para 4,6% e provisões atingiram R$ 10,6 bilhões, alta de 7% trimestral.",
-    "O Santander Brasil teve lucro de R$ 2,9 bilhões, queda de 28% em 12 meses, ROE de 11,9% e inadimplência >90 dias de 3,4%, com sinais de melhora nos atrasos de curto prazo, mas ainda em fase de ajuste de carteira.",
-    "Em Bradesco e Banco do Brasil, o capital tangível representa cerca de 40% do patrimônio líquido contábil, refletindo o peso de ágio e ativos fiscais diferidos (DTAs) que reduzem o capital regulatório.",
-    "Analistas da XP recomendam neutralidade para BBDC4 devido ao custo de crédito, enquanto Morgan Stanley mantém recomendação overweight (compra) para Bradesco, considerando o desconto excessivo em relação ao Itaú.",
-    "Para 2027, o Bank of America alerta que a qualidade do balanço será crucial; o Itaú, apesar de boa margem, enfrenta riscos de desaceleração econômica, mercado de trabalho fraco e alto endividamento das famílias, que podem reduzir a demanda por crédito."
+    "No 3T26, o Banco do Brasil viu seu lucro líquido cair 66,5%, a rentabilidade (ROE) recuar para 2,8% e precisou reduzir a distribuição de dividendos para preservar capital.",
+    "O Itaú Unibanco registrou lucro de R$ 12,6 bilhões (alta de 6,7% em 12 meses), ROE de 23,6% e inadimplência acima de 90 dias em 2%, mantendo ampla folga de capital que permite remunerar acionistas.",
+    "O Bradesco obteve lucro recorrente de R$ 7,1 bilhões, ROE de 16,1%, índice de eficiência de 45,4% e CET1 de 12,1% após aumento de capital de R$ 10 bilhões; porém a inadimplência >90 dias subiu para 4,6% e as provisões totalizaram R$ 10,6 bilhões, 7% a mais que no trimestre anterior.",
+    "O Santander Brasil teve lucro de R$ 2,9 bilhões, queda de 28% em 12 meses, ROE de 11,9% e inadimplência >90 dias em 3,4%, com sinais de melhora na concessão mais seletiva, mas ainda em fase de ajuste de carteira.",
+    "Analistas do Bank of America apontam que o capital tangível representa 61% do patrimônio líquido do Itaú, enquanto Bradesco e Banco do Brasil têm cerca de 40%, diferença influenciada por ágio e ativos fiscais diferidos (DTAs) que reduzem o cálculo regulatório.",
+    "A XP recomenda neutralidade para Bradesco, destaca a folga de capital do Itaú como justificativa para seu valuation premium, e vê o Santander ainda em ajuste; o Morgan Stanley mantém recomendação overweight para Bradesco e prefere Itaú, Bradesco e BTG Pactual frente a bancos mais sensíveis a juros.",
+    "O cenário projetado para 2027 indica que a qualidade do balanço será crucial; o Itaú, com maior capital tangível, está melhor posicionado, embora enfrente riscos de desaceleração econômica, enfraquecimento do mercado de trabalho e alto endividamento das famílias que podem reduzir a demanda por crédito."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/piora-do-credito-separa-os-bancoes-no-3t26-quem-tem-mais-folego-para-proteger-lucros-e-dividendos-em-2027-miql/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/c1fb5cd15f27.webp"
   },
   {
    "titulo": "Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco",
    "topicos": [
-    "O dólar operava em alta na quarta-feira no Brasil, impulsionado pelo comportamento positivo da moeda no exterior e pela expectativa em torno de leilões do Banco Central e do pacote fiscal.",
-    "Às 9h40, o dólar à vista subia 0,74%, cotado a R$ 5,8247 na venda, enquanto o dólar futuro para dezembro registrava alta de 0,76%, atingindo R$ 5,8350.",
-    "O presidente do Senado, Davi Alcolumbre, adiou para quarta-feira a votação do projeto fiscal para buscar entendimentos sobre destaques apresentados à proposta do governo.",
-    "O governo é contrário a um destaque que limita compensações tributárias, pois avalia que o projeto pode gerar impacto de até R$ 60 bilhões em 2027 e garantir superávit primário de 0,5% do PIB no próximo ano.",
-    "O Banco Central programou para as 10h30 de quarta-feira a realização de dois leilões de linha, somando US$ 1 bilhão, com o objetivo de aumentar a liquidez no mercado à vista.",
-    "No exterior, a moeda americana subiu frente a moedas fortes e emergentes, com apostas de que o Federal Reserve possa elevar os juros em dezembro."
+    "O dólar operava em alta na manhã desta quarta-feira no Brasil, influenciado pelo avanço da moeda norte-americana no exterior e pela expectativa em torno de leilões do Banco Central e do pacote fiscal.",
+    "Às 9h40, o dólar à vista subia 0,74% cotado a R$ 5,8247 na venda, enquanto o dólar futuro para dezembro registrava alta de 0,76% a R$ 5,8350.",
+    "O presidente do Senado, Davi Alcolumbre (União-AP), adiou para esta quarta-feira a votação do projeto fiscal para buscar entendimentos sobre destaques apresentados à proposta.",
+    "O governo quer evitar a aprovação de um destaque sobre compensação tributária que desconfigure o ajuste fiscal, projeto que pode ter impacto de até R$ 60 bilhões em 2027.",
+    "A medida busca garantir um superávit primário de 0,5% do Produto Interno Bruto (PIB) no próximo ano, após o dólar à vista subir mais de 20 centavos nas quatro sessões anteriores.",
+    "Às 10h30 desta quarta-feira, o Banco Central programou dois leilões de linha, com compromisso de recompra, totalizando US$ 1 bilhão para irrigar a liquidez no mercado à vista.",
+    "No exterior, o dólar subia frente a moedas fortes e emergentes, impulsionado por apostas de que o Federal Reserve poderá elevar os juros em dezembro."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/8fbead7b210d.webp"
   },
   {
    "titulo": "Pretos e pardos ganham menos, são maioria entre trabalhadores desocupados e entre vítimas de homicídio, mostra IBGE",
    "topicos": [
-    "O IBGE divulgou nesta quarta-feira (18) a terceira edição do estudo 'Desigualdades sociais por cor ou raça no Brasil', baseado na PNAD Contínua de 2025, no Censo de 2022 e em outras fontes oficiais.",
-    "Em 2025, os pardos representavam 44,1% da força de trabalho, mas somavam 51,1% dos desocupados e 53,4% dos subutilizados; entre os pretos, eram 11,6%, 14,7% e 14,1%, respectivamente, enquanto os brancos respondiam por 32,9% dos desocupados.",
-    "O rendimento médio por hora foi de R$ 29,20 para homens brancos, R$ 24,70 para mulheres brancas, R$ 17,20 para homens pretos ou pardos e R$ 15,70 para mulheres pretas ou pardas.",
-    "Na faixa de ensino superior completo, o homem branco recebia R$ 54,60 por hora, ao passo que a mulher preta ou parda ganhava R$ 28,80, e nos cargos gerenciais 67,4% dos ocupantes eram brancos.",
-    "Pela linha de pobreza do Banco Mundial de US$ 8,30 diários (cerca de R$ 773 mensais por pessoa), viviam 32% dos pardos, 29,2% dos pretos e 16,1% dos brancos; na extrema pobreza, de US$ 3 diários (cerca de R$ 279 mensais), estavam 6% dos pardos, 5,3% dos pretos e 2,9% dos brancos.",
-    "O Brasil registrou 42,6 mil homicídios em 2024, com taxa de 20,1 mortes por 100 mil habitantes, sendo que a taxa de homicídio de pardos chegou a 29,5 por 100 mil e a de pretos a 17,7, enquanto a de brancos ficou em 10,0.",
-    "Homens pretos ou pardos representaram 71,3% das vítimas de homicídio em 2024, e entre jovens de 15 a 29 anos a taxa desse grupo atingiu 105,5 por 100 mil habitantes, contra 33,2 dos brancos."
+    "Na quarta‑feira (18), o IBGE divulgou a terceira edição do estudo \"Desigualdades sociais por cor ou raça no Brasil\", elaborado a partir da PNAD Contínua 2025, do Censo 2022 e de fontes como Ministério da Saúde, TSE e Inep.",
+    "Em 2025, os pardos representavam 44,1 % da força de trabalho, mas 51,1 % dos desocupados e 53,4 % dos subutilizados; os pretos eram 11,6 % da força de trabalho, 14,7 % dos desocupados e 14,1 % dos subutilizados, enquanto os brancos, 43,2 % da força e 32,9 % dos desocupados.",
+    "O rendimento médio por hora foi de R$ 29,20 para homens brancos, R$ 17,20 para homens pretos ou pardos, R$ 24,70 para mulheres brancas e R$ 15,70 para mulheres pretas ou pardas; entre quem tem ensino superior completo, o homem branco ganhava R$ 54,60/h e a mulher preta ou parda R$ 28,80/h.",
+    "Nos cargos gerenciais, 67,4 % dos ocupantes eram brancos; entre os 20 % mais bem remunerados, apenas 19,6 % eram pretos ou pardos contra 78,3 % de brancos. No setor privado, 42 % dos dirigentes eram homens brancos, duas vezes seu peso populacional (20,7 %), e as mulheres pretas ocupavam só 1,7 % desses cargos, apesar de representarem 5,3 % da população 25 +.",
+    "Pela linha de pobreza do Banco Mundial (US$ 8,30/dia ≈ R$ 773/mês), 29,2 % dos pretos e 32 % dos pardos estavam abaixo do patamar, quase o dobro dos brancos (16,1 %). Na extrema pobreza (US$ 3/dia ≈ R$ 279/mês), 5,3 % dos pretos e 6 % dos pardos estavam nessa situação, contra 2,9 % dos brancos.",
+    "Em 2024 o Brasil registrou 42,6 mil homicídios (taxa de 20,1 por 100 mil), a menor desde 2012, mas a taxa para pardos foi 29,5 por 100 mil, quase três vezes a dos brancos (10,0) e superior à dos pretos (17,7). Homens pretos ou pardos foram 71,3 % das vítimas, quatro vezes a proporção de homens brancos (18,4 %).",
+    "Na pesquisa PeNSE, 16,8 % das meninas pretas ou pardas relataram cyberbullying, contra 12,4 % das brancas; na escola, 31,4 % das meninas e 28,1 % dos meninos pretos ou pardos sofreram ofensas ou humilhações repetidas, frente a 24,8 % e 23,3 % dos colegas brancos."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "sem_imagem": true
   },
   {
    "titulo": "IBGE: taxa de desemprego recua em 8 das 27 unidades da federação no 3º trimestre",
    "topicos": [
-    "A taxa de desemprego caiu em 8 das 27 unidades da Federação entre o segundo e o terceiro trimestre de 2026, conforme dados da Pnad Contínua divulgados pelo IBGE nesta quarta-feira, 18.",
-    "Na média nacional calculada pelo IBGE, o índice de desocupação recuou de 5,4% no segundo trimestre para 5,2% no terceiro trimestre de 2026.",
-    "O estado de São Paulo registrou uma taxa de desemprego de 5,4% no terceiro trimestre de 2026.",
-    "As maiores taxas de desocupação no período foram observadas em Pernambuco (8,6%), Amapá (7,9%) e Sergipe (7,4%).",
-    "Os menores percentuais de desemprego no trimestre foram constatados em Santa Catarina (2,2%), Mato Grosso do Sul (2,3%) e Mato Grosso (2,6%)."
+    "A taxa de desemprego diminuiu em 8 das 27 unidades da Federação entre o segundo e o terceiro trimestre de 2026, conforme dados da Pnad Contínua divulgados pelo IBGE nesta quarta-feira, 18.",
+    "Na média de todo o país, o índice de desocupação apresentou queda ao passar de 5,4% no segundo trimestre para 5,2% no terceiro trimestre.",
+    "O estado de São Paulo registrou uma taxa de desemprego de 5,4% durante o terceiro trimestre de 2026.",
+    "As maiores taxas de desocupação no período foram encontradas em Pernambuco com 8,6%, Amapá com 7,9% e Sergipe com 7,4%.",
+    "Os menores índices de desemprego no trimestre foram apurados em Santa Catarina com 2,2%, Mato Grosso do Sul com 2,3% e Mato Grosso com 2,6%."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ibge-taxa-de-desemprego-recua-em-8-das-27-unidades-da-federacao-no-3o-trimestre/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/583da52a3e2c.webp"
   },
   {
    "titulo": "Nvidia dobra lucro no 3º tri para US$ 65,3 bilhões e supera estimativas",
    "topicos": [
-    "A Nvidia divulgou na terça-feira os resultados do terceiro trimestre fiscal de 2027, encerrado em 30 de setembro, superando as estimativas de Wall Street após quedas recentes nas ações.",
-    "O lucro líquido da gigante de inteligência artificial dobrou para US$ 65,29 bilhões, enquanto o lucro ajustado por ação alcançou US$ 2,68, superando a previsão de US$ 2,48 da FactSet.",
-    "A receita trimestral mais que dobrou em comparação ao ano anterior, atingindo US$ 115,8 bilhões, acima da expectativa de US$ 108,9 bilhões dos analistas.",
-    "O segmento de data centers registrou receita de US$ 107,6 bilhões, representando 92% das vendas totais da companhia no período analisado.",
-    "Para o trimestre atual, a empresa elevou a projeção de vendas para US$ 130 bilhões, estimando margens brutas entre 71% e 2%.",
-    "A companhia investiga se o ex-CEO Jensen Huang foi alvo de inteligência estrangeira após admitir infidelidade e relação com uma empresária chinesa investigada."
+    "A Nvidia divulgou nesta terça-feira os resultados financeiros referentes ao terceiro trimestre fiscal de 2027, encerrado em 30 de setembro.",
+    "O lucro líquido da gigante de Inteligência Artificial dobrou e alcançou US$ 65,29 bilhões, enquanto o lucro ajustado por ação ficou em US$ 2,68.",
+    "A receita total do trimestre mais que dobrou em comparação ao ano anterior, atingindo US$ 115,8 bilhões e superando as previsões da FactSet.",
+    "O segmento de data centers respondeu por 92% das vendas da companhia e registrou faturamento de US$ 107,6 bilhões, também dobrando na mesma base de comparação.",
+    "Para o trimestre atual, a empresa elevou sua projeção de vendas para US$ 130 bilhões, estimando margens brutas entre 71% e 2%.",
+    "A divulgação ocorreu em meio a uma investigação independente aberta no domingo, 8, para apurar se o ex-CEO Jensen Huang foi alvo de inteligência estrangeira."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/mc-capital/nvidia-dobra-lucro-no-3o-tri-para-us-653-bilhoes-e-supera-estimativas/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/3068aa216e32.webp"
   },
   {
    "titulo": "Tribunal espanhol abre investigação contra Julio Iglesias após denúncias de agressão sexual",
    "topicos": [
-    "Um tribunal espanhol abriu, nesta quarta-feira (18), uma investigação contra o cantor Julio Iglesias, de 82 anos, após denúncias de duas ex-funcionárias.",
-    "As mulheres acusam o artista de agressão sexual, violência, tratamento degradante e trabalho forçado, supostamente ocorridos em 2021 nas Bahamas e na República Dominicana.",
-    "Uma denúncia anterior feita em janeiro foi arquivada porque a Justiça alegou falta de competência para julgar fatos ocorridos fora da Espanha.",
-    "Em setembro, as funcionárias apresentaram uma nova acusação, e a ONG Women's Link Worldwide divulgou o caso e passou a representar as vítimas.",
-    "O Ministério Público emitiu um parecer favorável em outubro para que a Audiência Nacional, em Madri, assumisse o processo.",
-    "O juiz Antonio Piña aceitou a denúncia com base em uma lei que autoriza processar crimes cometidos por espanhóis no exterior.",
-    "A defesa de Julio Iglesias classificou as acusações como absolutamente falsas, negando qualquer tipo de abuso, coação ou desrespeito."
+    "Um tribunal espanhol em Madri abriu, nesta quarta-feira (18), uma investigação contra o cantor Julio Iglesias, de 82 anos, após denúncias de agressão sexual feitas por duas ex-funcionárias.",
+    "As mulheres acusam o artista de crimes contra a liberdade sexual, violência, tratamento degradante e trabalho forçado, supostamente ocorridos em 2021 nas propriedades dele nas Bahamas e na República Dominicana.",
+    "Uma primeira denúncia apresentada em janeiro foi arquivada pela Justiça por falta de competência para julgar fatos ocorridos no exterior, mas uma nova queixa foi protocolada em setembro com o apoio da ONG Women's Link Worldwide.",
+    "Em outubro, o Ministério Público espanhol emitiu um parecer favorável para que a Audiência Nacional assumisse o caso, utilizando uma lei que permite investigar crimes de espanhóis fora do país.",
+    "O juiz Antonio Piña aceitou formalmente a denúncia nesta quarta-feira (18), enquanto a defesa do cantor de 82 anos já havia classificado as acusações como absolutamente falsas."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/18/tribunal-espanhol-abre-investigacao-contra-julio-iglesias-apos-denuncias-de-agressao-sexual.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bd320c41bc70.webp"
   },
   {
    "titulo": "Criadora de conteúdo holandesa é detida pelo ICE nos EUA",
    "topicos": [
-    "A criadora de conteúdo holandesa Vera Dijkmans, de 29 anos, foi detida pelo Serviço de Imigração e Controle de Alfândegas dos Estados Unidos (ICE).",
-    "A prisão ocorreu em 11 de novembro, quando ela desembarcou no Aeroporto Internacional de Newark, em Nova Jersey, em um voo vindo de Miami.",
-    "O Departamento de Segurança Interna informou que a detenção aconteceu porque ela não compareceu a uma audiência de imigração em maio e ficou no país além do prazo do visto.",
-    "A mãe da influenciadora afirmou que ela estava no país com visto de turista (B-2) e perdeu a audiência por estar viajando.",
-    "Vera Dijkmans, que possui mais de 5 milhões de seguidores no Instagram e perfil no OnlyFans, já é alvo de um processo de deportação sem data definida.",
-    "Familiares relataram ao jornal New York Post que ela está em um centro de detenção em Nova Jersey, dividindo espaço com 12 pessoas e sem ver a luz do sol por dias."
+    "A influenciadora holandesa Vera Dijkmans, 29 anos, com mais de 5 milhões de seguidores no Instagram e perfil no OnlyFans, foi detida pelo Serviço de Imigração e Controle de Alfândegas dos EUA (ICE).",
+    "A prisão ocorreu em 11 de novembro, ao desembarcar no Aeroporto Internacional de Newark, em Nova Jersey, após voo procedente de Miami.",
+    "O Departamento de Segurança Interna (DHS) informou que a detenção se deve à não comparecimento a audiência de imigração em maio e ao excesso de permanência além do visto de turista (B‑2).",
+    "Vera já está alvo de processo de deportação, porém ainda não há data definida para sua saída dos Estados Unidos, conforme a emissora holandesa Omroep Brabant.",
+    "Ela está em um centro de detenção em Nova Jersey, dividindo o espaço com outras 12 pessoas e, segundo a família, passou vários dias sem acesso à luz solar.",
+    "A mãe, Marianne Scholt, declarou à RTL Nieuws que a falta à audiência ocorreu porque Vera estava viajando; até o momento não há manifestação pública da defesa.",
+    "Natural de Waalwijk, nos Países Baixos, Vera ganhou projeção internacional em 2023 ao se autodenominar “namorada mais desejada do mundo” e também produz conteúdo sobre artes marciais."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/criadora-de-conteudo-holandesa-e-detida-pelo-ice-nos-eua.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/d2062335b473.webp"
   },
   {
    "titulo": "VÍDEO: Polícia resgata menina de 2 anos em lago após mãe acionar emergência nos EUA",
    "topicos": [
-    "Uma menina de dois anos foi resgatada com vida dentro de um lago no condado de Hillsborough, na Flórida, Estados Unidos, após a mãe acionar a emergência.",
-    "O caso ocorreu na última segunda-feira (16), com a chamada registrada às 13h no horário local no gabinete do xerife do condado.",
-    "As equipes policiais iniciaram as buscas imediatamente e localizaram a criança no lago próximo apenas sete minutos após o início da ocorrência.",
-    "A vítima foi retirada da água sem ferimentos aparentes, passou por exames médicos do Corpo de Bombeiros e foi devolvida à mãe."
+    "Uma menina de dois anos foi resgatada dentro de um lago por policiais após a mãe acionar o serviço de emergência relatando seu desaparecimento, na última segunda-feira (16), no condado de Hillsborough, na Flórida, Estados Unidos.",
+    "Os agentes do gabinete do xerife local chegaram ao endereço fornecido pela mãe às 13h, no horário local, e iniciaram as buscas de forma imediata na região.",
+    "A criança foi localizada no corpo d'água próximo sete minutos após o início das buscas, sendo retirada do local sem apresentar ferimentos aparentes.",
+    "O Corpo de Bombeiros do condado realizou exames médicos na menina antes de devolvê-la aos cuidados da mãe, conforme informou o xerife Chad Chronister."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/video-policia-resgata-menina-de-2-anos-em-lago-apos-mae-acionar-emergencia-nos-eua.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/4fdd5cd9d006.webp"
   },
   {
    "titulo": "México suspende leilão de obra de Frida Kahlo nos Estados Unidos",
    "topicos": [
-    "A casa de leilões Christie's suspendeu, na terça‑feira (17), o leilão da pintura \"Congreso de los pueblos por la paz\" de Frida Kahlo, que seria realizado nos Estados Unidos.",
-    "A obra, datada de 1952, tinha preço inicial previsto entre US$ 2,5 e US$ 3,5 milhões (cerca de R$ 14,4 mi a R$ 20,2 mi).",
-    "O México declarou a pintura como monumento artístico desde 1984 e proibiu sua exportação, embora a Secretaria de Cultura tenha informado que ela saiu do país em 1952, antes da proibição.",
-    "A Secretaria de Cultura do México solicitou à Christie's informações completas sobre a procedência da obra e pediu o adiamento da venda.",
-    "Um grupo de artistas e promotores culturais, com base em texto de Hilda Trujillo (ex‑diretora da Casa Azul) publicado em 2025, afirma que a pintura foi retirada irregularmente do Museu Frida Kahlo, constando no catálogo da Casa Azul desde 1957 e mudando de proprietário a partir de 2011.",
-    "A direção atual da Casa Azul comunicou que a obra está incluída em investigação em curso pelas autoridades mexicanas."
+    "Na terça-feira (17), a casa Christie's suspendeu o leilão do quadro 'Congreso de los pueblos por la paz', pintado por Frida Kahlo em 1952, nos Estados Unidos.",
+    "A suspensão ocorreu a pedido do governo mexicano, que levantou dúvidas sobre a legalidade da saída da pintura de seu país de origem.",
+    "O leilão estava agendado para a noite de terça-feira com um lance inicial estimado entre US$ 2,5 e US$ 3,5 milhões, o equivalente a cerca de R$ 14,4 a R$ 20,2 milhões.",
+    "O governo do México classificou formalmente a produção artística de Kahlo como monumento artístico no ano de 1984, estabelecendo a proibição de sua exportação.",
+    "A Secretaria de Cultura mexicana inicialmente declarou que a tela havia deixado o território nacional em 1952, antes da vigência do decreto restritivo.",
+    "Entretanto, autoridades pediram o adiamento da venda após questionamentos sobre a procedência da peça e denúncias de que teria saído irregularmente do Museu Frida Kahlo.",
+    "A atual administração do museu comunicou à casa de leilões que o item faz parte de uma investigação criminal em andamento conduzida pelas autoridades do México."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/18/mexico-suspende-leilao-de-obra-de-frida-kahlo-nos-estados-unidos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/82c64a765830.webp"
   }
  ]
 }
