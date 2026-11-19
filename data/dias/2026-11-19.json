@@ -4,502 +4,589 @@
   {
    "titulo": "Senado completa votação, e ajuste fiscal segue para a Câmara",
    "topicos": [
-    "O Senado concluiu nesta quarta-feira (18) a votação do projeto de ajuste fiscal (PLP 299/2026) em turno suplementar, registrando 69 votos a favor e dois contrários. A proposta, apresentada pelo Executivo e relatada pelo senador Eduardo Braga, segue agora para análise da Câmara dos Deputados.",
-    "Durante a votação suplementar, foram aceitas três das 15 emendas apresentadas. Entre as mudanças, o prazo para o Congresso regulamentar o teto salarial do serviço público caiu de 120 para 60 dias a partir da publicação da lei.",
-    "O projeto estima uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. O texto também limita o crescimento dos gastos públicos acima da inflação a 2% nos anos com medidas de contenção fiscal, abaixo do teto atual de 2,5%.",
-    "A proposta prevê repasses da Lei Kandir de R$ 2 bilhões ao ano, com compensações a estados e municípios ocorrendo entre 2028 e 2030. Além disso, abre espaço fiscal extraordinário de até R$ 10,5 bilhões em 2026 para subsidiar o óleo diesel rodoviário e conter preços de combustíveis.",
-    "O texto estabelece que economias obtidas com o fim dos supersalários no Executivo federal financiem segurança pública e atendimento socioeducativo. Nos demais Poderes, os recursos serão direcionados à reestruturação e recomposição de pessoal."
+    "O Senado concluiu nesta quarta-feira (18) a votação do projeto de ajuste fiscal (PLP 299/2026) em turno suplementar, registrando 69 votos favoráveis e dois contrários. A proposta, apresentada pelo Executivo e relatada por Eduardo Braga, segue agora para análise na Câmara dos Deputados.",
+    "O texto projeta uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. Além disso, prevê que o crescimento real das despesas federais seja limitado a 2% nos anos com medidas de contenção fiscal, abaixo do teto de 2,5% do arcabouço.",
+    "O relator acatou três das 15 emendas apresentadas no turno suplementar. Uma delas reduziu de 120 para 60 dias o prazo para o Congresso regulamentar o teto salarial do serviço público, após a publicação da nova lei.",
+    "Outra mudança aprovada determina que, se o resultado primário do governo central do ano anterior for inferior a 0,5% do PIB, o Executivo deverá apresentar as causas e as medidas de correção em audiência pública na Comissão Mixta de Orçamento.",
+    "O projeto também abre espaço fiscal extraordinário de até R$ 10,5 bilhões em 2026 para custear a subvenção ao óleo diesel rodoviário, mitigando impactos do conflito no Oriente Médio sobre os combustíveis e a inflação.",
+    "O texto alterou os repasses da Lei Kandir de 1996: o piso anual foi fixado em R$ 2 bilhões, com a compensação remanescente programada para ser paga aos estados e municípios entre 2028 e 2030."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/07d8792ea494.webp"
   },
   {
    "titulo": "É #FAKE que MP do 'imposto do pecado' aumentará em 30% carga tributária sobre carros em 2027",
    "topicos": [
-    "É falso que a Medida Provisória n.º 1.399/2026 aumentará em 30% a carga tributária sobre todos os carros a partir de 2027, segundo checagem do Fato ou Fake com a Receita Federal.",
-    "Publicada em 4 de novembro, a MP estabelece o Imposto Seletivo (IS), que substituirá o Imposto sobre Produtos Industrializados (IPI) com o objetivo de desestimular o consumo de produtos prejudiciais à saúde ou ao meio ambiente.",
-    "A alíquota máxima de 30% do IS aplicará-se apenas a veículos específicos, como carros de passeio a diesel com potência superior a 290 kW, e não representa um acréscimo de 30% sobre os tributos atuais.",
-    "Carros populares flex terão alíquota estimada de 7,62%, e os elétricos de 5,20%, enquanto categorias como veículos para pessoas com deficiência, autistas e taxistas terão alíquota zero, conforme as regras da medida.",
-    "A tributação varia conforme cinco critérios: motorização, eficiência energética, potência, assistências ao motorista e reciclabilidade, sendo multiplicada por um fator de 1,21 para definir as alíquotas finais.",
-    "A transição tributária prevista para 2027 é neutra: o IS substitui o IPI e sua arrecadação será usada para reduzir a alíquota de referência da CBS, conforme explicam especialistas e a Receita Federal."
+    "É falso que a Medida Provisória n.º 1.399/2026 aumentará em 30% a carga tributária de todos os carros a partir de 2027, conforme desmentido pela Receita Federal após postagem viralizada no X em 5 de novembro.",
+    "O Imposto Seletivo (IS), conhecido como imposto do pecado, substitui o Imposto sobre Produtos Industrializados (IPI), que será zerado em fevereiro de 2027, e não representa uma taxa adicional somada à tributação atual.",
+    "A alíquota máxima de 30% do IS incidirá exclusivamente sobre o caso mais extremo: carros de passeio movidos a diesel com potência superior a 290 kW, como importados de luxo, e não sobre veículos populares ou eletrificados.",
+    "Carros populares flex terão alíquota estimada em 7,62%, enquanto elétricos pagarão 5,20%; veículos de pessoas com deficiência ou autismo e motoristas profissionais de aluguel, como táxis, terão alíquota zero.",
+    "Caminhões com peso bruto igual ou superior a 3,5 mil quilos (exceto picapes) e veículos operacionais das Forças Armadas e Segurança Pública terão não incidência do tributo.",
+    "A arrecadação do IS em 2027 servirá para reduzir a alíquota da CBS, mantendo a neutralidade da carga tributária total, e o governo enviará um projeto de lei até 31 de maio de 2027 para definir as alíquotas permanentes para 2028."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/19/e-fake-que-mp-do-imposto-do-pecado-aumentara-em-30percent-carga-tributaria-sobre-carros-em-2027.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/2e908c7f019e.webp"
   },
   {
    "titulo": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo",
    "topicos": [
-    "No fim da tarde de quarta-feira (18), o Senado Federal aprovou o projeto de ajuste fiscal do governo (PLP 299/2026) sem aceitar as alterações propostas pela oposição no plenário.",
-    "A proposta prevê economia estimada entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027, considerando o resultado primário por meio do controle de despesas e da ampliação da arrecadação.",
-    "O texto muda o arcabouço fiscal para permitir bloqueios adicionais de gastos e reduz, a partir do próximo ano, o limite de alta das despesas acima da inflação de 2,5% para 2% em períodos de contenção.",
-    "A matéria reduz benefícios fiscais, adia repasses da Lei Kandir e fixa um prazo de 120 dias para o Congresso regulamentar os pagamentos que ultrapassam o teto do funcionalismo, atualmente de R$ 46,3 mil.",
-    "Um acordo definiu repasses anuais da União aos estados pela Lei Kandir de R$ 2 bilhões entre 2028 e 2030, modulando a proposta inicial que previa R$ 1 bilhão e parcelamento entre 2031 e 2037.",
-    "Após a conclusão da votação no Senado, a matéria seguirá para análise na Câmara dos Deputados na próxima semana, visto que o presidente da Casa, Hugo Motta, está em viagem oficial à Argentina."
+    "O Senado Federal aprovou no fim da tarde da quarta-feira (18) o projeto de ajuste fiscal do governo, rejeitando três destaques da oposição que tentavam modificar o conteúdo do texto.",
+    "O Projeto de Lei Complementar (PLP 299/2026) estima uma economia entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027, combinando aumento de arrecadação e controle de despesas do resultado primário.",
+    "O texto altera o arcabouço fiscal para permitir bloqueios adicionais de despesas e reduz, a partir do próximo ano, de 2,5% para 2% o limite de crescimento dos gastos acima da inflação.",
+    "A proposta reduz benefícios tributários, adia repasses da Lei Kandir e fixa um prazo de 120 dias para o Congresso regulamentar pagamentos acima do teto do funcionalismo, que é de R$ 46,3 mil.",
+    "Um acordo modulou o repasse anual da Lei Kandir para estados entre 2028 e 2030, mudando de R$ 1 bilhão para R$ 2 bilhões por ano, após negociação entre relator e oposição.",
+    "Após a aprovação no Senado, o projeto seguirá para análise na Câmara dos Deputados na próxima semana, dependendo do retorno do presidente da Casa, Hugo Motta, de viagem oficial."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/83b0160e7749.webp"
   },
   {
    "titulo": "A potente Coreia do Sul: M&C traz raio X do país e realiza live na segunda-feira com especialistas",
    "topicos": [
-    "A portal Mercado&Consumo e a Gouvêa & Spheria Trade Missions realizam na próxima segunda-feira, 23 de novembro de 2026, das 18h às 19h, a live \"Made in Korea: razões da transformação em benchmark global\".",
-    "O encontro virtual discutirá os fatores do desenvolvimento sul-coreano para inspirar empresas brasileiras dos setores de varejo, consumo e serviços, com base nas experiências da Missão Coreia do Sul 2026.",
-    "Participam da transmissão Marcos Gouvêa, Eduardo Komatsu, Suk Jung Kwon e a mediadora Aiana Freitas, abordando a transformação do varejo, canais, comportamento do consumidor e expansão internacional.",
-    "A Coreia do Sul possui cerca de 51,7 milhões de habitantes, PIB de US$ 1,87 trilhão em 2025 e renda per capita de US$ 36,2 mil, segundo o Banco Mundial, com exportações de US$ 709,7 bilhões no mesmo ano (alta de 3,8%).",
-    "As exportações sul-coreanas de cosméticos (K-beauty) alcançaram US$ 11,4 bilhões em 2025 (alta de 11,8%), colocando o país na segunda posição global e chegando a 202 mercados com superávit superior a US$ 10 bilhões.",
-    "Até setembro de 2026, as exportações de cosméticos somaram US$ 11,1 bilhões, alta de 31,1%, enquanto o e-commerce do país movimentou 24,1 trilhões de wons em janeiro de 2026, com 78,2% via dispositivos móveis."
+    "O portal Mercado&Consumo e a Gouvêa & Spheria Trade Missions realizam na próxima segunda-feira, 23 de novembro de 2026, das 18h às 19h, a live \"Made in Korea: razões da transformação em benchmark global\". O encontro discutirá o desenvolvimento da Coreia do Sul e lições para o varejo, consumo e serviços brasileiros.",
+    "O evento terá a participação de Marcos Gouvêa, Eduardo Komatsu e Suk Jung Kwon, com mediação de Aiana Freitas. A conversa debaterá a transformação do varejo, a integração de canais e a expansão internacional de setores como beleza com base nas experiências da Missão Coreia do Sul 2026.",
+    "A Coreia do Sul possui cerca de 51,7 milhões de habitantes, registrou um PIB de US$ 1,87 trilhão em 2025 e renda per capita de US$ 36,2 mil. No mesmo ano, as exportações totais do país alcançaram US$ 709,7 bilhões, com alta anual de 3,8%.",
+    "As exportações sul-coreanas de cosméticos somaram US$ 11,4 bilhões em 2025, um crescimento de 11,8% sobre 2024, consolidando o país como o segundo maior exportador mundial do setor. Os produtos chegaram a 202 mercados em 2025, gerando um superávit comercial superior a US$ 10 bilhões.",
+    "Até setembro de 2026, as vendas externas de cosméticos da Coreia do Sul totalizaram US$ 11,1 bilhões, alta de 31,1% frente aos nove primeiros meses de 2025. O desempenho reflete a força global da indústria conhecida como K-beauty.",
+    "Em janeiro de 2026, o comércio eletrônico sul-coreano movimentou 24,1 trilhões de wons, registrando avanço de 8,6% em relação a janeiro do ano anterior. As compras por dispositivos móveis representaram 78,2% desse montante, evidenciando o peso dos smartphones na jornada de consumo."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/19/11/2026/noticias-varejo/a-potente-coreia-do-sul-mc-traz-raio-x-do-pais-e-realiza-live-na-segunda-feira-com-especialistas/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/cf7d915a54d4.webp"
   },
   {
    "titulo": "Varejo amplia canais de venda, mas enfrenta desafio de preservar margens",
    "topicos": [
-    "O evento \"Quando os Líderes se Encontram\", realizado no Rio de Janeiro pela Gouvêa Consulting e Gouvêa Experience com oferecimento da TOTVS, debateu os rumos do setor para 2027 e os desafios comerciais da Black Friday.",
-    "Executivos apontaram que a concorrência interna entre canais de venda, como lojas físicas e sites, dificulta a medição correta de resultados e gera disputas por comissões e atribuição de vendas.",
-    "A integração de canais exige superar barreiras culturais, operacionais, fiscais e trabalhistas, além de garantir a sustentabilidade financeira de franqueados e operações na ponta.",
-    "No painel sobre a Black Friday, especialistas discutiram os riscos de campanhas focadas apenas em descontos que sacrificam as margens de lucro, especialmente em períodos de alta demanda como o verão e o Natal.",
-    "A estratégia para o varejo inclui o uso eficiente de dados, inteligência artificial e novas plataformas de venda, buscando alinhar a inovação tecnológica à preservação da rentabilidade e à melhoria da experiência de compra até 2027."
+    "Executivos e especialistas do varejo e da tecnologia debateram estratégias de crescimento para 2027 e desafios da Black Friday durante o evento Quando os Líderes se Encontram, realizado no Rio de Janeiro pela Gouvêa Consulting e Gouvêa Experience, com oferecimento da TOTVS.",
+    "O avanço do comércio eletrônico e de novos canais exige a integração das operações físicas e digitais, mas barreiras culturais, operacionais, fiscais e trabalhistas ainda geram disputas internas por vendas e comissões entre departamentos.",
+    "No painel sobre o ano de 2027, especialistas destacaram que a integração de canais precisa eliminar atritos na jornada do consumidor e garantir a sustentabilidade econômica de franqueados e operações na ponta.",
+    "Durante a discussão sobre a Black Friday, executivos apontaram os riscos de campanhas focadas apenas em descontos e faturamento, especialmente no Brasil, onde a data coincide com o verão, o pagamento do 13º salário e as compras de Natal.",
+    "Marcas como Reserva e Bagaggio relataram estratégias para priorizar a preservação das margens de lucro e a seleção criteriosa de produtos promocionados, evitando que promoções digitais canibalizem as vendas das lojas físicas.",
+    "O uso de inteligência artificial, dados de clientes e novas plataformas de venda foi apontado como fundamental, desde que a tecnologia esteja alinhada às decisões comerciais e à rentabilidade do negócio."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/19/11/2026/noticias-varejo/varejo-amplia-canais-de-venda-mas-enfrenta-desafio-de-preservar-margens/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2bdbca9830e8.webp"
   },
   {
    "titulo": "De ruptura com a OpenAI a gigante da bolsa: veja 5 fatos importantes sobre a Anthropic",
    "topicos": [
-    "A Anthropic, startup americana que desenvolve o assistente de IA Claude, realizou sua estreia na bolsa dos EUA na quinta‑feira (19), vendendo 980 milhões de ações a US$ 83 (R$ 488) cada, totalizando US$ 81,3 bi (R$ 478,3 bi).",
-    "Além da oferta pública, a empresa captou mais US$ 26 bi de investidores estratégicos como Google, Nvidia e AMD, elevando o montante total arrecadado para US$ 107 bi (R$ 629 bi).",
-    "Fundada em 2021 por ex‑funcionários da OpenAI, Dario Amodei (presidente‑executivo) e Daniela Amodei (presidente), a Anthropic nasceu após a saída dos irmãos da OpenAI em dezembro de 2020 por divergências sobre segurança da IA.",
-    "Outros cofundadores incluem o físico Jared Kaplan (diretor científico), o pesquisador Chris Olah, Sam McCandlish (arquiteto‑chefe), Tom Brown (infraestrutura) e Jack Clark (diretor do Anthropic Institute).",
-    "A visão da empresa combina racionalismo, inspirado por Eliezer Yudkowsky, e altruísmo eficaz; investidores iniciais foram Dustin Moskovitz, Jaan Tallinn e Sam Bankman‑Fried, que aportou US$ 500 mi via FTX antes de ser condenado por fraude.",
-    "Grandes empresas de tecnologia – Amazon, Alphabet (Google), Microsoft e Nvidia – são acionistas da Anthropic e também fornecem a capacidade de processamento necessária para suas operações de IA."
+    "A Anthropic, criadora do assistente Claude, estreou na bolsa de valores dos EUA nesta quinta-feira (19). A empresa arrecadou US$ 81,3 bilhões com a venda de 980 milhões de ações a um preço médio de US$ 83.",
+    "A operação também incluiu US$ 26 bilhões levantados com grandes investidores, totalizando US$ 107 bilhões arrecadados. Gigantes como Google, Nvidia e AMD participaram da oferta de ações.",
+    "Fundada em 2021 em San Francisco por ex-funcionários da OpenAI que saíram devido a divergências sobre segurança, a Anthropic tornou-se uma das principais concorrentes da criadora do ChatGPT.",
+    "A startup recebeu investimentos iniciais de defensores do altruísmo eficaz, incluindo US$ 500 milhões aportados por Sam Bankman-Fried via FTX. Amazon, Alphabet, Microsoft e Nvidia também figuram entre os acionistas.",
+    "Em 2026, a recusa da Anthropic em permitir o uso do Claude em vigilância em massa e armas autônomas gerou atritos com o governo Trump e o Pentágono, resultando em proibições parciais revertidas pela Justiça."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/de-ruptura-com-a-openai-a-gigante-da-bolsa-veja-5-fatos-importantes-sobre-a-anthropic.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a91c9af03ff7.webp"
   },
   {
    "titulo": "Sem avanço nas negociações, Brasil pede à OMC para julgar tarifaço imposto pelos EUA",
    "topicos": [
-    "O governo brasileiro formalizou um pedido na Organização Mundial do Comércio para que a entidade julgue as tarifas impostas pelos Estados Unidos a produtos do Brasil.",
-    "O documento foi protocolado no sistema da OMC nesta quarta-feira, 18 de dezembro, com data de 13 de dezembro.",
-    "O governo brasileiro quer que a decisão sobre a abertura do painel de julgamento ocorra em 24 de dezembro, durante reunião do Órgão de Solução de Controvérsias.",
-    "Os Estados Unidos aplicaram uma tarifa de 25% alegando práticas desleais em áreas como PIX, desmatamento e propriedade intelectual, além de uma taxa de 12,5% por supostas falhas no combate à importação de mercadorias com trabalho forçado.",
-    "Consultas bilaterais realizadas em 25 de setembro de 2026 falharam em alcançar um acordo mútuo, o que levou o Brasil a solicitar a criação de um painel de disputa."
+    "O governo de Luiz Inácio Lula da Silva formalizou à OMC um pedido para que o órgão julgue as tarifas impostas pelos EUA a produtos brasileiros; o documento entrou no sistema da OMC em 18 de novembro de 2026, está datado de 13 e a decisão deverá ser tomada na reunião do Órgão de Solução de Controvérsias em 24 de novembro.",
+    "O pedido segue consultas realizadas em 25 de setembro de 2026 que não resultaram em acordo; ao término desse prazo, qualquer das partes pode solicitar a abertura de um painel, e o Brasil requer a constituição desse painel para analisar o caso.",
+    "Os EUA aplicaram tarifas de 25% sobre alguns produtos brasileiros alegando práticas desleais como uso do PIX, desmatamento e violação de propriedade intelectual, e tarifas de 12,5% por suposta falha na proibição de importação de mercadorias produzidas com trabalho forçado.",
+    "O Brasil sustenta que as tarifas configuram tratamento diferenciado e violam compromissos da OMC, apontando que a motivação dos EUA seria política, não comercial, ao citar déficit comercial inexistente, queda no desmatamento ilegal e reconhecimento internacional do Brasil no combate ao trabalho forçado.",
+    "O mecanismo da OMC pode julgar a disputa, porém seu órgão de apelação está paralisado desde 2019 após bloqueio de nomeações de juízes por Donald Trump, reduzindo o efeito prático da decisão e tornando o processo mais simbólico, embora mantenha aberta a via de negociação formal.",
+    "Os EUA responderam que se opõem à presença de chineses nas conversas e, até o momento, não há indicativo de reversão das tarifas; analistas consideram que as chances de solução via OMC são quase nulas."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/18/apos-falta-de-acordo-brasil-pede-a-omc-para-julgar-tarifaco-imposto-pelos-eua.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/25025406c876.webp"
   },
   {
    "titulo": "Shoppings projetam alta de 3% nas vendas na temporada de descontos",
    "topicos": [
-    "Os shopping centers brasileiros preveem uma alta de 3% nas vendas da Black Friday deste ano e um crescimento de 1,7% no fluxo de visitantes, de acordo com levantamento da Abrasce.",
-    "Setenta e nove por cento dos empreendimentos esperam um faturamento maior, enquanto 71% projetam aumento de vendas e 65% preveem mais movimento em comparação a 2025.",
-    "Os descontos médios previstos ficam em 37%, podendo ir de 10% a 70%, e o ticket médio estimado para as compras é de R$ 237,35.",
-    "A categoria de perfumaria e cosméticos lidera as apostas de destaque nas vendas com 74%, seguida por eletrônicos e informática com 65%, vestuário com 63%, calçados com 60% e eletrodomésticos com 57%.",
-    "A Black Friday ocorrerá em 27 de novembro, mas 42% dos shoppings concentrarão as ações entre 27 e 29 de novembro e 29% farão campanhas de 23 a 29 de novembro.",
-    "Outros 11% dos empreendimentos estenderão as promoções por todo o mês de novembro e uma parcela igual focará apenas na sexta-feira.",
-    "As redes sociais serão usadas por 80% dos participantes para divulgação, e 35% dos shoppings planejam ampliar o horário de funcionamento até as 23h."
+    "Os shopping centers brasileiros preveem uma alta de 3% nas vendas da Black Friday deste ano em comparação com o evento de 2025, conforme pesquisa divulgada pela Associação Brasileira de Shopping Centers (Abrasce).",
+    "O levantamento aponta que 79% dos empreendimentos esperam crescimento no faturamento e 71% projetam aumento nas vendas em relação ao ano anterior, com a data marcada para 27 de novembro.",
+    "O fluxo de visitantes nos shoppings deve registrar alta de 1,7%, e 65% dos participantes esperam um movimento superior ao do ano passado, com um ticket médio estimado em R$ 237,35.",
+    "Os descontos médios previstos são de 37%, podendo variar de 10% a 70%, impulsionados por campanhas que contam com as redes sociais como principal canal de divulgação para 80% dos respondentes.",
+    "A categoria de perfumaria e cosméticos lidera as apostas de destaque nas vendas, citada por 74% dos empreendimentos, seguida por eletrônicos e informática com 65% e vestuário com 63%.",
+    "Sobre os períodos de campanha, 42% dos shoppings concentrarão as ações de 27 a 29 de novembro, 29% farão promoções de 23 a 29 de novembro, 11% estenderão por todo o mês e 11% focarão apenas na sexta-feira."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/black-friday/shoppings-projetam-alta-de-3-nas-vendas-na-temporada-de-descontos/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/1b52f227975b.webp"
   },
   {
    "titulo": "Black Friday 2026: fatia de consumidores decididos a comprar salta para 32,3%",
    "topicos": [
-    "A parcela de brasileiros decididos a comprar na Black Friday 2026 subiu de 19% em agosto para 32,3% em novembro, segundo levantamento do Reclame Aqui.",
-    "A indecisão sobre o evento recuou 9,4 pontos percentuais, passando de 61% para 51,6%, enquanto apenas 16,1% pretendem ficar de fora.",
-    "Entre os dispostos a comprar ou indecisos, 54,2% são estreantes na data ou retornam após não participarem da edição de 2025.",
-    "Quase metade dos consumidores, ou 48,1%, não definiu orçamento prévio e prefere acompanhar as ofertas ao longo de todo o mês de novembro.",
-    "A falta de orçamento agora lidera os motivos para não comprar com 34,9%, seguida por 34,5% que dizem não precisar de produtos no momento."
+    "A pesquisa do Reclame Aqui mostrou que a parcela de consumidores decididos a comprar na Black Friday 2026 subiu de 19% em agosto para 32,3% em novembro, um avanço de 13,3 pontos percentuais.",
+    "A indecisão recuou 9,4 pontos percentuais, passando de 61% para 51,6%, enquanto 16,1% dos entrevistados afirmaram que pretendem ficar de fora do evento.",
+    "Entre os consumidores que vão comprar ou ainda estão indecisos, 54,2% são estreantes no evento ou retornam após terem ficado de fora da edição de 2025.",
+    "Quase metade (48,1%) dos consumidores decidiu não definir um orçamento antecipado e acompanhará as ofertas ao longo de novembro; apenas 17,4% planeja concentrar a maior parte das compras na data oficial da Black Friday.",
+    "A desconfiança nas promoções, conhecida como “metade do dobro”, caiu de 51,6% em agosto para 15,6% em novembro; agora, 34,9% citam falta de orçamento e 34,5% dizem não precisar de nenhum produto como principais obstáculos.",
+    "Para a Black Friday, 66,3% dos consumidores utilizam IA para pesquisar características dos produtos, 40,2% para comparar preços e encontrar ofertas, e 25,8% para localizar lojas que vendem os itens desejados.",
+    "A reputação das empresas pesa na decisão: 76,1% pretendem consultar o Reclame Aqui, 69,1% verificam histórico de cumprimento de prazos, 34,1% analisam reclamações e índice de resposta, e 20,9% usam ferramentas de verificação de segurança digital antes de pagar."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/ecommerce/black-friday-2026-fatia-de-consumidores-decididos-a-comprar-salta-para-323/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/13938fecf77d.webp"
   },
   {
    "titulo": "Poder360 apoia campanha de doação a hospital pediátrico",
    "topicos": [
-    "O jornal digital Poder360 iniciou em 1º de novembro a publicação de anúncios pró-bono da 2ª fase da campanha do Hospital Pequeno Príncipe, mantendo uma parceria de responsabilidade social iniciada em 2022.",
-    "A iniciativa visa incentivar o público a destinar parte do Imposto de Renda para apoiar o atendimento em saúde infantojuvenil da instituição, sem gerar custos adicionais aos contribuintes.",
-    "A campanha de arrecadação permanece ativa até o dia 31 de dezembro, utilizando banners no portal que direcionam os leitores para a página oficial com informações sobre o processo de doação.",
-    "Os recursos obtidos por meio da destinação do IR são direcionados para projetos de saúde de alta complexidade voltados a crianças e adolescentes de todo o país, abrangendo 47 especialidades médicas."
+    "O jornal digital Poder360 iniciou em 1º de novembro a veiculação gratuita de anúncios da 2ª fase da campanha de doação do Hospital Pequeno Príncipe.",
+    "A iniciativa pró-bono dá continuidade a uma parceria de responsabilidade social firmada entre as duas instituições desde o ano de 2022.",
+    "A campanha de arrecadação permanece ativa até o dia 31 de dezembro para incentivar a destinação de parte do Imposto de Renda.",
+    "O mecanismo permite que os contribuintes apoiem projetos da entidade sem nenhum custo adicional em relação aos tributos devidos.",
+    "Os valores arrecadados são direcionados ao atendimento médico de alta complexidade para crianças e adolescentes, abrangendo 47 especialidades.",
+    "Os leitores são direcionados por meio de banners no portal para a página oficial da instituição filantrópica com orientações sobre a destinação do IR."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder360/poder360-apoia-campanha-de-doacao-a-hospital-pediatrico/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/eb22aa71a257.webp"
   },
   {
    "titulo": "EUA e China podem ajudar a acabar com a guerra na Ucrânia, diz Trump a Xi antes de reunião trilateral com Putin",
    "topicos": [
-    "Na quinta-feira (19 de novembro de 2026), o presidente dos EUA, Donald Trump, conversou com o líder chinês Xi Jinping em Shenzhen, na China, defendendo que ambos ajudem a encerrar a guerra na Ucrânia.",
-    "O encontro antecedeu uma reunião trilateral inédita entre Trump, Xi e o presidente russo Vladimir Putin, realizada durante a cúpula da APEC.",
-    "Analistas apontam que grandes acordos são improváveis devido a divergências sobre Ucrânia, Irã, comércio e armamentos, gerando apreensão em nações menores.",
-    "Xi declarou a Trump que China e EUA devem cooperar para conter riscos da inteligência artificial, mantendo-a sob controle humano, além de abordar a segurança em Taiwan.",
-    "Xi e Putin criticaram o protecionismo e sanções ocidentais na APEC, enquanto Trump destacou a forte recepção que recebeu na China, com honras no aeroporto."
+    "Na quinta-feira, 19 de novembro de 2026, em Shenzhen, na China, o presidente dos EUA, Donald Trump, pediu a Xi Jinping que ajude a encerrar a guerra na Ucrânia.",
+    "A reunião bilateral ocorreu antes de um encontro trilateral inédito com o presidente russo, Vladimir Putin, na cúpula da Cooperação Econômica Ásia-Pacífico (APEC).",
+    "Analistas apontam que grandes acordos são improváveis devido a divergências sobre Ucrânia, Irã, comércio e armas nucleares, gerando apreensão em nações menores.",
+    "Xi defendeu que a inteligência artificial permaneça sob controle humano e que os países cooperem na segurança cibernética e comercial.",
+    "A primeira-ministra japonesa Sanae Takaichi participou sem cerimônias após atritos diplomáticos iniciados em 2025 sobre a questão de Taiwan."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/19/eua-e-china-podem-ajudar-a-acabar-com-a-guerra-na-ucrania-diz-trump-a-xi.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/dd27711c11dd.webp"
   },
   {
    "titulo": "Trump diz que cúpula histórica com Xi e Putin já é uma 'vitória' antes mesmo do evento",
    "topicos": [
-    "O presidente dos EUA, Donald Trump, celebrou a recepção calorosa na quinta-feira, 19 de novembro de 2026, em Shenzhen, na China, classificando-a como uma grande vitória antes da cúpula trilateral com Xi Jinping e Vladimir Putin.",
-    "Analistas apontam que o encontro das maiores potências nucleares dificilmente resultará em grandes pactos devido a profundas divergências sobre Ucrânia, Irã, comércio e armamento nuclear, gerando apreensão em países menores.",
-    "Trump reuniu-se separadamente com Putin, que discutiu a guerra na Ucrânia, e com Xi, com quem debateu um equilíbrio na relação comercial e o fluxo de petróleo pelo Estreito de Ormuz, afetado pelo conflito com o Irã.",
-    "Xi Jinping recepcionou Trump pessoalmente no aeroporto com ampla pompa, marcando a primeira vez que o presidente chinês faz isso com um líder visitante desde que assumiu o cargo.",
-    "Durante a cúpula da APEC, Xi e Putin criticaram sanções ocidentais e o protecionismo comercial, enquanto Trump defendeu a força da economia americana e insistiu na inclusão do controle de armas nucleares nas negociações."
+    "O presidente dos EUA, Donald Trump, classificou como uma \"grande vitória\" a calorosa recepção que recebeu do líder chinês Xi Jinping nesta quinta-feira (19 de novembro de 2026), em Shenzhen, China.",
+    "Os líderes das maiores potências nucleares do mundo participaram de um encontro trilateral sem precedentes à margem da Cúpula de Líderes da APEC, evento que também contou com a presença do presidente russo, Vladimir Putin.",
+    "Analistas avaliam que o encontro diplomático dificilmente resultará em grandes acordos devido a divergências sobre Ucrânia, Irã, comércio e armamentos, gerando apreensão em países menores.",
+    "Durante a visita, Trump se reuniu separadamente com Putin, que discutiu a guerra na Ucrânia, e com Xi, com quem debateu o equilíbrio comercial e o fluxo de petróleo pelo Estreito de Ormuz.",
+    "Xi e Putin discursaram na Apec criticando o protecionismo e as sanções ocidentais, enquanto Trump defendeu o controle de armas nucleares e destacou o interesse em negociar com arsenais reduzidos.",
+    "A viagem presidencial ocorre em meio a desafios políticos internos nos EUA, como as eleições de meio de mandato, um escândalo de espionagem da Nvidia e falhas em serviços de tecnologia e transporte."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/19/trump-diz-que-cupula-historica-com-xi-e-putin-ja-e-uma-vitoria.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/ef10c1f163bc.webp"
   },
   {
    "titulo": "Quando o lojista quebra, o shopping já deveria saber",
    "topicos": [
-    "O varejo brasileiro enfrenta em 2026 uma onda de recuperações judiciais de grandes redes com forte presença em shopping centers, como Casas Bahia, Marabraz, Zinzane, o grupo Toky (Tok&Stok e Mobly) e a CVLB (Casa & Video e Le Biscuit).",
-    "A Casas Bahia fechou 298 lojas ao pedir recuperação judicial, o que representa cerca de 30% de sua rede, enquanto a Allos registrou queda na ocupação para 95,2% no terceiro trimestre devido à devolução de 16 unidades de um mesmo grupo de eletroeletrônicos.",
-    "Os segmentos mais afetados são bens duráveis como eletroeletrônicos, móveis e artigos para o lar, impactados por juros altos e endividamento familiar; no terceiro trimestre, as vendas mesmas lojas dessas categorias caíram 7,3% na Multiplan e 11,9% na Iguatemi.",
-    "A inadimplência e as dificuldades financeiras dos lojistas costumam emitir sinais precoces, como atrasos em encargos comuns e no fundo de promoção, estoque reduzido, coleções incompletas e pedidos simultâneos de descontos ou carências.",
-    "Para mitigar riscos, as administradoras de shoppings precisam fazer um acompanhamento contínuo da saúde financeira e da taxa de esforço das operações, evitando depender excessivamente de poucas redes de um mesmo segmento.",
-    "A devolução de espaços permite reajustar o mix do shopping, visto que setores de serviços, conveniência, lazer e alimentação cresceram mais de 10% nas três maiores companhias abertas do setor, embora a substituição exija tempo e investimento.",
-    "O Aracaju Parque Shopping, controlado por um grupo em recuperação judicial, será leiloado em 18 de dezembro com lance mínimo de R$ 220 milhões, valor que representa cerca de metade de sua avaliação total, fixada em R$ 429 milhões."
+    "O varejo brasileiro enfrenta em 2026 uma onda de recuperações judiciais de grandes redes com forte presença em shopping centers, como Casas Bahia, Marabraz, Zinzane, Tok&Stok, Mobly, Casa & Video e Le Biscuit.",
+    "A Casas Bahia fechou 298 unidades, equivalente a cerca de 30% da sua rede, ao pedir recuperação judicial, enquanto a Tok&Stok encerrou lojas em São Paulo e Salvador em um único mês.",
+    "A Allos registrou queda na taxa de ocupação para 95,2% no terceiro trimestre, influenciada pela devolução de 16 lojas de um único grupo de eletroeletrônicos.",
+    "Os segmentos mais afetados são bens duráveis, como eletroeletrônicos, móveis e artigos para o lar, pressionados por juros altos, endividamento das famílias e queda nas vendas mesmas lojas.",
+    "No terceiro trimestre, as vendas mesmas lojas recuaram 7,3% em artigos para o lar e escritório na Multiplan e 11,9% na categoria de lar, livraria, papelaria e informática na Iguatemi.",
+    "O Aracaju Parque Shopping, controlado por um grupo em recuperação judicial, será leiloado no dia 18 de dezembro com lance mínimo de R$ 220 milhões, valor que representa cerca de metade da avaliação de R$ 429 milhões."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/19/11/2026/artigos/quando-o-lojista-quebra-o-shopping-ja-deveria-saber/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6a581bc7ce47.webp"
   },
   {
    "titulo": "13º salário: calculadora mostra quanto você vai receber, com descontos e novas regras do IR",
    "topicos": [
-    "As novas regras do Imposto de Renda trazem isenção para quem ganha até R$ 5 mil mensais e reduzem o tributo para faixas maiores, o que pode aumentar o valor líquido do 13º salário em 2026.",
-    "A primeira parcela do 13º salário deve ser paga até 30 de novembro, enquanto a segunda deve ser depositada até 18 de dezembro, antecipada devido ao domingo.",
-    "O benefício é proporcional ao tempo trabalhado em 2026, sendo que cada mês com pelo menos 15 dias de trabalho conta como um mês integral para o cálculo.",
-    "Os descontos obrigatórios de INSS e Imposto de Renda incidem exclusivamente sobre a segunda parcela do benefício pago aos trabalhadores.",
-    "Têm direito ao 13º empregados CLT, urbanos, rurais, domésticos, avulsos e aposentados e pensionistas, ficando excluídos estagiários, autônomos, PJs e demitidos por justa causa.",
-    "Empresas que atrasam ou não pagam o benefício enfrentam multa administrativa de R$ 176,03 por funcionário, valor dobrado em caso de reincidência, além de juros e correção.",
-    "Em caso de erro ou falta de pagamento, o trabalhador deve contatar o RH por escrito, pedir a memória de cálculo e, se necessário, recorrer ao sindicato, MTE, MPT ou à Justiça."
+    "As novas regras do Imposto de Renda isentam quem ganha até R$ 5 mil por mês e reduzem o tributo para salários maiores, podendo deixar o 13º salário líquido maior em 2026.",
+    "A primeira parcela do 13º salário deve ser paga até 30 de novembro, enquanto a segunda parcela vence em 18 de dezembro de 2026, devido ao prazo legal cair em um domingo.",
+    "O benefício é proporcional a 1/12 do salário por mês trabalhado em 2026, exigindo pelo menos 15 dias de trabalho no mês para que ele seja contabilizado.",
+    "Os descontos obrigatórios de INSS e Imposto de Renda incidem exclusivamente sobre a segunda parcela do benefício, reduzindo o valor líquido recebido pelo trabalhador.",
+    "Têm direito ao 13º empregados CLT, urbanos, rurais, domésticos, avulsos, aposentados e pensionistas do INSS, mas estagiários, autônomos, PJs e demitidos por justa causa ficam de fora.",
+    "Empresas que atrasam ou não pagam o benefício recebem multa administrativa de R$ 176,03 por empregado prejudicado, valor dobrado em caso de reincidência, além de juros e correção."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/13o-salario-calculadora-mostra-quanto-voce-vai-receber-com-descontos-e-novas-regras-do-ir.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/7059b3d71ddd.webp"
   },
   {
    "titulo": "Black Friday: por que comprar com desconto dá prazer, mesmo quando gastamos mais?",
    "topicos": [
-    "Adquirir itens por valores inferiores ao previsto eleva o contentamento do comprador, comportamento definido como utilidade da transação pelo economista Richard Thaler em 1985.",
-    "A percepção de vantagem decorre do contraste entre o valor efetivamente gasto e a expectativa inicial, podendo estimular a aquisição de mercadorias mais onerosas.",
-    "Pesquisa da Adobe nos EUA indicou que a fatia de itens mais caros nas vendas totais subiu 20% entre novembro e dezembro de 2025 frente aos demais meses.",
-    "Descontos nem sempre significam economia real, pois promoções podem induzir o cliente a desembolsar quantias superiores ao orçamento planejado.",
-    "Especialistas recomendam checar o preço final, analisar o histórico de valores, confrontar ofertas e avaliar o frete antes de concluir qualquer compra."
+    "O economista Richard Thaler, ganhador do Nobel de Economia em 2017, formulou em 1985 o conceito de \"utilidade da transação\" para explicar a satisfação ao comprar por menos.",
+    "A sensação de vantagem decorre de comparar o valor pago com a quantia que o comprador estimava desembolsar, o que pode impulsionar aquisições na Black Friday.",
+    "Dados da Adobe apontam que, entre novembro e dezembro de 2025 nos Estados Unidos, a fatia de itens mais caros nas vendas totais subiu 20% ante o restante do ano.",
+    "Nem toda oferta significa economia real, pois promoções podem induzir o consumidor a gastar acima do planejado originalmente.",
+    "Especialistas recomendam checar o preço final, pesquisar o histórico de valores, confrontar propostas e avaliar o custo de entrega antes de fechar a compra."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/19/black-friday-por-que-comprar-com-desconto-da-prazer-mesmo-quando-gastamos-mais.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0b82536070a6.webp"
   },
   {
    "titulo": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, segundo Banco Central do Paraguai",
    "topicos": [
-    "No pior cenário, as perdas decorrentes da quebra do banco paraguaio Ueno podem atingir cerca de US$ 1 bilhão, equivalente a R$ 5,8 bilhões, conforme estimativa do presidente do Banco Central do Paraguai (BCP), Jorge Luis Schreiner.",
-    "O colapso ocorreu devido a empréstimos concedidos acima do limite legal para empresas do próprio grupo e às ligações de executivos com o poder político, resultando também na prisão do antigo chefe do Banco Central.",
-    "O cálculo das perdas engloba aproximadamente US$ 700 milhões usados pelo Fundo de Garantia para pagar depositantes e dívidas com investidores de títulos no exterior, sendo necessária uma apuração exata que levará de um a dois meses.",
-    "O BCP identificou ativos avaliados em mais de US$ 1 bilhão, incluindo imóveis de alto valor, cujo valor real dependerá da disposição de pagamento do mercado nesta fase de avaliação.",
-    "Em menos de cinco dias após a intervenção, as contas de cerca de 1,8 milhão de pessoas foram transferidas, e o Fundo de Garantia utilizou cerca de US$ 700 milhões para cobrir depósitos até o limite de 40 salários mínimos, ou cerca de US$ 18 mil por cliente.",
-    "Até dezembro, o BCP planeja concluir a transferência total da carteira de crédito e de cartões, enquanto Schreiner pediu autonomia sem interferência política e solicitou assistência técnica ao FMI, cuja missão chega em dezembro."
+    "As perdas totais com a quebra do banco paraguaio Ueno podem alcançar cerca de US$ 1 bilhão, equivalente a R$ 5,8 bilhões, no pior cenário avaliado pelo Banco Central do Paraguai (BCP).",
+    "O colapso da instituição ocorreu devido a empréstimos acima do limite legal para empresas do próprio grupo e conexões dos executivos com o poder político, segundo o BCP.",
+    "O cálculo das perdas engloba cerca de US$ 700 milhões usados pelo Fundo de Garantia para ressarcir depositantes e dívidas com investidores estrangeiros de títulos do banco.",
+    "O Fundo de Garantia utilizou cerca de US$ 700 milhões, acumulados ao longo de duas décadas, para garantir a devolução de depósitos até o limite de 40 salários mínimos, ou cerca de US$ 18 mil por cliente.",
+    "O BCP transferiu as contas de aproximadamente 1.812.000 clientes em menos de cinco dias após a intervenção, e o atual presidente prometeu transferir as carteiras de crédito e cartões até dezembro.",
+    "O novo presidente do BCP, Jorge Luis Schreiner, afirmou que o Banco Central identificou ativos de valor superior a US$ 1 bilhão, incluindo imóveis, cujo valor real de mercado ainda será apurado nos próximos um a dois meses.",
+    "Para evitar novas crises e fortalecer a instituição, a diretoria do BCP solicitou assistência técnica ao FMI, cuja primeira missão deve chegar ao Paraguai em dezembro de 2026."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/noticia/2026/11/19/perdas-do-ueno-bank-se-aproximam-de-us-1-bilhao-segundo-banco-central.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/c57c56e64719.webp"
   },
   {
    "titulo": "Dólar em alta, minério e petróleo em queda: o real pode perder mais força?",
    "topicos": [
     "Na quarta-feira (18), o dólar atingiu R$ 5,8677, registrando alta pela quinta sessão consecutiva e alcançando o maior valor em 19 meses no Brasil.",
-    "O petróleo Brent recuou 1,28% para US$ 91,95 por barril na quarta-feira (18), enquanto o minério de ferro tentava estabilização após mínimas recentes na China.",
-    "A queda nas commodities reduz a entrada de dólares no Brasil por exportações, podendo pressionar o real junto a fatores fiscais e juros globais.",
-    "Levantamento histórico da Wagner Investimentos indica que quedas simultâneas de commodities e termos de troca geraram desvalorização mediana de 15,2% no real.",
-    "Na China, a crise na construção civil e no mercado imobiliário reduziu a demanda por aço; investimentos imobiliários caíram 33% em outubro na base anual.",
-    "Estoques de petróleo bruto nos EUA subiram 3,4 milhões de barris na semana encerrada em 13 de novembro, superando a expectativa de 58 mil barris."
+    "No mesmo dia, o petróleo Brent recuou 1,28%, fechando a US$ 91,95 por barril, enquanto o minério de ferro buscou estabilidade após mínimas recentes na China.",
+    "A queda das commodities pressiona o real porque o Brasil pode receber menos dólares pelas exportações, reduzindo as receitas em moeda estrangeira.",
+    "Levantamento da Wagner Investimentos aponta que, em períodos históricos de queda simultânea de commodities e termos de troca, o real teve desvalorização mediana de 15,2%.",
+    "A China enfrenta dificuldades na construção civil e no mercado imobiliário, fazendo os contratos futuros de minério atingirem os menores níveis em mais de 16 meses na segunda-feira (16).",
+    "Estoque de petróleo bruto dos EUA subiu 3,4 milhões de barris na semana encerrada em 13 de novembro, superando a expectativa de 58 mil barris da Reuters.",
+    "A AIE estima que a oferta mundial de petróleo poderá superar a demanda em 1,7 milhão de barris por dia no quarto trimestre de 2026, pressionando os preços para baixo."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/dolar-alta-minerio-petroleo-queda-real/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/e3a061500c1f.webp"
   },
   {
    "titulo": "Brasil pede à OMC para julgar tarifaço imposto pelos EUA",
    "topicos": [
-    "O governo brasileiro pediu à Organização Mundial do Comércio que crie um painel para julgar as tarifas adicionais impostas pelos Estados Unidos contra produtos do Brasil, conforme documento datado de 12 de novembro de 2026.",
-    "O pedido ocorre após o fracasso nas negociações bilaterais realizadas em 25 de setembro de 2026, em Genebra, na Suíça, quando representantes dos dois países discutiram o tema sem alcançar um acordo mútuo.",
-    "A decisão sobre a instauração do painel deverá ser tomada em 24 de novembro, durante uma reunião do Órgão de Solução de Controvérsias da OMC.",
-    "A contestação brasileira, iniciada formalmente em 27 de julho, questiona duas taxas baseadas na Seção 301: um tarifaço de 25% decorrente de investigação específica e outro de 12,5% sobre trabalho forçado.",
-    "O governo do Brasil argumenta que os EUA ultrapassaram limites de cobrança aceitos na OMC, aplicaram tratamento discriminatório e puniram o país unilateralmente antes do julgamento da entidade.",
-    "Do lado norte-americano, as sanções justificam-se em investigações que apontam prejuízos a empresas de pagamentos dos EUA devido ao Pix, além de críticas a políticas ambientais, de etanol e de combate ao trabalho forçado."
+    "O governo do presidente Luiz Inácio Lula da Silva solicitou formalmente à Organização Mundial do Comércio que crie um painel para julgar tarifas adicionais impostas pelos Estados Unidos a produtos brasileiros.",
+    "O documento foi protocolado em 12 de novembro e pede que a decisão sobre a abertura do julgamento ocorra em 24 de novembro, durante uma reunião do Órgão de Solução de Controvérsias.",
+    "A medida ocorre após o fracasso nas negociações iniciadas em 25 de setembro em Genebra, na Suíça, quando representantes dos dois países tentaram resolver o impasse sem sucesso.",
+    "O litígio contesta duas taxas baseadas na Seção 301: uma de 25% decorrente de investigação sobre práticas como o Pix, etanol e desmatamento, e outra de 12,5% ligada a apuração sobre trabalho forçado.",
+    "O Brasil argumenta que Washington cobrou taxas acima do limite permitido na OMC, tratou o país de forma desigual e aplicou punições sem julgamento prévio da entidade internacional.",
+    "Caso o painel seja favorável ao Brasil, o impacto será majoritariamente político e estratégico para fortalecer negociações, pois o órgão de apelação da OMC está sem juízes desde 2019."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/brasil-pede-a-omc-para-julgar-tarifaco-imposto-pelos-eua/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/48ebdee8bebb.webp"
   },
   {
    "titulo": "Trump diz que é 'difícil se desfazer de armas nucleares' e prega cooperação para não proliferação",
    "topicos": [
-    "O presidente dos EUA, Donald Trump, declarou nesta quinta-feira (19) que é complexo para um país abrir mão de armas nucleares após desenvolvê-las.",
-    "A declaração ocorreu em Shenzhen, na China, durante reunião com o russo Vladimir Putin e o chinês Xi Jinping, paralela ao 35° encontro da Apec.",
-    "Trump defendeu que Estados Unidos, Rússia e China negociem a redução de seus arsenais para mitigar os riscos de utilização desses armamentos.",
-    "O líder americano destacou que as três potências possuem o dever especial de dialogar sobre temas que impactam a população mundial.",
-    "Trump criticou gestões passadas por evitarem conversas com nações divergentes e afirmou que a guerra entre Rússia e Ucrânia foi debatida.",
-    "O republicano anunciou a intenção de propor mecanismos para defender a soberania nacional contra o Tribunal Penal Internacional (TPI)."
+    "O presidente dos EUA, Donald Trump, declarou nesta quinta-feira (19) que é difícil para um país abrir mão de armas nucleares após desenvolvê-las.",
+    "A declaração ocorreu em Shenzhen, na China, durante reunião trilateral com o russo Vladimir Putin e o chinês Xi Jinping, paralela ao 35º encontro da Apec.",
+    "Trump defendeu que Estados Unidos, Rússia e China negociem a redução de seus arsenais e ações para mitigar o risco de emprego desses armamentos.",
+    "O líder americano destacou que as três potências possuem o dever especial de manter o diálogo sobre temas que impactam o planeta e suas populações.",
+    "O republicano criticou antigos mandatários que evitavam conversar com nações divergentes e afirmou que a guerra na Ucrânia também foi debatida.",
+    "Trump criticou o Tribunal Penal Internacional (TPI), afirmando que a organização extrapolou os limites de sua jurisdição e ameaça a soberania dos países."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/19/trump-diz-que-e-dificil-se-dafazer-de-armas-nucleares-e-prega-cooperacao-para-nao-cooperacao.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/fc720a236f6f.webp"
   },
   {
    "titulo": "Putin e Xi defendem ampliar parceria entre Rússia e China",
    "topicos": [
-    "Em 18 de novembro de 2026, os presidentes Vladimir Putin e Xi Jinping se encontraram em Shenzhen, sul da China, à margem da cúpula da Apec, para defender a ampliação da cooperação bilateral em comércio, energia e educação.",
-    "Xi solicitou maior coordenação entre governos, parlamentos, forças armadas e partidos políticos para implementar acordos bilaterais e proteger os direitos e interesses das empresas dos dois países; Putin destacou a intenção de aprofundar a coordenação estratégica e ampliar intercâmbios populacionais.",
-    "O encontro celebrou 30 anos da parceria estratégica entre Rússia e China e 25 anos do Tratado de Boa Vizinhança e Cooperação Amigável, assinado em 16 de julho de 2001, cujo artigo 9 prevê consultas imediatas diante de ameaças à paz ou segurança.",
-    "Durante visita de Putin à China em maio de 2026, os líderes concordaram em renovar o tratado e lançaram um programa conjunto de cooperação educacional para 2026 e 2027, conforme declaração oficial dos dois governos.",
-    "Segundo o Instituto Mercator, o volume das trocas comerciais entre Rússia e China cresceu 31% de janeiro a setembro de 2026 em relação ao mesmo período de 2025; a Rússia exporta principalmente combustíveis fósseis e recursos naturais, enquanto a China fornece veículos, máquinas e equipamentos eletrônicos.",
-    "A Apec reúne 21 economias, incluindo China, Rússia e Estados Unidos, e busca promover comércio, investimentos e integração regional; Xi vinculou o desenvolvimento da China ao da Ásia‑Pacífico, e Putin defendeu uma ordem mundial multipolar e mudanças na governança global para torná‑la mais justa."
+    "O presidente chinês Xi Jinping e o presidente russo Vladimir Putin se reuniram na 4ª feira (18.nov.2026), em Shenzhen, para discutir a ampliação da cooperação em comércio, energia e educação.",
+    "O encontro ocorreu à margem da cúpula da Apec e marcou os 30 anos da parceria estratégica bilateral, além dos 25 anos do Tratado de Boa Vizinhança e Cooperação Amigável, assinado em 16 de julho de 2001.",
+    "Xi pediu maior coordenação entre governos, Parlamentos, Forças Armadas e partidos, além de medidas para proteger os interesses empresariais dos 2 países, enquanto Putin defendeu aprofundar a coordenação estratégica.",
+    "As trocas comerciais entre Moscou e Pequim registraram alta de 31% entre janeiro e setembro de 2026, frente ao mesmo intervalo de 2025, impulsionadas pela venda russa de combustíveis e recursos naturais e pela exportação de industriais chineses.",
+    "Os líderes já haviam concordado em renovar o tratado durante visita de Putin em maio de 2026, ocasião em que lançaram um programa conjunto de cooperação educacional válido para 2026 e 2027.",
+    "A Apec, fórum que engloba 21 economias como China, Rússia e Estados Unidos, promoveu o encontro onde Xi defendeu a integração regional e Putin manifestou apoio a uma ordem mundial multipolar e mais justa."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/putin-e-xi-defendem-ampliar-parceria-entre-russia-e-china/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/86b43a0a7d2c.webp"
   },
   {
    "titulo": "Morana e Todomoda aceleram expansão e levam grupo a mais de 410 lojas",
    "topicos": [
-    "O grupo controlador das marcas Morana e Todomoda planeja ultrapassar a marca de 410 unidades operando no Brasil até o mês de dezembro, impulsionado pela expansão simultânea de ambas as redes.",
-    "A Morana, próxima de completar 25 anos, projeta encerrar o ano com mais de 360 lojas, realizando 39 inaugurações em 2026 frente às 37 aberturas de 2025, o que representa um crescimento de 5,4%.",
-    "No período de janeiro a setembro, 20 unidades da Morana já foram inauguradas no país, com outras 19 aberturas confirmadas para acontecerem até dezembro.",
-    "A marca Todomoda, fruto de uma joint venture entre o Grupo Morana e o Blue Star Group, opera atualmente 34 unidades e planeja inaugurar mais 20 entre setembro e dezembro, mirando 54 lojas no total e uma meta de 300 unidades em cinco anos.",
-    "Presente hoje em 10 estados brasileiros, a Todomoda pretende expandir sua presença para 13 estados até dezembro, com forte foco em São Paulo e avanço em praças como Sergipe, Manaus e Recife."
+    "O grupo controlador das redes Morana e Todomoda planeja ultrapassar a marca de 410 unidades operando no Brasil até o mês de dezembro, impulsionado pela expansão conjunta de suas duas marcas de acessórios no país.",
+    "Às vésperas de completar 25 anos de mercado, a rede Morana projeta fechar o ano com mais de 360 lojas, realizando 39 inaugurações em 2026 frente às 37 aberturas registradas em 2025, o que representa uma alta de 5,4%.",
+    "A marca Morana já inaugurou 20 unidades entre os meses de janeiro e setembro, restando outras 19 aberturas confirmadas para acontecerem até dezembro em locais como shoppings, ruas, galerias e estações de metrô.",
+    "A rede argentina Todomoda, operada em joint venture com o Blue Star Group, possui atualmente 34 lojas em funcionamento e planeja abrir mais 20 unidades de setembro a dezembro para alcançar 54 operações até o final do ano.",
+    "A meta de longo prazo da Todomoda é atingir um total de 300 lojas no Brasil em um horizonte de cinco anos, ampliando sua presença de dez para 13 estados brasileiros até dezembro."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/19/11/2026/noticias-varejo/morana-e-todomoda-aceleram-expansao-e-levam-grupo-a-mais-de-410-lojas/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7bbd54f72eba.webp"
   },
   {
    "titulo": "O encontro inédito de Trump, Putin e Xi Jinping, e o que o Brasil ganha com isso - O Assunto #1849",
    "topicos": [
-    "Na madrugada de quinta‑feira, 19, presidentes dos EUA, China e Rússia – Donald Trump, Xi Jinping e Vladimir Putin – se encontraram pela primeira vez em Shenzhen, cidade símbolo do crescimento chinês.",
-    "O encontro trilateral abordou a paz global, incluindo buscas de soluções para as guerras na Ucrânia e no Irã e propostas de redução de arsenais nucleares.",
-    "Segundo o analista Leonardo Trevisan, cada líder usou a reunião para avançar interesses próprios, embora a agenda oficial foque em segurança internacional.",
-    "Trevisan explicou que o Brasil pretende se consolidar como “potência média” na geopolítica e vê o fim dos conflitos como condição para expandir seu comércio exterior.",
-    "O episódio do podcast O Assunto, apresentado por Natuza Nery, contou com a participação de Trevisan, professor de Relações Internacionais da ESPM.",
-    "O Assunto, podcast diário do g1 lançado em agosto de 2019, já acumulou mais de 168 milhões de downloads em todas as plataformas de áudio.",
-    "Uma foto da reunião mostra Trump e Putin se cumprimentando ao lado de Xi em 18 de novembro de 2026, ilustrando o momento antes da sessão oficial."
+    "Na madrugada de quinta-feira (19), os líderes de Estados Unidos, China e Rússia realizaram seu primeiro encontro trilateral na cidade de Shenzhen, na China.",
+    "A pauta oficial da reunião incluiu discussões sobre a paz global, buscando soluções para os conflitos na Ucrânia e no Irã, além de acordos para reduzir o arsenal nuclear.",
+    "Nos bastidores da cúpula, Donald Trump, Xi Jinping e Vladimir Putin aproveitaram o evento para promover os interesses específicos de cada nação.",
+    "O professor e analista de relações internacionais Leonardo Trevisan participou do podcast para analisar os interesses dos líderes e as projeções para o futuro.",
+    "O Brasil busca aproveitar o cenário para se consolidar como uma potência média influente na geopolítica e quer o encerramento das guerras para impulsionar o comércio internacional."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/19/o-encontro-inedito-de-trump-putin-e-xi-jinping-e-o-que-o-brasil-ganha-com-isso-o-assunto-1849.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/443ce10c1f09.webp"
   },
   {
    "titulo": "Consciência Negra será o último feriadão antes do Natal; veja as regras para quem trabalha",
    "topicos": [
-    "O Dia Nacional de Zumbi e da Consciência Negra é celebrado em 20 de novembro, uma sexta-feira, sendo feriado nacional desde 2024 após aprovação do Congresso em novembro de 2023 e sanção do presidente Luiz Inácio Lula da Silva.",
-    "A folga no feriado de 20 de novembro garante três dias consecutivos de descanso para quem não trabalha aos sábados e domingos, sendo o último feriadão antes do Natal de 2026.",
-    "O artigo 70 da CLT proíbe trabalho em feriados, mas há exceções para serviços essenciais e categorias autorizadas por lei, ou quando exigido por Convenção Coletiva de Trabalho negociada por sindicatos.",
-    "Quem trabalha no feriado tem direito a remuneração em dobro ou a uma folga compensatória, regras que também podem incluir banco de horas conforme acordo individual ou coletivo.",
-    "Trabalhadores fixos e temporários seguem as mesmas regras básicas de compensação, enquanto o trabalhador intermitente recebe o valor acordado no contrato que já inclui os adicionais por feriados.",
-    "Faltar ao trabalho após ser escalado pode gerar desconto salarial e advertências, configurando justa causa apenas em caso de comportamento faltoso reiterado após análise de fatores como impacto e recorrência.",
-    "Em 2026, o Brasil terá 10 feriados nacionais e as vésperas de Natal (24) e de Ano-Novo (31) serão pontos facultativos federais após as 13h, sem folga automática no setor privado."
+    "O Dia Nacional de Zumbi e da Consciência Negra, celebrado em 20 de novembro, é feriado nacional desde 2024, após aprovação do Congresso em novembro de 2023 e sanção do presidente Lula.",
+    "O feriado em 20 de novembro de 2026 cairá em uma sexta-feira, proporcionando três dias consecutivos de descanso para quem não trabalha aos sábados e domingos.",
+    "A legislação permite o trabalho em feriados para atividades essenciais e categorias autorizadas, sendo que o empregado escalado pode ter direito a remuneração em dobro ou folga compensatória.",
+    "A escolha entre pagamento em dobro ou folga é definida por Convenção Coletiva de Trabalho ou acordo entre patrão e empregado, sem decisão unilateral do chefe.",
+    "Faltar ao trabalho após ser escalado pode gerar desconto e falta injustificada, mas a demissão por justa causa costuma exigir comportamento reiterado, dependendo da avaliação de cada caso.",
+    "As regras gerais valem para empregados fixos e temporários, enquanto o trabalhador intermitente recebe conforme valor acordado em contrato que já inclui adicionais de feriados.",
+    "Em 2026, após o dia 20 de novembro, o único feriado restante será o Natal em 25 de dezembro (sexta-feira), enquanto os dias 24 e 31 de dezembro serão pontos facultativos federais após as 13h."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/consciencia-negra-feriado.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/c870a92616d6.webp"
   },
   {
    "titulo": "Mega-Sena pode pagar R$ 40 milhões nesta quinta-feira; g1 transmite ao vivo",
    "topicos": [
-    "O concurso 3.088 da Mega‑Sena tem prêmio estimado em R$ 40 milhões e será sorteado às 21h desta quinta‑feira (19/11) em São Paulo.",
-    "Apostas simples (6 dezenas) podem ser feitas até as 20h (horário de Brasília) em qualquer lotérica ou pelo site/aplicativo Loterias Caixa; bolões digitais até as 20h30, exclusivamente no portal Loterias Online e no app.",
-    "Para sorteios realizados aos domingos, as apostas simples são aceitas até as 22h de sábado nas lotéricas, no Portal Loterias Caixa e no aplicativo; os Bolões Caixa eletrônicos são comercializados até as 10h45 do domingo, quinze minutos antes do sorteio.",
-    "O pagamento das apostas online pode ser realizado via PIX, cartão de crédito ou internet banking para correntistas da Caixa, sendo necessário ter 18 anos ou mais para participar.",
-    "A aposta simples custa R$ 6, com probabilidade de 1 em 50.063.860 de acertar as seis dezenas; a aposta máxima de 20 dezenas custa R$ 232.560,00 e tem chance de 1 em 1.292."
+    "O concurso 3.088 da Mega-Sena vai pagar um prêmio estimado em R$ 40 milhões para quem acertar as seis dezenas sorteadas.",
+    "O sorteio acontece nesta quinta-feira (19), às 21h, na cidade de São Paulo, com transmissão ao vivo pelo portal g1.",
+    "As apostas simples podem ser feitas até as 20h (horário de Brasília) em lotéricas de todo o país, pelo site ou aplicativo Loterias Caixa.",
+    "Os bolões digitais têm prazo de compra estendido até as 20h30, sendo vendidos exclusivamente pelo portal Loterias Online e aplicativo.",
+    "O jogo simples com seis dezenas custa R$ 6 e apresenta uma probabilidade de vitória de 1 em 50.063.860.",
+    "A aposta máxima permitida é de 20 dezenas, com custo de R$ 232.560,00 e chance de acerto de 1 em 1.292.",
+    "Para participar dos jogos, é obrigatório ter idade igual ou superior a 18 anos, e o pagamento online pode ser feito via PIX, cartão de crédito ou internet banking da Caixa."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/19/mega-sena-pode-pagar-r-40-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/67a06478c58b.webp"
   },
   {
    "titulo": "Posse de Lula: com hotéis caros e cheios, Planalto e governo do DF discutem camping para caravanas",
    "topicos": [
-    "O governo federal e o governo do Distrito Federal debatem a disponibilização de locais públicos, como escolas, parques e estacionamentos, para abrigar caravanas de apoiadores na semana da posse do presidente Luiz Inácio Lula da Silva.",
-    "A cerimônia ocorrerá em uma nova data devido a uma regra da Constituição Federal que mudou a posse presidencial para o dia 5 e a dos governadores para o dia seguinte, evitando coincidência com o feriado de Ano Novo.",
-    "Representantes da Presidência da República, do Gabinete de Segurança Institucional e da Secretaria de Segurança Pública do DF se reuniram na semana passada para alinhar o planejamento e avaliar o pedido de hospedagem alternativa.",
-    "A direção nacional do PT iniciou uma mobilização no começo de novembro e abriu um formulário de inscrição para organizar excursões de militantes de todo o país para o quarto mandato de Lula.",
-    "A Associação Brasileira da Indústria de Hotéis do DF informou que as reservas hoteleiras atingiram 50% um dia após a reeleição em outubro, impulsionadas pela nova data fora do réveillon que também atrai mais líderes internacionais.",
-    "O aumento na procura gerou reclamações de preços altos de hospedagem e levou a Promotoria de Justiça de Defesa do Consumidor do Distrito Federal a abrir um procedimento preliminar para analisar a situação.",
-    "Até quinta-feira (19), nenhuma atração artística havia sido confirmada para a festa de 2027, cuja produção cultural será coordenada pela primeira-dama Janja da Silva, repetindo o modelo de 2023, quando 300 mil pessoas lotaram a Esplanada."
+    "O governo federal e a gestão do Distrito Federal discutem a liberação de áreas públicas, como escolas e parques, para alojar caravanas de apoiadores do presidente Luiz Inácio Lula da Silva na semana da posse.",
+    "Esta será a primeira posse presidencial realizada em 5 de janeiro, conforme nova regra constitucional que alterou a data para evitar coincidência com o feriado de Ano Novo.",
+    "Representantes do Palácio do Planalto, do Gabinete de Segurança Institucional e da Secretaria de Segurança Pública do DF realizaram uma reunião na semana passada para planejar a cerimônia.",
+    "A rede hoteleira do DF atingiu 50% de reservas logo após a reeleição de Lula em outubro, impulsionada pelo fim da coincidência com o réveillon e expectativa de líderes internacionais.",
+    "O aumento nos preços de hospedagem gerou reclamações e levou a Promotoria de Justiça de Defesa do Consumidor do Distrito Federal a abrir um procedimento preliminar para analisar os dados.",
+    "A primeira-dama Janja da Silva coordenará o setor artístico da posse de 2027, repetindo o papel desempenhado no evento de 2023, que reuniu 300 mil pessoas na Esplanada dos Ministérios."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/posse-de-lula-com-hoteis-caros-e-cheios-planalto-e-governo-do-df-discutem-camping-para-caravanas.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/e3682a871ca5.webp"
   },
   {
    "titulo": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
    "topicos": [
     "O presidente dos EUA, Donald Trump, declarou em entrevista à Fox News na quarta-feira (18) que debateu inteligência artificial com o líder chinês Xi Jinping.",
-    "Trump afirmou que a situação do ex-CEO da Nvidia, Jensen Huang, foi citada apenas de forma breve durante o diálogo com o mandatário da China.",
-    "Os líderes dos Estados Unidos, da China e da Rússia têm encontro trilateral agendado para esta quinta-feira (19), às 3h30 no horário de Brasília.",
-    "Jensen Huang deixou o cargo após investigações da imprensa apontarem que ele se relacionou com Alice Huang, apontada por autoridades dos EUA como agente da inteligência chinesa.",
-    "A empresa Megaspeed, onde Alice trabalhava, adquiriu mais de US$ 4,8 bilhões em chips da Nvidia nos últimos dois anos e foi investigada por suspeita de burlar embargos de exportação."
+    "Trump afirmou ter mencionado de forma breve a situação do ex-CEO da Nvidia, Jensen Huang, classificando o caso como uma tragédia.",
+    "Está agendada para esta quinta-feira (19), às 3h30 (horário de Brasília), uma reunião trilateral entre Trump, Xi Jinping e o russo Vladimir Putin.",
+    "Jensen Huang deixou o cargo após revelações do The New York Times de que manteve um relacionamento com Alice Huang, apontada como agente da inteligência chinesa.",
+    "A Megaspeed, empresa de Singapura onde Alice trabalhava, adquiriu mais de US$ 4,8 bilhões em chips da Nvidia ao longo dos últimos dois anos.",
+    "A investigação americana apurou se a empresa ajudou Pequim a burlar proibições de exportação de chips avançados de inteligência artificial para a China."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-diz-que-nao-discutiu-situacao-do-ceo-da-nvidia-com-xi-jinping.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6a43cbd1485d.webp"
   },
   {
    "titulo": "Aprovadas regras de uso compartilhado de postes; texto vai à sanção",
    "topicos": [
-    "O Plenário do Senado aprovou em 18/11/2026 o projeto PL 3.220/2019, que estabelece normas para o compartilhamento de postes entre empresas de telecomunicações e distribuidoras de energia elétrica, seguindo para sanção presidencial.",
-    "A medida busca eliminar a desordem de fios nos postes, diminuir acidentes graves em âmbito nacional e baratear o acesso de operadoras de internet e telefonia à infraestrutura energética.",
-    "O projeto fixa um teto para o aluguel dos postes, sendo que, até a definição de um valor definitivo pela Aneel e pela Anatel, vigorará o preço de referência atual corrigido pela inflação até o final de 2025, com limite de 50% nas zonas rurais.",
-    "Os contratos de locação com preços acima do teto estipulado terão um prazo de 18 meses para se adequar, contando a partir da vigência da lei para o teto provisório ou da publicação do valor definitivo.",
-    "Empresas com cabos clandestinos sem contrato disporão de 180 dias para solicitar a regularização sem cobrança de multa, enquanto fios que apresentem riscos de segurança precisarão ser removidos de imediato.",
-    "A regularização completa da rede de postes precisará ser finalizada em até cinco anos após a entrada em vigor da lei, podendo a Aneel estender o prazo por mais cinco anos em situações de maior complexidade.",
-    "Ocupar postes sem a devida contratação passa a ser classificado como infração grave, sujeitando a empresa infratora à perda da concessão ou autorização caso não corrija a falha após receber notificação."
+    "O Plenário do Senado aprovou em 18 de novembro de 2026 o projeto PL 3.220/2019, que estabelece normas para o uso compartilhado de postes entre empresas de energia e telecomunicações, seguindo agora para sanção presidencial.",
+    "O projeto fixa um teto para o aluguel dos postes cobrado das operadoras, sendo que, até a definição de um valor definitivo, valerá o preço de referência atual corrigido pela inflação até o final de 2025, com limite de 50% nas zonas rurais.",
+    "Contratos com valores acima do teto deverão se adequar em até 18 meses, prazo contado a partir da vigência da lei para o teto provisório ou da publicação do valor estrutural definitivo.",
+    "Fios instalados sem contrato poderão ser regularizados sem multa se as operadoras solicitarem em até 180 dias, enquanto cabos que representem risco de segurança precisarão ser retirados imediatamente.",
+    "A regularização total de todos os postes no país deve ser finalizada em até cinco anos, podendo a Aneel prorrogar o prazo por mais cinco anos em situações consideradas complexas.",
+    "Ocupar postes sem contrato passa a ser classificado como infração grave, sujeitando a empresa infratora à perda da concessão ou da autorização caso a irregularidade persista após a notificação."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovadas-regras-de-uso-compartilhado-de-postes-texto-vai-a-sancao",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/965d8033a9f6.webp"
   },
   {
    "titulo": "Áudio: Debate na CAE aponta formas de reduzir alíquota de novo tributo, a CBS",
    "topicos": [
-    "Em 18 de novembro de 2026, a Comissão de Assuntos Econômicos (CAE) realizou o segundo debate focado no cálculo da alíquota da Contribuição sobre Bens e Serviços (CBS), imposto que passará a valer em 2027.",
-    "O centro da discussão foi a divergência entre a projeção oficial do governo federal, fixada em 9,21%, e a estimativa apresentada pelo Tribunal de Contas da União (TCU), que sugere uma alíquota de 11,3%.",
-    "Durante a audiência, o relator da reforma tributária, senador Eduardo Braga (MDB-AM), propôs que a definição da contribuição utilize como parâmetro os critérios adotados pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE)."
+    "A Comissão de Assuntos Econômicos realizou, em 18 de novembro de 2026, seu segundo debate sobre o cálculo da alíquota da Contribuição sobre Bens e Serviços, imposto que passará a valer em 2027.",
+    "O principal foco da discussão foi a divergência nas projeções para o tributo, com o Tribunal de Contas da União estimando uma alíquota de 11,3% contra os 9,21% previstos pelo governo federal.",
+    "O relator da reforma tributária, senador Eduardo Braga, defendeu que sejam utilizados os critérios da Organização para a Cooperação e Desenvolvimento Econômico como base para definir a contribuição."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/debate-na-cae-aponta-formas-de-reduzir-aliquota-de-novo-tributo-a-cbs",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "sem_imagem": true
   },
   {
    "titulo": "TCU identifica falhas que dificultam avaliar resultados de políticas públicas",
    "topicos": [
-    "O Tribunal de Contas da União (TCU) apresentou à Comissão Mista de Orçamento (CMO) o Relatório de Fiscalizações em Políticas e Programas de Governo de 2026 em 18/11/2026, analisando 7 de 52 políticas com orçamento estimado em R$ 45 bilhões, conforme exigência da LDO.",
-    "O auditor Fábio Granja recomendou ao Ministério da Gestão que inclua no sistema Transferegov as transferências obrigatórias da União, que somam R$ 215,6 bilhões, já que o sistema registra apenas R$ 58,6 bilhões de transferências voluntárias como convênios.",
-    "O Programa Criança Alfabetizada tem meta de 80 % de crianças alfabetizadas ao 2.º ano até 2030; em 2025 a meta era 64 % e o índice alcançado foi 66 %; dez estados melhoraram com poucos recursos, enquanto três gastaram muito sem apresentar avanços.",
-    "O Programa Agora Tem Especialistas aumentou a quantidade de procedimentos no SUS, mas as filas de espera permanecem extensas e desiguais entre regiões, e a falta de dados completos dificulta a avaliação dos resultados.",
-    "A Lei da Informática responde por 41 % dos incentivos fiscais da área de Ciência e Tecnologia, porém há pouca transparência sobre os resultados e a gestão foca principalmente na análise de conformidade das empresas para acesso ao benefício.",
-    "Em 2024 foram registradas 37 150 mortes no trânsito, das quais 41,6 % foram de motociclistas; os recursos destinados à educação de trânsito sofreram contingenciamento superior a 80 % e nem todo o valor liberado foi executado.",
-    "Na gestão de riscos e desastres, 8,9 milhões de pessoas vivem em áreas de risco, mas apenas 22 % dos recursos aplicados são usados na prevenção; cerca de 60 % do dinheiro é executado por estados e municípios, dificultando o monitoramento."
+    "O Tribunal de Contas da União apresentou em 18 de novembro de 2026 à Comissão Mista de Orçamento o Relatório de Fiscalizações em Políticas e Programas de Governo de 2026.",
+    "O documento avaliou 7 de um total de 52 políticas públicas, que somam um orçamento estimado em R$ 45 bilhões, apontando falhas no monitoramento de resultados pelos gestores.",
+    "O auditor Fábio Granja relatou que o TCU recomendou ao Ministério da Gestão a inclusão de R$ 215,6 bilhões em transferências obrigatórias no sistema Transferegov, que hoje registra apenas R$ 58,6 bilhões de repasses voluntários.",
+    "No programa Criança Alfabetizada, o índice foi de 66% em 2025 frente à meta de 64%, visando alcançar 80% até 2030, enquanto o programa Agora Tem Especialistas registrou filas persistentes e dados incompletos.",
+    "A Lei da Informática concentra 41% dos incentivos de Ciência e Tecnologia com pouca transparência de resultados, e a redução de trânsito registrou 37.150 mortes em 2024, com 41,6% de motociclistas e contingenciamento superior a 80% na educação.",
+    "Na gestão de riscos e desastres, onde 8,9 milhões vivem em áreas vulneráveis, apenas 22% do aplicado vai para prevenção e a verba foca em resposta a desastres com créditos extraordinários, sendo 60% executada por estados e municípios.",
+    "O plano de segurança pública carece de avaliação de resultados por falta de ponto de partida para metas, enquanto os serviços postais enfrentam queda de recursos, custos altos e distribuição irregular de agências."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/tcu-identifica-falhas-que-dificultam-avaliar-resultados-de-politicas-publicas",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/39330f0f4dd5.webp"
   },
   {
    "titulo": "Da carne seca ao mercado europeu: a aposta portuguesa da brasileira Alfama",
    "topicos": [
-    "A brasileira Alfama, processadora de proteínas voltada para o food service, investirá 13,5 milhões de euros para instalar uma fábrica em Santarém, Portugal.",
-    "Metade do valor do investimento será financiada de forma não reembolsável pelo Fundo Europeu de Desenvolvimento Regional (FEDER), condicionado a metas como a contratação de locais.",
-    "A expansão internacional, iniciada em 2019 e aprovada em 23 de outubro, prevê o início das obras em março de 2027 e capacidade produtiva de até 25 toneladas diárias."
+    "A Alfama Foods vai investir €13,5 milhões na construção de uma fábrica de processamento de alimentos em Santarém, Portugal, dos quais cerca de 45 % (aprox. €6,1 milhões) serão financiados pelo Fundo Europeu de Desenvolvimento Regional (FEDER) em regime não reembolsável, condicionado à execução do projeto e à contratação de mão‑de‑obra local.",
+    "O projeto, aprovado em 23 de outubro, prevê início das obras em março de 2027, com duração de pouco mais de um ano; a instalação ocupará cerca de 3 mil m² de um antigo complexo de presunto cru que será adaptado para ampliar câmaras de recebimento e estocagem de produtos congelados.",
+    "A capacidade planejada é de até 25 toneladas diárias, e no primeiro ano de operação a empresa pretende contratar 49 funcionários, a maior parte portugueses, com algumas lideranças transferidas do Brasil.",
+    "As vendas iniciarão em Portugal e na Espanha por meio de distribuidores especializados em food service, sem contratos firmados ainda; a partir de 2029 a Alfama pretende expandir para outros mercados europeus.",
+    "A operação portuguesa deve representar entre 25 % e 30 % da receita da Alfama em 2030, contribuindo com pouco mais de R$ 300 milhões de um faturamento consolidado projetado de R$ 1,4 bilhão, e estima receita de € 35 milhões em Portugal até 2035, com capacidade para € 75 milhões anuais.",
+    "Fundada no Brasil em 2009, a Alfama processa proteínas para o food service, atende o mercado nacional via 110 distribuidores e cerca de 30 mil clientes, e possui duas fábricas em Cascavel (PR) e Louveira (SP), com receita bruta prevista de R$ 360 milhões em 2026, acima dos R$ 230 milhões de 2025.",
+    "Para acessar o apoio do FEDER, a empresa e seus fundadores precisam ter nacionalidade portuguesa; o CEO Bruno Sonda André, filho de pai português, possui dupla cidadania, e a empresa já havia constituído uma entidade europeia em 2019, preparando o terreno para a expansão."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/business/da-carne-seca-ao-mercado-europeu-a-aposta-portuguesa-da-brasileira-alfama/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/ffcf205978c9.webp"
   },
   {
    "titulo": "Mianmar tinha intenção de destruir a população Rohingia, diz ONU",
    "topicos": [
-    "A Corte Internacional de Justiça, órgão judicial da ONU, concluiu nesta quinta-feira (19) que as ações de Mianmar contra os rohingya em 2017 configuram genocídio.",
-    "O tribunal determinou que os atos tiveram a intenção de destruir uma parte substancial dessa minoria muçulmana localizada no norte do estado de Rakhine.",
-    "Segundo o presidente da corte, Yuji Iwasawa, a conclusão foi alcançada após a análise de todas as evidências reunidas sobre o caso."
+    "Juízes da Corte Internacional de Justiça (CIJ) decidiram na quinta‑feira, dia 19, que as ações de Mianmar contra os rohingya atendem ao limiar legal de genocídio.",
+    "A decisão reconhece que, em 2017, o governo de Mianmar agiu com a intenção de destruir parte substancial da população rohingya, minoria muçulmana do norte do estado de Rakhine.",
+    "O tribunal afirmou que, com base em todas as evidências reunidas, a única inferência razoável para explicar as ações é a intenção de eliminar essa parcela da população.",
+    "Yuji Iwasawa, presidente da CIJ, declarou que a conclusão reflete a intenção deliberada de destruir parte da comunidade rohingya, conforme o direito internacional.",
+    "Este pronunciamento representa o primeiro reconhecimento judicial de genocídio contra Mianmar, podendo influenciar processos legais e a responsabilização internacional futura."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/19/myanmar-tinha-intencao-de-destruir-a-populacao-rohingya-diz-onu.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/1c0cf75b028b.webp"
   },
   {
    "titulo": "Trump encontra Putin: 'Ele é meu amigo'",
    "topicos": [
-    "Donald Trump se referiu ao presidente russo, Vladimir Putin, chamando-o de seu amigo antes de um encontro bilateral.",
-    "A declaração e a reunião antecederam a participação de ambos em um evento com o presidente da China, Xi Jinping."
+    "Donald Trump chamou o presidente da Rússia, Vladimir Putin, de seu amigo antes de realizarem uma reunião bilateral.",
+    "O encontro entre Trump e Putin antecedeu a participação de ambos em um evento conjunto com o presidente da China, Xi Jinping."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/watch/cmz9dnwg2yjxo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "erro_materia": "não achou o texto principal",
+   "detalhada": true,
+   "imagem": "img/2026/11/ad243727451a.webp"
   },
   {
    "titulo": "Dinamarca aprova acordo militar com EUA e Groenlândia para reforçar segurança no Ártico",
    "topicos": [
-    "O Parlamento da Dinamarca aprovou por 109 votos a zero o acordo trilateral de segurança com os Estados Unidos e a Groenlândia, após meses de pressão do presidente americano Donald Trump para assumir o controle do território.",
-    "A votação no plenário em Copenhague constitui a última etapa legislativa para a ratificação do pacto, que já havia recebido aprovação unânime do Parlamento da Groenlândia no início deste mês.",
-    "O tratado entrará formalmente em vigor quando Dinamarca e Groenlândia enviarem uma nota diplomática aos Estados Unidos informando a conclusão dos trâmites internos.",
-    "O documento assinado em setembro em Nova York substitui e amplia o tratado de defesa original estabelecido em 1951, permitindo a expansão das forças americanas na ilha e mantendo a soberania dinamarquesa.",
-    "Os Estados Unidos ganham autorização para modernizar as atividades na Base Espacial de Pituffik, no noroeste, e criar novas áreas de defesa em Narsarsuaq, no sul, e Mestersvig, no leste.",
-    "O acordo garante que a parceria militar permanecerá válida mesmo se a Groenlândia decidir buscar a independência no futuro, diminuindo os temores de uma anexação americana."
+    "O Parlamento da Dinamarca aprovou por 109 votos a zero o acordo trilateral de segurança firmado com os Estados Unidos e a Groenlândia, em votação realizada no Palácio de Christiansborg, em Copenhague.",
+    "A votação dinamarquesa representa a última etapa legislativa, após o texto ser aprovado sem oposição pelo Parlamento da Groenlândia no início do mês e assinado por líderes em setembro, em Nova York.",
+    "O tratado foi impulsionado por meses de pressão do presidente americano Donald Trump para assumir o controle da Groenlândia, buscando responder a preocupações de segurança e temores de anexação.",
+    "O pacto estabelece a ampliação da presença militar dos Estados Unidos na ilha, atualizando um tratado de defesa que havia sido firmado originalmente no ano de 1951.",
+    "O acordo autoriza os americanos a expandir as atividades na Base Espacial de Pituffik, no noroeste, e a estabelecer novas áreas de defesa em Narsarsuaq, no sul, e Mestersvig, no leste.",
+    "O documento assegura que o território autônomo permanecerá sob controle dinamarquês e continuará válido caso a Groenlândia decida conquistar a independência no futuro.",
+    "O pacto entrará em vigor oficialmente assim que Dinamarca e Groenlândia notificarem os Estados Unidos, por nota diplomática, sobre a conclusão dos trâmites parlamentares."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/19/parlamentares-da-dinamarca-aprovam-acordo-de-seguranca-com-a-groenlandia-e-os-eua.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/166d426aeac9.webp"
   },
   {
    "titulo": "Recorde da Anthropic em estreia na bolsa de valores conseguirá impedir o estouro da bolha da IA?",
    "topicos": [
-    "Em 2020, Daniela Amodei, Dario Amodei e colegas deixaram seus empregos e fundaram a Anthropic, desenvolvedora do modelo de IA Claude, com projeções de receita de US$ 52 bilhões em 2026 e US$ 135 bilhões em 2027, segundo analistas.",
-    "No dia 18/11, a Anthropic realizou sua IPO na Nasdaq, estabelecendo o maior lançamento de ações da história da bolsa, superando o recorde anterior da SpaceX, com preço inicial de US$ 83 por ação a partir de quinta‑feira.",
-    "A avaliação da empresa subiu para US$ 1,5 trilhão, acima da estimativa inicial de US$ 70‑78 por ação que indicava valor máximo de US$ 1,3 trilhão, refletindo forte demanda no IPO.",
-    "O IPO ocorreu enquanto ações de fornecedores de computação para IA, como Coreweave e Nebius, perderam metade de seu valor e a Nvidia recuou 30%, representando queda de US$ 2 trilhões em capitalização.",
-    "Dario Amodei afirmou ao CEO do JPMorgan, Jamie Dimon, que a empresa não deve valer mais de um dólar acima de seu real valor; a analista Fiona Cincotta destacou que é a primeira oportunidade de investidores públicos acessarem um provedor puro de IA.",
-    "Especialistas apontam riscos: cerca de 25 % da receita da Anthropic vem de poucos clientes, entre eles Google e Amazon, e dois terços da receita são gerados nos EUA, levantando dúvidas sobre a sustentabilidade da valorização em meio a críticas de que a IA está formando uma bolha financeira."
+    "Em 18/11, a Anthropic realizou sua oferta pública inicial (IPO) na Nasdaq, com preço inicial de US$ 83 por ação, elevando sua capitalização de mercado para US$ 1,5 trilhão, superando o recorde anterior da SpaceX.",
+    "Analistas estimam que a empresa, criadora do modelo de IA Claude, terá receitas de US$ 52 bilhões em 2026 e de US$ 135 bilhões em 2027.",
+    "A avaliação inicial prevista era entre US$ 70 e US$ 78 por ação, o que implicaria um valor de até US$ 1,3 trilhão; a forte demanda fez o preço subir para US$ 83, aumentando a avaliação para US$ 1,5 trilhão.",
+    "Este IPO é a primeira oportunidade para investidores públicos comprarem ações de uma companhia focada exclusivamente em IA, ao contrário de ofertas anteriores que eram de fornecedores de chips, centros de dados ou energia.",
+    "O lançamento ocorre em meio a temores de bolha no setor de IA, evidenciados pela queda de 30 % nas ações da Nvidia (perda de US$ 2 trilhões) e pela desvalorização de 50 % de empresas como Coreweave e Nebius.",
+    "A receita da Anthropic está concentrada: cerca de 25 % provém de poucos clientes, entre eles Google e Amazon, e dois terços das vendas são geradas nos Estados Unidos.",
+    "O CEO Dario Amodei afirmou ao JPMorgan Chase que a empresa não será sobrevalorizada e revelou acordos para comprar ou arrendar “centenas de bilhões” de dólares em chips e capacidade computacional."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/recorde-da-anthropic-em-estreia-na-bolsa-de-valores-conseguira-impedir-o-estouro-da-bolha-da-ia.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a95d942f2a7f.webp"
   },
   {
    "titulo": "Encontro de Xi Jinping, Putin e Trump domina agenda com IPO da Anthropic; Ibovespa em dólar sobe nesta quinta (19)",
    "topicos": [
     "Os presidentes Donald Trump (EUA), Xi Jinping (China) e Vladimir Putin (Rússia) realizam negociações diplomáticas em Shenzhen, comparadas à histórica Conferência de Ialta.",
-    "A oferta pública inicial (IPO) da Anthropic nos Estados Unidos levantou mais de US$ 80 bilhões, avaliando a empresa de tecnologia de Dario Amodei em US$ 1,5 trilhão.",
-    "O Ibovespa encerrou o pregão da quarta-feira (18) com queda de 1,34%, aos 167.537,95 pontos, após tentar defender o patamar de 168 mil pontos.",
-    "O dólar à vista fechou em forte alta ante o real, cotado a R$ 5,8667, acompanhando a valorização global da moeda americana nesta quinta-feira (19).",
-    "O mercado local desacelera nesta quinta-feira (19) devido à proximidade do feriado do Dia da Consciência Negra, marcado para a próxima sexta-feira (20).",
-    "A agenda nacional desta quinta-feira destaca a reunião do Conselho Monetário Nacional (CMN), que ocorre no fim da tarde."
+    "A Anthropic estreia na bolsa dos Estados Unidos nesta quinta-feira (19), após sua oferta inicial de ações levantar mais de US$ 80 bilhões e avaliar a empresa em US$ 1,5 trilhão.",
+    "O Ibovespa encerrou o pregão de quarta-feira (18) com queda de 1,34%, aos 167.537,95 pontos, pressionado pelo clima de aversão ao risco na bolsa brasileira.",
+    "O dólar à vista fechou em forte alta cotado a R$ 5,8667, acompanhando a valorização global da moeda americana e a alta de 0,31% do índice DXY, que atingiu 103,7940 pontos.",
+    "A agenda econômica desta quinta-feira (19) destaca a reunião do Conselho Monetário Nacional (CMN) no Brasil, além de indicadores internacionais como pedidos de seguro-desemprego nos EUA."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/encontro-de-xi-jinping-putin-e-trump-domina-agenda-com-ipo-da-anthropic-ibovespa-em-dolar-sobe-nesta-quinta-19-rens/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/80e03851bc18.webp"
   },
   {
    "titulo": "Day Trade hoje (19): Ibovespa cai e dólar mira os 6 mil pontos; veja o radar",
    "topicos": [
-    "Na última sessão, o Ibovespa recuou 1,34% e fechou aos 167.538 pontos, aproximando-se do suporte de 164.446 pontos devido à forte pressão vendedora.",
-    "O minidólar subiu 1,83% e terminou a 5.897 pontos, mirando a região psicológica de 6.000 pontos em meio a uma forte tendência de alta.",
-    "Os contratos futuros de Bitcoin registraram queda de 2,47%, encerrando aos 365.560 pontos e reforçando o cenário técnico negativo para o ativo.",
-    "Nesta quinta-feira (19), a agenda econômica das 10h30 traz os pedidos iniciais de seguro-desemprego dos EUA e o índice industrial do Fed da Filadélfia.",
-    "O calendário desta quinta-feira (19) também inclui a divulgação do balanço patrimonial do Federal Reserve e a decisão da taxa de empréstimo na China."
+    "Na última sessão, o Ibovespa recuou 1,34% e fechou aos 167.538 pontos, aproximando-se do suporte de 164.446 pontos devido ao aumento da pressão vendedora.",
+    "O minidólar avançou 1,83% e encerrou a 5.897 pontos, mirando a marca psicológica dos 6.000 pontos em meio à forte tendência compradora.",
+    "O Bitcoin futuro registrou queda de 2,47% e terminou cotado a 365.560 pontos, mantendo o cenário negativo e próximo da região de sobrevenda.",
+    "A agenda econômica desta quinta-feira (19), prevista para as 10h30, traz os pedidos iniciais de seguro-desemprego dos EUA e o índice industrial do Fed da Filadélfia.",
+    "O calendário desta quinta-feira (19) também inclui a divulgação do balanço patrimonial do Federal Reserve e a decisão sobre a taxa preferencial de empréstimo na China."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-19112026/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a089c6379542.webp"
   },
   {
    "titulo": "Estados Unidos entram em alerta após sucessivas panes tecnológicas",
    "topicos": [
-    "Os Estados Unidos entraram em alerta após uma série de panes tecnológicas recentes que afetaram serviços críticos em setores como aviação civil, sistema bancário, comunicação governamental e grandes empresas.",
-    "Na sexta-feira, 13, uma falha na Administração Federal de Aviação cancelou todos os voos no país, evento que especialistas atribuem a sistemas obsoletos e atualizações recentes por Inteligência Artificial.",
-    "O banco JPMorgan Chase enfrentou instabilidade digital na segunda-feira, 16, e a United Airlines registrou atrasos devido a uma falha generalizada no mesmo dia.",
-    "A Agência Nacional de Segurança relatou degradação temporária na terça-feira, 16, e os sistemas da Apple e da corretora Charles Schwab, que concentra ativos de US$ 13 trilhões, ficaram fora do ar na quarta-feira, 17.",
-    "O governo de Donald Trump, autoridades de inteligência e o secretário de Estado Marco Rubio afirmaram que os problemas decorrem de falhas técnicas e negaram indícios de ataques cibernéticos ou ação de Estados estrangeiros.",
-    "Congressistas norte-americanos consideraram as explicações oficiais insuficientes e cobraram mais investigações e transparência sobre as interrupções de serviços, levantando suspeitas sobre a veracidade das justificativas técnicas."
+    "Os Estados Unidos entraram em alerta após uma série de panes tecnológicas consecutivas que impactaram serviços essenciais como aviação, bancos, telecomunicações e a agência de segurança NSA.",
+    "Na sexta-feira, 13, uma falha nos sistemas da Administração Federal de Aviação (FAA) cancelou todos os voos no país, evento que especialistas atribuem a sistemas obsoletos e automação por Inteligência Artificial.",
+    "Na segunda-feira, 16, o banco JPMorgan Chase enfrentou instabilidade digital e a United Airlines sofreu atrasos em voos por causa de uma falha generalizada.",
+    "Na terça-feira, 16, a NSA relatou degradação temporária durante manutenção, enquanto a corretora Charles Schwab, com US$ 13 trilhões em ativos de clientes, ficou fora do ar.",
+    "Na quarta-feira, 17, sistemas da Apple e novas panes foram registrados, somando-se a incidentes recentes que também envolveram serviços de comunicação da Microsoft e afetaram o Brasil.",
+    "Autoridades do governo de Donald Trump, incluindo o diretor de Inteligência Nacional Jay Clayton e o secretário de Estado Marco Rubio, afirmaram que não há indícios de ataques cibernéticos ou ação estatal estrangeira."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/18/11/2026/economia/estados-unidos-entram-em-alerta-apos-sucessivas-panes-tecnologicas/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/186d5e3cf330.webp"
   }
  ]
 }
