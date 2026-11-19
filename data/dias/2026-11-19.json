@@ -587,6 +587,499 @@
    "categoria": "Mundo",
    "detalhada": true,
    "imagem": "img/2026/11/186d5e3cf330.webp"
+  },
+  {
+   "titulo": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil",
+   "topicos": [
+    "A Anthropic, criadora do chatbot Claude, estreia nesta quinta-feira (19) na Nasdaq com ações precificadas em US$ 83 (cerca de R$ 482) em sua oferta pública inicial.",
+    "No Brasil, os investidores poderão negociar papéis da companhia na B3 por meio de BDRs sob o código ANTH34, custando cerca de R$ 60 cada, sem necessidade de conta no exterior.",
+    "Cada ação da Anthropic negociada nos EUA equivale a oito BDRs na bolsa brasileira, permitindo a compra fracionada por investidores de varejo diretamente em reais nas corretoras.",
+    "A B3 abrirá às 10h desta quinta-feira (19), enquanto a Nasdaq iniciará as negociações às 11h30 (horário de Brasília), recomendando-se cautela no intervalo entre as aberturas.",
+    "O IPO da Anthropic pode avaliar a empresa em até US$ 1,4 trilhão (R$ 8,2 trilhões), com captação prevista de até US$ 64,4 bilhões (R$ 375 bilhões) na venda de 825 milhões de ações.",
+    "Os lucros na venda de BDRs têm imposto de renda de 15% em operações comuns e 20% no day trade, sem a isenção mensal de R$ 20 mil aplicável às ações comuns."
+   ],
+   "fonte": "g1 Economia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-estreia-bolsa-como-investir-brasil.ghtml",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Dólar opera em alta e bate R$ 5,92, com foco no pacote fiscal e na estreia da Anthropic em Wall Street",
+   "topicos": [
+    "O dólar subiu 1,0% na quinta‑feira (19) e foi cotado a R$ 5,9256 às 11h55, atingindo R$ 5,9266 como máxima do dia; o Ibovespa avançou 0,21% para 167.895 pontos no mesmo horário.",
+    "O Senado concluiu a votação do pacote fiscal na quarta‑feira, rejeitando três alterações e incorporando duas, e enviou o projeto à Câmara; as medidas podem gerar economia de até R$ 50 bilhões em 2027.",
+    "Entre as mudanças rejeitadas estavam a exclusão da limitação de créditos tributários, a redução do limite de crescimento das despesas de 2 % para 0,6 % e a proibição de teto para compensações previdenciárias, entre outras.",
+    "Foi acordado elevar o repasse da Lei Kandir para R$ 2 bilhões até 2030 (atual R$ 4 bilhões), ao invés de reduzi‑lo para R$ 1 bilhão; o texto ainda altera o cálculo dos recursos mínimos de saúde e fixa prazo para regulamentação dos supersalários.",
+    "O ministro da Fazenda, Dario Durigan, descartou mudanças na meta de inflação, manifestou preocupação com a desaceleração econômica, mas negou risco de recessão em 2027 e reafirmou o cronograma da reforma tributária.",
+    "A startup de IA Anthropic realizou IPO na Nasdaq, sendo a maior oferta da história, com avaliação de US$ 1,5 trilhão (cerca de R$ 8,8 trilhão) e captação de US$ 81,3 bilhões (R$ 478,3 bilhões) ao vender 980 milhões de ações a US$ 83 (R$ 488) cada.",
+    "Nos mercados globais, o Dow Jones subiu 0,08%, o S&P 500 avançou 0,99% e o Nasdaq Composite ganhou 1,83%; na Europa, DAX, CAC‑40 e FTSE 100 recuaram levemente, enquanto na Ásia os índices fecharam sem direção clara."
+   ],
+   "fonte": "g1 Economia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/19/dolar-ibovespa.ghtml",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
+   "topicos": [
+    "O Senado aprovou o PLP 299/2026 em turno suplementar na quarta‑feira (18), com 69 votos a favor e dois contrários, e enviou o ajuste fiscal para a Câmara dos Deputados.",
+    "Em entrevista à GloboNews na quinta‑feira (19), o ministro Bruno Moretti afirmou que o pacote deve gerar economia de cerca de R$ 50 bilhões a partir de 2027 e estabilizar a dívida pública em dois a três anos.",
+    "O governo pretende alcançar o centro da meta fiscal no próximo ano, avançar no controle da dívida e terminar o próximo mandato de Lula com superávit primário de aproximadamente 1,5 % do PIB.",
+    "O ajuste inclui redução de gastos, limitação de benefícios tributários e ampliação de mecanismos de bloqueio de despesas, como a contenção do crescimento das emendas parlamentares impositivas.",
+    "A proposta de tarifa zero no transporte público nos fins de semana e feriados será financiada com R$ 12 bilhões já previstos no Orçamento para emendas impositivas, sem criar nova despesa.",
+    "Moretti não descartou novos ajustes fiscais; eventuais medidas adicionais serão debatidas com o presidente Lula caso sejam necessárias para cumprir o planejamento fiscal.",
+    "Sobre a Lei Kandir, o piso dos repasses anuais foi elevado de R$ 1 bilhão para R$ 2 bilhões entre 2027 e 2030, após negociação que manteve parte da redução original de R$ 4 bilhões."
+   ],
+   "fonte": "g1 Economia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/19/moreti-fiscal-mercado.ghtml",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Ministro do Planejamento prevê estabilizar dívida pública em até 3 anos; economistas acham pacote insuficiente",
+   "topicos": [
+    "O ministro do Planejamento, Bruno Moretti, afirmou nesta quinta-feira (19) que a dívida pública deve se estabilizar em um prazo de 2 a 3 anos, conforme a Lei de Diretrizes Orçamentárias.",
+    "O Senado aprovou na quarta-feira (18) um projeto com medidas de ajuste fiscal do governo, e o texto seguiu para votação na Câmara dos Deputados marcada para segunda-feira (30).",
+    "Segundo Moretti, o ajuste fiscal preservará a política de valorização real do salário mínimo e os pisos constitucionais destinados à saúde e à educação.",
+    "Economistas avaliam que o atual esforço fiscal do governo é insuficiente, diante de projeções que indicam queda na previsão de crescimento do PIB de 2027 para 1,02%.",
+    "O governo planeja atingir um superávit primário em torno de 1,5% do PIB ao final do quarto mandato do presidente Lula, podendo adotar medidas adicionais após conversas presidenciais."
+   ],
+   "fonte": "g1 Política",
+   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/divida-publica-deve-se-estabilizar-em-dois-ou-tres-anos-diz-moretti.ghtml",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "JBS (JBSS3): Itaú BBA vê recuperação dos resultados em 2027 e mantém ação como favorita do setor",
+   "topicos": [
+    "O Itaú BBA manteve a recomendação de compra das ações da JBS (JBSS3) e fixou preço‑alvo em US$ 18 por ação ao final de 2027, indicando potencial de valorização de cerca de 50% em relação ao preço atual.",
+    "Os resultados do terceiro trimestre de 2026 ficaram abaixo das expectativas, com desempenho fraco nas áreas de suínos nos EUA, carne bovina no Brasil e operações na Austrália, pressionando os números consolidados.",
+    "Os analistas apontam que o foco dos investidores já se volta para a recuperação dos lucros a partir do quarto trimestre de 2026, impulsionada pela melhora gradual da divisão de carne bovina nos Estados Unidos.",
+    "Para 2027, a projeção de EBITDA foi elevada 2%, passando para US$ 5,7 bilhões, principalmente pela expectativa de maior rentabilidade da carne bovina americana, cuja margem EBITDA deve chegar a 1%, antes estimada em 0,2%.",
+    "A estimativa de EBITDA para 2026 foi reduzida 3,5%, para US$ 5,2 bilhões, mas o banco considera a relação risco‑retorno ainda atrativa; a JBS negocia a 6,5 vezes o EV/EBITDA projetado para 2027 e oferece rendimento de fluxo de caixa ao acionista de cerca de 8%.",
+    "A tese positiva do Itaú baseia‑se em três fatores: assimetria favorável nos lucros de 2027, melhora progressiva da operação de bovinos nos EUA e forte geração de caixa em dólar, vantagem em cenário macroeconômico brasileiro mais desafiador."
+   ],
+   "fonte": "Money Times",
+   "link": "https://www.moneytimes.com.br/jbs-jbss3-itau-bba-ve-recuperacao-dos-resultados-em-2027-mantem-acao-como-favorita-do-setor-pads/",
+   "categoria": "Varejo"
+  },
+  {
+   "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
+   "topicos": [
+    "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira, 17, que a reforma tributária poderá provocar um leve impacto inicial na inflação brasileira.",
+    "A declaração foi feita em audiência na Comissão de Assuntos Econômicos do Senado, após senadores expressarem receio sobre uma possível alta inflacionária.",
+    "Segundo Durigan, o efeito tende a diminuir gradualmente conforme as empresas compreendam a nova legislação e ajustem a precificação de bens e serviços.",
+    "O processo de adaptação envolve o cálculo correto de créditos e débitos tributários, com monitoramento próximo do Ministério da Fazenda nos próximos meses.",
+    "O ministro também defendeu o avanço da reforma da tributação corporativa e a desoneração da folha de pagamentos devido às inovações tecnológicas no mercado.",
+    "Durigan ressaltou que a desoneração deve manter neutralidade fiscal, transferindo parte da carga tributária da folha para o faturamento ou resultado empresarial."
+   ],
+   "fonte": "Mercado & Consumo",
+   "link": "https://mercadoeconsumo.com.br/19/11/2026/economia/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao/",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Ataque com uso de IA leva Comissão Europeia a tirar aplicativos do ar",
+   "topicos": [
+    "A Comissão Europeia confirmou nesta quinta-feira (19) que sofreu um ataque cibernético baseado em ferramentas de inteligência artificial, detectado inicialmente em 22 de outubro.",
+    "Como medida preventiva, múltiplos aplicativos foram suspensos temporariamente, sendo que a maioria já retornou à operação normal, enquanto a investigação continua em andamento.",
+    "Segundo o porta-voz Thomas Regnier, ainda é complexo mensurar o tamanho do incidente e não há evidências de vazamento de dados que tenha atingido todos os funcionários.",
+    "O site Politico apontou que a invasão pode ter comprometido grande volume de dados pessoais e causado dez dias de interrupção em sistemas de recursos humanos e reembolso."
+   ],
+   "fonte": "g1 Economia",
+   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/comissao-europeia-ataque-hacker.ghtml",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Com queda de 13,4%, abate de bovinos fecha 3º tri em 9,82 milhões de cabeças, diz IBGE",
+   "topicos": [
+    "O abate de bovinos no Brasil alcançou 9,82 milhões de cabeças no terceiro trimestre de 2026, representando uma queda de 13,4% na comparação com o terceiro trimestre de 2025 e de 8,4% ante o segundo trimestre de 2026.",
+    "A produção de carcaças bovinas somou 2,62 milhões de toneladas no terceiro trimestre de 2026, o que representa um recuo de 12,0% em relação ao mesmo período do ano anterior e de 5,0% frente ao segundo trimestre.",
+    "O setor de suínos registrou o abate de 16,65 milhões de cabeças no terceiro trimestre de 2026, alta de 5,2% na comparação anual e de 6,1% em relação ao segundo trimestre, com peso acumulado de 1,59 milhão de toneladas.",
+    "O abate de frangos totalizou 1,79 bilhão de cabeças no terceiro trimestre de 2026, um crescimento de 5,8% ante o terceiro trimestre de 2025 e de 6,0% sobre o segundo trimestre, totalizando 3,86 milhões de toneladas em carcaças.",
+    "A carne bovina do Brasil passará a pagar uma tarifa total de 67% na China, composta por uma cobrança adicional de 55% somada à tarifa regular de 12%, após o esgotamento da cota anual de exportações.",
+    "O Brasil atingiu a cota limite de 1,106 milhão de toneladas prevista para 2026 e o setor estima que o novo limite de 1,128 milhão de toneladas para 2027 possa ser alcançado já em março ou abril daquele ano.",
+    "Entre 2016 e 2025, o Brasil enviou 8,2 milhões de toneladas de carne bovina para a China, movimentando US$ 42,3 bilhões, com o volume saltando de 164,9 mil toneladas para 1,6 milhão de toneladas no período."
+   ],
+   "fonte": "Mercado & Consumo",
+   "link": "https://mercadoeconsumo.com.br/19/11/2026/economia/com-queda-de-134-abate-de-bovinos-fecha-3o-tri-em-982-milhoes-de-cabecas-diz-ibge/",
+   "categoria": "Varejo"
+  },
+  {
+   "titulo": "Depois da vitória no Senado, líderes governistas afirmam que Lula fará novo ajuste nas contas públicas",
+   "topicos": [
+    "O governo do presidente Luiz Inácio Lula da Silva planeja implementar um novo ajuste nas contas públicas para organizar a economia e atrair investimentos estrangeiros, após obter uma vitória no Senado na votação do ajuste fiscal.",
+    "As futuras medidas serão debatidas pelo presidente Lula em conjunto com o novo ministro da Fazenda, cuja nomeação deve ser divulgada em breve.",
+    "Para assegurar a aprovação no Senado, o Palácio do Planalto realizou concessões direcionadas a governadores, referentes ao repasse de recursos da antiga Lei Kandir, e ao setor do agronegócio, quanto ao uso de créditos de PIS e Cofins.",
+    "Após temer uma derrota na terça-feira (17), o governo conseguiu aprovar o pacote com margem confortável na quarta-feira, preservando sua força financeira e superando a oposição."
+   ],
+   "fonte": "g1 Política",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/depois-da-vitoria-no-senado-lideres-governistas-revelam-que-lula-fara-novo-ajuste-nas-contas-publicas.ghtml",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "100 maiores doadores das eleições de 2026 destinaram R$ 163,4 milhões a campanhas e partidos; veja quem são",
+   "topicos": [
+    "O Tribunal Superior Eleitoral (dados consultados em 18 de novembro) registrou que os 100 maiores doadores pessoa física aportaram R$ 163,38 milhões nas eleições de 2026, representando 16 % do total de R$ 1,02 bilhão doado por indivíduos.",
+    "Os cinco maiores doadores somaram R$ 29,59 milhões; o líder foi o empresário Pedro Grendene Bartelle, que doou R$ 7,03 milhões, dos quais R$ 5 milhões foram para a campanha de reeleição do governador do Ceará, Elmano de Freitas (PT), e R$ 500 mil para Ciro Gomes (PSDB).",
+    "Alexandre Grendene Bartelle, cofundador da Grendene, destinou R$ 3 milhões ao governador eleito do Rio Grande do Sul, Luciano Zucco (PL), e R$ 1 milhão ao candidato Flávio Bolsonaro (PL), integrando o ranking dos cinco maiores doadores.",
+    "Rubens Ometto Silveira Mello, presidente do conselho da Cosan, repassou R$ 500 mil ao candidato PP Levi Oliveira (SE) e R$ 1 milhão à direção nacional do MDB, além de outras doações históricas a candidatos como João Doria (PSDB) em 2016.",
+    "Carlos Seabra Suarez, conhecido como “Rei do Gás”, alocou R$ 5,7 milhões a seis direções nacionais de partidos – União Brasil, PP, PSD, MDB, PSDB (R$ 1 milhão cada) e PSB (R$ 700 mil) – e doou R$ 20 mil ao candidato MDB‑RS Clair Kuhn.",
+    "Dos R$ 163,38 milhões dos 100 maiores doadores, R$ 109,91 milhões foram para 395 candidaturas e R$ 53,46 milhões para diretórios partidários; os candidatos mais beneficiados foram Flávio Bolsonaro (PL) com R$ 18,93 mi, Elmano de Freitas (PT) com R$ 8,28 mi e Ronaldo Caiado (PSD) com R$ 4,3 mi. A legislação permite doar apenas pessoas físicas, proibindo contribuições de empresas."
+   ],
+   "fonte": "g1 Política",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/19/maiores-doadores-eleicoes-2026.ghtml",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "Multiplan abre nova área do ParkShopping, em Brasília, com 60 lojas, de Michael Kors a Lego",
+   "topicos": [
+    "A Multiplan investiu R$ 320 milhões para inaugurar uma expansão do ParkShopping, em Brasília, nesta quarta-feira, 18.",
+    "O projeto adiciona quase 9 mil metros quadrados e cerca de 60 novas lojas, incluindo marcas como Michael Kors, Lego e Dolce & Gabbana Beauty.",
+    "O centro de compras de 43 anos chega a 62 mil metros quadrados e 300 lojas, além de conectar-se ao ParkShopping Corporate e ao estacionamento.",
+    "A inauguração encerra um ciclo de investimentos de R$ 2 bilhões iniciados em 2024 para criar 50 mil metros quadrados de novas áreas locáveis.",
+    "A rede da Multiplan, composta por 20 shoppings e 6,5 mil lojas, registrou vendas de R$ 19 bilhões entre janeiro e setembro, alta de 6,9%.",
+    "A receita líquida da companhia atingiu R$ 2,5 bilhões, com crescimento de 37%, enquanto o lucro líquido somou R$ 720 milhões, avanço de 56,6%.",
+    "Novos investimentos estão em compasso de espera até que haja definições da equipe econômica do governo e clareza sobre os níveis de consumo."
+   ],
+   "fonte": "Mercado & Consumo",
+   "link": "https://mercadoeconsumo.com.br/19/11/2026/shopping-centers/multiplan-abre-nova-area-do-parkshopping-em-brasilia-com-60-lojas-de-michael-kors-a-lego/",
+   "categoria": "Varejo"
+  },
+  {
+   "titulo": "IFI: subsídios aos combustíveis deixarão conta de R$ 45 bilhões para 2027",
+   "topicos": [
+    "A Instituição Fiscal Independente (IFI), ligada ao Senado Federal, estimou que os subsídios aos combustíveis concedidos pelo governo em 2026 podem gerar obrigações totais entre R$ 53,9 bilhões e R$ 69,8 bilhões.",
+    "Até o dia 17 de novembro de 2026, a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) havia efetivamente desembolsado o valor de R$ 20,5 bilhões para pagar as subvenções.",
+    "O montante de subsídios que não for quitado ao longo de 2026 será transferido para o exercício de 2027 como despesa primária, podendo alcançar a marca de R$ 45 bilhões.",
+    "A transferência dessa dívida para o próximo ano vai pressionar o Orçamento de 2027, cujo limite de despesas já se encontra totalmente ocupado, conforme apontou o relatório divulgado em 19 de novembro de 2026.",
+    "A IFI alertou sobre a falta de transparência no processo, destacando que os valores pendentes ficam ocultos nas estatísticas fiscais até o pagamento, pois a meta de resultado primário segue o critério de caixa.",
+    "As subvenções ao diesel, à gasolina e ao etanol aumentaram durante o ano em razão da alta nos preços internacionais do petróleo, com o benefício ao diesel saltando de R$ 0,32 por litro em março para R$ 2,12 por litro na segunda quinzena de setembro."
+   ],
+   "fonte": "Poder360",
+   "link": "https://www.poder360.com.br/poder-economia/ifi-subsidios-aos-combustiveis-deixarao-conta-de-r-45-bilhoes-para-2027/",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "PIB da OCDE cresce 0,6% no 3º trimestre; comércio líquido limita avanço no G7",
+   "topicos": [
+    "O Produto Interno Bruto agregado dos países da OCDE registrou alta de 0,6% no terceiro trimestre, desacelerando ligeiramente em relação ao avanço de 0,7% do período anterior.",
+    "Dos 27 países da organização com dados disponíveis, 21 apresentaram expansão econômica, quatro permaneceram estáveis e dois registraram retração no terceiro trimestre.",
+    "O G7 obteve crescimento de 0,5% no período, mantendo o mesmo ritmo do trimestre passado, mas com avanço limitado pela contribuição negativa do comércio líquido.",
+    "O Canadá desacelerou de 0,8% no segundo trimestre para 0,3% no terceiro, enquanto a Alemanha foi de 0,3% para 0,2%, afetada pela queda de investimentos e exportações.",
+    "Japão e Itália ficaram com o PIB estável, após subirem 0,4% e 0,2% respectivamente no segundo trimestre, influenciados negativamente pelo setor de comércio líquido.",
+    "A França teve queda de 0,1% no terceiro trimestre na esteira da retração nos investimentos e nas exportações, após estabilidade nos três meses imediatamente anteriores.",
+    "Os Estados Unidos aceleraram de 0,6% para 0,8% impulsionados pela demanda interna final, e o Reino Unido foi de 0,5% para 0,7% no terceiro trimestre."
+   ],
+   "fonte": "InfoMoney",
+   "link": "https://www.infomoney.com.br/economia/pib-da-ocde-cresce-06-no-3o-trimestre-comercio-liquido-limita-avanco-no-g7/",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Número de desempregados há dois anos ou mais é o menor já registrado",
+   "topicos": [
+    "O número de brasileiros desempregados há pelo menos dois anos caiu para 971 mil no terceiro trimestre de 2026, menor patamar da série histórica iniciada em 2012 pelo IBGE.",
+    "Divulgado na quarta-feira, 18, o dado da Pnad Contínua marca a primeira vez que o grupo de desocupação de longo prazo fica abaixo de 1 milhão de pessoas.",
+    "O desemprego longo teve retração de 17,6% ante o terceiro trimestre de 2025 (1,179 milhão) e queda de 8% frente ao segundo trimestre de 2026 (1,058 milhão).",
+    "Quem procurava trabalho entre um e dois anos somou 590 mil no terceiro trimestre de 2026, e o total de desempregados há pelo menos um ano ficou em 1,56 milhão.",
+    "O pico do desemprego de longo prazo ocorreu no terceiro trimestre de 2021, durante a pandemia, quando atingiu 3,810 milhões de pessoas nessa condição.",
+    "O aquecimento do mercado de trabalho e o aumento nas contratações explicam a redução, segundo analistas do IBGE.",
+    "O Brasil fechou o terceiro trimestre de 2026 com taxa de desemprego de 5,2% e um total de 5,6 milhões de pessoas desocupadas, segundo a pesquisa."
+   ],
+   "fonte": "Mercado & Consumo",
+   "link": "https://mercadoeconsumo.com.br/19/11/2026/economia/numero-de-desempregados-ha-dois-anos-ou-mais-e-o-menor-ja-registrado/",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Setor agropecuário defende aumento de recursos no Orçamento de 2027",
+   "topicos": [
+    "O setor agropecuário submeteu cerca de R$ 1 bilhão em emendas ao Projeto de Lei do Orçamento Nacional 2027 (PLN 24/26) por meio de parlamentares, visando recursos para pesquisas, defesa agropecuária e construção de estradas rurais vicinais.",
+    "Segundo a assessora da Confederação da Agricultura e Pecuária do Brasil, Isabel Mendes de Faria, a inadimplência do agro subiu de 0,86 % em 2023 para 5,62 % em 2024, reflexo da redução do seguro agrícola: em 2026 foram alocados R$ 1 bilhão, embora a necessidade fosse de R$ 4 bilhões, e apenas R$ 166 milhões foram executados até o momento.",
+    "A assessora ressaltou que as emendas só terão efeito se os recursos forem efetivamente garantidos, alertando contra suplementações que possam sofrer cortes ou contingenciamentos e destacando a importância da Lei de Diretrizes Orçamentárias (LDO) para assegurar a execução.",
+    "Deputados Alceu Moreira (MDB‑RS) e Domingos Sávio (PL‑MG) contestaram a presidente do Banco do Brasil, Tarciana Medeiros, que em 12 de novembro afirmou que produtores médios e grandes inadimplentes recusam renegociar dívidas, alegando fraudes nas operações e pedindo investigação parlamentar.",
+    "Moreira protocolou requerimento para criar uma comissão de inquérito sobre a situação do Banco do Brasil, enquanto Sávio pretende convocar a presidente do banco e o ministro da Fazenda para prestar esclarecimentos à comissão.",
+    "Silvia Maria Silveira, presidente da Embrapa, solicitou apoio para elevar o orçamento da empresa em 2027, atualmente fixado em R$ 292 milhões, valor muito abaixo da média histórica de R$ 1 bilhão até 2014.",
+    "O relator setorial da Casa, deputado Gabriel Nunes (PSD‑BA), informou que buscará ajustes no projeto do Orçamento de 2027 para atender às demandas apresentadas pelo setor agropecuário."
+   ],
+   "fonte": "Agência Câmara",
+   "link": "https://www.camara.leg.br/noticias/1320734-setor-agropecuario-defende-aumento-de-recursos-no-orcamento-de-2027",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "Dólar hoje avança e ultrapassa R$ 5,90 após aprovação de projeto fiscal no Senado",
+   "topicos": [
+    "Na quinta‑feira (19), véspera do feriado da Consciência Negra, o dólar à vista subiu 0,88% e cotava R$ 5,919 na venda às 11h50, enquanto o contrato futuro avançava 0,25% a R$ 5,911.",
+    "Na sessão de quarta‑feira, o dólar encerrou em alta de 1,48%, atingindo R$ 5,8677, a maior cotação em 19 meses e marcando a quinta sessão consecutiva de valorização da moeda norte‑americana.",
+    "O Senado aprovou o projeto de ajuste fiscal que visa garantir ao governo um superávit primário de 0,5% do PIB em 2027; o texto segue agora para a Câmara dos Deputados.",
+    "Segundo cálculos do governo, a proposta teria impacto superior a R$ 50 bilhões, embora o mercado permaneça cético quanto à sua capacidade de equilibrar as contas públicas.",
+    "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou que podem ser adotadas medidas adicionais para assegurar superávits primários crescentes, mas o foco imediato é a aprovação do projeto na Câmara.",
+    "Mesmo com a aprovação no Senado, o dólar manteve alta no mercado interno, porém cedia frente ao sol peruano, ao peso colombiano e à rupia indiana; a liquidez pode ser reduzida na tarde de sexta‑feira devido ao feriado."
+   ],
+   "fonte": "InfoMoney",
+   "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-19112026/",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Vai à CDH política de combate a desigualdade racial nas escolas",
+   "topicos": [
+    "O projeto que cria uma política de combate à desigualdade racial nas escolas seguiu para análise da Comissão de Diretores de Direitos Humanos (CDH), conforme informou a Agência Senado em 19 de novembro de 2026.",
+    "O texto alternativo foi proposto pelo senador Paulo Paim (PT-RS) sobre uma iniciativa original do senador Camilo Santana (PT-CE), visando dar segurança jurídica às regras do Ministério da Educação.",
+    "A medida prevê um sistema de metas para garantir o ensino da história afro-brasileira, que é obrigatório desde 2003 pela Lei de Diretrizes e Bases da Educação Nacional.",
+    "A adesão de estados, Distrito Federal e municípios será voluntária, focando nas redes de ensino com maiores desigualdades étnico-raciais e dependendo de regulamento futuro.",
+    "A União poderá prestar apoio técnico e financeiro por meio do Plano de Ações Articuladas (PAR) e do Programa Dinheiro Direto na Escola (PDDE), cujo orçamento previsto para a educação básica em 2027 é de R$ 1,8 bilhão.",
+    "A política estabelece a criação de bolsas para uma rede de agentes estaduais, a formação de profissionais e a instituição do Selo Petronilha Beatriz Gonçalves e Silva para premiar escolas com ações de equidade."
+   ],
+   "fonte": "Agência Senado",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/vai-a-cdh-politica-de-combate-a-desigualdade-racial-nas-escolas",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "Operação mira facções suspeitas de execuções em Palmas",
+   "topicos": [
+    "A Ficco-TO executou nesta 5ª feira (19.nov.2026) a operação Ratione Necandi voltada contra duas facções criminosas rivais envolvidas em execuções e disputas pelo tráfico de drogas na zona sul de Palmas.",
+    "A ação mobiliza aproximadamente 180 agentes de segurança para executar 46 ordens judiciais, divididas em 29 mandados de busca e apreensão e 17 mandados de prisão preventiva.",
+    "As ordens da Justiça foram emitidas pela 1ª Vara Regional das Garantias da Comarca de Palmas e são cumpridas em Palmas, Porto Nacional (TO) e Catalão (GO), além de presídios.",
+    "Os grupos criminosos são investigados por ordenar assassinatos de rivais, executar atentados em vias públicas e impor toque de recolher para intimidar moradores e controlar territórios.",
+    "A investigação teve início em 2024 após a prisão em flagrante de um suspeito no setor Jardim Taquari, em Palmas, onde a polícia apreendeu drogas e uma pistola calibre .40.",
+    "Laudos do Sinab indicaram que a arma apreendida, supostamente desviada de uma força de segurança de outro Estado, foi utilizada em execuções na capital e era compartilhada pelos criminosos."
+   ],
+   "fonte": "Poder360",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/operacao-mira-faccoes-suspeitas-de-execucoes-em-palmas/",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "Saiba o que foi discutido na trilateral entre Trump, Xi e Putin",
+   "topicos": [
+    "Na quinta‑feira, 19 de novembro de 2026, presidentes dos EUA (Donald Trump), China (Xi Jinping) e Rússia (Vladimir Putin) se encontraram em Shenzhen, na margem da cúpula da APEC, que reúne 21 economias, para uma reunião trilateral inédita.",
+    "Ao final do encontro, os três países assinaram uma declaração conjunta que inclui compromissos de reforma da ONU, ampliação da produção de derivados de petróleo, limitação da atuação do Tribunal Penal Internacional e manutenção de diálogos sobre redução de riscos nucleares.",
+    "Na declaração, os líderes afirmaram que buscarão tornar a ONU mais eficiente nas respostas a desafios globais e apoiar a proposta brasileira de mudança no Conselho de Segurança, já respaldada por declaração do BRICS assinada por Rússia e China em setembro.",
+    "Quanto à energia, os três governos declararam intenção de aumentar a produção e oferta de derivados de petróleo para atender a “todos os países” e garantir a estabilidade dos fluxos energéticos.",
+    "Sobre o TPI, os presidentes defenderam o princípio do consentimento dos Estados e a imunidade de autoridades governamentais, ressaltando que, desde março de 2023, Putin tem mandato de prisão emitido pelo tribunal.",
+    "No tema nuclear, os três presidentes concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”, comprometendo‑se a manter conversas para reduzir riscos e prevenir a proliferação de armas atômicas.",
+    "Antes da cúpula, Trump teve encontros bilaterais: cerca de 40 minutos com Putin, onde a guerra na Ucrânia foi o principal assunto, e aproximadamente uma hora com Xi no Kylin Villa; Trump chegou a Shenzhen na quarta‑feira, 18 de novembro, e afirmou que pressionará a China a fazer mais pelos agricultores norte‑americanos."
+   ],
+   "fonte": "Poder360",
+   "link": "https://www.poder360.com.br/poder-internacional/saiba-o-que-foi-discutido-na-reuniao-entre-trump-xi-e-putin/",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "Reconhecimento oficial de línguas indígenas em estados e municípios avança",
+   "topicos": [
+    "A Comissão de Educação e Cultura aprovou na quarta-feira (18/11/2026) o PL 3.074/2019, que viabiliza estados e municípios tornarem oficiais línguas indígenas junto ao português.",
+    "A proposta de cooficialização, de autoria do deputado Dagoberto Nogueira (PP-MS), abrange a comunicação entre falantes nativos e a administração ou serviços públicos.",
+    "O relator, senador Nelsinho Trad, apresentou um substitutivo para impedir que governos locais sejam obrigados a adotar medidas imediatas sem orçamento ou viabilidade.",
+    "Documentos oficiais de interesse geral deverão ser disponibilizados progressivamente nos idiomas cooficiais, seguindo regras estaduais ou municipais.",
+    "O projeto estimula de forma gradual o ensino dessas línguas em escolas, o atendimento em repartições e a produção de conteúdos em mídias.",
+    "Em São Gabriel da Cachoeira (AM), o nheengatu, o tukano e o baniwa já possuem reconhecimento como línguas cooficiais localmente.",
+    "O Censo 2022 do IBGE contabilizou 1,6 milhão de indígenas no país, representando 0,83% da população total."
+   ],
+   "fonte": "Agência Senado",
+   "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/reconhecimento-oficial-de-linguas-indigenas-em-estados-e-municipios-avanca",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "Avaliada em R$ 8,8 tri, Anthropic bate recorde em estreia na bolsa: empresa pode evitar o estouro da bolha da IA?",
+   "topicos": [
+    "A Anthropic, criadora do modelo de IA Claude, estreou na Nasdaq nesta quinta-feira (19) após um IPO que movimentou US$ 81 bilhões.",
+    "A oferta superou o recorde anterior da SpaceX e avaliou a Anthropic em cerca de US$ 1,5 trilhão (R$ 8,8 trilhões).",
+    "As ações foram vendidas a US$ 83 cada na oferta, superando a faixa inicial de US$ 70 a US$ 78, com demanda excedendo em mais de seis vezes.",
+    "Analistas estimam que a empresa alcance receitas de US$ 52 bilhões em 2026 e US$ 135 bilhões em 2027.",
+    "O IPO ocorre em meio a debates sobre uma possível bolha no setor de IA, quedas em ações de fornecedores e cautela dos investidores públicos."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Com regulamentação da escala 5x2, hora extra ficará mais cara; entenda",
+   "topicos": [
+    "O ministro do Trabalho, Luiz Marinho, informou que a partir de 16 de dezembro de 2026 as horas extras terão custo maior, devido à entrada em vigor da nova escala 5 × 2.",
+    "A medida, aprovada pelo Congresso em 14 de outubro, elimina a escala 6 × 1 e garante dois dias de descanso semanal sem redução salarial.",
+    "A jornada máxima será reduzida gradualmente: de 44 para 42 horas semanais a partir de 16/12/2026 e para 40 horas semanais a partir de dezembro de 2027.",
+    "O cálculo da hora normal muda porque o salário mensal deixa de ser dividido por 220 horas (44 h/semana); o divisor passa a ser 210 horas a partir de 16/12/2026 e 200 horas a partir de 12/2027.",
+    "Exemplo dado: trabalhador com salário de R$ 3.000 tem hora normal de R$ 13,64 (44 h), R$ 14,29 (42 h) e R$ 15,00 (40 h), mantendo o salário mensal.",
+    "O ministro alertou que o aumento do valor da hora extra pode levar as empresas a substituir a prática de hora extra por contratação de mais empregados."
+   ],
+   "fonte": "g1 Política",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/19/com-regulamentacao-da-escala-5x2-hora-extra-ficara-mais-cara-entenda.ghtml",
+   "categoria": "Política"
+  },
+  {
+   "titulo": "Walmart vê disparada na busca por itens de emergência em meio a falhas tecnológicas",
+   "topicos": [
+    "O Walmart registrou um salto na procura por água engarrafada, gás propano e equipamentos de camping devido a instabilidades tecnológicas nos Estados Unidos no início deste mês.",
+    "A informação foi divulgada na última quinta-feira pelo diretor financeiro da rede varejista, John David Rainey, em entrevista à Bloomberg.",
+    "A mudança nos hábitos de consumo foi impulsionada por falhas no Microsoft Outlook, pela paralisação de voos no país e por publicações alarmantes nas redes sociais.",
+    "A concorrente Costco Wholesale Corp. também identificou maior demanda por produtos essenciais como arroz, enlatados e água, segundo relato de seu diretor financeiro, Gary Millerchip.",
+    "O diretor financeiro do Walmart esclareceu que a alta nessas compras de emergência já recuou e apenas antecipou a demanda que ocorreria no futuro, sem causar impacto nas projeções atuais."
+   ],
+   "fonte": "InfoMoney",
+   "link": "https://www.infomoney.com.br/mercados/walmart-ve-disparada-na-busca-por-itens-de-emergencia-em-meio-a-falhas-tecnologicas/",
+   "categoria": "Varejo"
+  },
+  {
+   "titulo": "Por que GTA 6 não é recomendado para menores de 18 anos — e o alerta de psiquiatras",
+   "topicos": [
+    "O jogo GTA 6 recebeu classificação indicativa de 18 anos no Brasil pelo Ministério da Justiça em virtude de cenas de violência, sexo e uso de drogas, conforme divulgado em 19/11.",
+    "A franquia, existente desde 1997, permite que jogadores controlem criminosos em missões que envolvem assassinatos, decapitações, desmembramentos, consumo de substâncias e relações sexuais.",
+    "Na Europa e no Brasil, o jogo é restrito a maiores de 18 anos, enquanto nos Estados Unidos e no Canadá a recomendação do ESRB é para maiores de 17 anos.",
+    "Especialistas em saúde mental defendem que os pais respeitem os limites de idade e dialoguem com os filhos sobre os motivos da proibição, mesmo diante de pressões sociais.",
+    "Pesquisas científicas de 2014 e 2019 divergem sobre a relação direta entre jogos violentos e comportamentos agressivos, mas especialistas alertam para riscos à saúde mental.",
+    "Psiquiatras destacam que a vulnerabilidade infantil é ampliada pela exposição precoce e recomendam que os responsáveis monitorem e dialoguem sobre os conteúdos consumidos."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/ckr5g3l3r540o?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Pedidos semanais de auxílio-desemprego nos EUA têm leve alta",
+   "topicos": [
+    "Em 19 de novembro, o Departamento do Trabalho dos EUA informou que os pedidos iniciais de auxílio‑desemprego subiram 1.000, totalizando 203.000 na semana encerrada em 14 de novembro, com ajuste sazonal, ligeiramente acima da previsão de 197.000 feita por economistas da Reuters.",
+    "Desde meados de setembro, os pedidos iniciais têm se mantido em torno de 200.000 ou menos, indicando estabilidade no mercado de trabalho apesar da leve alta recente.",
+    "A taxa de desemprego nos EUA recuou de 4,5 % em novembro de 2025 para 4,1 % em outubro deste ano, conforme dados observados por autoridades e analistas econômicos.",
+    "Nas atas da reunião de política monetária do Federal Reserve de 27 e 28 de outubro, publicada na quarta‑feira, foi destacado que muitos viram sinais de aperto moderado no mercado de trabalho, mas esperavam condições estáveis no curto prazo, com riscos equilibrados.",
+    "O Fed manteve a taxa básica de juros na faixa de 3,75 % a 4,00 % no mês anterior, focando no combate à inflação alimentada pelos conflitos envolvendo EUA, Israel e Irã.",
+    "Os chamados pedidos contínuos, que medem o número de beneficiários após a primeira semana, aumentaram 70.000, alcançando 1,763 milhão na semana encerrada em 7 de novembro, sugerindo que alguns trabalhadores permanecem desempregados por períodos mais longos."
+   ],
+   "fonte": "InfoMoney",
+   "link": "https://www.infomoney.com.br/economia/pedidos-semanais-de-auxilio-desemprego-nos-eua-tem-leve-alta-7/",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Ibovespa opera em alta e dólar se aproxima dos R$ 5,90; 5 coisas para saber antes de investir hoje (19)",
+   "topicos": [
+    "Na quinta‑feira (19), o Ibovespa iniciou o pregão em alta de 0,45%, cotado em 168.284,26 pontos, enquanto o dólar à vista subia 0,12% para R$ 5,8746, aproximando‑se da marca de R$ 5,90.",
+    "O Senado aprovou na noite de quarta‑feira (18) os destaques do pacote de ajuste fiscal, que segue para a Câmara na terça‑feira (24) e deve garantir superávit primário de 0,5% do PIB em 2025, segundo o líder do governo, senador Randolfe Rodrigues (PT‑AP).",
+    "O câmbio ficou em foco devido ao dólar acima de R$ 5,88, impulsionado pelo fortalecimento da moeda nos EUA e pelas incertezas fiscais domésticas; a ata do Fed, divulgada ontem, reforçou a expectativa de elevação de juros em dezembro, com o diretor Christopher Waller pedindo resposta mais agressiva à inflação.",
+    "Hoje, o Conselho Monetário Nacional (CMN) realizou reunião para definir diretrizes do sistema financeiro brasileiro, sendo um dos principais itens da agenda econômica do dia.",
+    "Presidentes dos EUA (Donald Trump), China (Xi Jinping) e Rússia (Vladimir Putin) concluíram, na quinta‑feira (19), encontro trilateral sem precedentes, abordando a guerra na Ucrânia, controle de armas nucleares e medidas para ampliar a produção global de derivados de petróleo.",
+    "A Anthropic realizou o maior IPO da história, levantando US$ 81,3 bilhões; as ações foram precificadas em US$ 83 cada, acima da faixa inicial de US$ 70‑78, avaliando a empresa em US$ 1,5 trilhão."
+   ],
+   "fonte": "Money Times",
+   "link": "https://www.moneytimes.com.br/ibovespa-tenta-recuperar-os-169-mil-pontos-de-olho-no-fiscal-5-coisas-para-saber-antes-de-investir-hoje-19-davs/",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia",
+   "topicos": [
+    "Em 19 de novembro de 2026, os presidentes dos EUA, Donald Trump, e da Rússia, Vladimir Putin, se encontraram em Tianjin, na China, gerando preocupação entre líderes europeus quanto à exclusão do continente das negociações sobre a guerra na Ucrânia e a segurança europeia.",
+    "O encontro, que também contou com a presença do presidente chinês Xi Jinping em Shenzhen durante o APEC, foi descrito pelo Kremlin como centrado na guerra na Ucrânia, com Putin deixando a reunião de “excelente humor” e demonstrando proximidade com Trump, que o chamou de amigo.",
+    "Zelensky, em entrevista à NBC, pediu que EUA e China aumentem a pressão sobre Putin, impondo sanções econômicas mais duras e custos maiores à Rússia, e afirmou que qualquer acordo de paz deve incluir Kiev, respeitar a soberania e a integridade territorial da Ucrânia.",
+    "O presidente ucraniano revelou que representantes americanos sugeriram que a Ucrânia ceda o Donbas (províncias de Donetsk e Luhansk) à Rússia em troca de garantias de segurança e de uma eventual adesão à OTAN, proposta que considera sensível por envolver território e futuro militar do país.",
+    "A Rússia vê a aproximação da Ucrânia com a OTAN como ameaça e quer impedir sua entrada no bloco, enquanto Kiev considera a adesão à aliança essencial para evitar novas invasões, tornando a questão da OTAN um dos principais obstáculos nas negociações.",
+    "A ausência de representantes europeus na reunião trilateral reforçou o receio de que decisões sobre o fim da guerra e a segurança do continente sejam tomadas sem a participação da Europa, aumentando a sensação de marginalização."
+   ],
+   "fonte": "g1 Mundo",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/19/europa-se-preocupa-com-resultado-de-reuniao-trilateral-entre-estados-unidos-china-e-russia.ghtml",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais",
+   "topicos": [
+    "O Banco do Brasil comunicou aos correntistas que, no dia 12, detectou acesso não autorizado a informações pessoais de alguns clientes, como nome, CPF, e‑mail, agência e, em alguns casos, número da conta.",
+    "O banco afirmou que não houve invasão aos seus sistemas, nem exposição de senhas, tokens, códigos de segurança, e que nenhuma transação financeira foi identificada relacionada ao incidente.",
+    "Após a constatação, o BB acionou seus protocolos de segurança, revogou a credencial utilizada indevidamente e iniciou investigação para apurar a origem do acesso.",
+    "O principal risco apontado é a possibilidade de golpes, mensagens de phishing e tentativas de engenharia social, nas quais criminosos podem se passar pelo banco para obter dados adicionais.",
+    "Paralelamente, o Banco do Brasil lançou a atualização do App BB, que incorpora inteligência artificial para personalizar a tela inicial, menus e atalhos de acordo com o perfil do usuário.",
+    "A nova versão inclui assistente digital por texto ou voz, recomendações de produtos e serviços, área “Meu BB” com benefícios personalizados, recursos de acessibilidade e melhorias de estabilidade e desempenho.",
+    "A iniciativa faz parte da estratégia digital do banco, visando ampliar a autonomia dos clientes em consultas e operações, bem como tornar o relacionamento mais direcionado ao perfil de cada usuário."
+   ],
+   "fonte": "Mercado & Consumo",
+   "link": "https://mercadoeconsumo.com.br/19/11/2026/servicos/banco-do-brasil-alerta-clientes-sobre-vazamento-de-dados-pessoais/",
+   "categoria": "Economia"
+  },
+  {
+   "titulo": "Putin diz que reunião com Trump e Xi não definiu compromissos obrigatórios; Rússia pode participar de encontro do G20",
+   "topicos": [
+    "Em 19 de novembro, Putin declarou que a reunião trilateral com Trump e Xi, realizada em Shenzhen durante a cúpula da Apec, não definiu metas ambiciosas nem compromissos obrigatórios para os três países, nem previu novos encontros regulares nesse formato.",
+    "O encontro serviu apenas para discutir interesses comuns, e nenhum dos líderes ficou obrigado a cumprir decisões tomadas; Putin ressaltou que a Rússia continuará negociando sobre a guerra na Ucrânia e a segurança europeia, mas aguarda melhor compreensão da posição europeia antes de avançar.",
+    "Não há datas estabelecidas para retomar o diálogo sobre a Ucrânia; Putin reiterou que o país reconhece o direito da Ucrânia à sua própria segurança, porém “não às custas da segurança da Rússia”.",
+    "A guerra na Ucrânia, iniciada com a invasão russa em fevereiro de 2022, permanece como tema central das negociações diplomáticas, incluindo garantias de segurança para Kiev.",
+    "Putin avaliou a possibilidade de participar do G20, previsto para dezembro nos Estados Unidos, em Miami; a ideia foi discutida com Trump durante o encontro na China, mas a decisão depende de avaliação da situação interna da Rússia e ainda não há confirmação.",
+    "Caso compareça, a presença de Putin no G20 teria forte significado diplomático, já que ele enfrenta restrições de contato com líderes ocidentais desde o início do conflito."
+   ],
+   "fonte": "g1 Mundo",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/19/putin-diz-que-reuniao-com-trump-e-xi-nao-definiu-compromissos-obrigatorios.ghtml",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
+   "topicos": [
+    "Donald Trump, Xi Jinping e Vladimir Putin realizaram um encontro histórico nesta quinta-feira (19/11) em Shenzhen, no sul da China, à margem da cúpula da Cooperação Econômica Ásia-Pacífico (Apec).",
+    "As conversas duraram cerca de 90 minutos e marcaram a primeira reunião nesse formato trilateral entre os presidentes dos Estados Unidos, da China e da Rússia.",
+    "Os três líderes firmaram um compromisso conjunto para abrir diálogo com o objetivo de reduzir riscos nucleares, conter a proliferação de armas atômicas e cooperar em segurança internacional.",
+    "Cada líder levou interesses próprios ao evento: Trump defendeu o fim da guerra na Ucrânia e ampliação de vendas aos chineses; Xi buscou estabilidade com Washington; e Putin obteve ganho diplomático.",
+    "Xi Jinping classificou as armas nucleares como ameaças que devem ser totalmente proibidas, enquanto Donald Trump destacou a importância de combater a proliferação nuclear globalmente."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/cjvg2922e50qo?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Veja principais declarações de Trump, Putin e Xi em reunião trilateral histórica",
+   "topicos": [
+    "Os presidentes Donald Trump (EUA), Vladimir Putin (Rússia) e Xi Jinping (China) realizaram um encontro trilateral histórico na Villa Kylin, em Shenzhen, na China, nesta quinta-feira (19). A cúpula, descrita pelo Kremlin como tendo um tom leve e amistoso, ocorreu a portas fechadas, com transmissão apenas da abertura e do encerramento.",
+    "Sobre o desarmamento nuclear, Xi Jinping defendeu a proibição total e a eliminação dos arsenais para evitar guerras, enquanto Donald Trump apontou a dificuldade de abrir mão das armas e mencionou a resistência em reduzir o arsenal americano em 2.000 armas sem reciprocidade.",
+    "A guerra na Ucrânia dominou as conversas bilaterais e trilateral, com Trump defendendo o encerramento do conflito. Para Vladimir Putin, o encontro serviu como ganho diplomático para reduzir o isolamento imposto por nações ocidentais desde o início da invasão.",
+    "Apesar das divergências em pautas estratégicas, os três líderes trocaram elogios públicos, ressaltaram a responsabilidade conjunta na preservação da segurança internacional e defenderam a manutenção de um diálogo aberto e produtivo.",
+    "Na pauta de inteligência artificial durante o fórum da Apec, Donald Trump criticou regulamentações internacionais que possam limitar o avanço tecnológico americano, ao mesmo tempo em que destacou a necessidade de cautela com os riscos da superinteligência.",
+    "A tecnologia expôs a disputa geopolítica entre Estados Unidos e China, que competem pelo desenvolvimento de sistemas avançados e semicondutores, setor no qual o governo americano mantém restrições à exportação de chips avançados para Pequim."
+   ],
+   "fonte": "g1 Mundo",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/19/veja-principais-declaracoes-de-trump-putin-e-xi-em-reuniao-trilateral-historica.ghtml",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "O que a The Economist prevê para o quarto mandato de Lula",
+   "topicos": [
+    "A revista britânica The Economist avalia que Luiz Inácio Lula da Silva chegará ao quarto mandato aos 81 anos, após uma campanha com uso inédito de redes sociais, e prevê que governar será mais difícil.",
+    "A publicação aponta que o próximo mandato enfrentará dificuldades devido ao avanço da direita no Congresso, juros elevados e a transformações na economia e no mercado de trabalho brasileiro.",
+    "A análise recorda que, após três derrotas, Lula moderou-se em 2002 escolhendo nomes de centro para a economia e o Banco Central, beneficiando-se também da alta demanda chinesa por commodities.",
+    "O texto indica que a prisão e a idade acentuaram a moderação e priorizaram a lealdade, citando como exemplo a indicação do advogado Cristiano Zanin ao Supremo Tribunal Federal.",
+    "A revista aponta que gastos públicos e políticas industriais do terceiro mandato impulsionaram o crescimento, mas elevaram os juros e fizeram a dívida subir mais de dez pontos percentuais.",
+    "O artigo destaca mudanças sociais, como o protagonismo da agricultura, o enfraquecimento dos sindicatos, o crescimento de autônomos e evangélicos, e a oposição de trabalhadores ao Estado grande.",
+    "Apesar de um Congresso alinhado à direita, Lula terá vagas para preencher no STF e em agências reguladoras, oportunidades de influenciar o poder por uma geração, exigindo reforma fiscal e escolhas imparciais."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/c85y1430dql0o?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "Lucia, 1ª protagonista feminina do GTA, é um ponto de virada para mulheres nos games?",
+   "topicos": [
+    "O lançamento do sexto título da franquia Grand Theft Auto traz, após quase 30 anos de história, a primeira protagonista feminina com falas da série, a jovem latina Lucia Caminos.",
+    "Aguardado há 13 anos pelos jogadores, o novo jogo da Rockstar Games é apontado como o título mais produzido de forma mais cara e um potencial sucesso comercial massivo no entretenimento.",
+    "Lucia é uma das coprotagonistas e divide a trama com um parceiro masculino no amor e no crime, em uma dinâmica que alterna entre os dois personagens principais.",
+    "Pesquisas indicam que quase 50% dos jogadores em mercados como EUA, Europa e Reino Unido são mulheres, embora os títulos populares historicamente tenham focado em homens.",
+    "Um estudo de 2023 apontou que apenas 30% dos mais de 13.000 personagens analisados eram femininos e que as mulheres tinham menos falas em 47 dos 50 jogos avaliados.",
+    "Dados de 2024 da organização GLAAD revelam que menos de 2% dos jogos nas principais plataformas contam com personagens pertencentes à comunidade LGBTQ+."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/cq0l3zj2640xo?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
+   "topicos": [
+    "Na quinta‑feira, 19, os presidentes dos EUA, China e Rússia se encontraram em Shenzhen, China, iniciando às 5h30 e encerrando por volta das 7h (horário de Brasília), para discutir riscos nucleares e questões de paz.",
+    "Em declaração conjunta enviada pela Xinhua e pelo Kremlin, Donald Trump, Vladimir Putin e Xi Jinping afirmaram que uma guerra nuclear nunca deve ser travada, comprometendo‑se a manter a estabilidade estratégica e a segurança internacional.",
+    "Os três líderes também concordaram em colaborar na reforma da ONU para torná‑la mais eficaz na manutenção da paz e em respeitar o princípio de consentimento dos Estados e as imunidades dos funcionários, limitando abusos de jurisdição do Tribunal Penal Internacional (TPI) e de órgãos semelhantes.",
+    "Trump reiterou sua crítica ao TPI, qualificando‑a de \"fora de controle\", enquanto se recordou que Putin possui mandado de prisão do tribunal por crimes de guerra decorrentes da invasão da Ucrânia.",
+    "Do ponto de vista econômico, anunciaram um acordo para ampliar a produção e o fornecimento de produtos petrolíferos refinados, vinculando a cooperação nuclear à segurança energética.",
+    "Ao final da reunião, Trump embarcou de volta aos Estados Unidos pouco depois do término dos trabalhos."
+   ],
+   "fonte": "g1 Mundo",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
+   "categoria": "Mundo"
+  },
+  {
+   "titulo": "As denúncias contra o McDonald's no Reino Unido: 'Eles esperavam as meninas completarem 18 anos'",
+   "topicos": [
+    "Um juiz do Tribunal Central do Trabalho de Londres rejeitou a tentativa da rede McDonald's de arquivar processos judiciais movidos por funcionários e ex-funcionários no Reino Unido.",
+    "A decisão, anunciada esta semana, permite que 450 casos de discriminação avancem para julgamento, com expectativa de ocorrer em abril.",
+    "As ações judiciais foram apresentadas pelo escritório de advocacia Leigh Day e concentram-se na vulnerabilidade de trabalhadores jovens e mulheres na empresa.",
+    "Ex-funcionários relataram um ambiente de trabalho tóxico, incluindo relatos de funcionárias de 16 e 17 anos assediadas e funcionários mais velhos esperando completarem 18 anos.",
+    "Uma ex-funcionária chamada Hope afirmou que gerentes não a protegeram contra assédio de clientes em turnos noturnos e que busca mudar o tratamento aos jovens.",
+    "O McDonald's declarou que garantir um ambiente seguro e inclusivo é uma prioridade, afirmando possuir medidas de proteção e iniciativas robustas."
+   ],
+   "fonte": "BBC News Brasil",
+   "link": "https://www.bbc.com/portuguese/articles/c3zxv8x454l7o?at_medium=RSS&at_campaign=rss",
+   "categoria": "Mundo"
   }
  ]
 }
