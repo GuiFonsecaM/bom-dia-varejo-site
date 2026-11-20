@@ -4,520 +4,596 @@
   {
    "titulo": "Um salário mínimo compra 23 kg de acém a menos do que em 2007; entenda o preço da carne",
    "topicos": [
-    "Com o salário mínimo, hoje um trabalhador compra cerca de 39 kg de acém, enquanto em 2007 (há 19 anos) a mesma renda permitia quase 62 kg, representando perda de mais de um terço do poder de compra da carne.",
-    "O ponto mais baixo foi em 2021, quando o salário mínimo adquiria apenas 33,8 kg; o indicador subiu para 45 kg em 2024, mas voltou a cair após esse ano.",
-    "Em 2025 o Brasil produziu recorde de 11,1 milhões de toneladas de carne bovina, tornando‑se maior produtor mundial e ultrapassando os EUA pela primeira vez em 60 anos.",
-    "O consumo per capita de carne bovina caiu de 43 kg por habitante ao ano em 2006 (recorde) para cerca de 32 kg em 2025, impulsionando migração para proteínas mais baratas como frango, suínos e cortes menores.",
-    "Mesmo com inflação oficial em torno de 4,5 %, o salário mínimo comprava 2,18 cestas básicas em 2018; a média entre 2010‑2019 foi 2,10, e de 2022 para cá caiu para aproximadamente 1,70, segundo Lygia Pimentel.",
-    "A produção aumentou 7,2 % em 2025, as exportações subiram quase 20 % e a oferta interna encolheu 0,5 %; a participação do mercado interno caiu de cerca de 70 % historicamente para 61 % em 2025, enquanto o preço da carne brasileira ficou 14 % abaixo da média dos principais exportadores, chegando a 25 % nos últimos dois anos."
+    "Atualmente, um salário mínimo compra cerca de 39 kg de acém, enquanto em 2007 essa mesma renda adquiria quase 62 kg, segundo dados da consultoria Agrifatto. O pior momento ocorreu em 2021, no auge da pandemia de Covid-19, com o equivalente a 33,8 kg, havendo uma recuperação parcial para 45 kg em 2024 antes de nova queda.",
+    "Em 2025, o Brasil produziu um volume recorde de 11,1 milhões de toneladas de carne bovina, alta de 7,2% em relação ao ano anterior, tornando-se o maior produtor mundial. A parcela da produção destinada ao exterior subiu de cerca de 70% historicamente para 61% em 2025.",
+    "As exportações brasileiras de carne bovina avançaram quase 20% em 2025 (ou 20,4% segundo o Ministério da Agricultura), impulsionadas por alta demanda internacional e menor oferta de concorrentes como EUA, Austrália e Argentina. O volume embarcado cresceu para China (+24,6%), União Europeia (+57%), Vietnã (+129%), México (+157%) e Indonésia (+276%).",
+    "A menor oferta interna fez o consumo brasileiro cair de 43 kg por habitante ao ano em 2006 para cerca de 32 kg em 2025, conforme o Rabobank. Com a inflação e juros, a carne bovina passa a se tornar um item de luxo para algumas classes, com consumidores das classes C, D e E migrando para frango e carne suína."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/4cf313751971.webp"
   },
   {
    "titulo": "72 vezes, mas com juros: GPA (PCAR3) parcela dívida trabalhista milionária",
    "topicos": [
-    "O Órgão Especial do Tribunal Regional do Trabalho da 2ª Região (TRT-2) autorizou o parcelamento de uma dívida trabalhista do Grupo Pão de Açúcar (PCAR3) estimada em cerca de R$ 140 milhões.",
-    "O montante, que previa desembolsos até o final de 2027, será quitado em até 72 prestações mensais acrescidas de correção pela taxa Selic.",
-    "A empresa, atualmente em recuperação extrajudicial, avalia que o parcelamento aprimora a administração do passivo trabalhista e amplia a previsibilidade financeira.",
-    "A medida também cria oportunidades para a realização de acordos individuais com potencial de diminuição nas obrigações da companhia.",
-    "O GPA informou que aguarda o aval para novos Planos Especiais de Pagamento Trabalhista (PEPTs) nos TRTs da 10ª e da 15ª Regiões, locais com liminares que suspendem pagamentos.",
-    "A companhia está atualizando a metodologia de provisionamento contábil para esses processos e para as demais ações trabalhistas, alinhando-se à estratégia de reorganização de passivos."
+    "O Órgão Especial do TRT-2 aprovou o parcelamento de uma dívida trabalhista do Grupo Pão de Açúcar (PCAR3) estimada em cerca de R$ 140 milhões.",
+    "O montante, que previa desembolsos até o final de 2027, agora poderá ser quitado em até 72 prestações mensais acrescidas de correção pela taxa Selic.",
+    "A empresa, atualmente em recuperação extrajudicial, avalia que o parcelamento otimiza a gestão de seu passivo trabalhista e amplia a previsibilidade financeira.",
+    "O novo formato de pagamento também cria oportunidades para a realização de acordos individuais com potencial de diminuir as obrigações da companhia.",
+    "O GPA aguarda o aval para novos PEPTs nos TRTs da 10ª e da 15ª Regiões, locais em que existem liminares que suspendem os pagamentos.",
+    "A companhia informou que está revisando sua metodologia contábil de provisionamento para esses processos e para as demais ações trabalhistas."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/72-vezes-mas-com-juros-gpa-pcar3-parcela-divida-trabalhista-milionaria/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7df79bf4bdc1.webp"
   },
   {
    "titulo": "Comissões propõem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
    "topicos": [
-    "Dezesseis comissões do Senado e do Congresso aprovaram, em 17 e 18 de dezembro, 96 emendas de apropriação ao Orçamento e à LDO de 2027, somando R$ 85,9 bilhões para áreas como saúde, educação e segurança.",
-    "Os colegiados também aprovaram sete emendas de remanejamento no valor de R$ 696 milhões, cuja fonte exclusiva é a anulação de dotações de despesas específicas já existentes no projeto de lei.",
-    "As propostas seguem para análise da Comissão Mista de Orçamento (CMO), com previsão de votação do Orçamento pelo Congresso Nacional no dia 17 de dezembro de 2027.",
-    "O projeto reserva R$ 44,8 bilhões para emendas individuais e de bancada estadual de execução obrigatória, enquanto as emendas de comissão ainda terão suas condições de atendimento definidas no relatório preliminar.",
-    "Cada comissão pôde apresentar até seis emendas de apropriação ao PLOA e duas de remanejamento, além de até três emendas ao Anexo de Prioridades e Metas do PLDO, sem limite para emendas de texto."
+    "Dezesseis comissões do Senado e do Congresso aprovaram, em 17 e 18 de dezembro, 96 emendas de apropriação ao Orçamento de 2027 que somam R$ 85,9 bilhões para áreas como saúde, educação, segurança e infraestrutura.",
+    "Os colegiados também aprovaram sete emendas de remanejamento no valor de R$ 696 milhões, além de alterações nas prioridades, metas e textos do projeto orçamentário.",
+    "As propostas seguem para análise da Comissão Mista de Orçamento (CMO), com previsão de votação pelo Congresso Nacional em 17 de dezembro.",
+    "O projeto da Lei Orçamentária Anual (PLOA) para 2027 tramita como PLN 24/2026 sob a relatoria do senador Eduardo Braga, enquanto a Lei de Diretrizes Orçamentárias (PLDO) tramita como PLN 2/2026 com relatoria de Eduardo Gomes.",
+    "Cada comissão pôde apresentar até seis emendas de apropriação e duas de remanejamento ao PLOA, além de até três emendas ao Anexo de Prioridades e Metas do PLDO.",
+    "O orçamento reserva R$ 44,8 bilhões para emendas individuais e de bancada estadual de execução obrigatória, enquanto as emendas de comissão ainda dependerão de definições no relatório preliminar do PLOA."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/comissoes-propoem-r-85-9-bilhoes-em-emendas-ao-orcamento-de-2027",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/fc309549abb2.webp"
   },
   {
    "titulo": "Ministérios, ajuste fiscal e articulações políticas: veja o que se sabe sobre o novo governo Lula",
    "topicos": [
-    "Quase um mês após ser reeleito em 25 de outubro de 2025, o presidente Luiz Inácio Lula da Silva afirmou que não tem pressa para anunciar os ministros de seu quarto mandato, que começa em 2027.",
-    "A indefinição sobre o comando da Fazenda gerou reação no mercado financeiro, com a B3 registrando queda de 13,88% no dia 26 de outubro e o dólar subindo 8,21%, além da taxa Selic mantida em 13,5% pelo Banco Central.",
-    "Lula sinalizou mudanças na estrutura do governo para 2027, incluindo a possível criação dos ministérios dos Idosos e da Segurança Pública, e deve negociar cargos e uma indicação ao STF com Davi Alcolumbre.",
-    "Em reunião com a equipe econômica, Lula autorizou medidas para garantir superávit primário sem cortar programas sociais, e prometeu em pronunciamento em cadeia nacional no dia 8 de novembro elevar os investimentos para mais de 20% do PIB.",
-    "O presidente cumpriu agendas internacionais entre 9 e 16 de novembro na Turquia (COP31), Filipinas (ASEAN), Espanha e Cabo Verde, retornando para apaziguar um racha na base esquerdista contra o pacote de ajuste fiscal."
+    "O presidente Lula declarou que fará as indicações para os ministérios do seu quarto mandato, que começa em 2027, no dia e na hora que quiser, afirmando não ter pressa para definir o comando da Fazenda.",
+    "A indefinição sobre a equipe econômica gerou reações negativas no mercado financeiro, com a bolsa registrando sua sexta queda consecutiva na quinta-feira (19) e o Banco Central intervindo no câmbio.",
+    "No dia 26 de outubro, após a reeleição de Lula sobre Flávio Bolsonaro em 25 de outubro, a B3 despencou 13,88% com circuit break e o dólar subiu 8,21%, pois o mercado precificava a vitória do adversário.",
+    "Lula sinalizou a possível criação dos ministérios dos Idosos e da Segurança Pública para a nova gestão e deve se reunir com o senador Davi Alcolumbre para tratar de ministérios e de uma vaga no STF.",
+    "O Banco Central manteve a taxa Selic em 13,5% e, na sequência, Lula reuniu-se com ministros e economistas para discutir medidas para garantir o superávit primário sem cortar programas sociais.",
+    "Em pronunciamento em cadeia nacional no dia 8 de novembro, Lula afirmou que a dívida pública e os juros altos o preocupam e assumiu o compromisso de elevar os investimentos do país para mais de 20% do PIB."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/20/lula-4-ministros-o-que-se-sabe.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/7feb4f538f76.webp"
   },
   {
    "titulo": "Menos área para lojas, mais motivos para ir: a estratégia de varejo da Coreia do Sul",
    "topicos": [
-    "Inaugurado em 2021 em Seul, na Coreia do Sul, o shopping The Hyundai Seoul adota um modelo que destina 51% de sua área total de 89,1 mil metros quadrados a lojas, enquanto 49% abrigam espaços de descanso e circulação.",
-    "O projeto arquitetônico prioriza a luz natural e conta com elementos como uma cascata artificial de 12 metros e o Sounds Forest, um jardim interno de 3,3 mil metros quadrados localizado no quinto andar.",
-    "Em seus primeiros três anos de funcionamento, o empreendimento contabilizou 126 milhões de visitas acumuladas, sendo que 58% desse público era formado por pessoas com menos de 40 anos.",
-    "A estratégia de eventos temporários registrou cerca de 1.892 pop-ups em cinco anos, com mais de 660 edições realizadas em 2025, atraindo majoritariamente millennials e a geração Z.",
-    "O food hall Tasty Seoul possui aproximadamente 14,8 mil metros quadrados com cerca de 90 marcas e atrai um público jovem que frequentemente consome em outros setores do shopping.",
-    "O programa VIP Club YP é voltado para clientes de até 45 anos, exigindo gastos mínimos de 30 milhões de wons sul-coreanos para a seleção de 2027 e oferecendo o lounge exclusivo YPHAUS.",
-    "Em cinco anos de operação, o shopping acumulou 5,21 trilhões de wons sul-coreanos em vendas, alcançou visitantes de 182 países e registrou 1,5 milhão de pessoas no espaço de exposições ALT.1."
+    "Inaugurado em 2021 em Seul, na Coreia do Sul, o shopping The Hyundai Seoul adota um modelo que destina 51% de sua área total de 89,1 mil metros quadrados a lojas, enquanto 49% são para circulação e descanso.",
+    "O projeto prioriza a luz natural e abriga um jardim interno de 3,3 mil metros quadrados chamado Sounds Forest, onde os visitantes permanecem em média 37 minutos, nove vezes mais que o tempo nas lojas de moda.",
+    "Nos três primeiros anos, o empreendimento acumulou 126 milhões de visitas, com 58% do público formado por menores de 40 anos, e ultrapassou 1 trilhão de wons sul-coreanos em vendas em dois anos e nove meses.",
+    "O shopping apostou em eventos temporários e contabilizou cerca de 1.892 pop-ups em cinco anos, sendo mais de 660 em 2025, atraindo clientes da geração MZ, que responderam por 75% das compras nesses espaços.",
+    "A praça gastronômica Tasty Seoul possui cerca de 14,8 mil metros quadrados com cerca de 90 marcas e atrai um público jovem que, segundo dados, frequentemente consome também em outros setores.",
+    "Para clientes de até 45 anos, a Hyundai criou o programa VIP Club YP, que exige no mínimo 30 milhões de wons sul-coreanos em compras para a seleção de 2027 e dá acesso ao lounge exclusivo YPHAUS.",
+    "Em cinco anos de operação, o empreendimento acumulou 5,21 trilhões de wons sul-coreanos em vendas, recebeu visitantes de 182 países e registrou 1,5 milhão de pessoas no espaço de exposições ALT.1."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/20/11/2026/shopping-centers/menos-area-para-lojas-mais-motivos-para-ir-a-estrategia-de-varejo-da-coreia-do-sul/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/509aec7a70b9.webp"
   },
   {
    "titulo": "2027: um ano de ajustes para a economia e o consumo brasileiro",
    "topicos": [
-    "O cenário macroeconômico brasileiro para 2027 aponta para um período de ajustes e maior restrição financeira, com menor espaço para novos estímulos governamentais e consumo pressionado.",
-    "O boletim Focus do Banco Central de 13/11/2026 revisou a expectativa do PIB de 2027 de 1,32% para 1,02%, a inflação de 4,32% para 5,0% e os juros de 12% para 12,75%.",
-    "O poder de compra das famílias sofre corrosão devido à inflação acumulada desde o período pós-pandemia em 2022, afetando despesas essenciais como alimentação, moradia e saúde.",
-    "O mapa da inadimplência da Serasa registrou 84,6 milhões de brasileiros com dívidas em atraso em outubro de 2026, limitando o orçamento familiar.",
-    "O mercado de trabalho registrou taxa de desemprego de 5,3% no trimestre encerrado em agosto de 2026, com 103,5 milhões de pessoas ocupadas.",
-    "Categorias essenciais como alimentação e farmácias devem ter maior resiliência no varejo em 2027, enquanto vestuário, móveis e bens duráveis ficarão expostos ao crédito caro."
+    "O cenário econômico de 2027 aponta para um crescimento mais moderado e ajuste estrutural, após o impulso gerado por programas de crédito e transferência de renda em 2026 perder força no Brasil.",
+    "Segundo dados do boletim Focus do Banco Central divulgados em 13/11/2026, a projeção do PIB de 2027 caiu de 1,32% para 1,02%, a inflação subiu de 4,32% para 5,0%, e a taxa de juros passou de 12% para 12,75%.",
+    "O poder de compra das famílias brasileiras segue corroído pela inflação acumulada desde o período pós-pandemia em 2022, pesando sobre despesas essenciais como alimentação, moradia, saúde e serviços.",
+    "O mapa da inadimplência do Serasa registrou 84,6 milhões de brasileiros com dívidas em atraso em outubro de 2026, limitando o orçamento das famílias e o potencial de compras no varejo.",
+    "O mercado de trabalho brasileiro apresentou taxa de desemprego de 5,3% no trimestre encerrado em agosto de 2026, com 103,5 milhões de pessoas ocupadas e massa salarial real em alta.",
+    "Com consumidores pressionados por juros altos e endividamento, o varejo essencial (alimentação e farmácias) deve ser mais resiliente, enquanto vestuário, móveis e bens duráveis ficarão mais expostos."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/20/11/2026/artigos/2027-um-ano-de-ajustes-para-a-economia-e-o-consumo-brasileiro/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/29acf6245d67.webp"
   },
   {
    "titulo": "Natura, Mercado Livre e Boticário lideram ranking de reputação corporativa no País",
    "topicos": [
     "A Natura, o Mercado Livre e o Grupo Boticário lideram a edição de 2026 do ranking Merco Empresas, que aponta as companhias com melhor reputação corporativa no Brasil.",
     "O top 5 da lista é completado pelo Itaú Unibanco na quarta posição e pela Ambev na quinta colocação.",
-    "A relação das dez primeiras colocadas inclui ainda Toyota (6º), Nubank (7º), Magazine Luiza (8º), Coca-Cola (9º) e Nestlé (10º).",
-    "O estudo adota uma metodologia multistakeholder com avaliações de executivos, jornalistas, professores, consumidores, especialistas e outros públicos.",
-    "A análise abrange reputação digital e indicadores objetivos de gestão, com revisão independente da KPMG.",
-    "A edição de 2026 reúne 200 empresas de 41 setores da economia brasileira, destacando o avanço da Toyota, que subiu do nono para o sexto lugar, e do Nubank, que saltou da 18ª para a sétima posição."
+    "A relação das dez primeiras colocadas inclui ainda a Toyota em sexto, o Nubank em sétimo, o Magazine Luiza em oitavo, a Coca-Cola em nono e a Nestlé em décimo lugar.",
+    "A metodologia multistakeholder ouve executivos, jornalistas, analistas, professores, consumidores, sindicatos, gestores de mídias sociais e representantes de ONGs e do governo.",
+    "O estudo avalia a reputação digital e indicadores de gestão, com um processo revisado de maneira independente pela auditoria KPMG.",
+    "A montadora Toyota subiu três posições e avançou da nona para a sexta colocação, enquanto o Nubank deu um salto expressivo da 18ª para a sétima posição.",
+    "A edição de 2026 engloba 200 empresas distribuídas por 41 setores de atuação do mercado brasileiro."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/20/11/2026/sustentabilidade/natura-mercado-livre-e-boticario-lideram-ranking-de-reputacao-corporativa-no-pais/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/63627bbecac3.webp"
   },
   {
    "titulo": "Dívidas viraram uma bola de neve? Entenda os riscos da inadimplência e como sair dela",
    "topicos": [
-    "O acúmulo de dívidas não pagas resulta em inadimplência, situação que ocorre quando os débitos superam a capacidade de pagamento devido a juros elevados, prazos reduzidos, imprevistos ou diminuição de renda.",
-    "O alto índice de atrasos gera impactos macroeconômicos negativos, encarecendo o crédito, desacelerando a economia e dificultando a realização de novas contratações no mercado.",
-    "Para romper com o ciclo de endividamento, a estratégia recomendada envolve priorizar os débitos mais onerosos, buscar a renegociação e evitar assumir novas obrigações financeiras."
+    "A inadimplência ocorre quando as dívidas superam a capacidade de pagamento, impulsionadas por juros elevados, prazos curtos, imprevistos ou redução de renda.",
+    "O avanço generalizado dos atrasos nos pagamentos gera impactos negativos que encarecem o crédito, desaceleram a atividade econômica e dificultam a realização de novas contratações.",
+    "Para escapar desse ciclo financeiro desfavorável, a recomendação estratégica envolve priorizar os débitos mais caros, buscar renegociações e abster-se de assumir novas obrigações.",
+    "O tema é abordado em formato de vídeo pela iniciativa g1 Explica, que semanalmente simplifica tópicos de economia, mercado financeiro e educação financeira para o público."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/20/dividas-viraram-uma-bola-de-neve-entenda-os-riscos-da-inadimplencia-e-como-sair-dela.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0b312ca96427.webp"
   },
   {
    "titulo": "'Não podíamos pagar uma casa para nossa família, então decidimos comprar uma junto com desconhecidos'",
    "topicos": [
-    "Diante dos altos custos imobiliários em Vancouver, no Canadá, o casal Elizabeth e Tom Wilcox decidiu comprar um imóvel junto com desconhecidos para conseguir um quintal para os filhos.",
-    "Com um orçamento de 1 milhão de dólares canadenses, que só permitia a compra de um pequeno apartamento, eles publicaram um anúncio em uma imobiliária à procura de outra família com crianças.",
-    "Após dois anos de busca, os Wilcox se uniram a Ashley Pullman e seu marido, e em 2023 compraram uma casa unifamiliar de seis dormitórios e jardim por CAN$ 1,85 milhão.",
-    "As famílias dividiram a entrada de CAN$ 250 mil e racham em partes iguais as parcelas da hipoteca de CAN$ 3,9 mil mensais, além de contas, despesas e reparos.",
-    "O arranjo inclui espaços privados para cada núcleo familiar, o compartilhamento de áreas como a sala de estar no porão e contratos legais com regras para eventual venda.",
-    "Especialistas apontam que a prática de comprar imóveis com desconhecidos tem ganhado interesse no Canadá como um relacionamento estritamente financeiro para lidar com a crise habitacional."
+    "Em Vancouver, no Canadá, os casais Elizabeth e Tom Wilcox e Ashley Pullman com seu marido compraram juntos uma casa unifamiliar de seis quartos e um jardim em 2023, após dois anos de busca.",
+    "A aquisição conjunta ocorreu porque o orçamento inicial dos Wilcox, de CAN$ 1 milhão (cerca de US$ 700 mil ou R$ 4 milhões), só permitia a compra de um pequeno apartamento.",
+    "O imóvel custou CAN$ 1,85 milhão (cerca de US$ 1,3 milhão ou R$ 7,5 milhões). As famílias dividiram igualmente a entrada de CAN$ 250 mil (US$ 175 mil, R$ 1 milhão).",
+    "Os coproprietários pagam em partes iguais as parcelas mensais da hipoteca, que somam CAN$ 3,9 mil (cerca de US$ 2,7 mil ou R$ 15,8 mil), além das contas e reparos.",
+    "A prática de comprar imóveis com desconhecidos tem ganhado interesse em cidades como Toronto devido aos altos custos de moradia, segundo especialistas do setor.",
+    "As famílias mantêm contratos legais que estabelecem regras para o caso de venda e mudança, exigindo prazos de aviso prévio e garantindo boa convivência."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/noticia/2026/11/20/nao-podiamos-pagar-uma-casa-para-nossa-familia-entao-decidimos-comprar-uma-junto-com-desconhecidos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/4e35dae4d19d.webp"
   },
   {
    "titulo": "Cheirin Bão abre primeira loja nos EUA e projeta 40 unidades no país em cinco anos",
    "topicos": [
-    "A rede brasileira de cafeterias Cheirin Bão inaugurou sua primeira unidade nos Estados Unidos, localizada em Ashland, Massachusetts, na região metropolitana de Boston.",
-    "O projeto recebeu um investimento de US$ 350 mil, valor que engloba taxa de franquia, reforma do imóvel, aquisição de equipamentos e estruturação da operação.",
-    "A empresa projeta abrir 40 lojas no mercado norte-americano nos próximos cinco anos, com foco inicial na Costa Leste e interesse em mercados como Flórida, Nova Jersey e Nova York.",
-    "A nova unidade é administrada por parceiros locais, contando com o suporte da Universal Franchising em treinamento, desenvolvimento de produtos, identidade visual e padronização.",
-    "O abastecimento adota um modelo híbrido, enviando cafés especiais do Sul de Minas Gerais, o chocolate em pó Chocobão, o cappuccino e insumos de empório diretamente do Brasil.",
-    "No Brasil, a rede fechou 2025 com faturamento aproximado de R$ 442 milhões, alta de 10,5% ante o ano anterior, e espera alcançar R$ 550 milhões em receita no ano de 2026."
+    "A rede brasileira de cafeterias Cheirin Bão inaugurou sua primeira unidade nos Estados Unidos, localizada em Ashland, Massachusetts, na região metropolitana de Boston, marcando o início de sua expansão internacional.",
+    "O projeto recebeu um investimento de US$ 350 mil, valor que engloba a taxa de franquia, a reforma do estabelecimento, a aquisição de equipamentos e a estruturação da operação.",
+    "A empresa projeta abrir 40 unidades no mercado norte-americano nos próximos cinco anos, com foco inicial na Costa Leste e interesse em mercados como Flórida, Nova Jersey e Nova York.",
+    "A nova unidade é administrada por parceiros locais e conta com o suporte da Universal Franchising em áreas como treinamento, desenvolvimento de produtos, identidade visual e padronização.",
+    "O abastecimento adota um modelo híbrido, no qual cafés especiais do Sul de Minas Gerais, o chocolate em pó Chocobão, o cappuccino e insumos de empório são enviados do Brasil.",
+    "No Brasil, a marca encerrou 2025 com faturamento de cerca de R$ 442 milhões, alta de 10,5% sobre o ano anterior, e mira uma receita de R$ 550 milhões para 2026, com mais de 600 lojas em todo o país."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/20/11/2026/noticias-varejo/cheirin-bao-abre-primeira-loja-nos-eua-e-projeta-40-unidades-no-pais-em-cinco-anos/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/da8ec8ef7d72.webp"
   },
   {
    "titulo": "Briga na esquerda menos de um mês após eleição expõe divergências sobre rumos do governo Lula 4",
    "topicos": [
-    "Uma disputa pública entre aliados do presidente Lula expôs divergências na esquerda sobre a política econômica e os rumos do quarto mandato, com início previsto para janeiro de 2027.",
-    "O estopim foi o projeto de ajuste fiscal que permite bloquear despesas e reduz o limite de crescimento dos gastos acima da inflação de 2,5% para 2% a partir de 2027.",
-    "Aprovado pelo Senado em 18 de dezembro, o texto começou a ser discutido pela Câmara dos Deputados em 23 de dezembro, gerando atritos no Congresso e nas redes sociais.",
-    "Parlamentares do PSOL e alas mais radicais da esquerda criticaram a proposta econômica, enquanto governistas acusaram os críticos de enfraquecer a gestão antes da posse.",
-    "O presidente Lula defendeu o controle das contas públicas em 19 de dezembro, alegando falta de discussão ou informação, e garantiu que não haverá perda de direitos populares.",
-    "O líder do governo no Congresso, Randolfe Rodrigues, alertou que a oposição venceu as eleições para o Legislativo, tornando essencial a unidade e a mobilização popular."
+    "Menos de um mês após a vitória de Lula sobre Flávio Bolsonaro no segundo turno, surgiu uma disputa pública entre aliados da esquerda sobre o projeto de ajuste fiscal apresentado pelo governo.",
+    "O projeto, aprovado pelo Senado na quarta‑feira (18), permite bloquear despesas para cumprir a meta fiscal e reduz de 2,5% para 2% o limite de crescimento dos gastos acima da inflação a partir de 2027.",
+    "O texto ainda precisa ser analisado pela Câmara, que deve iniciar a discussão na segunda‑feira (23), e tem sido criticado por parlamentares do PSOL e por movimentos sociais contrários à proposta.",
+    "Em 19 de novembro, Lula, ao retornar da ASEAN, afirmou que a confusão pode dever‑se à falta de informação completa e garantiu que, enquanto estiver no cargo, não haverá diminuição dos direitos conquistados pelo povo.",
+    "Deputados André Janones (Rede‑MG), Glauber Braga (PSOL‑RJ), Jones Manoel (PSOL‑PE) e os estaduais Débora Camilo (PSOL‑SP) e Kleber Rosa (PSOL‑BA) lançaram o canal “Exército da Revolução Brasileira” para manter a mobilização radical nas redes contra o ajuste.",
+    "Randolfe Rodrigues (PT‑AP) reconheceu a legitimidade das críticas, alertou que a oposição venceu 60% dos votos e controla o Congresso, e pediu diálogo com UNE, CUT, PSOL e demais setores sociais para garantir apoio popular ao governo."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/20/briga-na-esquerda-e-governo-lula-4.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/1b775d17e716.webp"
   },
   {
    "titulo": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
    "topicos": [
-    "O relator do ajuste fiscal do governo Lula na Câmara, deputado Mauro Benevides (União Brasil-CE), apresentou seu parecer nesta quinta-feira (19) mantendo o texto aprovado pelo Senado.",
-    "A votação da proposta na Câmara dos Deputados está marcada para a noite de segunda-feira (23), após uma decisão do presidente da Casa, Hugo Motta (Republicanos-PB), para acelerar o processo.",
-    "A estratégia de não alterar o projeto busca enviar um sinal positivo ao mercado e à sociedade sobre a economia do país, segundo o relator.",
-    "O plano do governo, liderado pelo ministro do Planejamento Bruno Moretti, visa conter despesas e elevar a arrecadação para estabilizar a dívida pública sem descuidar de políticas sociais.",
-    "O projeto fixa um teto de 2% para a expansão de despesas em períodos que exijam contingenciamento e impõe um corte linear de 10% em benefícios setoriais concedidos pelo governo.",
-    "Sobre créditos tributários, o governo poderá impor restrições com percentuais variados por valor quando houver contenção de gastos, elevando a arrecadação em dinheiro no curto prazo."
+    "O relator do projeto de ajuste fiscal do governo do presidente Lula, deputado Mauro Benevides (União Brasil-CE), apresentou seu parecer nesta quinta-feira (19) mantendo o texto aprovado pelo Senado.",
+    "A votação da proposta na Câmara dos Deputados foi marcada para a noite de segunda-feira (23), em um esforço liderado pelo presidente da Casa, Hugo Motta (Republicanos-PB), para acelerar o processo.",
+    "O relator optou por não alterar o texto para enviar um sinal positivo rápido ao mercado e à sociedade sobre a economia brasileira, buscando apoios junto às bancadas partidárias.",
+    "O projeto, encabeçado pelo ministro do Planejamento e Orçamento, Bruno Moretti, visa conter despesas públicas e elevar a arrecadação para estabilizar a dívida pública, preservando o setor social.",
+    "Entre as medidas mantidas estão um teto de 2% para o crescimento de despesas em anos com contingenciamento e um corte linear de 10% em benefícios concedidos a diferentes setores da economia.",
+    "A proposta permite que o governo estabeleça restrições e percentuais diferenciados, com base no valor, para empresas que utilizam créditos tributários para quitar impostos de origines distintas.",
+    "Ent entidades como CNI, Fiesp e Fiemg afirmaram em manifestações de 12 de novembro que grandes empresários arcarão com a maior parte do custo, medida que busca elevar a arrecadação imediata em dinheiro."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/2378ae13fc37.webp"
   },
   {
    "titulo": "Sodexo reforça equipes e prepara atendimento na madrugada para a Black Friday",
    "topicos": [
-    "A Sodexo preparou uma operação especial para a Black Friday nos restaurantes localizados em centros logísticos, com expectativa de crescimento de cerca de 30% nas operações devido à alta demanda do e-commerce.",
-    "A empresa implementará o atendimento na madrugada, chamado de corujão, com equipes adaptadas para os horários de maior pico durante a virada da data de promoções.",
-    "A operação diferenciada abrange o período anterior e posterior à sexta-feira de ofertas, mantendo o suporte enquanto o volume de trabalho nos centros de distribuição permanecer elevado.",
-    "O planejamento inclui a distribuição automatizada de bebidas quentes e a adoção de insumos prontos para consumo, eliminando etapas de preparo para garantir maior agilidade.",
-    "A companhia estruturou uma diretoria exclusiva voltada para e-commerce e marketplaces, reunindo equipes especializadas para lidar com picos em campanhas como datas duplas, Black Friday e Natal."
+    "A Sodexo preparou uma operação especial nos restaurantes de centros logísticos para atender à alta demanda da Black Friday, prevendo um crescimento de aproximadamente 30% nas operações.",
+    "A empresa implementou o atendimento na madrugada, conhecido como 'corujão', com equipes adaptadas para os horários de maior pico e movimentação nos galpões.",
+    "A operação especial abrange os dias que antecedem a Black Friday e se estende para o período posterior à data, acompanhando o alto volume de trabalho nos centros de distribuição.",
+    "Para garantir rapidez e evitar filas, a companhia adotou a distribuição automatizada de bebidas quentes, uso de insumos prontos para consumo e adaptação dos cardápios para os trabalhadores.",
+    "A estratégia faz parte de uma nova diretoria criada pela Sodexo para atender exclusivamente empresas de comércio eletrônico e marketplaces em picos sazonais como Black Friday, Natal e datas duplas."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/19/11/2026/black-friday/sodexo-reforca-equipes-e-prepara-atendimento-na-madrugada-para-a-black-friday/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/c9d397ac1426.webp"
   },
   {
    "titulo": "JBS (JBSS32) conclui joint venture em Omã e avança em hub multiproteína no Oriente Médio",
    "topicos": [
-    "A JBS (JBSS32) concluiu nesta quinta-feira (19) a transação para formar uma joint venture com a Oman Food Investment Holding Company (OFC), expandindo sua atuação no Oriente Médio.",
-    "Anunciada inicialmente em fevereiro, a operação resulta em uma nova empresa sediada na Holanda, na qual a JBS detém 80% de participação e a OFC os 20% restantes.",
-    "Para viabilizar o negócio, a companhia brasileira realizou um aporte financeiro de US$ 150 milhões na nova sociedade.",
-    "A estrutura da joint venture agrupa os ativos da A’Namaa Poultry, focada em produção de frango, e da Al Bashayer Meat Company, dedicada a carne bovina e ovina.",
-    "Os recursos investidos serão aplicados na conclusão da planta integrada de frango em Ibri (norte de Omã) e da unidade de bovinos e ovinos em Thumrait (sul do país).",
-    "O complexo industrial tem expectativa de atingir capacidade estática de cerca de 300 mil toneladas anuais, processando diariamente 1.000 bovinos, 5.000 cordeiros e 600 mil frangos.",
-    "O empreendimento tem previsão de gerar mais de 3 mil empregos diretos em Omã durante o período dos próximos cinco anos, fortalecendo a presença da empresa na região."
+    "A JBS (JBSS32) anunciou nesta quinta-feira (19) a finalização da joint venture com a Oman Food Investment Holding Company (OFC), consolidando sua expansão no Oriente Médio.",
+    "A operação, divulgada inicialmente em fevereiro deste ano, estabelece que a JBS possui 80% da nova empresa holandesa, e a OFC detém os 20% restantes.",
+    "A multinacional brasileira realizou um aporte de US$ 150 milhões na nova companhia conjunta.",
+    "O acordo integra os ativos da A'Namaa Poultry, focada em frango, e da Al Bashayer Meat Company, voltada para carne bovina e ovina em Omã.",
+    "O investimento financiará a conclusão da fábrica de frangos em Ibri (norte de Omã) e da unidade de carne bovina e ovina em Thumrait (sul do país).",
+    "O complexo produtivo projetado terá capacidade estática de cerca de 300 mil toneladas anuais, processando diariamente 1.000 bovinos, 5.000 cordeiros e 600 mil frangos.",
+    "O empreendimento tem a expectativa de criar mais de 3 mil vagas de emprego diretas em Omã no decorrer dos próximos cinco anos."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/jbs-jbss32-conclui-joint-venture-em-oma-e-avanca-em-hub-multiproteina-no-oriente-medio-pads/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a4179c075b5e.webp"
   },
   {
    "titulo": "Leis garantem R$ 714,8 milhões para segurança pública e sistema de Justiça",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva sancionou as leis 15.533, 15.536 e 15.545, publicadas no Diário Oficial da União em 19/11/2026, que liberam R$ 714,8 milhões para órgãos federais.",
-    "As normas, aprovadas pelo Congresso Nacional em 12 de novembro de 2026, já estão em vigor para reforçar dotações orçamentárias em projetos setoriais.",
-    "A Lei 15.545 destina R$ 114,9 milhões para compra de imóveis e obras. A Justiça do Trabalho receberá R$ 46,6 milhões para adquirir um prédio em Belo Horizonte.",
-    "A Justiça Eleitoral contará com R$ 41 milhões para sedes em Goiânia e Pedro II (PI), enquanto a DPU e o TCU recebem R$ 8,2 milhões e R$ 3 milhões, respectivamente.",
-    "A Lei 15.536 destina R$ 56,2 milhões para a Justiça Federal, do Trabalho e MPU, sendo R$ 42 milhões para sedes em Juazeiro do Norte, Foz do Iguaçu e Blumenau.",
-    "A Lei 15.533 destina R$ 543,7 milhões, incluindo R$ 416,5 milhões para o FDNE financiar projetos produtivos no Nordeste e R$ 124,7 milhões para o Ministério da Justiça.",
-    "A Polícia Federal receberá R$ 110 milhões dos recursos da Lei 15.533 para segurança de candidatos presidenciais em 2026, combate ao tráfico e emissão de passaportes."
+    "O presidente Luiz Inácio Lula da Silva sancionou três leis que liberam R$ 714,8 milhões para órgãos da Justiça, ministérios e tribunais, em medida publicada no DOU em 19/11/2026 e aprovada pelo Congresso no dia 12.",
+    "A Lei 15.545 destina R$ 114,9 milhões para aquisição de imóveis e obras. Entre os repasses estão R$ 46,6 milhões para a Justiça do Trabalho em BH, R$ 41 milhões para a Justiça Eleitoral em Goiânia e Pedro II (PI), e R$ 8,2 milhões para a DPU.",
+    "A mesma lei destina R$ 16,1 milhões ao MPU para cidadania, R$ 3 milhões ao TCU para imóvel no Rio Grande do Norte, e tem origem no PLN 35/2026, relatado pelo deputado Mauro Benevides Filho.",
+    "A Lei 15.536 destina R$ 56,2 milhões (PLN 11/2026) para obras, modernização e auxílio-moradia. A Justiça Federal recebe cerca de R$ 42 milhões para sedes em Juazeiro do Norte, Foz do Iguaçu e Blumenau.",
+    "O MPU recebe R$ 14 milhões para a Procuradoria em Natal, e R$ 103 mil vão para auxílio-moradia de servidores trabalhistas em Alagoas e no Piauí, conforme a Lei 15.536.",
+    "A Lei 15.533 destina R$ 543,7 milhões (PLN 6/2026) para o Nordeste, segurança e fiscalização. O FDNE recebe R$ 416,5 milhões para projetos produtivos, e o Ministério da Justiça e Segurança Pública, R$ 124,7 milhões.",
+    "A Polícia Federal fica com R$ 110 milhões para repressão a crimes, emissão de passaportes e segurança de candidatos presidenciais em 2026. O Fundo de Defesa de Direitos Difusos recebe R$ 4,9 milhões e a ANSN, R$ 2,5 milhões."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-garantem-r-714-8-milhoes-para-seguranca-publica-e-sistema-de-justica",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/adf432d78115.webp"
   },
   {
    "titulo": "Greve geral leva milhares às ruas da Itália por salários e mais recursos públicos",
    "topicos": [
-    "Milhares de trabalhadores e estudantes protestaram em várias cidades da Itália na sexta-feira (20) em uma greve geral convocada pela CGIL, maior central sindical do país, contra o custo de vida e gastos militares.",
-    "A paralisação de 24 horas abrangeu os setores público e privado, incluindo educação e saúde, enquanto os serviços aéreos e ferroviários foram excluídos e o transporte local teve atendimento mínimo exigido por regras.",
-    "Uma paralisação ferroviária separada foi programada para começar às 21h de sexta-feira e terminar às 20h de sábado, ocorrendo antes das eleições parlamentares previstas para 2027.",
-    "O Parlamento italiano analisa a proposta de Orçamento para 2027 apresentada por Meloni, que prevê 26 bilhões de euros (US$ 30 bilhões), quantia considerada insuficiente pela CGIL para reforçar os serviços públicos.",
-    "O ministro da Indústria, Adolfo Urso, criticou a mobilização, afirmando que a greve foi convocada de forma preventiva antes mesmo de o conteúdo do Orçamento ser conhecido.",
-    "A CGIL exige aumentos salariais, renovação de acordos coletivos, reajuste integral das aposentadorias pela inflação e medidas para impedir o aumento da idade mínima de aposentadoria."
+    "Milhares de trabalhadores e estudantes protestaram em várias cidades da Itália na sexta-feira (20) em uma greve geral convocada pela CGIL, maior central sindical do país.",
+    "A paralisação de um dia inteiro abrangeu os setores público e privado, incluindo educação e saúde, com exclusão dos transportes aéreo e ferroviário.",
+    "O Parlamento italiano analisa a proposta de Orçamento de Meloni para 2027, que prevê 26 bilhões de euros (US$ 30 bilhões), quantia considerada insuficiente pela CGIL.",
+    "Os manifestantes exigem salários maiores, renovação de acordos coletivos, reajuste integral das aposentadorias pela inflação e mais verbas para saúde e educação.",
+    "O ministro da Indústria, Adolfo Urso, criticou a greve por ter sido convocada antes de o conteúdo do Orçamento ser conhecido, classificando-a como preventiva.",
+    "Os protestos ocorrem em meio à preparação da Itália para as eleições parlamentares previstas para 2027 e coincidem com atos de jovens em outros países europeus."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/greve-geral-italia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0631abdeaee5.webp"
   },
   {
    "titulo": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
    "topicos": [
-    "A Bolsa de Valores brasileira (B3) está fechada nesta sexta-feira (20) em decorrência do feriado nacional da Consciência Negra, mas o mercado monitora a agenda econômica internacional e dados internos.",
-    "No Reino Unido, são divulgados os números de vendas no varejo e as contas públicas de outubro, medindo a atividade econômica e a situação fiscal para avaliar a política monetária britânica.",
-    "A presidente do Banco Central Europeu (BCE), Christine Lagarde, participa de um evento público na zona do euro, gerando expectativa por pistas sobre inflação, crescimento e rumo dos juros.",
-    "Os Estados Unidos divulgam a leitura final do índice de confiança do consumidor da Universidade de Michigan, que avalia o humor das famílias e traz projeções de inflação monitoradas pelo Federal Reserve (Fed).",
-    "A zona do euro também divulga dados sobre a confiança do consumidor, indicador que mede o otimismo das famílias locais em relação ao panorama econômico regional.",
-    "No cenário doméstico brasileiro, investidores acompanham os dados de vendas e produção de veículos referentes a outubro para mensurar o desempenho da indústria automotiva e da atividade econômica."
+    "A Bolsa de Valores brasileira (B3) está fechada nesta sexta-feira (20) devido ao feriado nacional da Consciência Negra, mas o mercado monitora a agenda econômica externa.",
+    "No Reino Unido, são divulgados os dados de vendas no varejo e das contas públicas de outubro, que medem a atividade econômica e a situação fiscal do país.",
+    "A presidente do Banco Central Europeu (BCE), Christine Lagarde, participa de um evento público, atraindo atenção para sinalizações sobre juros, inflação e economia.",
+    "Os Estados Unidos divulgam a leitura final do índice de confiança do consumidor da Universidade de Michigan, que avalia o humor e as expectativas de inflação das famílias.",
+    "Na zona do euro, a divulgação do índice de confiança do consumidor busca fornecer indícios sobre o otimismo das famílias frente ao cenário econômico regional.",
+    "No cenário doméstico, investidores acompanham os dados de produção e vendas de veículos referentes a outubro para medir o desempenho da indústria e da atividade econômica."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/feriado-no-brasil-confianca-nos-eua-e-bce-o-que-acompanha-o-mercado-nesta-sexta-feira-mlem/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/af8532559a8f.webp"
   },
   {
    "titulo": "Real perde 7,50% em 2026 e tem 5º pior desempenho ante o dólar",
    "topicos": [
-    "O real acumula queda de 7,50% ante o dólar em 2026, figurando na 5ª posição entre as 27 moedas que mais perderam valor em levantamento do Poder360.",
-    "A moeda norte-americana disparou 15,3% entre 23 de outubro e 18 de novembro, passando de R$ 5,0377 para R$ 5,8102 no período afetado pela reeleição de Lula.",
-    "Na quinta-feira (19.nov), o dólar comercial subiu 1,15% e encerrou cotado a R$ 5,934, o patamar mais alto desde abril de 2025, apesar de intervenções do Banco Central.",
-    "Na América Latina, o real registrou o 2º pior desempenho cambial, ficando atrás apenas do peso chileno e superando as perdas de pesos argentino e mexicano.",
-    "Investidores reagiram negativamente com incertezas fiscais, e alterações congressistas no pacote de ajuste fiscal reduziram o impacto financeiro das medidas em 18 de novembro.",
-    "A alta cambial pressiona produtos importados e insumos industriais, dificultando a inflação na meta de 3% e limitando cortes na Selic, mantida em 13,75% ao ano."
+    "O real acumula queda de 7,50% ante o dólar em 2026, ocupando a 5ª posição no ranking de pior desempenho entre 27 moedas analisadas pelo Poder360.",
+    "A moeda americana saltou 15,3% entre 23 de outubro e 18 de novembro, passando de R$ 5,0377 para R$ 5,8102 após a reeleição de Lula.",
+    "Na quinta-feira (19.nov), o dólar comercial subiu 1,15% e encerrou cotado a R$ 5,934, o patamar mais elevado desde abril de 2025.",
+    "A desvalorização reflete o temor de investidores com a capacidade do governo de equilibrar as contas públicas e conter a dívida.",
+    "O pacote de ajuste fiscal aprovado no Senado na quarta-feira (18.nov) não evitou a alta do dólar, pois mudanças reduziram seu impacto.",
+    "A alta cambial pressiona a inflação rumo à meta de 3%, o que pode limitar reduções na taxa Selic, mantida em 13,75% ao ano em novembro."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/real-perde-752-em-2026-e-tem-5o-pior-desempenho-ante-o-dolar/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/25aa0c492f99.webp"
   },
   {
    "titulo": "Mianmar chama de ‘injusta’ decisão da Corte da ONU sobre genocídio de rohingyas",
    "topicos": [
-    "O governo de Mianmar classificou como \"injusta\" a decisão da Corte Internacional de Justiça que responsabilizou o país pelo genocídio da minoria muçulmana rohingya. A manifestação ocorreu nesta sexta-feira (20), na capital Naypyitaw, por meio da porta-voz Khine Khine Soe.",
-    "A porta-voz argumentou que a sentença não foi unânime entre os 15 magistrados do tribunal da ONU, justificando a crítica do governo na primeira reação oficial após o veredicto histórico.",
-    "A Corte determinou que as forças de segurança de Mianmar cometeram milhares de assassinatos, violência extrema e atos contra crianças em 2017, com o intuito de destruir parte da população no estado de Rakhine.",
-    "O tribunal ordenou que o governo pague indenizações aos rohingyas, cujos valores serão definidos posteriormente, além de garantir o retorno seguro e a reunificação familiar dos deslocados. A decisão é definitiva e irrecorrível.",
-    "Um programa anunciado após o reconhecimento do genocídio prevê o reassentamento de 10 mil rohingyas na Turquia, com capacitação profissional em parceria com o Acnur e autoridades turcas.",
-    "A Malásia abriga cerca de 193 mil refugiados registrados de Mianmar, sendo dois terços rohingyas, e vê o plano de reassentamento como uma solução de longo prazo que pode servir de modelo."
+    "O governo de Mianmar classificou na sexta-feira (20), na capital Naypyitaw, como injusta a decisão da Corte Internacional de Justiça que responsabilizou o país por genocídio contra a minoria muçulmana rohingya.",
+    "A porta-voz presidencial Khine Khine Soe argumentou a jornalistas que a falta de unanimidade entre os 15 juízes do tribunal da ONU demonstra a injustiça da sentença emitida.",
+    "A Corte da ONU determinou que os assassinatos em massa e a violência sexual generalizada das forças de segurança em 2017 tiveram intenção estatal de destruir os rohingyas no estado de Rakhine.",
+    "O tribunal sentenciou que Mianmar deve pagar indenizações financeiras aos rohingyas, cujos valores exatos serão definidos futuramente, além de garantir retorno seguro e reunificação familiar.",
+    "A decisão da Corte é definitiva e inapelável. Paralelamente, um programa anunciou o reassentamento de 10 mil rohingyas na Turquia com capacitação profissional.",
+    "A Malásia abriga cerca de 193 mil refugiados registrados de Mianmar, dos quais cerca de dois terços pertencem à etnia rohingya."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/mianmar-chama-de-injusta-decisao-da-corte-da-onu-sobre-genocidio-de-rohingyas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/14592d92819d.webp"
   },
   {
    "titulo": "Turquia receberá 10 mil rohingyas após Corte Internacional reconhecer genocídio em Mianmar",
    "topicos": [
-    "A Malásia anunciou nesta sexta-feira (20) que vai reassentar 10 mil refugiados rohingyas na Turquia, por meio de um programa estruturado de capacitação profissional.",
-    "O plano foi divulgado um dia após a Corte Internacional de Justiça decidir que a violência cometida por forças de segurança de Mianmar em 2017 configurou genocídio.",
-    "O vice-primeiro-ministro malaio, Ahmad Zahid Hamidi, afirmou que a iniciativa busca gerenciar a situação dos refugiados de forma mais coordenada e humana.",
-    "O governo da Malásia trabalhará com autoridades turcas, o Acnur e agências para coordenar a seleção, o treinamento, a documentação e o reassentamento dos participantes.",
-    "A implementação do plano vai considerar as demandas do mercado de trabalho, a concordância dos envolvidos e as normas internacionais.",
-    "No fim de fevereiro, a Malásia registrava cerca de 193 mil refugiados de Mianmar, sendo dois terços rohingyas, e já enviou mais de 10 mil cidadãos de Mianmar de volta desde janeiro."
+    "A Malásia anunciou nesta sexta-feira (20) um plano para reassentar 10 mil refugiados rohingyas na Turquia, utilizando um programa estruturado de capacitação profissional.",
+    "A medida ocorre um dia após a Corte Internacional de Justiça classificar como genocídio estatal os assassinatos e a violência sexual cometidos pelas forças de segurança de Mianmar em 2017 no estado de Rakhine.",
+    "O anúncio foi feito pelo vice-primeiro-ministro da Malásia, Ahmad Zahid Hamidi, que classificou a parceria com a Turquia como uma tentativa de buscar soluções de longo prazo para a migração e segurança nacional.",
+    "O governo malaio trabalhará em conjunto com as autoridades turcas, o Acnur e outras agências para coordenar a seleção, o treinamento, a documentação e o reassentamento dos refugiados.",
+    "A execução do plano considerará as necessidades do mercado de trabalho, o consentimento dos envolvidos e as normas internacionais vigentes, servindo potencialmente como modelo de cooperação entre países.",
+    "No final de fevereiro, a Malásia abrigava cerca de 193 mil refugiados registrados de Mianmar, sendo aproximadamente dois terços deles rohingyas, e já havia deportado mais de 10 mil cidadãos birmaneses desde janeiro."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/turquia-recebera-10-mil-rohingyas-apos-corte-internacional-reconhecer-genocidio-em-mianmar.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/4785f96c28e0.webp"
   },
   {
    "titulo": "Trump derrotado: como a 'onda azul' chegou a redutos republicanos e mudou o mapa político dos EUA",
    "topicos": [
-    "A vitória da democrata Mary Peltola no Alasca, anunciada na terça-feira (17), encerrou uma disputa para o Senado com a derrota do republicano Dan Sullivan, ampliando a maioria democrata para 56 a 44 assentos.",
-    "No Mississippi, o democrata Scott Colom venceu a senadora republicana Cindy Hyde-Smith, tornando-se o primeiro homem negro eleito para o Senado pelo estado desde o século 19 em reduto tradicionalmente republicano.",
-    "O avanço democrata foi impulsionado pela insatisfação com a gestão de Donald Trump e o aumento do custo de vida. Pesquisa Reuters/Ipsos de segunda-feira (16) apontou que 66% dos americanos desaprovavam o governo e apenas 32% o aprovavam.",
-    "Os republicanos perderam espaço em nível nacional, reduzindo sua participação de votos em 99% dos cerca de 2.200 condados analisados e ficando oito pontos percentuais abaixo do desempenho de Trump na eleição presidencial de 2024.",
-    "Nas eleições para governador em novembro, os democratas venceram 24 das 36 disputas, conquistando o comando de seis estados que eram republicanos e passando a controlar 30 dos 50 governos estaduais do país.",
-    "Os democratas recuperaram o controle da Câmara dos Representantes, somando 257 cadeiras contra 172 dos republicanos até a noite de quinta-feira (19), com duas disputas na Louisiana pendentes de segundo turno.",
-    "O novo Congresso assume em janeiro de 2027, dando aos democratas poder para fiscalizar o governo federal, embora o veto presidencial, a exigência de 60 votos no Senado e 67 para impeachment limitem o avanço de propostas."
+    "A vitória da democrata Mary Peltola sobre o republicano Dan Sullivan no Alasca, divulgada em 17 de dezembro, elevou para nove o total de cadeiras tomadas dos rivais e ampliou a maioria democrata no Senado para 56 a 44.",
+    "O avanço foi o maior dos democratas em uma eleição de meio de mandato desde 1958, quando o partido conquistou 13 assentos dos republicanos e dois novos postos no Alasca.",
+    "No Mississippi, o democrata Scott Colom venceu a senadora republicana Cindy Hyde-Smith e tornou-se o primeiro homem negro eleito pelo estado para o Senado desde o século 19.",
+    "A insatisfação com a gestão de Donald Trump e a alta nos preços dos combustíveis, impulsionada pela guerra contra o Irã iniciada em fevereiro, intensificaram a pressão orçamentária sobre as famílias e impulsionaram a oposição.",
+    "Pesquisa Reuters/Ipsos publicada em 16 de novembro apontou que a aprovação do governo Trump era de apenas 32%, enquanto a desaprovação alcançava 66%.",
+    "Nas 36 eleições para governador de novembro, os democratas triunfaram em 24 contra 12 dos republicanos, fazendo com que o partido passe a governar 30 dos 50 estados americanos.",
+    "Com a maioria reconquistada na Câmara dos Representantes, onde somavam 257 assentos ante 172 dos republicanos até a noite de 19 de novembro, os democratas controlarão ambas as Casas do Congresso a partir de janeiro de 2027."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-derrotado-como-a-onda-azul-chegou-a-redutos-republicanos-e-mudou-o-mapa-politico-dos-eua.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/82d6fcea809f.webp"
   },
   {
    "titulo": "É #FAKE que Pix MEI de até R$ 5 mil terá de baixar para R$ 363 para 'caber' no orçamento reservado pelo governo",
    "topicos": [
-    "Posts virais desde 2 de novembro nas redes sociais alegavam que o Pix de R$ 5 mil prometido por Lula aos MEIs seria reduzido para R$ 363 por conta de um orçamento de R$ 5 bi, citando cerca de 13,8 milhões de MEIs ativos e um gasto total de quase R$ 70 bi.",
-    "A Secretaria de Comunicação Social da Presidência (Secom) esclareceu que a lei aprovada não prevê repasse a todos os MEIs; a política atenderá aproximadamente 1 milhão de microempreendedores a partir de 2027, totalizando R$ 5 bi em investimentos produtivos.",
-    "A seleção dará prioridade a mulheres empreendedoras, que representam 48 % dos registros de MEI, e a MEIs com faturamento anual de até R$ 40,5 mil, conforme nota enviada ao Fato ou Fake.",
-    "O Pix MEI faz parte do programa Prospera MEI, anunciado em 14 de outubro entre as duas fases das eleições de 2026, e inclui aumento do teto de faturamento anual de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028, perdão de dívidas tributárias federais e contratação de até dois funcionários.",
-    "Os recursos, de até R$ 5 mil por beneficiário, serão concedidos como capital semente a fundo perdido, sem necessidade de devolução ou cobrança de juros, devendo ser aplicados obrigatoriamente em bens que gerem desenvolvimento produtivo, como maquinário, ferramentas e adaptação de veículos.",
-    "A Secom informou que o Pix MEI ainda está em fase de estruturação; detalhes sobre inscrição, critérios, prazos e procedimentos de seleção serão divulgados até o final de 2026, e o benefício não será pago automaticamente a todos os registrados como MEI."
+    "Posts virais desde 2 de novembro no Facebook, X e TikTok afirmam que o Pix de R$ 5 mil prometido por Lula aos MEIs seria reduzido para R$ 363 por falta de orçamento, citando 17 milhões de MEIs cadastrados e um suposto custo de quase R$ 70 bi, enquanto o governo teria reservado R$ 5 bi.",
+    "A Secretaria de Comunicação Social da Presidência (Secom) esclareceu que a lei aprovada não prevê repasse a todos os 13,8 milhões de MEIs ativos, mas sim a cerca de 7,5 % desse total – aproximadamente 1 milhão de microempreendedores – a partir de 2027, totalizando R$ 5 bi em investimentos produtivos.",
+    "A seleção do programa dará prioridade a mulheres empreendedoras, que representam 48 % dos registros de MEI no país, e a MEIs com faturamento anual de até R$ 40,5 mil, conforme nota enviada ao Fato ou Fake.",
+    "O Pix MEI faz parte do Prospera MEI, anunciado em 14 de outubro entre os turnos das eleições de 2026, e inclui aumento do teto de faturamento anual de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028, perdão de dívidas tributárias federais e possibilidade de contratar até dois funcionários.",
+    "Segundo a Secom, o recurso de até R$ 5 mil por beneficiário será concedido como capital‑semente a fundo perdido, sem necessidade de devolução ou cobrança de juros, devendo ser usado exclusivamente na compra de bens que gerem desenvolvimento produtivo, como máquinas, ferramentas e adaptação de veículos.",
+    "O Pix MEI ainda está em fase de estruturação; detalhes sobre inscrição, critérios e prazos de seleção serão divulgados até o final de 2026, e o Ministério das Mulheres reforçou que o benefício não será automático, exigindo cumprimento dos requisitos que serão publicados."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/95bf4d20dd3f.webp"
   },
   {
    "titulo": "Coreia do Sul registra 1º caso de cólera em 10 anos",
    "topicos": [
-    "As autoridades de saúde da Coreia do Sul confirmaram nesta sexta-feira (20) o primeiro caso de cólera no país em 10 anos, após um paciente procurar um hospital na cidade de Changwon no início deste mês com sintomas de vômito e diarreia.",
-    "O paciente infectado não havia viajado para o exterior nos últimos dois meses, já se recuperou e recebeu alta na última terça-feira, enquanto profissionais de saúde investigam a origem da infecção e os contatos realizados.",
-    "O último caso de cólera no país havia ocorrido em 2016, quando três pessoas foram diagnosticadas com suspeita de consumo de frutos do mar contaminados, após um surto maior que afetou pelo menos 162 pessoas em 2001.",
-    "A transmissão da doença ocorre principalmente por água e alimentos contaminados ou pelo contato com fezes e vômito de infectados, tendo a diarreia como principal sintoma e podendo causar desidratação grave e risco de morte sem tratamento.",
-    "A Agência de Controle e Prevenção de Doenças da Coreia recomendou que a população utilize apenas água segura, consuma alimentos cozidos, higienize e descasque frutas e vegetais, além de solicitar que os serviços de saúde testem e notifiquem casos suspeitos."
+    "As autoridades de saúde da Coreia do Sul confirmaram nesta sexta-feira (20) o primeiro caso de cólera no país em 10 anos, após um paciente procurar um hospital na cidade portuária de Changwon no início do mês com sintomas de vômito e diarreia.",
+    "O paciente infectado não havia viajado para o exterior nos últimos dois meses, já se recuperou e recebeu alta na última terça-feira, enquanto os profissionais de saúde investigam a origem da infecção e os contatos realizados.",
+    "O último caso de cólera na Coreia do Sul havia ocorrido em 2016, quando foram registrados três casos suspeitos de ligação com o consumo de frutos do mar contaminados, além de um surto maior em 2001 que afetou ao menos 162 pessoas.",
+    "A agência de saúde sul-coreana recomendou que a população adote cuidados como consumir apenas água segura, comer alimentos cozidos e higienizar adequadamente frutas e vegetais, além de solicitar testes rápidos em serviços médicos."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/coreia-do-sul-registra-1o-caso-de-colera-em-10-anos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8b108492935a.webp"
   },
   {
    "titulo": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
    "topicos": [
-    "Pessoas negras responderam por 45% das novas contratações na administração pública federal nos últimos quatro anos, conforme divulgado pelo governo.",
-    "Entre 2023 e outubro de 2026, o setor público federal contabilizou 11.543 novos vínculos adicionais de pessoas negras.",
-    "O índice de novos ingressos superou o patamar mínimo estabelecido pela Lei de Cotas devido a aprovações também na ampla concorrência.",
-    "Os dados integram o relatório Retrato da Participação Negra na Administração Pública Federal, elaborado pelo Ministério da Gestão e da Inovação em Serviços Públicos via Siape.",
-    "Nos cargos de alta liderança (níveis 15 a 17), o número de ocupantes negros subiu de 788 em 2022 para 1.254 em outubro de 2026, uma alta de 59%.",
-    "Com o crescimento, a participação de pessoas negras na alta liderança foi de 29,6% para 30,6%, mantendo-se abaixo da média dos demais níveis.",
-    "Na média liderança, o total de funcionários negros aumentou 23%, indo de 11.740 para 14.455, elevando a representatividade de 35,5% para 37,8% no mesmo intervalo."
+    "Entre 2023 e outubro de 2026, as pessoas negras representaram 45% dos novos ingressos na administração pública federal, somando 11.543 vínculos adicionais.",
+    "O relatório Retrato da Participação Negra na Administração Pública Federal foi elaborado pelo Ministério da Gestão e da Inovação em Serviços Públicos utilizando dados do Siape.",
+    "O governo informou que a proporção de novos ingressos negros superou o mínimo da Lei de Cotas porque vários candidatos também passaram pela ampla concorrência.",
+    "Nos cargos de alta liderança (níveis 15 a 17), o total de ocupantes negros cresceu 59% em quatro anos, indo de 788 em 2022 para 1.254 em outubro de 2026.",
+    "A participação de pessoas negras na alta liderança subiu de 29,6% para 30,6%, enquanto o total de ocupantes nesses postos passou de 2.663 para 4.103.",
+    "Na média liderança, o número de servidores negros aumentou 23% no período de quatro anos, elevando a participação do grupo de 35,5% para 37,8%."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/f2fb2266a099.webp"
   },
   {
    "titulo": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva sancionou duas leis que garantem verbas orçamentárias complementares para áreas como cultura, cidadania e desenvolvimento regional, publicadas no Diário Oficial da União em 19/11/2026.",
-    "A Lei 15.543 direciona R$ 520,5 milhões para fundos regionais e pastas ministeriais, tendo origem no PLN 20/2026 e relatoria do deputado AJ Albuquerque (PP-CE).",
-    "Deste montante da Lei 15.543, 97,5% financiam projetos produtivos pelo FDNE e FDCO, enquanto 2,5% vão para os Ministérios da Integração, Cultura, Justiça e Direitos Humanos.",
-    "A Lei 15.537 aloca R$ 168,1 milhões, oriundos do PLN 12/2026 relatado pelo deputado Cleber Verde (MDB-MA), com 81,4% para operações oficiais de crédito.",
-    "Na Lei 15.537, os repasses restantes atendem aos Ministérios das Comunicações, Cultura, Integração e Justiça, contemplando o Novo Fungetur, Fundo Nacional de Cultura e combate ao crime."
+    "O presidente Luiz Inácio Lula da Silva sancionou duas leis que garantem verbas orçamentárias complementares para áreas como desenvolvimento regional, cultura e cidadania.",
+    "Publicadas no Diário Oficial da União na quinta-feira (19/11/2026) e já em vigor, as normas derivam de projetos do Executivo aprovados pelo Congresso Nacional em novembro.",
+    "A Lei 15.543 direciona R$ 520,5 milhões para fundos de desenvolvimento regional e para cobrir despesas de quatro ministérios, conforme o PLN 20/2026 relatado pelo deputado AJ Albuquerque.",
+    "Do montante da Lei 15.543, 97,5% financiam o setor produtivo pelo FDNE (Nordeste) e FDCO (Centro-Oeste), enquanto 2,5% vão para pastas da Integração, Cultura, Justiça e Direitos Humanos.",
+    "A Lei 15.537 aloca R$ 168,1 milhões, sendo 81,4% para operações de crédito e o restante para os Ministérios das Comunicações, Cultura, Integração e Justiça, segundo o PLN 12/2026.",
+    "Os recursos da segunda lei financiam a ampliação do Novo Fungetur, o apoio ao audiovisual no Fundo Nacional de Cultura, o combate ao crime organizado e a gestão de riscos de desastres."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/desenvolvimento-regional-cultura-e-cidadania-contam-com-novos-recursos",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0b7c2eda71eb.webp"
   },
   {
    "titulo": "Cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne",
    "topicos": [
-    "A deficiência de ferro afeta cerca de uma a cada três pessoas e é mais comum em mulheres em idade reprodutiva e crianças, causando cansaço, fraqueza e respiração curta.",
-    "O corpo humano absorve de 15% a 30% do ferro heme da carne e frutos do mar, enquanto o ferro não heme de vegetais tem absorção menor, de cerca de 2% em legumes secos e 7% a 9% em verduras.",
-    "Cozinhar verduras ricas em oxalatos, como espinafre e acelga, na água ajuda a liberar os compostos e absorver mais ferro, diferentemente de alface e repolho, que retêm mais vitamina C no vapor.",
-    "A adição de vitamina C, o processo de fermentação que decompõe o ácido fítico e o consumo de pãezinhos de farinha branca refinada (com absorção de até 13,6%) ajudam a maximizar a absorção do mineral.",
-    "Bebidas como café e chá contêm taninos e polifenóis que reduzem a absorção de ferro, devendo ser consumidas pelo menos duas horas após as refeições para evitar o bloqueio do nutriente.",
-    "As recomendações diárias de ferro do NHS são de 8,7 mg para homens de 19 anos ou mais, 14,8 mg para mulheres de 19 a 49 anos, e 8,7 mg para mulheres de 50 anos ou mais."
+    "A deficiência de ferro afeta cerca de uma a cada três pessoas no mundo, atingindo principalmente mulheres em idade reprodutiva e crianças, causando cansaço e fraqueza. O mineral é essencial para produzir hemoglobina, proteína que transporta oxigênio pelo corpo.",
+    "O corpo humano absorve de 15% a 30% do ferro heme, encontrado em carnes e frutos do mar, mas tem menor aproveitamento do ferro não heme, de origem vegetal, que varia de 2% em legumes secos a 9% em verduras.",
+    "Para verduras ricas em oxalatos como espinafre e acelga, cozinhá-las na água libera compostos que bloqueiam o ferro. Já vegetais como alface e repolho devem ser consumidos crus ou no vapor para reter vitamina C e auxiliar na absorção.",
+    "A associação de vitamina C às refeições potencializa a absorção do ferro vegetal. O processo de fermentação de cereais, nozes e sementes também decompõe o ácido fítico, composto que dificulta a absorção do mineral.",
+    "A absorção de ferro em alimentos fortificados, como pães e cereais, costuma ser baixa porque fabricantes usam formas não reativas para não alterar validade ou sabor. Em um estudo, a absorção em cereais infantis variou entre 0,6% e 2,2%, enquanto no pão branco chegou a 13,6%.",
+    "Bebidas como café e chá contêm taninos e polifenóis que reduzem a absorção de ferro quando consumidos junto às refeições. Especialistas recomendam aguardar pelo menos duas horas após comer para consumir essas bebidas.",
+    "O NHS do Reino Unido recomenda ingestão diária de 8,7 mg para homens a partir de 19 anos, 14,8 mg para mulheres de 19 a 49 anos, e 8,7 mg para mulheres com 50 anos ou mais. Em 100g, alimentos como grão-de-bico contêm 2 mg e tofu 1,2 mg de ferro."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/ckwy97l71v07o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/82d761fbf8e5.webp"
   },
   {
    "titulo": "Agências reguladoras terão créditos extras de R$ 24,4 milhões",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva sancionou a Lei 15.539, que cria um crédito suplementar de R$ 24,4 milhões no Orçamento, publicado no Diário Oficial da União em 19/11/2026, para reforçar o caixa das agências reguladoras federais.",
-    "As agências beneficiadas são: Aneel, ANM, Anvisa, ANA, Antaq e Anac, com recursos repassados pelos Ministérios de Minas e Energia, Saúde, Integração e Desenvolvimento Regional e de Portos e Aeroportos.",
-    "A Antaq receberá R$ 6,3 milhões, divididos em R$ 3,28 milhões para administração e R$ 3,02 milhões para estudos, projetos e planejamento de infraestrutura de transportes aquaviários.",
-    "A Anac terá R$ 5 milhões, dos quais R$ 4,55 milhões destinam‑se à regulação e fiscalização da aviação civil (R$ 2 milhões em investimentos e R$ 2,55 milhões em despesas correntes) e R$ 500 mil para despesas administrativas.",
-    "A Anvisa receberá R$ 4,2 milhões para ações de vigilância sanitária de produtos, serviços e ambientes; a ANA, R$ 3,4 milhões para administração da unidade.",
-    "A ANM contará com R$ 3,78 milhões, sendo R$ 2,7 milhões para modernização e gestão de TI, comunicação e inovação institucional, e R$ 1,08 milhão para regulação, outorga e fiscalização da mineração.",
-    "A Aneel receberá R$ 1,7 milhão para administração da unidade; o crédito suplementar será financiado pelo cancelamento de R$ 24,43 milhões de dotação do Ministério dos Transportes destinada à ANTT, conforme o PL 15/2026 aprovado pelo Congresso neste mês."
+    "O presidente Luiz Inácio Lula da Silva sancionou a Lei 15.539, publicada no Diário Oficial da União em 19/11/2026, abrindo um crédito suplementar de R$ 24,4 milhões para reforçar o orçamento de agências reguladoras federais.",
+    "Os recursos serão repassados por meio dos Ministérios de Minas e Energia, da Saúde, da Integração e do Desenvolvimento Regional e de Portos e Aeroportos, com origem no cancelamento de R$ 24,43 milhões de dotação do Ministério dos Transportes.",
+    "A Antaq receberá a maior parcela, de R$ 6,3 milhões, divididos entre administração da unidade (R$ 3,28 milhões) e estudos, projetos e planejamento de infraestrutura de transportes (R$ 3,02 milhões).",
+    "A Anac contará com R$ 5 milhões, sendo R$ 4,55 milhões para regulação e fiscalização da aviação civil (divididos em R$ 2 milhões para investimentos e R$ 2,55 milhões para despesas correntes) e R$ 500 mil para despesas administrativas.",
+    "A Anvisa receberá R$ 4,2 milhões para ações de vigilância sanitária de produtos, serviços e ambientes, enquanto a ANA contará com R$ 3,4 milhões para a administração da unidade.",
+    "A ANM receberá R$ 3,78 milhões, dos quais R$ 2,7 milhões irão para modernização e gestão de TI, comunicação e inovação institucional, e R$ 1,08 milhão para regulação, outorga e fiscalização da mineração.",
+    "A Aneel receberá R$ 1,7 milhão voltados para a administração da unidade, segundo a lei originada do Projeto de Lei do Congresso Nacional (PLN) 15/2026, enviado pelo Executivo e aprovado pelo Congresso."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/agencias-reguladoras-terao-creditos-extras-de-r-24-4-milhoes",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/5e9c82c26684.webp"
   },
   {
    "titulo": "Lula: transporte gratuito no fim de semana complementaria escala 5x2",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva anunciou nesta quinta-feira (19), em Brasília (DF), que o governo federal defenderá a gratuidade no transporte público aos fins de semana em todo o país.",
-    "A medida tem o objetivo de complementar a escala 5x2, garantindo que os trabalhadores possam aproveitar os dois dias de folga sem gastar com passagens para passear.",
-    "A proposta está vinculada à redução da jornada semanal de 44 para 42 horas, válida a partir de 16 de dezembro deste ano, e para 40 horas a partir de dezembro de 2027.",
-    "Em outubro, o governo enviou ao Congresso uma PEC para destinar recursos de emendas parlamentares impositivas ao custeio do transporte gratuito urbano aos fins de semana e feriados.",
-    "O texto estabelece o repasse de pelo menos 26,8% do total anual de emendas individuais e de bancada para financiar a tarifa zero nos fins de semana.",
-    "Segundo a Secom, a aprovação da PEC pode direcionar cerca de R$ 12 bilhões dos R$ 44,8 bilhões previstos no PLOA em emendas parlamentares obrigatórias para essa finalidade."
+    "O presidente Luiz Inácio Lula da Silva anunciou nesta quinta-feira (19), em Brasília, que o governo federal defenderá a gratuidade no transporte público aos fins de semana em todo o país.",
+    "A medida busca complementar a nova escala 5x2, garantindo que os trabalhadores tenham condições financeiras de aproveitar seus dois dias de descanso semanal fora de casa.",
+    "A gratuidade acompanha a redução da carga horária semanal, que cairá das atuais 44 horas para 42 horas a partir de 16 de dezembro de 2026 e para 40 horas em dezembro de 2027.",
+    "Para financiar a tarifa zero aos fins de semana e feriados, o governo enviou em outubro uma PEC ao Congresso que destina recursos de emendas parlamentares individuais e de bancada.",
+    "A proposta prevê o repasse de no mínimo 26,8% das emendas parlamentares impositivas, o que representaria cerca de R$ 12 bilhões dos R$ 44,8 bilhões previstos no PLOA.",
+    "Segundo Lula, a redução da jornada e as melhorias trabalhistas são justificadas pelos ganhos de produtividade e faturamento gerados pela tecnologia ao longo dos últimos quase 40 anos."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-transporte-gratuito-no-fim-de-semana-complementaria-escala-5x2",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/e534ac1e912e.webp"
   },
   {
    "titulo": "Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores",
    "topicos": [
-    "A alta de 17,6% do dólar após as eleições de outubro elevou o interesse pela diversificação internacional, fechando a quarta-feira (18) cotado a R$ 5,868, o maior patamar em 19 meses.",
-    "Especialistas orientam que o envio de recursos para o exterior deve integrar um planejamento patrimonial e considerar objetivos, custos, tributação e riscos, e não apenas a variação do câmbio.",
-    "Investidores podem acessar ativos estrangeiros por contas internacionais ou por produtos da B3, como BDRs, fundos e ETFs, sendo necessário ponderar tarifas, spread cambial, IOF e taxas de administração.",
-    "A Lei nº 14.754/2023 determinou que os rendimentos de aplicações financeiras de pessoas físicas no exterior sejam tributados à alíquota de 15% com apuração anual.",
-    "Nos Estados Unidos, o FDIC pode proteger até US$ 250 mil por depositante e por banco segurado, enquanto a SIPC protege clientes de corretoras contra falências, mas sem cobrir perdas de mercado.",
-    "Especialistas alertam contra a compra impulsiva de dólares após disparadas da moeda, recomendando a distribuição das remessas ao longo de meses para evitar a dependência de uma única taxa de câmbio."
+    "A alta do dólar, que acumula valorização de 17,6% desde as eleições de outubro e fechou cotado a R$ 5,868 na quarta-feira (18), maior patamar em 19 meses, reacendeu o interesse pela diversificação internacional.",
+    "Especialistas orientam que o envio de recursos para o exterior deve integrar um planejamento patrimonial e não ser motivado apenas por oscilações cambiais ou pelo noticiário após disparadas da moeda.",
+    "Investidores podem acessar o mercado externo por contas internacionais ou por produtos negociados na B3, como BDRs, fundos e ETFs, sendo necessário ponderar custos como spread cambial, IOF e taxas de administração.",
+    "A Lei nº 14.754/2023 determinou que os rendimentos de aplicações financeiras de pessoas físicas no exterior ficam sujeitos à alíquota de 15%, com apuração anual.",
+    "Nos Estados Unidos, o Federal Deposit Insurance Corporation (FDIC) pode proteger até US$ 250 mil por depositante em depósitos elegíveis, enquanto a Securities Investor Protection Corporation (SIPC) atende clientes de corretoras associadas sem cobrir perdas de mercado.",
+    "Especialistas recomendam avaliar a tolerância a riscos, os objetivos dos recursos, a manutenção de uma reserva de emergência em reais e as regras de tributação e sucessão, incluindo potenciais impostos sobre heranças nos EUA."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/advisor/investir-no-exterior-exige-mais-do-que-aproveitar-alta-do-dolar-orientam-assessores/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/fe81fb59cc57.webp"
   },
   {
    "titulo": "A bolsa de valores abre hoje? Veja o funcionamento da B3 durante o feriado",
    "topicos": [
-    "Nesta sexta-feira (20), a B3 não terá funcionamento devido ao feriado da Consciência Negra, gerando dúvidas em investidores sobre as operações na Bolsa de Valores.",
-    "Os mercados de renda variável (ações, fundos imobiliários, ETFs e BDRs), derivativos e renda fixa privada estarão totalmente fechados.",
-    "Também ficam suspensas atividades de registro, compensação, liquidação, movimentação de garantias e a Central Depositária para segmentos listados e de balcão.",
-    "Desde 2022, a B3 adota a regra de manter operações normais apenas em feriados estaduais e municipais paulistas, alinhando-se a bolsas mundiais.",
-    "Com o modelo adotado desde 2022, o objetivo é interromper negociações exclusivamente em feriados nacionais e permitir operações conforme o calendário do país."
+    "A B3 informou que a bolsa de valores não abrirá nesta sexta-feira (20) em decorrência do feriado da Consciência Negra, paralisando as atividades para os investidores.",
+    "Estarão fechados os mercados de renda variável (ações, fundos imobiliários, ETFs e BDRs), derivativos e de renda fixa privada durante a data festiva.",
+    "Também serão suspensas as operações de registro, compensação, liquidação, movimentação de garantias e os serviços da Central Depositária nos segmentos listados e de balcão organizado.",
+    "Desde o ano de 2022, a B3 adota a prática de manter o funcionamento regular em feriados estaduais e municipais paulistas.",
+    "A regra adotada desde 2022 busca alinhar o mercado brasileiro às bolsas mundiais, que param apenas em feriados nacionais, permitindo que investidores operem pelo calendário nacional."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/bolsa-de-valores-abre-hoje-funcionamento-da-b3-durante-feriado-consciencia-negra-mlem/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/bffe710c5944.webp"
   },
   {
    "titulo": "O que se sabe (e o muito que não se sabe) sobre a história de Zumbi, que inspirou o Dia da Consciência Negra",
    "topicos": [
-    "Documentos de 1696 do governador Caetano de Melo e Castro e do bandeirante Domingos Jorge Velho indicam que Zumbi dos Palmares foi morto em 20 de novembro de 1695, quando foi cercado por bandeirantes paulistas e teve a cabeça exposta publicamente em Recife.",
-    "A partir de dezembro de 2023, o dia 20 de novembro passou a ser feriado nacional como Dia Nacional de Zumbi e da Consciência Negra; antes disso já era feriado em seis estados e em cerca de 1,2 mil cidades brasileiras.",
-    "Historiadores afirmam que quase nada se sabe sobre a vida de Zumbi; nem se tem certeza se “Zumbi” era um nome próprio ou um título, podendo ter havido vários líderes com esse nome ao longo do Quilombo dos Palmares.",
-    "A história de que Zumbi teria sido capturado ainda bebê, batizado como Francisco por um padre e alfabetizado em latim, foi popularizada por Décio Freitas em seu livro de 1981, mas não possui comprovação documental, segundo o professor Jean Marcel Carvalho França.",
-    "Até o século XVIII acreditava‑se que Zumbi teria se suicidado, baseando‑se em obra de 1730 de Sebastião da Rocha Pita; no final do século XIX, Mattoso Maia trouxe à luz carta de agosto de 1696 do Conselho Ultramarino que relata seu assassinato, desfazendo o mito do suicídio.",
-    "O Quilombo dos Palmares, situado na Serra da Barriga (atual Alagoas), foi um grande reduto de escravizados fugitivos que resistiu a ofensivas portuguesas e holandesas, gerando abundante documentação colonial sobre sua estrutura e ameaça ao poder colonial."
+    "Em carta de março de 1696 ao rei português Dom Pedro 2º, o governador de Pernambuco, Caetano de Melo e Castro, relatou a morte de Zumbi dos Palmares e o envio de sua cabeça para exibição pública no Recife.",
+    "Registros de cartas indicam que Zumbi foi morto em 20 de novembro de 1695 por homens comandados pelo bandeirante paulista Domingos Jorge Velho após ser acuado em um esconderijo.",
+    "A data de 20 de novembro tornou-se feriado nacional em dezembro de 2023, consagrada como o Dia Nacional de Zumbi e da Consciência Negra, após já ser adotada por 6 Estados e cerca de 1,2 mil cidades.",
+    "O Quilombo dos Palmares, localizado na Serra da Barriga no atual Estado de Alagoas, existiu aproximadamente entre 1597 e 1695 como um polo de resistência de escravizados fugidos que incomodou autoridades portuguesas e holandesas.",
+    "Estudos indicam escassez de dados factuais sobre a vida de Zumbi, sendo incerto até mesmo se seu nome era uma identificação pessoal ou um título militar da organização social do quilombo.",
+    "A imagem de Zumbi passou por três versões históricas ao longo dos séculos: a visão colonial militar, a ótica do século 19 que via o bandeirante como herói civilizatório, e a narrativa dos anos 1950 que o consolidou como líder revolucionário."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cwvg2p3zv5e4o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e8b6267516f0.webp"
   },
   {
    "titulo": "Rússia ataca Kiev após Putin prometer retaliação; 6 morrem, há apagões e pontes são atingidas",
    "topicos": [
-    "A Rússia realizou ataques com mísseis e drones contra Kiev e outras regiões da Ucrânia durante a madrugada desta sexta-feira (20), resultando em seis mortes e 28 feridos.",
-    "A ofensiva militar russa ocorreu após o presidente Vladimir Putin prometer retaliação na quinta-feira (19) devido a três ataques aéreos contra a Ponte de Kerch.",
-    "Em Kiev, a Administração Militar informou que quatro distritos foram atingidos, causando danos em prédios não residenciais e em infraestruturas de transporte e logística.",
-    "O fornecimento de energia elétrica foi interrompido em áreas dos distritos de Pecherskyi, Solomianskyi, Holosiivskyi, Dniprovskyi e Darnytskyi, segundo a fornecedora DTEK.",
-    "As pontes Podilskyi e Darnitskyi foram danificadas, e a Ponte Sul teve o tráfego restrito para veículos de até 10 toneladas e transportes públicos de até 18 toneladas.",
-    "O prefeito Vitali Klitschko orientou os moradores a evitarem veículos particulares e pediu que empresas adotem o trabalho remoto sempre que possível."
+    "A Rússia disparou mísseis e drones contra várias regiões de Kiev nesta sexta-feira (20), resultando em seis mortes e provocando ferimentos em outras 28 pessoas em todo o país, de acordo com autoridades locais e o primeiro-ministro Sergii Koretskyi.",
+    "A ofensiva aconteceu na madrugada, horas depois de o presidente Vladimir Putin prometer, na quinta-feira (19) na China, uma resposta dura a três ataques aéreos da Ucrânia contra a Ponte de Kerch.",
+    "O bombardeio atingiu quatro distritos da capital ucraniana e causou apagões generalizados, afetando o fornecimento de eletricidade nas áreas de Pecherskyi, Solomianskyi, Holosiivskyi, Dniprovskyi e Darnytskyi.",
+    "Prédios comerciais sofreram danos nos distritos de Obolonskyi e Holosiivskyi, enquanto estruturas logísticas e de transporte foram atingidas nas regiões de Podilskyi e Darnytskyi.",
+    "O tráfego de veículos entre as margens do rio Dnipro foi paralisado na Ponte Podilskyi após um ataque com míssil balístico, e a Ponte Darnitskyi também sofreu danos.",
+    "A circulação na Ponte Sul permaneceu restrita para veículos particulares de até 10 toneladas (sentido leste-oeste) e para transportes públicos de até 18 toneladas."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/russia-ataca-kiev-apos-putin-prometer-retaliacao.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bf8b518766fb.webp"
   },
   {
    "titulo": "A batalha na Justiça para apagar homenagem a expoente do racismo científico no Brasil",
    "topicos": [
-    "Uma ação popular inédita em São Luís (MA) busca anular o ato administrativo da década de 1940 que batizou o Hospital Psiquiátrico Estadual com o nome de Raimundo Nina Rodrigues, expoente do racismo científico no Brasil.",
-    "Em janeiro, a primeira instância deu vitória à ação e determinou a retirada do nome do médico legista do hospital, mas o Estado do Maranhão recorreu da decisão.",
-    "O julgamento na segunda instância está marcado para o próximo dia 10 de dezembro, em sessão colegiada na Segunda Câmara de Direito Público, no Tribunal de Justiça do Maranhão.",
-    "O autor da ação argumenta que o hospital, que atende pacientes de mais de 220 municípios, não deve homenagear uma figura histórica associada a teses eugenistas em um estado onde 79% da população é preta ou parda.",
-    "A defesa do Estado alega que o ato de nomeação prescreveu após o prazo de 5 anos da Lei da Ação Popular e que a via judicial seria inadequada para impor a obrigação de troca de nome.",
-    "Associações de intelectuais, como o Instituto Histórico e Geográfico do Maranhão, opõem-se à mudança e defendem a preservação da memória histórica, enquanto o juiz considerou que o Estado tem o dever de se desvincular de ideologias racistas."
+    "Uma ação popular inédita em São Luís (MA) pede a anulação do ato administrativo da década de 1940 que batizou o Hospital Psiquiátrico Estadual com o nome de Raimundo Nina Rodrigues, expoente do racismo científico.",
+    "Em janeiro, a primeira instância determinou a nulidade da homenagem e a retirada do nome do médico, que defendia hierarquias raciais e teses eugenistas. O Estado do Maranhão recorreu, e o julgamento na segunda instância está marcado para o próximo dia 10 de dezembro, na Segunda Câmara de Direito Público do TJMA.",
+    "O autor da ação argumenta que o hospital atende pacientes de mais de 220 municípios em um Estado onde 79% da população é preta ou parda, equivalente à terceira maior proporção no país, tornando a associação inadequada.",
+    "Associações como o Instituto Histórico e Geográfico do Maranhão, a Academia Maranhense de Letras e a Associação Maranhense de Psiquiatria contestaram a mudança, defendendo o pioneirismo acadêmico de Nina Rodrigues e classificando a iniciativa como revisionismo histórico.",
+    "O juiz Douglas de Melo Martins ressaltou na sentença que manter a homenagem significa fomentar uma visão racista superada e que a mudança cumpre o dever do Estado de se desvincular de projetos eugênicos.",
+    "A sentença negou o pedido para rebatizar o local com o nome de Juliano Moreira, definindo que a escolha cabe ao Executivo, embora tenha recomendado a consideração do médico baiano."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cm4gn08l5ldeo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/dcb3bbb1c77c.webp"
   },
   {
    "titulo": "Tributação de títulos isentos: como o imposto pode mexer com o seu bolso?",
    "topicos": [
-    "O governo brasileiro discute a tributação de títulos isentos de renda fixa, como LCAs, LCIs, CRAs, CRIs e debêntures incentivadas, para buscar um ajuste fiscal que equilibre as contas públicas e reduza os juros.",
-    "As alternativas em estudo incluem a cobrança de Imposto de Renda na fonte ou a aplicação do Imposto sobre Operações Financeiras (IOF), medida que pode afetar até mesmo papéis já presentes na carteira dos investidores.",
-    "Caso o governo utilize a via do Imposto de Renda, a mudança precisará ser aprovada por lei ou medida provisória e só valerá a partir do ano seguinte; já o IOF pode ser alterado imediatamente por decreto presidencial.",
-    "A tributação dos papéis isentos impactará o imposto de renda mínimo de 10%, que passa a incidir efetivamente no próximo ano sobre ganhos anuais superiores a R$ 600 mil, cuja primeira apuração ocorrerá na declaração de 2027.",
-    "A adaptação dos estados à Lei Complementar 227 exigirá alíquotas progressivas no ITCMD, com a tendência de que o topo da tributação de heranças suba até 8%, enquanto um projeto parado no Senado prevê dobrar o teto para 16%.",
-    "Especialistas sugerem que os investidores rebalanceiem os investimentos, simulem a declaração antes de 31 de dezembro e avaliem o impacto das mudanças no patrimônio tanto no Brasil quanto no exterior."
+    "O governo brasileiro discute a tributação de títulos de renda fixa isentos, como LCA, LCI, CRA, CRI e debêntures incentivadas, para equilibrar as contas públicas e reduzir juros.",
+    "A tributação pode ocorrer por meio de Imposto de Renda na fonte, que exigiria aprovação do Congresso e valeria apenas para papéis emitidos a partir do ano seguinte, ou por IOF via decreto presidencial.",
+    "O Imposto de Renda mínimo, criado no ano passado com alíquota de 10% sobre ganhos superiores a R$ 600 mil por ano, terá a primeira apuração na declaração de 2027 e pode ser afetado pelas mudanças.",
+    "No caso do imposto sobre heranças, a Lei Complementar 227 obriga os estados a adotarem alíquotas progressivas, o que pode elevar o topo para até 8% em estados como São Paulo, que hoje cobram taxa única de 4%.",
+    "Existe ainda um Projeto de Resolução do Senado, o PRS 57/2019, parado desde 2023, que prevê dobrar o teto nacional do imposto sobre heranças dos atuais 8% para 16%.",
+    "A consultoria BPtax recomenda que investidores rebalanceiem suas carteiras e simulem a declaração antes de 31 de dezembro deste ano para mitigar eventuais impactos fiscais."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/onde-investir/tributacao-de-titulos-isentos-como-o-imposto-pode-mexer-com-o-seu-bolso/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/84e8952bb7b8.webp"
   },
   {
    "titulo": "Valorização global do dólar se acentuou após a eleição nos EUA, diz diretor do banco Pine",
    "topicos": [
-    "O fortalecimento global do dólar, que começou em setembro, ganhou força após as eleições de meio de mandato (midterms) nos Estados Unidos, que resultaram na derrota do Partido Republicano e enfraqueceram o capital político do presidente Donald Trump.",
-    "Segundo Cristiano Oliveira, diretor de Pesquisa Econômica do Banco Pine, a alta do DXY (índice que mede a moeda americana frente a seis divisas fortes) pode avançar de 2% a 3% no próximo ano, limitando o fôlego do real ao longo de 2027.",
-    "O DXY registra alta de quase 2% no mês de novembro e acumula um crescimento superior a 5,70% no acumulado do ano, conforme apontado pelo economista durante o evento Pine Talks, realizado na quinta-feira, 19, na sede do banco, em São Paulo.",
-    "Oliveira explicou que a dinâmica política influencia o câmbio sob a lógica de que um Trump forte enfraquece o dólar devido à sua política fiscal expansionista e populista, enquanto um Trump enfraquecido fortalece a moeda norte-americana.",
-    "A valorização da divisa dos EUA também foi impulsionada pela dissipação dos temores de intervenção na política monetária, após a indicação de Kevin Warsh, com postura mais conservadora, para a nova presidência do Federal Reserve.",
-    "O mercado e os dirigentes do Fed intensificaram o foco no combate à inflação após as midterms, com expectativas de um aperto monetário total de 100 pontos-base nos EUA, após a alta de 25 pontos-base ocorrida em meados de setembro e projeção de mais 75 pontos-base.",
-    "O economista destaca que a força do dólar persistirá porque a economia americana segue crescendo com alta produtividade, enquanto bancos centrais da Zona do Euro, do Japão e da Suíça não devem acompanhar o mesmo ritmo de alta de juros do Fed."
+    "O diretor de Pesquisa Econômica do Banco Pine, Cristiano Oliveira, afirmou nesta quinta-feira (19), em São Paulo, que a alta global do dólar pode limitar a força da moeda brasileira ao longo de 2027.",
+    "O DXY, índice que mede o dólar ante seis divisas fortes, pode subir de 2% a 3% no próximo ano, após avançar quase 2% em novembro e acumular alta superior a 5,70% no ano.",
+    "Segundo Oliveira, o fortalecimento da moeda americana ganhou força após a derrota do Partido Republicano nas eleições de meio de mandato nos EUA, o que enfraqueceu politicamente o presidente Donald Trump.",
+    "O economista explicou que a visão do mercado é de que um Trump forte enfraquece o dólar, enquanto um Trump enfraquecido fortalece a divisa devido à sua política fiscal expansionista.",
+    "A volatilidade diminuiu após a indicação de Kevin Warsh para a presidência do Federal Reserve com uma postura mais conservadora, dissipando temores de intervenção na política monetária.",
+    "O mercado migrou para a expectativa de um aperto monetário total de 100 pontos-base nos EUA, considerando a alta de 25 pontos-base em setembro e a projeção de mais 75 pontos-base.",
+    "Bancos centrais da Zona do Euro, Japão e Suíça não devem elevar os juros na mesma intensidade do Fed, ampliando o diferencial de juros e fortalecendo ainda mais o dólar, apoiado pela produtividade americana."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/valorizacao-global-do-dolar-se-acentuou-apos-a-eleicao-nos-eua-diz-diretor-do-banco-pine-pads/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/45da5f6275af.webp"
   },
   {
    "titulo": "Veja como será o cálculo da hora extra com a escala de trabalho 5×2",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva assinou nesta quinta-feira, 19, um decreto regulamentando a escala de trabalho de cinco dias de jornada por dois de descanso remunerado.",
-    "A jornada semanal máxima cairá de 44 para 42 horas a partir de 16 de dezembro deste ano, e para 40 horas a partir de dezembro de 2027, sem redução nos salários fixos mensais.",
-    "Com a carga menor e o salário mantido, o valor da hora trabalhada subirá, elevando o custo das horas extras e usando novos divisores: 210 a partir de dezembro e 200 a partir de 2027.",
-    "Para um salário de R$ 3.000, o valor de referência da hora passará dos atuais R$ 13,64 para R$ 14,29 em 16 de dezembro, e chegará a R$ 15 em dezembro de 2027.",
-    "Empresas que funcionam 24 horas por dia e 365 dias por ano continuarão abertas, devendo reorganizar escalas de revezamento ou negociar coletivamente para garantir as duas folgas.",
-    "O decreto preserva os pisos salariais e alcança trabalhadores urbanos, rurais e avulsos, garantindo também dois dias de folga para quem já cumpre 40 horas semanais ou menos em seis dias.",
-    "O Ministério do Trabalho e Emprego publicará na próxima semana uma portaria complementar e um guia com orientações, regras para regimes especiais e esclarecimentos para patrões e empregados."
+    "O presidente Luiz Inácio Lula da Silva assinou, nesta quinta-feira, 19, um decreto que regulamenta a nova escala de trabalho 5x2, garantindo dois dias de descanso remunerado aos trabalhadores.",
+    "A jornada máxima semanal cairá de 44 para 42 horas a partir de 16 de dezembro deste ano, e para 40 horas a partir de dezembro de 2027, sem redução nos salários fixos mensais.",
+    "Com a redução das horas mensais e a manutenção do salário, o valor de referência da hora trabalhada sobe, elevando o custo das horas extras e de outros adicionais trabalhistas.",
+    "Para um salário de R$ 3.000, o divisor da hora passa de 220 (atual R$ 13,64) para 210 em dezembro (R$ 14,29) e 200 em dezembro de 2027 (R$ 15), segundo o ministro Luiz Marinho.",
+    "Empresas que funcionam 24 horas por dia e 365 dias por ano continuarão operando, mas precisarão reorganizar as escalas de revezamento ou contratar mais pessoal para evitar o custo extra.",
+    "O decreto preserva pisos salariais, atinge trabalhadores urbanos, rurais e avulsos, e garante duas folgas semanais mesmo a quem já cumpre 40 horas divididas em seis dias.",
+    "O Ministério do Trabalho publicará na próxima semana uma portaria complementar e um guia com regras para regimes especiais, como a escala 12x36 e turnos ininterruptos de revezamento."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/19/11/2026/economia/veja-como-sera-o-calculo-da-hora-extra-com-a-escala-de-trabalho-5x2/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/fa1d7e4e31ec.webp"
   },
   {
    "titulo": "Brasileiros aceitam IA para comparar preços, mas só 7% dispensam aprovação no pagamento",
    "topicos": [
-    "Uma pesquisa da Visa com a Morning Consult ouviu 1.045 adultos brasileiros online entre 26 de setembro e 5 de outubro de 2026, com margem de erro de 3 pontos porcentuais para mais ou para menos.",
-    "No Brasil, 85% dos entrevistados aceitariam que um agente de IA compare preços e 82% permitiriam a verificação de disponibilidade de produtos para as compras de fim de ano.",
-    "A disposição para concluir e pagar compras com IA cai para 40%, e apenas 7% dos brasileiros aceitariam que a tecnologia realize o pagamento sem aprovação prévia.",
-    "O levantamento mostra que 73% dos consumidores exigem saber quando interagem com IA, enquanto 55% planejam usar a tecnologia para buscar ideias de presentes.",
-    "Canais online atraem 67% dos entrevistados para a compra de presentes, superando os 58% que planejam ir a lojas físicas, sendo que 39% pretendem comprar de vendedores estrangeiros.",
-    "Para lidar com o custo de vida, 92% dos brasileiros mudaram hábitos no último ano, e metade dos compradores planeja gastar menos de R$ 500 em presentes.",
-    "O consumo nominal das famílias subiu 6% no primeiro semestre de 2026 em relação ao mesmo período anterior, impulsionado por salários reais e criação de empregos."
+    "Uma pesquisa realizada pela Visa e pela Morning Consult ouviu 1.045 adultos brasileiros de forma online, entre 26 de setembro e 5 de outubro de 2026, com margem de erro de 3 pontos porcentuais para mais ou para menos.",
+    "No cenário de compras de fim de ano, 85% dos brasileiros permitiriam que agentes de Inteligência Artificial comparassem preços, 82% checassem a disponibilidade de produtos e 81% resumissem informações.",
+    "Apesar da abertura para buscas, apenas 40% dos entrevistados concluem e pagam compras com IA, e somente 7% aceitariam que a tecnologia realize transações financeiras sem aprovação prévia.",
+    "Cerca de 73% dos consumidores exigem saber quando interagem com IA nas compras, enquanto 55% planejam usar a tecnologia para buscar ideias de presentes e 48% sentem mais conforto com a ferramenta do que em 2026.",
+    "Entre os respondentes, 67% pretendem comprar presentes online, 58% planejam ir a lojas físicas e 39% planejam adquirir itens de vendedores estrangeiros, sendo o preço mais baixo o principal motivo para 44%.",
+    "Para enfrentar o aumento das despesas, 92% dos brasileiros mudaram hábitos no último ano, com 59% buscando descontos, e metade dos compradores de presentes planeja gastar menos de R$ 500."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/19/11/2026/noticias/brasileiros-aceitam-ia-para-comparar-precos-mas-so-7-dispensam-aprovacao-no-pagamento/",
-   "categoria": "Varejo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/eb02586e0f0b.webp"
   }
  ]
 }
