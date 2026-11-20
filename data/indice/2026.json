@@ -2,6 +2,270 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-20",
+   "n": [
+    {
+     "t": "Um salário mínimo compra 23 kg de acém a menos do que em 2007; entenda o preço da carne",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Com o salário mínimo, hoje um trabalhador compra cerca de 39 kg de acém, enquanto em 2007 (há 19 anos) a mesma renda permitia quase 62 kg, representando perda…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml"
+    },
+    {
+     "t": "72 vezes, mas com juros: GPA (PCAR3) parcela dívida trabalhista milionária",
+     "c": "Varejo",
+     "f": "Money Times",
+     "r": "O Órgão Especial do Tribunal Regional do Trabalho da 2ª Região (TRT-2) autorizou o parcelamento de uma dívida trabalhista do Grupo Pão de Açúcar (PCAR3)…",
+     "l": "https://www.moneytimes.com.br/72-vezes-mas-com-juros-gpa-pcar3-parcela-divida-trabalhista-milionaria/"
+    },
+    {
+     "t": "Comissões propõem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "Dezesseis comissões do Senado e do Congresso aprovaram, em 17 e 18 de dezembro, 96 emendas de apropriação ao Orçamento e à LDO de 2027, somando R$ 85,9…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/19/comissoes-propoem-r-85-9-bilhoes-em-emendas-ao-orcamento-de-2027"
+    },
+    {
+     "t": "Ministérios, ajuste fiscal e articulações políticas: veja o que se sabe sobre o novo governo Lula",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Quase um mês após ser reeleito em 25 de outubro de 2025, o presidente Luiz Inácio Lula da Silva afirmou que não tem pressa para anunciar os ministros de seu…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/20/lula-4-ministros-o-que-se-sabe.ghtml"
+    },
+    {
+     "t": "Menos área para lojas, mais motivos para ir: a estratégia de varejo da Coreia do Sul",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Inaugurado em 2021 em Seul, na Coreia do Sul, o shopping The Hyundai Seoul adota um modelo que destina 51% de sua área total de 89,1 mil metros quadrados a…",
+     "l": "https://mercadoeconsumo.com.br/20/11/2026/shopping-centers/menos-area-para-lojas-mais-motivos-para-ir-a-estrategia-de-varejo-da-coreia-do-sul/"
+    },
+    {
+     "t": "2027: um ano de ajustes para a economia e o consumo brasileiro",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "O cenário macroeconômico brasileiro para 2027 aponta para um período de ajustes e maior restrição financeira, com menor espaço para novos estímulos…",
+     "l": "https://mercadoeconsumo.com.br/20/11/2026/artigos/2027-um-ano-de-ajustes-para-a-economia-e-o-consumo-brasileiro/"
+    },
+    {
+     "t": "Natura, Mercado Livre e Boticário lideram ranking de reputação corporativa no País",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Natura, o Mercado Livre e o Grupo Boticário lideram a edição de 2026 do ranking Merco Empresas, que aponta as companhias com melhor reputação corporativa no…",
+     "l": "https://mercadoeconsumo.com.br/20/11/2026/sustentabilidade/natura-mercado-livre-e-boticario-lideram-ranking-de-reputacao-corporativa-no-pais/"
+    },
+    {
+     "t": "Dívidas viraram uma bola de neve? Entenda os riscos da inadimplência e como sair dela",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O acúmulo de dívidas não pagas resulta em inadimplência, situação que ocorre quando os débitos superam a capacidade de pagamento devido a juros elevados,…",
+     "l": "https://g1.globo.com/g1-explica/noticia/2026/11/20/dividas-viraram-uma-bola-de-neve-entenda-os-riscos-da-inadimplencia-e-como-sair-dela.ghtml"
+    },
+    {
+     "t": "'Não podíamos pagar uma casa para nossa família, então decidimos comprar uma junto com desconhecidos'",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Diante dos altos custos imobiliários em Vancouver, no Canadá, o casal Elizabeth e Tom Wilcox decidiu comprar um imóvel junto com desconhecidos para conseguir…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/20/nao-podiamos-pagar-uma-casa-para-nossa-familia-entao-decidimos-comprar-uma-junto-com-desconhecidos.ghtml"
+    },
+    {
+     "t": "Cheirin Bão abre primeira loja nos EUA e projeta 40 unidades no país em cinco anos",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A rede brasileira de cafeterias Cheirin Bão inaugurou sua primeira unidade nos Estados Unidos, localizada em Ashland, Massachusetts, na região metropolitana…",
+     "l": "https://mercadoeconsumo.com.br/20/11/2026/noticias-varejo/cheirin-bao-abre-primeira-loja-nos-eua-e-projeta-40-unidades-no-pais-em-cinco-anos/"
+    },
+    {
+     "t": "Briga na esquerda menos de um mês após eleição expõe divergências sobre rumos do governo Lula 4",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Uma disputa pública entre aliados do presidente Lula expôs divergências na esquerda sobre a política econômica e os rumos do quarto mandato, com início…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/20/briga-na-esquerda-e-governo-lula-4.ghtml"
+    },
+    {
+     "t": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O relator do ajuste fiscal do governo Lula na Câmara, deputado Mauro Benevides (União Brasil-CE), apresentou seu parecer nesta quinta-feira (19) mantendo o…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml"
+    },
+    {
+     "t": "Sodexo reforça equipes e prepara atendimento na madrugada para a Black Friday",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Sodexo preparou uma operação especial para a Black Friday nos restaurantes localizados em centros logísticos, com expectativa de crescimento de cerca de 30%…",
+     "l": "https://mercadoeconsumo.com.br/19/11/2026/black-friday/sodexo-reforca-equipes-e-prepara-atendimento-na-madrugada-para-a-black-friday/"
+    },
+    {
+     "t": "JBS (JBSS32) conclui joint venture em Omã e avança em hub multiproteína no Oriente Médio",
+     "c": "Varejo",
+     "f": "Money Times",
+     "r": "A JBS (JBSS32) concluiu nesta quinta-feira (19) a transação para formar uma joint venture com a Oman Food Investment Holding Company (OFC), expandindo sua…",
+     "l": "https://www.moneytimes.com.br/jbs-jbss32-conclui-joint-venture-em-oma-e-avanca-em-hub-multiproteina-no-oriente-medio-pads/"
+    },
+    {
+     "t": "Leis garantem R$ 714,8 milhões para segurança pública e sistema de Justiça",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "O presidente Luiz Inácio Lula da Silva sancionou as leis 15.533, 15.536 e 15.545, publicadas no Diário Oficial da União em 19/11/2026, que liberam R$ 714,8…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-garantem-r-714-8-milhoes-para-seguranca-publica-e-sistema-de-justica"
+    },
+    {
+     "t": "Greve geral leva milhares às ruas da Itália por salários e mais recursos públicos",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Milhares de trabalhadores e estudantes protestaram em várias cidades da Itália na sexta-feira (20) em uma greve geral convocada pela CGIL, maior central…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/greve-geral-italia.ghtml"
+    },
+    {
+     "t": "Feriado no Brasil, confiança nos EUA e BCE: o que acompanha o mercado nesta sexta-feira (20)",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "A Bolsa de Valores brasileira (B3) está fechada nesta sexta-feira (20) em decorrência do feriado nacional da Consciência Negra, mas o mercado monitora a…",
+     "l": "https://www.moneytimes.com.br/feriado-no-brasil-confianca-nos-eua-e-bce-o-que-acompanha-o-mercado-nesta-sexta-feira-mlem/"
+    },
+    {
+     "t": "Real perde 7,50% em 2026 e tem 5º pior desempenho ante o dólar",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "O real acumula queda de 7,50% ante o dólar em 2026, figurando na 5ª posição entre as 27 moedas que mais perderam valor em levantamento do Poder360.",
+     "l": "https://www.poder360.com.br/poder-economia/real-perde-752-em-2026-e-tem-5o-pior-desempenho-ante-o-dolar/"
+    },
+    {
+     "t": "Mianmar chama de ‘injusta’ decisão da Corte da ONU sobre genocídio de rohingyas",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O governo de Mianmar classificou como \"injusta\" a decisão da Corte Internacional de Justiça que responsabilizou o país pelo genocídio da minoria muçulmana…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/mianmar-chama-de-injusta-decisao-da-corte-da-onu-sobre-genocidio-de-rohingyas.ghtml"
+    },
+    {
+     "t": "Turquia receberá 10 mil rohingyas após Corte Internacional reconhecer genocídio em Mianmar",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Malásia anunciou nesta sexta-feira (20) que vai reassentar 10 mil refugiados rohingyas na Turquia, por meio de um programa estruturado de capacitação…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/turquia-recebera-10-mil-rohingyas-apos-corte-internacional-reconhecer-genocidio-em-mianmar.ghtml"
+    },
+    {
+     "t": "Trump derrotado: como a 'onda azul' chegou a redutos republicanos e mudou o mapa político dos EUA",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A vitória da democrata Mary Peltola no Alasca, anunciada na terça-feira (17), encerrou uma disputa para o Senado com a derrota do republicano Dan Sullivan,…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-derrotado-como-a-onda-azul-chegou-a-redutos-republicanos-e-mudou-o-mapa-politico-dos-eua.ghtml"
+    },
+    {
+     "t": "É #FAKE que Pix MEI de até R$ 5 mil terá de baixar para R$ 363 para 'caber' no orçamento reservado pelo governo",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Posts virais desde 2 de novembro nas redes sociais alegavam que o Pix de R$ 5 mil prometido por Lula aos MEIs seria reduzido para R$ 363 por conta de um…",
+     "l": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml"
+    },
+    {
+     "t": "Coreia do Sul registra 1º caso de cólera em 10 anos",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "As autoridades de saúde da Coreia do Sul confirmaram nesta sexta-feira (20) o primeiro caso de cólera no país em 10 anos, após um paciente procurar um…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/coreia-do-sul-registra-1o-caso-de-colera-em-10-anos.ghtml"
+    },
+    {
+     "t": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Pessoas negras responderam por 45% das novas contratações na administração pública federal nos últimos quatro anos, conforme divulgado pelo governo.",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml"
+    },
+    {
+     "t": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que garantem verbas orçamentárias complementares para áreas como cultura, cidadania e…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/19/desenvolvimento-regional-cultura-e-cidadania-contam-com-novos-recursos"
+    },
+    {
+     "t": "Cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "A deficiência de ferro afeta cerca de uma a cada três pessoas e é mais comum em mulheres em idade reprodutiva e crianças, causando cansaço, fraqueza e…",
+     "l": "https://www.bbc.com/portuguese/articles/ckwy97l71v07o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Agências reguladoras terão créditos extras de R$ 24,4 milhões",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "O presidente Luiz Inácio Lula da Silva sancionou a Lei 15.539, que cria um crédito suplementar de R$ 24,4 milhões no Orçamento, publicado no Diário Oficial da…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/19/agencias-reguladoras-terao-creditos-extras-de-r-24-4-milhoes"
+    },
+    {
+     "t": "Lula: transporte gratuito no fim de semana complementaria escala 5x2",
+     "c": "Política",
+     "f": "Agência Brasil Política",
+     "r": "O presidente Luiz Inácio Lula da Silva anunciou nesta quinta-feira (19), em Brasília (DF), que o governo federal defenderá a gratuidade no transporte público…",
+     "l": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-transporte-gratuito-no-fim-de-semana-complementaria-escala-5x2"
+    },
+    {
+     "t": "Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "A alta de 17,6% do dólar após as eleições de outubro elevou o interesse pela diversificação internacional, fechando a quarta-feira (18) cotado a R$ 5,868, o…",
+     "l": "https://www.infomoney.com.br/advisor/investir-no-exterior-exige-mais-do-que-aproveitar-alta-do-dolar-orientam-assessores/"
+    },
+    {
+     "t": "A bolsa de valores abre hoje? Veja o funcionamento da B3 durante o feriado",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "Nesta sexta-feira (20), a B3 não terá funcionamento devido ao feriado da Consciência Negra, gerando dúvidas em investidores sobre as operações na Bolsa de…",
+     "l": "https://www.moneytimes.com.br/bolsa-de-valores-abre-hoje-funcionamento-da-b3-durante-feriado-consciencia-negra-mlem/"
+    },
+    {
+     "t": "O que se sabe (e o muito que não se sabe) sobre a história de Zumbi, que inspirou o Dia da Consciência Negra",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Documentos de 1696 do governador Caetano de Melo e Castro e do bandeirante Domingos Jorge Velho indicam que Zumbi dos Palmares foi morto em 20 de novembro de…",
+     "l": "https://www.bbc.com/portuguese/articles/cwvg2p3zv5e4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Rússia ataca Kiev após Putin prometer retaliação; 6 morrem, há apagões e pontes são atingidas",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Rússia realizou ataques com mísseis e drones contra Kiev e outras regiões da Ucrânia durante a madrugada desta sexta-feira (20), resultando em seis mortes e…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/russia-ataca-kiev-apos-putin-prometer-retaliacao.ghtml"
+    },
+    {
+     "t": "A batalha na Justiça para apagar homenagem a expoente do racismo científico no Brasil",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Uma ação popular inédita em São Luís (MA) busca anular o ato administrativo da década de 1940 que batizou o Hospital Psiquiátrico Estadual com o nome de…",
+     "l": "https://www.bbc.com/portuguese/articles/cm4gn08l5ldeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Tributação de títulos isentos: como o imposto pode mexer com o seu bolso?",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "O governo brasileiro discute a tributação de títulos isentos de renda fixa, como LCAs, LCIs, CRAs, CRIs e debêntures incentivadas, para buscar um ajuste…",
+     "l": "https://www.infomoney.com.br/onde-investir/tributacao-de-titulos-isentos-como-o-imposto-pode-mexer-com-o-seu-bolso/"
+    },
+    {
+     "t": "Valorização global do dólar se acentuou após a eleição nos EUA, diz diretor do banco Pine",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "O fortalecimento global do dólar, que começou em setembro, ganhou força após as eleições de meio de mandato (midterms) nos Estados Unidos, que resultaram na…",
+     "l": "https://www.moneytimes.com.br/valorizacao-global-do-dolar-se-acentuou-apos-a-eleicao-nos-eua-diz-diretor-do-banco-pine-pads/"
+    },
+    {
+     "t": "Veja como será o cálculo da hora extra com a escala de trabalho 5×2",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "O presidente Luiz Inácio Lula da Silva assinou nesta quinta-feira, 19, um decreto regulamentando a escala de trabalho de cinco dias de jornada por dois de…",
+     "l": "https://mercadoeconsumo.com.br/19/11/2026/economia/veja-como-sera-o-calculo-da-hora-extra-com-a-escala-de-trabalho-5x2/"
+    },
+    {
+     "t": "Brasileiros aceitam IA para comparar preços, mas só 7% dispensam aprovação no pagamento",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Uma pesquisa da Visa com a Morning Consult ouviu 1.045 adultos brasileiros online entre 26 de setembro e 5 de outubro de 2026, com margem de erro de 3 pontos…",
+     "l": "https://mercadoeconsumo.com.br/19/11/2026/noticias/brasileiros-aceitam-ia-para-comparar-precos-mas-so-7-dispensam-aprovacao-no-pagamento/"
+    }
+   ]
+  },
+  {
    "data": "2026-11-19",
    "n": [
     {
