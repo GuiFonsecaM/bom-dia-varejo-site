@@ -2,6 +2,235 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-21",
+   "n": [
+    {
+     "t": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "No México, o imposto predial municipal gera uma arrecadação equivalente a apenas 0,2% do PIB, enquanto a média da América Latina é de 0,8%, com imóveis…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/21/por-que-o-mexico-arrecada-tao-poucos-impostos-e-como-financia-seus-crescentes-beneficios-sociais.ghtml"
+    },
+    {
+     "t": "Como uma crise do café no Brasil abalou a Alemanha Oriental e fez do Vietnã uma potência",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Na segunda metade dos anos 1970 o café era consumo diário na República Democrática da Alemanha (RDA) e, em 1977, o sabor mudou, sinalizando o início da…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/como-uma-crise-do-cafe-no-brasil-abalou-a-alemanha-oriental-e-fez-do-vietna-uma-potencia.ghtml"
+    },
+    {
+     "t": "Quase 100 milhões de brasileiros começam a receber o 13º salário; benefício deve movimentar R$ 400 bilhões na economia",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Cerca de 100 milhões de trabalhadores e aposentados brasileiros começam a receber a primeira parcela do décimo terceiro salário, cujo valor médio é de pouco…",
+     "l": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/quase-100-milhoes-de-brasileiros-comecam-a-receber-o-13o-salario-beneficio-deve-movimentar-r-400-bilhoes-na-economia.ghtml"
+    },
+    {
+     "t": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O presidente dos EUA, Donald Trump, declarou em sexta-feira (20) na Casa Branca que firmou um acordo para que as Filipinas comprem 100% de seus produtos…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/cobicadas-por-trump-filipinas-lideram-compra-de-carne-suina-do-brasil-mas-sao-22o-destino-das-exportacoes-do-agro.ghtml"
+    },
+    {
+     "t": "De olho em mercado de R$ 2 bilhões, Swift estreia na culinária japonesa",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Swift, marca pertencente à JBS, ingressou no mercado de culinária japonesa com o lançamento de uma linha inédita de produtos congelados para o preparo…",
+     "l": "https://mercadoeconsumo.com.br/20/11/2026/foodservice/de-olho-em-mercado-de-r-2-bilhoes-swift-estreia-na-culinaria-japonesa/"
+    },
+    {
+     "t": "'Skincare comestível': gelatina com frutas viraliza como fonte de colágeno, mas funciona?",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "Uma receita nas redes sociais conhecida como skincare comestível, que mistura gelatina sem sabor e frutas, viralizou recentemente ao ser associada aos…",
+     "l": "https://g1.globo.com/saude/noticia/2026/11/21/skincare-comestivel-gelatina-com-frutas-viraliza-como-fonte-de-colageno.ghtml"
+    },
+    {
+     "t": "Áustria diz que site de ministério foi hackeado e que houve acesso a dados de funcionários",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O Ministério das Relações Exteriores da Áustria comunicou nesta sexta-feira (20) que sua página na internet sofreu uma invasão na semana passada.",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/austria-site-de-ministerio-ataque-hacker.ghtml"
+    },
+    {
+     "t": "Morre Phumzile Mlambo-Ngcuka, 1ª mulher vice da África do Sul e ex-chefe da ONU Mulheres",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Phumzile Mlambo-Ngcuka, primeira mulher a ser vice-presidente da África do Sul, morreu aos 71 anos, conforme anúncio do governo sul-africano feito nesta…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/21/morre-phumzile-mlambo-ngcuka-1a-mulher-vice-da-africa-do-sul-e-ex-chefe-da-onu-mulheres.ghtml"
+    },
+    {
+     "t": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos nos EUA e na Europa",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "A acerola brasileira passou a ser exportada na forma de pó para os mercados dos Estados Unidos e da Europa para atuar como conservante natural de carnes.",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/acerola-na-carne-veja-como-a-fruta-virou-conservante-natural-de-alimentos-nos-eua-e-na-europa.ghtml"
+    },
+    {
+     "t": "Até onde estratégia de Trump contra o Irã depende de China e Rússia",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Donald Trump, Xi Jinping e Vladimir Putin reuniram-se em Shenzhen, na China, em 19 de novembro de 2026, enquanto Washington intensificava o bloqueio econômico…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/21/ate-onde-estrategia-de-trump-contra-o-ira-depende-de-china-e-russia.ghtml"
+    },
+    {
+     "t": "'Anel do Titanic', joia de diamante vai a leilão com valor estimado em até R$ 934 mil",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Um anel de diamante associado ao naufrágio do Titanic será leiloado neste sábado (21), em Devizes, no condado de Wiltshire, no Reino Unido.",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/21/anel-do-titanic-leilao.ghtml"
+    },
+    {
+     "t": "Comprar ou alugar? Veja o que considerar antes de decidir onde (e como) morar",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "A decisão entre comprar ou alugar um imóvel depende diretamente da situação financeira individual e dos planos futuros de cada morador.",
+     "l": "https://g1.globo.com/g1-explica/noticia/2026/11/21/comprar-ou-alugar-veja-o-que-considerar-antes-de-decidir-onde-e-como-morar.ghtml"
+    },
+    {
+     "t": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Justiça dos Estados Unidos declarou culpado nesta sexta-feira (20) Jonathan Rinderknecht, ex-motorista da Uber de 30 anos, pelo incêndio florestal que…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/suspeito-de-iniciar-incendio-letal-em-los-angeles-e-declarado-culpado.ghtml"
+    },
+    {
+     "t": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O dólar registrou forte alta de 4% em apenas uma semana, saindo de R$ 5,69 na segunda-feira (16) para fechar a quinta-feira (19) em R$ 5,93.",
+     "l": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml"
+    },
+    {
+     "t": "Bayer pagará até US$ 7,25 bilhões em acordo judicial com pacientes que alegam ter desenvolvido câncer após uso de herbicida",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A fabricante de agroquímicos Bayer pagará até US$ 7,25 bilhões, equivalentes a mais de R$ 40 bilhões, ao longo de duas décadas para resolver milhares de…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/bayer-pagara-ate-us-725-bilhoes-em-acordo-judicial-com-pacientes-que-alegam-ter-desenvolvido-cancer-apos-uso-de-herbicida.ghtml"
+    },
+    {
+     "t": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Confederação Sul-Americana de Futebol (Conmebol) confirmou em sexta-feira (20), em Barranquilla, na Colômbia, possuir US$ 15 milhões (aproximadamente R$ 88…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/20/conmebol-recursos-banco-ueno.ghtml"
+    },
+    {
+     "t": "Com menos acesso a pré-natal, mães pretas têm bebês com mais chance de nascerem prematuros e com baixo peso",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Um levantamento feito pelo g1 com dados preliminares de 2026 do Sinasc, no Datasus, revelou que mães pretas têm menor proporção de gestações acompanhadas por…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/20/maes-pretas-fazem-menos-consultas-de-pre-natal-e-seus-bebes-tem-mais-chance-de-nascer-com-baixo-peso-mostram-dados-do-sus.ghtml"
+    },
+    {
+     "t": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O presidente dos EUA, Donald Trump, declarou em 20 de novembro de 2026, na Casa Branca, ter convencido as Filipinas a substituírem produtos agrícolas do…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml"
+    },
+    {
+     "t": "Carlos Bolsonaro posta foto do pai internado: “Jamais o vi assim”",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "O ex-presidente Jair Bolsonaro (PL) está internado no Hospital DF Star, em Brasília (DF), devido a uma obstrução quase total no intestino delgado, conforme…",
+     "l": "https://www.poder360.com.br/poder-justica/carlos-bolsonaro-posta-foto-do-pai-internado-jamais-o-vi-assim/"
+    },
+    {
+     "t": "Pesquisa transforma chorume em fertilizante seguro para a agricultura",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "Pesquisadores da Unicamp desenvolveram uma técnica inédita para extrair dois minerais, a estruvita e a carnalita, a partir do chorume coletado no Aterro Delta…",
+     "l": "https://www.poder360.com.br/poder-sustentavel/pesquisa-transforma-chorume-em-fertilizante-seguro-para-a-agricultura/"
+    },
+    {
+     "t": "CNI questiona suspensão de registros de agrotóxicos no STF",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A CNI acionou o STF por meio da ADI 8.046, distribuída ao ministro Cristiano Zanin, para evitar que decisões da Justiça do Trabalho suspendam registros…",
+     "l": "https://www.poder360.com.br/poder-justica/cni-questiona-suspensao-de-registros-de-agrotoxicos-no-stf/"
+    },
+    {
+     "t": "Lula cobra desculpas, mas não foi absolvido no caso do triplex",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A Justiça Federal de Brasília determinou, em 11 de novembro de 2026, o repasse de R$ 2,42 milhões à OAS, referentes aos valores arrecadados no leilão do…",
+     "l": "https://www.poder360.com.br/poder-justica/lula-cobra-desculpas-mas-nao-foi-absolvido-no-caso-do-triplex/"
+    },
+    {
+     "t": "IPO histórico da Anthropic, Nvidia e balanços na B3; veja os destaques da semana",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "As empresas brasileiras encerraram o terceiro trimestre com resultados fracos, segundo a cobertura da XP. Apenas 19% das companhias superaram as estimativas…",
+     "l": "https://www.infomoney.com.br/onde-investir/ipo-historico-da-anthropic-nvidia-e-balancos-na-b3-veja-os-destaques-da-semana/"
+    },
+    {
+     "t": "A rede de farmácias que fatura R$ 1,5 bi e quer “combater” concorrentes no Nordeste",
+     "c": "Varejo",
+     "f": "InfoMoney",
+     "r": "A AMR Saúde, grupo com faturamento de R$ 1,5 bilhão em 2025, planeja expandir sua operação com a adição de 100 novas unidades em 2026, mesmo com consumidores…",
+     "l": "https://www.infomoney.com.br/business/a-rede-de-farmacias-que-fatura-r-15-bi-e-quer-combater-concorrentes-no-nordeste/"
+    },
+    {
+     "t": "Público rejeita notícias feitas por IA, mas usa ferramenta para busca",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "Uma pesquisa do Reuters Institute, divulgada no 'Relatório de IA Generativa e Notícias 2026', entrevistou o público em nove países, incluindo os Estados…",
+     "l": "https://www.poder360.com.br/nieman/publico-rejeita-noticias-feitas-por-ia-mas-usa-ferramenta-para-busca/"
+    },
+    {
+     "t": "União poderá ajudar municípios a elaborar plano diretor",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A Comissão de Desenvolvimento Regional (CDR) do Senado aprovou, nesta terça-feira (17.nov.2026), o Projeto de Lei 3.020/2024, que permite à União auxiliar…",
+     "l": "https://www.poder360.com.br/poder-congresso/uniao-podera-ajudar-municipios-a-elaborar-plano-diretor/"
+    },
+    {
+     "t": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "O Senado Federal aprovou nesta quinta-feira (12.nov.2026) o projeto de lei PL 6.683/2025, que estabelece novas normas de qualidade e segurança para implantes…",
+     "l": "https://www.poder360.com.br/poder-congresso/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos/"
+    },
+    {
+     "t": "Telebras estima iniciar operação de data center de IA em 1 ano",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A Telebras planeja iniciar a operação de um novo data center focado em inteligência artificial até o final do próximo ano, conforme afirmou o presidente da…",
+     "l": "https://www.poder360.com.br/poder-infra/telebras-estima-iniciar-operacao-de-data-center-de-ia-em-1-ano/"
+    },
+    {
+     "t": "Black Friday? As 10 ações com maior queda de um dos múltiplos mais usados no mercado",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "A forte desvalorização das ações brasileiras após a vitória de Luiz Inácio Lula da Silva nas eleições gerou uma oportunidade comparada a uma Black Friday na…",
+     "l": "https://www.infomoney.com.br/mercados/black-friday-na-bolsa-as-10-acoes-com-maior-queda-do-multiplo-p-l/"
+    },
+    {
+     "t": "Fim da escala 6x1: veja o que muda nas folgas, horas extras e jornadas após decreto de Lula",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Em 19 de novembro de 2026, o presidente Luiz Inácio Lula da Silva assinou decreto que regulamenta o fim da escala 6x1, após a PEC aprovada e promulgada em 16…",
+     "l": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/21/fim-da-escala-6x1-veja-o-que-muda-nas-folgas-horas-extras-e-jornadas-apos-decreto-de-lula.ghtml"
+    },
+    {
+     "t": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O presidente do STF, ministro Edson Fachin, busca avançar com pautas internas divididas na Corte a um mês do recesso formal, marcado para o dia 20 de dezembro.",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml"
+    },
+    {
+     "t": "Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "O iShares MSCI Brazil ETF (EWZ), principal fundo de índice de ações brasileiras negociado nos EUA, despencou 3,29% nesta sexta-feira (20), durante feriado no…",
+     "l": "https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/"
+    }
+   ]
+  },
+  {
    "data": "2026-11-20",
    "n": [
     {
