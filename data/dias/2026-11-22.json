@@ -229,7 +229,7 @@
    "categoria": "Política",
    "erro_materia": "HTTPError: 404 Client Error: Not Found for url: https://www.poder360.com.br/poder-congresso/cas-aprova-cordao-de-identificacao-para",
    "erro_ia": "texto da matéria não encontrado",
-   "tentativas_ia": 2,
+   "tentativas_ia": 3,
    "sem_imagem": true
   },
   {
@@ -596,346 +596,393 @@
   {
    "titulo": "'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para que ela engravidasse",
    "topicos": [
-    "A DJ Olivia Nervo, integrante da dupla australiana Nervo, relatou ter sido enganada e manipulada por seu ex-parceiro, o empresário neozelandês Matthew Pringle, para engravidar.",
-    "Os dois se conheceram em 2016 durante um evento beneficente na ilha particular do magnata britânico Richard Branson, no Caribe, e o relacionamento avançou rapidamente.",
-    "Cerca de um ano e meio após o início do namoro, em 2018, o casal decidiu tentar ter um filho, e Liv engravidou após o uso de um aplicativo de fertilidade.",
-    "A ausência e as atitudes evasivas de Matthew durante a gravidez levaram a família de Liv a contratar um investigador particular em fevereiro de 2019, quando ela estava com mais de seis meses de gestación.",
-    "A investigação revelou que Matthew mentia sobre sua vida e mantinha outros relacionamentos simultâneos, sendo descoberto na Nova Zelândia enquanto outra mulher dava à luz um filho dele.",
-    "A história de Olivia Nervo passou a integrar uma campanha apoiada por parlamentares britânicos, como a deputada Natalie Fleet, para propor mudanças nas leis da Inglaterra sobre consentimento e engano."
+    "A DJ Olivia Nervo, integrante da dupla australiana Nervo, relatou ter sido enganada por seu ex-parceiro, o empresário neozelandês Matthew Pringle, para engravidar.",
+    "Os dois se conheceram em 2016 durante um evento beneficente na ilha particular do magnata Richard Branson, no Caribe, e o relacionamento avançou rapidamente.",
+    "Cerca de um ano e meio após o início do namoro, em 2018, o casal decidiu tentar ter um bebê, com Pringle demonstrando entusiasmo com a ideia de constituir família.",
+    "Em dezembro de 2018, com quatro meses de gravidez, Pringle começou a se afastar, abandonando a parceira em datas comemorativas e momentos importantes.",
+    "Em fevereiro de 2019, com mais de seis meses de gestação, investigações revelaram que Pringle mantinha uma vida paralela, incluindo outra mulher prestes a dar à luz."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/22/fui-coagida-a-ter-um-filho-como-um-bilionario-enganou-a-dj-de-sucesso-liv-nervo-para-que-ela-engravidasse.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9690da334ac9.webp"
   },
   {
    "titulo": "Mais da metade das empresas leva mais de 24h para analisar crédito",
    "topicos": [
-    "Mais de 50% das empresas do Brasil demoram mais de 24 horas para aprovar ou negar pedidos de crédito, conforme pesquisa realizada pela Assertiva com 150 profissionais de análise de risco e concessão.",
-    "O levantamento aponta que 31,3% das organizações precisam de um a dois dias úteis para a decisão, enquanto 22,7% gastam mais de dois dias úteis no processo.",
-    "A demora afeta companhias de todos os portes: 64,8% das microempresas, 51,3% das pequenas e médias, 52% das grandes e 49,1% das empresas 'enterprise' levam pelo menos um dia útil.",
-    "Por outro lado, 13,3% das companhias realizam a análise em minutos de forma automatizada e 6,7% concluem a etapa em menos de uma hora.",
-    "A pesquisa mostra que 14% dos negócios usam planilhas e avaliação manual, 16,7% consultam birôs sem integração com sistemas internos e apenas 6,7% empregam sistemas com inteligência artificial.",
-    "O estudo classifica 41,3% das empresas como maduras na análise de crédito, enquanto 58,7% estão em estágio de desenvolvimento ou possuem processos incipientes.",
-    "A pesquisa ocorreu em âmbito nacional entre 23 de junho e 6 de outubro de 2026, com a concentração de 78,7% dos entrevistados na região Sudeste."
+    "Mais de 50% das empresas brasileiras demoram mais de 24 horas para aprovar ou negar pedidos de crédito, conforme pesquisa da Assertiva divulgada após consulta realizada entre 23 de junho e 6 de outubro de 2026 com 150 profissionais de todo o país.",
+    "O levantamento aponta que 31,3% das organizações levam de um a dois dias úteis para tomar a decisão, enquanto 22,7% precisam de mais de dois dias úteis, afetando companhias de variados portes.",
+    "A lentidão na análise atinge 64,8% das microempresas, 51,3% das pequenas e médias, 52% das grandes e 49,1% das empresas da categoria enterprise que demoram ao menos um dia útil para decidir.",
+    "Em contrapartida, apenas 13,3% das companhias concluem o processo em minutos de forma automatizada, 6,7% o fazem em menos de uma hora e somente 6,7% usam sistemas de inteligência artificial para aprovação ou negação automática.",
+    "A pesquisa revela que 14% das empresas realizam a avaliação com planilhas e análises manuais, e 16,7% consultam birôs de crédito sem integrar essas informações aos sistemas internos.",
+    "O estudo classifica 41,3% das empresas como maduras nos processos de análise de crédito, enquanto 58,7% estão em estágio de desenvolvimento ou possuem processos incipientes, com concentração de 78,7% dos entrevistados na região Sudeste."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/22/11/2026/economia/mais-da-metade-das-empresas-leva-mais-de-24h-para-analisar-credito/",
-   "categoria": "Economia"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bf6806604c82.webp"
   },
   {
    "titulo": "Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos",
    "topicos": [
-    "Os democratas conquistaram pelo menos 258 cadeiras na Câmara dos Representantes dos Estados Unidos, alcançando a maior bancada do partido desde 1992. O marco histórico foi confirmado neste domingo (22), após a vitória do democrata Chuck Hubbard na Carolina do Norte.",
-    "A 435 integrantes, a Câmara ainda tem quatro disputas indefinidas: uma em Minnesota, uma no Tennessee e duas na Louisiana, com segundos turnos marcados para dezembro. Os republicanos asseguraram pelo menos 173 assentos e atuarão na oposição.",
-    "O novo cenário político configura um governo dividido, com a Casa Branca sob comando republicano e ambas as casas do Congresso controladas pelos democratas. No Senado, o partido garantiu uma maioria de 56 das 100 cadeiras, a maior vantagem em mais de uma década.",
-    "Para os primeiros 100 dias, os democratas preparam uma agenda focada no combate ao custo de vida e na reversão de cortes republicanos no Medicaid. Também planejam restabelecer os subsídios do Obamacare e intensificar a fiscalização sobre o governo de Donald Trump.",
-    "Hakeem Jeffries, cotado para assumir a presidência da Câmara em 3 de janeiro de 2027, poderá se tornar o primeiro presidente negro da Casa. Com a margem ampla, a nova liderança terá mais autonomia para aprovar propostas e negociar com a oposição republicana."
+    "Os democratas conquistaram pelo menos 258 cadeiras na Câmara dos Representantes dos EUA, garantindo a maior bancada do partido desde 1992. O resultado histórico foi alcançado neste domingo (22) na Carolina do Norte e amplia o poder da legenda no Congresso.",
+    "A marca iguala as 258 cadeiras da eleição de Bill Clinton em 1992 e supera as 257 de Barack Obama em 2008, embora fique abaixo do auge no governo de Franklin D. Roosevelt. Quatro disputas seguem indefinidas em Minnesota, Tennessee e Louisiana, com segundo turno em dezembro.",
+    "Os republicanos obtiveram pelo menos 173 cadeiras e ficarão na oposição em uma Câmara composta por 435 integrantes. O cenário configura um governo dividido, com o Senado sob controle democrata, que conquistou 56 das 100 cadeiras, e um presidente republicano na Casa Branca.",
+    "Fortalecidos, os democratas preparam uma agenda para os primeiros 100 dias focada no combate ao custo de vida e na reversão de cortes republicanos no Medicaid. O plano também inclui restabelecer os subsídios do Obamacare e intensificar a fiscalização e investigações sobre Donald Trump."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/52f5354aac91.webp"
   },
   {
    "titulo": "Agentes de IA entram no radar dos bancos e devem mudar pagamentos",
    "topicos": [
-    "O estudo \"Tecnologias Emergentes para o Setor Bancário 2026\", da Febraban e da Accenture, aponta que agentes de IA devem transformar compras online e pagamentos bancários.",
-    "No comércio agêntico, sistemas automatizados de IA realizam desde buscas de produtos até a conclusão de pagamentos, exigindo novas ferramentas de segurança e transações.",
-    "Pesquisa da Nexus indica que 37% dos brasileiros já realizaram compras influenciadas por IA, enquanto levantamento da Worldpay mostra que 40% delegariam o processo a assistentes.",
-    "O orçamento dos bancos brasileiros para tecnologia deve chegar a R$ 50 bilhões em 2026, com cerca de R$ 3 bilhões direcionados especificamente para Inteligência Artificial.",
-    "O levantamento aponta que 92% dos bancos no País já obtêm ganhos de eficiência com o uso da IA, tecnologia que também ajuda a reduzir custos e personalizar serviços.",
-    "As instituições financeiras destinam cerca de R$ 5 bilhões anualmente à cibersegurança, o que representa 10% do orçamento total de tecnologia do setor.",
-    "A computação quântica é considerada relevante por 71% dos bancos brasileiros, com possíveis aplicações em análises de risco, detecção de fraudes e simulações de investimentos."
+    "O estudo \"Tecnologias Emergentes para o Setor Bancário 2026\", da Febraban com a Accenture, aponta que agentes de IA devem transformar compras online e pagamentos.",
+    "A pesquisa da Nexus indica que 37% dos brasileiros já realizaram compras influenciadas por IA, enquanto um levantamento da Worldpay mostra que 40% delegariam todo o processo a assistentes.",
+    "O orçamento do setor bancário para tecnologia deve atingir R$ 50 bilhões em 2026, com cerca de R$ 3 bilhões destinados à Inteligência Artificial, segundo o estudo.",
+    "A pesquisa revela que 92% dos bancos brasileiros já registram ganhos de eficiência por meio do uso da Inteligência Artificial em suas operações.",
+    "Os bancos brasileiros destinam cerca de R$ 5 bilhões anualmente à cibersegurança, montante que representa 10% do orçamento total dedicado à tecnologia.",
+    "O levantamento aponta que 71% dos bancos brasileiros consideram a computação quântica relevante para aplicações em análise de risco, detecção de fraudes e investimentos."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/22/11/2026/tecnologia/agentes-de-ia-entram-no-radar-dos-bancos-e-devem-mudar-pagamentos/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/cf05e3cbc7e2.webp"
   },
   {
    "titulo": "Flávio diz não ter provas de fraude por ser “proibido de investigar”",
    "topicos": [
-    "O senador Flávio Bolsonaro (PL-RJ), candidato derrotado à Presidência, declarou à emissora norte-americana Fox News que perdeu as eleições de 2026 para o sistema e não para seu adversário.",
-    "Flávio afirmou não ter apresentado provas de irregularidades no pleito porque seria proibido de investigar o processo e criticou os técnicos do Tribunal Superior Eleitoral.",
-    "O congressista defendeu a adoção do voto impresso citando o exemplo da Venezuela, argumentando que o modelo com comprovante individual permitiria a recontagem.",
-    "Especialistas apontam que Flávio confundiu comprovantes individuais com atas de votação, já que na Venezuela a oposição utilizou atas impressas e digitalizadas para apontar divergências.",
-    "O senador está nos Estados Unidos desde o dia 27 de outubro de 2026, quando viajou dois dias após o segundo turno das eleições.",
-    "O sistema eletrônico brasileiro é auditável, não possui conexão com internet ou redes externas e utiliza assinatura digital criptografada e código-fonte aberto para inspeção."
+    "O senador Flávio Bolsonaro (PL-RJ), candidato derrotado à Presidência, declarou à emissora norte-americana Fox News que não possui provas de irregularidades nas eleições de 2026 porque é proibido de investigar.",
+    "Na entrevista com duração de 7min10s divulgada em novembro de 2026, o parlamentar afirmou que perdeu a disputa para o sistema e criticou a atuação dos técnicos do Tribunal Superior Eleitoral.",
+    "Para defender a adoção do voto impresso, Flávio citou o modelo da Venezuela de 2024, mas confundiu comprovantes individuais com as atas de votação utilizadas pela oposição daquele país.",
+    "O senador está nos Estados Unidos desde 27 de outubro de 2026, quando viajou dois dias após a realização do segundo turno do pleito presidencial brasileiro.",
+    "O Tribunal Superior Eleitoral, partidos políticos, observadores internacionais e o próprio PL rejeitam as declarações de fraude feitas pelo congressista durante sua estadia no exterior.",
+    "O sistema eletrônico brasileiro é auditável, sem conexão com internet ou redes externas, utiliza assinatura digital criptografada e teve o código-fonte aberto para inspeção prévia."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/2a962424048c.webp"
   },
   {
    "titulo": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
    "topicos": [
-    "A COP31, realizada na Turquia com liderança oficial da Austrália, terminou sem um acordo político principal após duas semanas de negociações e uma extensão até domingo, tornando-se a conferência climática da ONU mais longa da história.",
-    "O impasse ocorreu devido a profundas divergências sobre combustíveis fósseis e questões financeiras, fazendo com que o pacto final fosse rejeitado pela União Europeia, nações insulares do Pacífico, Panamá, Ilhas Marshall e países mais pobres.",
-    "A minuta final excluiu menções diretas aos combustíveis fósseis e não trouxe valores concretos ou bases de referência para o financiamento climático prometido em 2025 na COP30 para auxiliar nações vulneráveis na adaptação.",
-    "O secretário-geral da ONU, António Guterres, declarou profunda decepção e criticou a atuação de interesses ligados aos combustíveis fósseis, enquanto a última falha semelhante em um acordo de COP havia ocorrido em 2009, em Copenhague.",
-    "Apesar do fracasso no pacto principal, mais de 80 países apoiaram a meta turca de elevar a participação da eletricidade na matriz energética global para 35% até 2035, e a próxima COP32 foi agendada para novembro de 2027 na Etiópia."
+    "A COP31 da ONU, realizada na Turquia com liderança oficial da Austrália, terminou sem um acordo político principal após duas semanas de negociações e uma extensão até domingo (22/11).",
+    "O impasse ocorreu devido a profundas divergências sobre combustíveis fósseis e questões financeiras, marcando o primeiro fracasso de um acordo central de COP desde 2009, em Copenhague.",
+    "A minuta final rejeitada não mencionava diretamente os combustíveis fósseis e omitiu valores concretos e bases de referência para o financiamento climático prometido para nações pobres.",
+    "Nações como Arábia Saudita e Rússia resistiram a metas rígidas para carvão, petróleo e gás, enquanto a União Europeia, países insulares e o Brasil criticaram a falta de ambição e consenso.",
+    "Mais de 80 países apoiaram a meta de elevar a participação da eletricidade na matriz energética global para 35% até 2035, e a COP32 foi agendada para novembro de 2027 na Etiópia."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/cb8f40392c04.webp"
   },
   {
    "titulo": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
    "topicos": [
-    "Apoiadores de Jair Bolsonaro realizaram uma mobilização com orações em frente ao Hospital DF Star, em Brasília, neste domingo (22.nov.2026), para pedir pela recuperação do ex-presidente.",
-    "Bolsonaro está internado na UTI da unidade desde sexta-feira (20.nov), após apresentar fortes dores abdominais decorrentes de um quadro de abdômen agudo obstrutivo.",
-    "O boletim médico divulgado no domingo (22.nov) aponta que o paciente está clinicamente estável, em jejum, recebendo suporte nutricional e utilizando uma sonda gástrica.",
-    "A equipe médica monitora a evolução do bloqueio intestinal e ainda não divulgou uma previsão de alta, mantendo em aberto a possibilidade de uma cirurgia caso não haja melhora.",
-    "A ex-primeira-dama Michelle Bolsonaro visitou o marido no sábado (21.nov) após retornar de Israel e relatou que ele passou a noite sem dor e realizou novos exames de imagem.",
-    "O ministro Alexandre de Moraes, do STF, autorizou visitas de familiares ao ex-presidente, que cumpre prisão domiciliar humanitária desde março de 2026 e é custodiado pela PM no hospital."
+    "Apoiadores do ex-presidente Jair Bolsonaro reuniram-se no domingo (22.nov.2026) em frente ao Hospital DF Star, em Brasília, para rezar por sua recuperação.",
+    "Bolsonaro está internado na UTI da unidade desde sexta-feira (20.nov) após apresentar fortes dores abdominais decorrentes de um quadro de abdômen agudo obstrutivo.",
+    "Segundo boletim médico de domingo (22.nov), o ex-presidente está clinicamente estável, em jejum, recebendo suporte nutricional e uso de sonda gástrica, sem previsão de alta.",
+    "A equipe médica monitora a evolução da obstrução intestinal e mantém aberta a possibilidade de um novo procedimento cirúrgico caso o quadro não melhore.",
+    "A ex-primeira-dama Michelle Bolsonaro visitou o marido após retornar de Israel no sábado (21.nov) e informou que ele passou a noite de domingo sem dor.",
+    "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, autorizou visitas de familiares, enquanto a custódia hospitalar é feita pela Polícia Militar do Distrito Federal.",
+    "Bolsonaro cumpre prisão domiciliar humanitária desde março de 2026, após condenação a 27 anos e 3 meses de prisão por tentativa de golpe de Estado."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-gente/apoiadores-oram-pela-saude-de-bolsonaro-em-frente-a-hospital/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/d13d7f01ef15.webp"
   },
   {
    "titulo": "Com impasse sobre combustíveis fósseis, COP31 termina sem acordo final",
    "topicos": [
-    "A 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31), realizada em Antália, na Turquia, encerrou-se neste domingo, 22, sem a aprovação de um acordo final.",
-    "O principal motivo do impasse foi o desacordo entre nações produtoras de petróleo sobre a inclusão de prazos para a descontinuidade do uso de combustíveis fósseis.",
-    "A falta de consenso começou a se desenhar na sexta-feira, 20, data em que o evento deveria ter tido seu encerramento oficial.",
-    "O evento foi estendido por mais dois dias de conversas, mas o impasse persistiu até a sessão plenária final na manhã de domingo.",
-    "O Greenpeace Brasil avaliou o desfecho como decepcionante, afirmando que a ausência de um pacto foi preferêvel a aceitar um acordo prejudicial que pouparia o setor.",
-    "O WWF Brasil também expressou frustração, criticando a falta de reconhecimento dos mapas do caminho da COP30 e a aposta excessiva em captura de carbono."
+    "A 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31) terminou no domingo, 22, em Antália, Turquia, sem a elaboração de um acordo final.",
+    "O impasse surgiu porque países produtores de petróleo se opuseram à inclusão de um prazo para o fim do uso de combustíveis fósseis nas negociações.",
+    "As discussões sobre metas para barrar a utilização de combustíveis fósseis estavam sem consenso desde sexta‑feira, 20, data prevista para o encerramento oficial da conferência.",
+    "Devido ao bloqueio, as negociações foram prorrogadas por mais dois dias, mas a sessão plenária da manhã de domingo ainda não alcançou acordo.",
+    "O Greenpeace Brasil classificou o resultado como decepcionante, afirmando que a COP não responsabilizou os combustíveis fósseis pela crise climática e manteve o setor em atividade.",
+    "O WWF Brasil lamentou a falta de mudança clara, destacando que os mapas da presidência da COP30 sobre combustíveis fósseis e florestas não foram reconhecidos e que a ênfase em captura de carbono não substitui a redução de emissões."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/22/11/2026/economia/com-impasse-sobre-combustiveis-fosseis-cop31-termina-sem-acordo-final/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b68136c1f8c0.webp"
   },
   {
    "titulo": "Humorista imita Trump em jantar com primeiro-ministro do Canadá",
    "topicos": [
-    "O humorista Mark Critch imitou o presidente dos EUA, Donald Trump, fazendo piadas com o primeiro-ministro do Canadá, Mark Carney, em evento realizado no sábado (21.nov.2026), em Ottawa.",
-    "A apresentação ocorreu durante o jantar anual da imprensa parlamentar canadense, evento tradicional que reúne políticos, autoridades e jornalistas para sátiras políticas e discursos humorísticos.",
-    "Durante a esquete, o imitador reproduziu os gestos e o estilo de cumprimento de Trump, ironizando a presença de dois Carneys no palco e comentando sobre a popularidade do premiê.",
-    "O jantar aconteceu 3 dias após Mark Carney e Donald Trump se reunirem em Shenzhen, na China, onde discutiram negociações para um acordo comercial bilateral.",
-    "As relações entre Canadá e Estados Unidos enfrentaram atritos recentes, incluindo uma ameaça feita por Trump em janeiro de taxar produtos canadenses em 100% caso o país fechasse pacto com a China."
+    "O humorista Mark Critch imitou o presidente dos Estados Unidos, Donald Trump, no jantar anual da imprensa parlamentar canadense, realizado no sábado (21.nov.2026), em Ottawa.",
+    "O evento contou com a presença do primeiro-ministro do Canadá, Mark Carney, e reuniu políticos, autoridades e jornalistas que cobrem o Parlamento.",
+    "Durante a esquete, o imitador fez piadas, reproduziu gestos e o estilo de cumprimento de Trump, ironizando a popularidade de Carney no palco.",
+    "O jantar ocorreu 3 dias após uma reunião entre Carney e Trump em Shenzhen, na China, onde discutiram acordos comerciais e a continuidade das conversas.",
+    "As relações bilaterais enfrentaram atritos no ano, incluindo uma ameaça de Trump em janeiro de impor tarifas de 100% sobre mercadorias do Canadá."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/humorista-imita-trump-em-jantar-com-primeiro-ministro-do-canada/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/9f7ce03c8567.webp"
   },
   {
    "titulo": "Agência de aviação dos EUA suspende voos de companhia aérea após falha em sistema",
    "topicos": [
-    "A Administração Federal de Aviação dos Estados Unidos (FAA) determinou neste domingo (22) a suspensão temporária das decolagens da Delta Air Lines.",
-    "A interrupção ocorreu no Aeroporto Internacional Hartsfield-Jackson, em Atlanta, que é o terminal mais movimentado do país, devido a uma falha sistêmica.",
-    "O problema técnico afetou o sistema automatizado da companhia aérea responsável pelos cálculos de peso e balanceamento das aeronaves antes dos voos.",
-    "A restrição gerou atrasos de cerca de uma hora em voos que partiam ou chegavam ao aeroporto, mas a medida já foi suspensa pelas autoridades.",
-    "A Delta adotou procedimentos manuais alternativos para assegurar a segurança operacional enquanto o sistema automatizado era normalizado.",
-    "A FAA ressaltou que o incidente não teve ligação com seus próprios sistemas de controle de tráfego aéreo e destacou que os cálculos de peso e balanceamento são obrigatórios para a estabilidade do voo."
+    "A Administração Federal de Aviação dos Estados Unidos (FAA) determinou neste domingo (22) a suspensão temporária das decolagens da Delta Air Lines no Aeroporto Internacional Hartsfield-Jackson, em Atlanta.",
+    "A paralisação ocorreu após uma falha em um sistema automatizado da própria companhia aérea e provocou atrasos de cerca de uma hora em voos de chegada e partida no aeroporto mais movimentado do país.",
+    "A restrição foi posteriormente retirada, após a adoção de procedimentos manuais alternativos pela empresa para assegurar a segurança operacional.",
+    "A falha ocorreu no sistema automatizado responsável pelo cálculo de peso e balanceamento das aeronaves, procedimento obrigatório antes de cada decolagem para garantir a estabilidade do voo.",
+    "A Delta declarou que atuou em parceria com o controle de tráfego aéreo para minimizar os congestionamentos em seu principal centro de conexões, localizado em Atlanta.",
+    "A FAA ressaltou que o incidente não teve qualquer relação com os seus próprios sistemas de controle de tráfego aéreo."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/suspensao-temporaria-voos-companhia-aerea-eua-falha-em-sistema.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a46a536c7fda.webp"
   },
   {
    "titulo": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
    "topicos": [
-    "Em 1946, após a Segunda Guerra Mundial, o guarda‑de‑passagem ferroviária Romeo Bagnoli, em Empoli (Toscana, a oeste de Florença), obteve dois refrigeradores militares norte‑americanos abandonados na região.",
-    "Renzo Bagnoli, filho de Romeo, comprou os dois refrigeradores industriais com os irmãos Sergio e Loriano e, em um ferro‑velho, adaptou equipamentos comerciais de sorvete, permitindo congelamento contínuo e em maior escala.",
-    "A tecnologia americana viabilizou congelamento rápido e uniforme, essencial ao gelato italiano, que evita cristais de gelo e mantém textura densa, ao contrário do sorvete mais gorduroso dos EUA que tolerava ciclos de congelamento mais longos.",
-    "Os Bagnoli modificaram a receita reduzindo a gordura, adicionando gelatina e batendo lentamente para aerar a mistura, criando um sorvete macio e estável que pôde ser vendido além do bairro, inaugurando um modelo de produção escalável na Itália.",
-    "Sem caminhões isotérmicos, improvisaram a cadeia de suprimentos: encheram recipientes metálicos com gelo e sal, forraram caixas de madeira com palha e transformaram caixas militares em recipientes isotérmicos para transporte refrigerado.",
-    "Esse método marcou a transição do sorvete artesanal, feito com neve alpina ou gelo natural, para a produção industrial que se expandiu por toda a Itália a partir da década de 1940."
+    "Em 1946, na cidade toscana de Empoli, o filho de Romeo Bagnoli, Renzo, transformou a leiteria da Via del Giglio em um bar chamado Sammontana, que começou a produzir sorvete usando um refrigerador pouco confiável.",
+    "Renzo e seus irmãos, Sergio e Loriano, compraram dois refrigeradores militares norte‑americanos de uso industrial deixados após a Segunda Guerra Mundial e, em ferro‑velho, adaptaram equipamentos comerciais de sorvete, permitindo congelamento contínuo.",
+    "A nova tecnologia possibilitou congelar o gelato rapidamente, evitando cristais de gelo e mantendo a textura densa típica italiana, ao contrário do sorvete mais gorduroso dos EUA que tolerava ciclos de congelamento mais longos.",
+    "Os Bagnoli ajustaram a receita, reduzindo a gordura, adicionando gelatina e batendo lentamente para obter uma mistura aerada, criando um modelo de produção escalável que depois se espalhou por toda a Itália.",
+    "Sem caminhões isotérmicos, a família desenvolveu sua própria logística: encheram recipientes metálicos com gelo e sal, forraram caixas de madeira com palha e converteram caixas militares em isolantes térmicos para transportar o gelato.",
+    "O sorvete italiano tem raízes que remontam ao século IX na Sicília, ao uso de neve do Etna, e ao desenvolvimento de uma base cremosa por Bernardo Buontalenti no século XVI; porém a produção em larga escala só se viabilizou após a introdução dos refrigeradores americanos no final da década de 1920.",
+    "A matéria, de autoria de Amy Bizzarri para a BBC Travel, tem tempo de leitura de 7 min e destaca que, hoje, dezenas de milhões de turistas consomem sorvete na Itália, mas poucos sabem da influência da tecnologia militar americana na sua popularização."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/df13ce48b91f.webp"
   },
   {
    "titulo": "Editora L&PM aciona Justiça contra OpenAI por direitos autorais",
    "topicos": [
-    "A editora brasileira L&PM entrou na Justiça do Rio Grande do Sul contra a OpenAI para exigir esclarecimentos sobre o suposto uso não autorizado do Dicionário Aulete de Bolso no treinamento do ChatGPT.",
-    "A suspeita da editora é de que a obra tenha sido empregada a partir da base de livros pirateados Books3, que reúne cerca de 196,4 mil publicações de bibliotecas clandestinas.",
-    "O pedido de notificação judicial foi protocolado em 28 de outubro de 2026 e distribuído em 10 de novembro ao juiz Vanderlei Deolindo, do TJ-RS, conforme informações divulgadas em 20 de novembro.",
-    "O magistrado determinou que a OpenAI tem um prazo de 15 dias úteis para apresentar sua manifestação sobre o caso na Justiça.",
-    "A L&PM sustenta que jamais autorizou a reprodução, o armazenamento ou o processamento de seus livros para o treinamento de modelos de inteligência artificial.",
-    "Conforme a resposta obtida, a editora poderá futuramente ingressar com uma ação de indenização por uma possível violação de direitos autorais."
+    "A editora brasileira L&PM abriu um processo na Justiça do Rio Grande do Sul contra a OpenAI para exigir esclarecimentos sobre o suposto uso sem autorização do Dicionário Aulete de Bolso no treinamento do ChatGPT.",
+    "O pedido judicial foi protocolado em 28 de outubro de 2026 e distribuído no dia 10 de novembro de 2026 ao juiz Vanderlei Deolindo, do TJ-RS, que determinou prazo de 15 dias úteis para a manifestação da OpenAI.",
+    "A empresa suspeita que a obra tenha sido empregada por meio da base Books3, que reúne cerca de 196,4 mil livros adquiridos de bibliotecas piratas, e destaca que não cedeu direitos para essa finalidade."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/editora-lpm-aciona-justica-contra-openai-por-direitos-autorais/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/dd2690b911bf.webp"
   },
   {
    "titulo": "Governo Trump quer saber quem cuidava do compliance da Nvidia, diz Bessent",
    "topicos": [
-    "O secretário do Tesouro dos EUA, Scott Bessent, declarou neste domingo que o governo de Donald Trump busca informações sobre vendas de chips da Nvidia e quer identificar os responsáveis anteriores pelo compliance na companhia.",
-    "A investigação ocorre após a renúncia de Jensen Huang, motivada por um caso extraconjugal com uma executiva e pelo envolvimento com uma suposta espiã chinesa, gerando apuração de reguladores, do FBI, do Congresso e de investidores.",
-    "Bessent afirmou no programa \"Face the Nation\", da CBS, que o governo conversa com a administração provisória, diretores e advogados da empresa para entender a cultura corporativa e o nível hierárquico alcançado pelas falhas.",
-    "O presidente Donald Trump emitiu uma norma dias após a saída de Huang para impor novas restrições ao acesso da China a semicondutores avançados, antecedendo sua viagem para reuniões com o presidente Xi Jinping na semana passada.",
-    "Enquanto Trump declarou na sexta-feira que gostaria de ver um pedido de desculpas e o retorno de Huang à fabricante de chips, o presidente do conselho da Nvidia, Harvey Jones, descartou a recontratação do ex-executivo."
+    "O secretário do Tesouro dos EUA, Scott Bessent, declarou neste domingo que o governo de Donald Trump busca informações sobre as vendas de chips da Nvidia e exige esclarecimentos sobre quem gerenciava o compliance na empresa.",
+    "A exigência ocorre após a renúncia do ex-líder Jensen Huang, motivada por um relacionamento extraconjugal com uma executiva e investigações ligadas a uma suposta espiã chinesa.",
+    "Bessent afirmou no programa \"Face the Nation\", da CBS, que o governo está em contato com a administração provisória, diretores e advogados da companhia, cobrando agilidade da Nvidia para entender a cultura corporativa.",
+    "As investigações sobre o caso envolvem órgãos reguladores dos EUA, o FBI, o Congresso, revisões internas e uma proposta de ação coletiva movida por investidores.",
+    "Poucos dias após a saída de Huang, a gestão Trump implementou uma nova regra para limitar ainda mais o acesso da China a semicondutores avançados de inteligência artificial de companhias como a Nvidia.",
+    "O presidente do conselho da Nvidia, Harvey Jones, declarou que o colegiado não planeja recontratar Huang, divergindo do desejo manifestado por Trump na sexta-feira de ver o ex-executivo de volta."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mundo/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/3462e9516215.webp"
   },
   {
    "titulo": "ICE prende 2 imigrantes em aeroporto dos EUA e recebe críticas",
    "topicos": [
-    "No sábado, 21 de novembro de 2026, agentes do ICE detiveram dois passageiros mexicanos no Aeroporto Internacional Seattle‑Tacoma, no estado de Washington, durante o embarque do voo 1306 da Alaska Airlines.",
-    "O homem, Ricardo Larrondo Mendoza, foi preso por ter ultrapassado o prazo de validade de seu visto; a mulher, Sofia Hernández Mejía, também com visto vencido, foi acusada de ter jogado café quente nos agentes, podendo responder por agressão a agente federal.",
-    "A Alaska Airlines descreveu a operação como “angustiante”, afirmou que não recebeu aviso prévio e que cumpre as leis ao cooperar com autoridades, ao mesmo tempo que protege a privacidade e a segurança de passageiros e funcionários.",
-    "O Porto de Seattle emitiu comunicado dizendo que a prisão causou angústia à família e aos demais passageiros e que autoridades locais entrarão em contato com as federais para esclarecer o caso.",
-    "O governador de Washington, Bob Ferguson (Democrata), criticou a ação nas redes sociais, denunciando agentes mascarados sem identificação que arrastaram pessoas das áreas de embarque, e afirmou que o ICE está “fora de controle”.",
-    "Segundo o DHS, no ano fiscal de 2026 (1 out 2025 a 30 set 2026), o ICE realizou mais de 491 mil prisões – quase 475 mil administrativas – e 483,2 mil deportações, 9 % a mais que no período anterior; agosto de 2026 registrou 50.925 prisões, e as deportações superaram em quase 78 % as de 2024."
+    "Em 21 de novembro de 2026, agentes do ICE detiveram dois imigrantes mexicanos no Aeroporto Internacional Seattle‑Tacoma durante o embarque do voo 1306 da Alaska Airlines; Ricardo Larrondo Mendoza tinha visto vencido e Sofia Hernandez Mejia, também com visto vencido, teria jogado café quente nos agentes.",
+    "A Alaska Airlines afirmou que a operação ocorreu sem notificação prévia, classificou o incidente como angustiante, ressaltou que cumpre leis mas não coordena fiscalizações de imigração e está analisando se os protocolos adequados foram seguidos.",
+    "O Porto de Seattle declarou que a prisão foi angustiante para a família e demais passageiros e que autoridades locais entrarão em contato com as federais para entender melhor o ocorrido.",
+    "O governador de Washington, Bob Ferguson (Democrata), criticou a ação do ICE em seu perfil no X, denunciando agentes mascarados que arrastam pessoas nas áreas de embarque e afirmando que tais táticas vão contra os valores norte‑americanos.",
+    "O governo de Donald Trump divulgou que, no ano fiscal de 2026 (1 out/2025 a 30 set/2026), o ICE realizou mais de 491 mil prisões, quase 475 mil administrativas, e 483,2 mil deportações, 9 % a mais que no ano fiscal anterior.",
+    "Agosto de 2026 foi o mês com maior número de prisões, totalizando 50.925; as deportações de 2026 superaram em quase 78 % as de 2024, último ano fiscal da administração Biden, e as prisões de 2026 ultrapassaram a soma dos três últimos anos fiscais completos do governo democrata."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/ice-prende-2-imigrantes-em-aeroporto-dos-eua-e-recebe-criticas/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/661dc3283171.webp"
   },
   {
    "titulo": "Aplicativo pode ajudar a racionalizar filas para consultas e cirurgias",
    "topicos": [
-    "Um estudo de campo de 1 ano, realizado em um centro médico acadêmico dos Estados Unidos, analisou 5.400 consultas de cirurgia colorretal atendidas por 10 médicos e resultou em um software gratuito para otimizar filas de consultas e cirurgias.",
-    "A pesquisa constatou que a demanda diária variava entre 7,9 e 17 encaminhamentos, com pico na terça‑feira, e que o centro realizava 7 tipos de atividade, incluindo salas de cirurgia simples ou dupla, ambulatório e pronto‑socorro.",
-    "O modelo matemático desenvolvido decide a alocação de médicos entre ambulatório e centro cirúrgico antes de conhecer a demanda, equilibrando as duas filas e evitando que a priorização de uma aumente o atraso da outra.",
-    "Com a nova escala, a espera média diária por consulta caiu até 93,7 % e a espera por cirurgia reduziu 69,0 % em um período de 28 dias, comparado à escala anterior do hospital.",
-    "O ganho de eficiência ocorreu sem contratação de novos médicos nem abertura de salas de cirurgia; tudo foi obtido apenas com a reorganização de quem atende o quê e quando.",
-    "A ferramenta de código aberto, disponível para download, permite que gestores hospitalares simulem mudanças de escala com um único clique e visualizem o impacto nas duas filas antes de aplicar qualquer ajuste."
+    "Um estudo de campo realizado durante 1 ano em um centro médico acadêmico nos Estados Unidos analisou dados reais de 5.400 consultas de cirurgia colorretal atendidas por 10 médicos, revelando que a espera hospitalar envolve duas filas paralelas interligadas: a de consultas com especialistas e a de cirurgias.",
+    "A demanda semanal no centro médico estudado era desigual, variando entre 7,9 e 17 encaminhamentos por dia, com pico registrado na 3ª feira, o que tornava o uso de uma escala fixa inadequado para a gestão das atividades.",
+    "O centro médico gerenciava 7 tipos de atividades possíveis, incluindo sala de cirurgia simples ou dupla, ambulatório, pequenas cirurgias, pronto-socorro, administração e pesquisa, além de ausência da unidade.",
+    "Com a aplicação de um modelo matemático para reorganizar a escala de atendimento sem contratar médicos extras ou abrir novas salas de cirurgia, a espera média diária por consulta despencou até 93,7%.",
+    "No mesmo período de avaliação, a espera por procedimentos cirúrgicos teve uma reduçção de 69,0% dentro de uma janela de 28 dias em comparação com a escala anterior utilizada pelo hospital.",
+    "O estudo apontou que focar em apenas uma das pontas gera gargalos: priorizar apenas as consultas empurra mais pacientes para a fila da cirurgia, enquanto priorizar apenas a cirurgia deixa pacientes sem avaliação prévia.",
+    "Os pesquisadores desenvolveram um software de acesso aberto e gratuito, baseado no modelo matemático, para que qualquer gestor hospitalar possa baixar, administrar melhor as filas e simular o impacto de suas escolhas."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-saude/aplicativo-pode-ajudar-a-racionalizar-filas-para-consultas-e-cirurgias/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b477ab958b0f.webp"
   },
   {
    "titulo": "EUA: Chá de bebê termina em tiroteio com 3 mortos e 1 ferido",
    "topicos": [
-    "Um tiroteio em um chá de bebê deixou três mortos e um ferido no sábado, 21 de novembro de 2026, em Parma, Ohio, Estados Unidos.",
-    "A festa acontecia no Pandora's Magical Events Venue, localizado a cerca de 16 quilômetros ao sul de Cleveland, e a gestante não se feriu.",
-    "Um homem de 29 anos, parente dos envolvidos, foi detido no local, mas a polícia ainda investiga se ele agiu como agressor ou em legítima defesa.",
-    "O segundo suspeito, de 19 anos e apontado como pai do bebê, está entre os mortos e não havia sido convidado para a celebração.",
-    "As outras duas vítimas fatais foram Leasia England, de 17 anos, e Jayson Townsend, de 45 anos, que era pai da gestante e avô do bebê.",
-    "A polícia recuperou duas armas de fogo e analisa imagens de segurança, depoimentos e exames balísticos para esclarecer a motivação do crime."
+    "Três pessoas morreram e uma ficou ferida em um tiroteio durante um chá de bebê na cidade de Parma, no estado de Ohio, nos Estados Unidos, na noite de sábado, 21 de novembro de 2026. A gestante que celebrava o evento não sofreu ferimentos.",
+    "O crime ocorreu no espaço de eventos Pandora's Magical Events Venue, situado a cerca de 16 quilômetros ao sul de Cleveland, após um chamado atendido pelas autoridades policiais locais.",
+    "Um homem de 29 anos, apontado como parente dos envolvidos, foi detido no local pela polícia, mas não recebeu indiciamento imediato enquanto detetives investigam a possibilidade de legítima defesa.",
+    "O segundo suspeito envolvido, de 19 anos, está entre os mortos e dados preliminares apontam que ele seria o pai da criança esperada, além de testemunhas relatarem que ele não havia sido convidado para a festa.",
+    "As outras duas vítimas fatais foram identificadas como Leasia England, de 17 anos, e Jayson Townsend, de 45 anos, sendo este último o avô do bebê e pai da gestante.",
+    "A polícia recolheu duas armas de fogo utilizadas no confronto e, neste domingo (22), analisa imagens de câmeras de segurança, depoimentos e possíveis testes balísticos para esclarecer a motivação e a dinâmica do crime."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/eua-cha-de-bebe-termina-em-tiroteio-com-3-mortos-e-1-ferido.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2c186ca9169f.webp"
   },
   {
    "titulo": "Juros do cartão a 10%: a proposta de Trump que une rivais e assusta bancos",
    "topicos": [
-    "No sábado, o presidente dos Estados Unidos, Donald Trump, anunciou a intenção de trabalhar com o novo Congresso de maioria democrata para limitar os juros de cartões de crédito a 10%.",
-    "A proposta cumpre uma promessa de campanha de 2024 e busca baixar a taxa média atual do setor, que fica em cerca de 22,2% conforme dados do Fed de Nova York.",
-    "A senadora Elizabeth Warren, cotada para liderar o Comitê Bancário do Senado, apoiou prontamente a iniciativa, que também recebeu respaldo pontual do republicano Josh Hawley.",
-    "Levantamentos apontam que a imposição de um teto de 10% nos juros pode proporcionar uma economia anual de aproximadamente US$ 100 bilhões para os consumidores americanos.",
-    "A indústria financeira se opõe fortemente à medida, alertando para o risco de cancelamento de cartões de clientes de baixa renda e cortes em programas de recompensas.",
-    "Atualmente, o montante total da dívida de cartões de crédito nos Estados Unidos atinge a marca de cerca de 1,23 trilhão de dólares."
+    "O presidente dos Estados Unidos, Donald Trump, declarou no sábado em entrevista à Fox News que planeja trabalhar com o novo Congresso de maioria democrata para fixar um limite de 10% nos juros de cartões de crédito.",
+    "A proposta cumpre uma promessa da campanha de 2024 e pretende baixar a taxa média atual do setor, que está em cerca de 22,2% conforme dados da Reserva Federal (Fed) de Nova York.",
+    "A senadora Elizabeth Warren, cotada para liderar o Comitê Bancário do Senado, apoiou prontamente a ideia, que também recebeu respaldo pontual do senador republicano Josh Hawley.",
+    "Pesquisas apontam que o teto de 10% nos juros pode proporcionar uma economia anual de aproximadamente US$ 100 bilhões em juros para os consumidores americanos.",
+    "A indústria financeira se opõe fortemente à medida, alertando para riscos como o cancelamento de cartões de clientes de baixa renda e cortes drásticos em programas de recompensas.",
+    "A dívida total acumulada em cartões de crédito nos Estados Unidos atinge atualmente cerca de 1,23 trilhão de dólares."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/59fc3cfe8843.webp"
   },
   {
    "titulo": "Bolsonaro segue internado na UTI sem previsão de alta",
    "topicos": [
-    "O ex-presidente Jair Bolsonaro permanece internado em uma unidade de terapia intensiva (UTI) do Hospital DF Star, em Brasília, conforme boletim divulgado neste domingo (22). Ele deu entrada na unidade na sexta-feira (20) com quadro de dor, distensão abdominal e diagnóstico de abdômen agudo obstrutivo.",
-    "O boletim médico informa que o paciente está clinicamente estável, sob tratamento clínico, em jejum e recebendo suporte nutricional, mas ainda não há previsão de alta hospitalar. O ex-presidente também se recupera recentemente de um quadro de pneumonia bacteriana.",
-    "Condenado no ano passado a 27 anos e três meses de prisão por envolvimento em uma trama golpista, Bolsonaro cumpre pena em prisão domiciliar após ter passado por um procedimento cirúrgico. Ele foi levado ao hospital após sentir fortes dores abdominais e ser avaliado por seu médico particular.",
-    "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou no sábado (21) as visitas dos filhos Carlos Nantes, Jair Renan, Laura Firmo e da enteada Letícia Marianna Firmo da Silva durante o período de internação.",
-    "As visitas dos familiares devem seguir rigorosamente os horários e as normas de segurança estabelecidos pelo Hospital DF Star. A decisão judicial proíbe expressamente a entrada de celulares, câmeras ou qualquer outro equipamento eletrônico capaz de gravar imagens ou áudios do custodiado."
+    "Ex‑presidente Jair Messias Bolsonaro está internado em UTI no Hospital DF Star, em Brasília, com diagnóstico de abdômen agudo obstrutivo e sem previsão de alta, segundo boletim médico divulgado em 22/11.",
+    "Ele foi admitido na sexta‑feira, 20/11, após fortes dores e distensão abdominal; a ocorrência foi confirmada por seu filho Carlos Bolsonaro, e o médico particular recomendou exames, com viaturas da Polícia Militar acompanhando o trajeto.",
+    "O boletim indica que o paciente está clinicamente estável, em jejum, recebendo tratamento clínico e suporte nutricional, porém permanece sem data de alta hospitalar.",
+    "Bolsonaro cumpre pena de 27 anos e três meses de prisão domiciliar, concedida após cirurgia, e ainda se recupera de pneumonia bacteriana.",
+    "O ministro Alexandre de Moraes autorizou, no sábado, 21/11, que os filhos Carlos Nantes, Jair Renan, a enteada Laura Firmo e Letícia Marianna o visitem, respeitando horários e regras de segurança do hospital.",
+    "É proibido o ingresso de celulares, câmeras ou quaisquer dispositivos eletrônicos que possam registrar imagens ou áudios durante as visitas."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/ca656ba50c56.webp"
   },
   {
    "titulo": "Os significados ocultos na obra A Grande Onda, uma das mais conhecidas da arte japonesa",
    "topicos": [
-    "A xilogravura A Grande Onda de Kanagawa, criada pelo mestre japonês Katsushika Hokusai em 1831, é uma das obras mais reconhecidas da história da cultura humana e destaca-se pelo uso predominante do azul da Prússia.",
-    "A obra retrata três barcas de carga hidrodinâmicas (oshiokuri-bune) presas nas ondas, além do céu sombrio e do Monte Fuji coberto de neve ao fundo, embora muitos observadores frequentemente percebam apenas um navio.",
-    "A série completa As 36 Vistas do Monte Fuji, que inclui as 10 imagens acrescentadas posteriormente totalizando 46 gravuras, está em exibição pela primeira vez no Reino Unido na Dulwich Picture Gallery, em Londres.",
-    "Hokusai criou a famosa série após sobreviver a um grave AVC pouco antes de completar 70 anos, período em que ficou obcecado pelo Monte Fuji, montanha mais alta do Japão associada à imortalidade.",
-    "A gravura Kajikazawa na Província de Kai retrata um pescador isolado sobre um rochedo em um rio turbulento, cujas linhas de pesca amarradas a cormorões ecoam o formato triangular da montanha.",
-    "A obra Fujimigahara na Província de Owari apresenta um artesão modelando um barril inacabado que atua como uma lente, mostrando e ocultando simultaneamente o Monte Fuji ao fundo.",
-    "A imagem Reflexo no Lago em Misaka, na Província de Kai, desestabiliza o espectador ao mostrar o reflexo invertido da montanha no lago coberto de neve, reforçando o tema de que tudo está no fluxo."
+    "Criada por Katsushika Hokusai em 1831, a xilogravura \"A Grande Onda de Kanagawa\" é uma das obras mais reconhecidas da cultura mundial, dominada pelo azul da Prússia e composta por três barcos, ondas, céu e o Monte Fuji.",
+    "A obra completa \"As 36 Vistas do Monte Fuji\" (totalizando 46 imagens com 10 acréscimos posteriores) está em exibição na Dulwich Picture Gallery, no sul de Londres, sendo a primeira vez que a série completa é exibida no Reino Unido.",
+    "O artista Katsushika Hokusai criou a famosa série após sobreviver a um grave AVC pouco antes de completar 70 anos, ficando obcecado pelo Monte Fuji e pela busca de capturar seus traços a partir de muitos ângulos diferentes.",
+    "Em setembro de 1888, Vincent van Gogh e seu irmão Theo discutiram a obra em cartas e lembraram de forma imprecisa que havia apenas um navio na imagem, quando na verdade são três barcas de carga hidrodinâmicas.",
+    "Atualmente, a imagem de \"A Grande Onda\" pode ser encontrada em emojis, memes, jogos de Lego e na nota japonesa de 1 mil ienes, refletindo sua enorme repercussão na cultura pop e na economia visual moderna."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cm3wgpye8glyo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5d6d96c1bcf9.webp"
   },
   {
    "titulo": "Leia a íntegra do boletim médico de Bolsonaro deste domingo",
    "topicos": [
-    "O ex-presidente Jair Bolsonaro, do PL, continua internado na UTI do hospital DF Star, localizado em Brasília, após ser diagnosticado com um quadro de abdômen agudo obstrutivo.",
-    "De acordo com o boletim médico divulgado neste domingo, 22 de novembro de 2026, o estado de saúde do ex-chefe do Executivo é considerado estável.",
-    "A equipe médica informou que Bolsonaro permanece em jejum, recebendo suporte nutricional, e ainda não há previsão de alta hospitalar."
+    "O ex‑presidente Jair Bolsonaro (PL) segue internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, localizado em Brasília.",
+    "O boletim médico divulgado neste domingo, 22 de novembro de 2026, indica diagnóstico de abdômen agudo obstrutivo.",
+    "De acordo com o documento, o quadro clínico de Bolsonaro está estável, porém não há previsão de alta hospitalar.",
+    "Ele permanece em jejum e recebe suporte nutricional, conforme orientações médicas descritas no boletim.",
+    "A íntegra do boletim está disponível para consulta em arquivo PDF com tamanho de 165 KB."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-do-boletim-medico-de-bolsonaro-deste-domingo/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/eb4c6dab1128.webp"
   },
   {
    "titulo": "Bolsonaro está estável na UTI e segue sem previsão de alta, diz boletim",
    "topicos": [
-    "O ex-presidente Jair Bolsonaro segue internado na UTI do hospital DF Star, em Brasília, após ser diagnosticado com abdômen agudo obstrutivo.",
-    "Segundo boletim médico divulgado no domingo (22.nov.2026), o quadro clínico é estável, mas não há previsão de alta hospitalar.",
-    "Bolsonaro foi internado na sexta-feira (20.nov) após apresentar dores e distensão abdominal, com exames identificando obstrução quase completa do intestino delgado.",
-    "O paciente continua em tratamento clínico e em jejum, recebendo suporte nutricional, sem prazo definido para retomar a alimentação por via oral."
+    "O ex-presidente Jair Bolsonaro segue internado na UTI do hospital DF Star, em Brasília, diagnosticado com um quadro de abdômen agudo obstrutivo.",
+    "Segundo boletim médico divulgado em 22 de novembro de 2026, o quadro clínico do paciente é estável, mas ainda não há previsão de alta hospitalar.",
+    "Bolsonaro foi hospitalizado em 20 de novembro de 2026 após sentir dores e distensão abdominal, com exames apontando uma obstrução quase completa do intestino delgado.",
+    "O tratamento atual inclui o paciente em jejum sob suporte nutricional, sem data definida para a retomada da alimentação por via oral."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-brasil/bolsonaro-esta-estavel-na-uti-e-segue-sem-previsao-de-alta-diz-boletim/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/4e30c4b0d3ec.webp"
   },
   {
    "titulo": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
    "topicos": [
-    "Um incêndio atingiu a fábrica de doces PT Fonusa Agung Mulia, pertencente à empresa United Family Food, na noite de sábado (21), em Cikande, na ilha de Java, na Indonésia.",
-    "O incidente deixou várias pessoas mortas e pelo menos 50 desaparecidos, atraindo familiares de trabalhadores que se reuniram do lado de fora do local em busca de notícias.",
-    "No domingo (22), a polícia informou que 24 sacos mortuários foram retirados dos escombros, sendo que um mesmo saco pode conter restos mortais de mais de uma vítima.",
-    "As equipes de resgate suspenderam as buscas durante a noite, com previsão de retomada na manhã de segunda-feira (23).",
-    "As autoridades indonésias já iniciaram a investigação para apurar a causa do incêndio que atingiu as instalações da fábrica."
+    "Um incêndio atingiu a fábrica de doces PT Fonusa Agung Mulia, pertencente à United Family Food, situada em Cikande, na ilha de Java, na Indonésia, na noite de sábado (21).",
+    "O sinistro deixou diversas vítimas fatais e pelo menos 50 pessoas desaparecidas, atraindo familiares de trabalhadores à entrada do local em busca de informações.",
+    "No domingo (22), a polícia local relatou a retirada de 24 sacos mortuários dos escombros, ressaltando que um único saco pode abrigar restos mortais de mais de uma pessoa.",
+    "As equipes de resgate interromperam as buscas durante a noite, com previsão de retomada na manhã de segunda-feira (23) para continuar o trabalho nos escombros.",
+    "As autoridades indonésias já iniciaram as investigações para apurar quais foram as causas determinantes que provocaram o fogo na unidade fabril."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e00ee6b715bb.webp"
   },
   {
    "titulo": "Mega-Sena acumula e pode pagar R$ 65 milhões na 3ª feira",
    "topicos": [
-    "Nenhuma aposta acertou as seis dezenas do concurso 3.089 da Mega-Sena, realizado neste domingo (22.nov.2026), fazendo o prêmio acumular para R$ 65 milhões.",
-    "As dezenas sorteadas foram: 17 – 18 – 27 – 36 – 58 – 59, conforme os dados oficiais divulgados pela Caixa Econômica Federal.",
-    "Na faixa da quina, 26 apostas acertaram cinco números e vão faturar R$ 51.466,57 cada, enquanto a quadra teve 2.971 acertadores que receberão R$ 643,42 cada.",
-    "O próximo sorteio, de número 3.090, ocorrerá às 21h de terça-feira (24.nov), no horário de Brasília.",
-    "As apostas simples custam R$ 6, podem ser feitas até as 20h do dia do sorteio nas lotéricas ou canais digitais, e exigem idade mínima de 18 anos com cadastro.",
-    "Os vencedores dispõem de até 90 dias após o sorteio para resgatar os prêmios, período após o qual os valores são repassados ao Fies.",
-    "Para jogos realizados pelo aplicativo ou portal oficial, a Caixa liberou o recebimento via Pix de prêmios até R$ 2.428,80, regra que não vale para apostas presenciais."
+    "O concurso 3.089 da Mega-Sena, realizado em domingo (22.nov.2026), não teve acertadores das 6 dezenas, acumulando o prêmio estimado em R$ 65 milhões para a próxima terça-feira (24.nov). As dezenas sorteadas foram: 17, 18, 27, 36, 58 e 59.",
+    "A quina teve 26 apostas vencedoras, que vão faturar R$ 51.466,57 cada, enquanto a quadra registrou 2.971 apostas ganhadoras com prêmio individual de R$ 643,42.",
+    "O concurso 3.090 ocorrerá às 21h de terça-feira (24.nov), com prazo de apostas até as 20h do mesmo dia em lotéricas e canais digitais da Caixa Econômica Federal.",
+    "A aposta simples com 6 números custa R$ 6. Nos canais digitais, exige-se cadastro, idade mínima de 18 anos e pagamento via cartão de crédito ou Pix, sendo a probabilidade de vitória de 1 em cerca de 50,1 milhões.",
+    "Os vencedores dispõem de até 90 dias após o sorteio para o resgate; caso contrário, os valores são repassados ao Fies (Fundo de Financiamento Estudantil).",
+    "Para jogos feitos pelo portal ou aplicativo oficial da Caixa, o recebimento via Pix foi liberado para prêmios de até R$ 2.428,80, regra que não vale para bilhetes físicos de lotéricas."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-brasil/mega-sena-acumula-e-pode-pagar-r-65-milhoes-na-3a-feira/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/085b2c178825.webp"
   },
   {
    "titulo": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
    "topicos": [
-    "Na madrugada de domingo, 22 de novembro de 2026, as presidências da Turquia e da Austrália apresentaram na COP31, em Antália, uma versão do acordo final sem citar o fim dos combustíveis fósseis.",
-    "A proposta foi prontamente rejeitada pelas nações presentes e considerada um retrocesso, repetindo um impasse sem acordo unânime que não ocorria desde Copenhague em 2009.",
-    "A delegação do Brasil, representada pela embaixadora Liliam Chagas, criticou a falta de ambição e de consenso para combater as mudanças climáticas e apontou a ausência de um mapa de transição.",
-    "O projeto de acordo também deixou de fora metas de triplicação do financiamento para adaptação e instrumentos de apoio às pessoas vulneráveis defendidos pelas autoridades brasileiras.",
-    "O líder australiano Chris Bowen e o presidente turco Murat Kurum admitiram o fracasso e a decepção com o resultado após divergências sobre combustíveis fósseis e financiamento.",
-    "Representantes da ONU, incluindo o secretário-executivo Simon Stiell e o secretário-geral Antônio Guterres, manifestaram profunda frustração com a falta de consenso entre os 196 países envolvidos."
+    "As presidências da Turquia e da Austrália apresentaram na COP31, em Antália, na Turquia, uma versão de acordo final sem menção ao fim dos combustíveis fósseis ou ao mapa do caminho defendido pelo Brasil.",
+    "A proposta foi rejeitada pelas delegações na plenária final realizada em 22 de novembro de 2026, marcada por fortes críticas de retrocesso e pela ausência de um acordo unânime entre os 196 países envolvidos.",
+    "A embaixadora Liliam Chagas, representante do Brasil, criticou a falta de ambição e de consenso para combater as mudanças climáticas, apontando a necessidade de triplicar financiamentos para adaptação e proteger vulneráveis.",
+    "Chris Bowen, líder australiano da COP31, admitiu o resultado decepcionante após três noites sem dormir de negociações, apontando que o impasse ocorreu porque alguns países exigiram menção aos combustíveis fósseis e outros ameaçaram veto.",
+    "O presidente turco Murat Kurum também admitiu o fracasso, alegando que impasses sobre termos específicos e questões paralelas dificultaram o processo, e abandonou o palco durante os discursos da plenária.",
+    "Autoridades da ONU, incluindo o secretário-executivo Simon Stiell e o secretário-geral Antônio Guterres, expressaram profunda decepção com a falta de consenso e cobraram que governos enfrentem a crise climática."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-fracasso-brasil-turquia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7bddaf9d5bf9.webp"
   },
   {
    "titulo": "Ataque russo perto de Kiev, na Ucrânia, atinge prédio de apartamentos e deixa mortos e feridos",
    "topicos": [
     "Um ataque russo atingiu um prédio residencial de cinco andares na vila de Dymer, ao norte de Kiev, na Ucrânia, neste domingo (22), resultando na destruição total da estrutura.",
-    "O bombardeio deixou pelo menos duas pessoas mortas e outras quatro feridas, enquanto equipes de resgate retiraram nove pessoas do local, incluindo uma criança.",
-    "O Serviço Estatal de Emergência da Ucrânia informou que 11 pessoas podem estar presas nos escombros, e as buscas por sobreviventes continuam na região.",
+    "A ofensiva deixou pelo menos duas pessoas mortas e outras quatro feridas, enquanto equipes de resgate atuam para encontrar sobreviventes nos escombros.",
+    "O Serviço Estatal de Emergência da Ucrânia informou que nove pessoas foram retiradas do prédio, incluindo uma criança, e há a suspeita de que 11 indivíduos estejam presos.",
     "Em Kaliningrado, enclave russo próximo à Polônia e à Lituânia, um alerta aéreo raro foi acionado no domingo (22) devido a relatos de drones perto de uma base naval.",
-    "Sirenes de ataque não soavam em Kaliningrado desde o início da invasão total da Ucrânia pela Rússia, em 24 de fevereiro de 2022, segundo a mídia local.",
-    "O governo da Lituânia rejeitou alegações de envolvimento em um ataque com drones na região e negou que seu espaço aéreo tenha sido usado.",
-    "No Golfo da Finlândia, equipes de emergência combatem um incêndio a bordo do navio cargueiro russo Sparta II, atingido por drones que Finlândia e Rússia atribuem à Ucrânia."
+    "Sirenes de ataque não eram ouvidas em Kaliningrado desde o início da invasão total da Ucrânia em 24 de fevereiro de 2022, conforme a mídia local.",
+    "O ministro das Relações Exteriores da Lituânia, Kęstutis Budrys, negou o envolvimento do país e rejeitou acusações sobre o uso do espaço aéreo lituano.",
+    "No Golfo da Finlândia, equipes de emergência tentaram apagar um incêndio no navio cargueiro russo Sparta II, que derivou para águas finlandesas após um ataque."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/ataque-russo-kiev-ucrania.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/947ece800941.webp"
   }
  ]
 }
