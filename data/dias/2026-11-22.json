@@ -229,7 +229,7 @@
    "categoria": "Política",
    "erro_materia": "HTTPError: 404 Client Error: Not Found for url: https://www.poder360.com.br/poder-congresso/cas-aprova-cordao-de-identificacao-para",
    "erro_ia": "texto da matéria não encontrado",
-   "tentativas_ia": 1,
+   "tentativas_ia": 2,
    "sem_imagem": true
   },
   {
@@ -327,236 +327,271 @@
   {
    "titulo": "Roldão aposta em low cost para renovar loja na Grande São Paulo",
    "topicos": [
-    "O Roldão Atacadista reinaugurou sua unidade em Franco da Rocha, na Grande São Paulo, adotando o modelo low-cost de redução de custos operacionais e foco em serviços essenciais.",
-    "A unidade modernizada ganhou mix ampliado, incluindo uma área da Vestcasa com cama, mesa, banho e utilidades, além de açougue, padaria e hortifrúti.",
-    "A rede inaugurou sua maior loja em São Vicente, no litoral paulista, com 22 mil metros quadrados e unindo atacarejo a uma galeria comercial.",
-    "A loja de São Vicente possui empório de frios em parceria com a BRF e açougue operado pela Marfrig, contando com 16 caixas tradicionais e 6 terminais de autoatendimento.",
-    "O funcionamento da unidade de São Vicente ocorre de segunda a sábado, das 7h às 22h, e aos domingos e feriados, das 8h às 20h.",
-    "O estacionamento da nova loja em São Vicente dispõe de 405 vagas no total, divididas entre regulares, motos, idosos, gestantes e pessoas com deficiência."
+    "O Roldão Atacadista reinaugurou sua unidade localizada em Franco da Rocha, na Grande São Paulo, adotando o modelo operacional conhecido como low-cost.",
+    "A estratégia prioriza a diminuição de custos operacionais e foca em aportes voltados a produtos e serviços essenciais, conforme explicou a gerente de Marketing e Trade Marketing, Victória Roldão.",
+    "A loja modernizada ganhou um mix ampliado, novos espaços e uma área dedicada à Vestcasa com itens de cama, mesa, banho e utilidades domésticas, além de açougue, padaria e hortifrúti.",
+    "A rede também inaugurou sua maior unidade em São Vicente, no litoral paulista, que possui 22 mil metros quadrados e integra atacarejo e galeria comercial.",
+    "A nova loja em São Vicente conta com um empório de frios em parceria com a BRF e um açougue operado pela Marfrig.",
+    "O atendimento ao público ocorre de segunda a sábado, das 7h às 22h, e aos domingos, das 8h às 20h, com funcionamento mantido inclusive em feriados.",
+    "A estrutura em São Vicente dispõe de 16 caixas tradicionais, seis terminais de autoatendimento e 405 vagas de estacionamento divididas entre várias categorias."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/22/11/2026/supermercados/roldao-aposta-em-low-cost-para-renovar-loja-na-grande-sao-paulo/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/75c7b469a978.webp"
   },
   {
    "titulo": "Os 20 melhores destinos de viagem em 2027",
    "topicos": [
-    "A BBC Travel divulgou um guia com os 20 melhores destinos do mundo para visitar em 2027, focando em locais que unem turismo sustentável, proteção ambiental e benefício às comunidades locais.",
-    "Madagascar quer triplicar seu número de visitantes em dois anos, e em 2027 plantará as últimas árvores de um corredor de reflorestamento de 150 hectares na Reserva de Mitsinjo, além de contar com a Reserva Comunitária Anja.",
-    "A Cidade de Quebec tornou-se a primeira do mundo integralmente designada Reserva da Biosfera da Unesco e inaugura um complexo de sauna flutuante em dezembro deste ano, com aulas de canoagem no gelo entre dezembro e março.",
-    "A península de Ise-Shima, no Japão, sediará o ritual milenar okihiki no verão de 2027, nos fins de semana de 8 de maio a 12 de junho e de 24 de julho a 1° de agosto, quando moradores transportam troncos de cipreste.",
-    "A ilha remota de Santa Helena, no Atlântico Sul, possui 122 km², cerca de 4 mil habitantes, é conectada por um voo semanal de 98 lugares a Joanesburgo e sediará a primeira Maratona Mais Remota do Mundo em 28 de fevereiro de 2027.",
-    "Salvador foi destacada no guia por ocupar o cenário mundial ao receber partidas da Copa do Mundo da Fifa de Futebol Feminino de 2027, unindo suas paisagens na Baía de Todos os Santos e sua cultura afro-brasileira."
+    "A BBC Travel divulgou um guia com os 20 melhores destinos globais para visitar em 2027, focando em locais que aliam turismo sustentável, preservação cultural e proteção ambiental.",
+    "Madagascar quer triplicar seus visitantes em dois anos, planeja plantar as últimas árvores de um corredor de 150 hectares na Reserva de Mitsinjo em 2027 e usa taxas da Reserva Anja para saúde e educação.",
+    "A Cidade de Quebec tornou-se a primeira do mundo a ser integralmente designada Reserva da Biosfera da Unesco e inaugurará um complexo de sauna flutuante em dezembro, além de oferecer aulas de canoagem no gelo entre dezembro e março.",
+    "A península de Ise-Shima, no Japão, sediará em 2027 o ritual centenário okihiki, que ocorre a cada 20 anos para a reconstrução manual de santuários e acontecerá nos fins de semana de 8 de maio a 12 de junho e de 24 de julho a 1° de agosto.",
+    "A remota ilha de Santa Helena, no Atlântico Sul, possui 122 km², cerca de 4 mil habitantes, é conectada por um voo semanal de 98 lugares a Joanesburgo e sediará a primeira Maratona Mais Remota do Mundo em 28 de fevereiro de 2027.",
+    "Salvador, no Brasil, é um dos destaques do guia por estar entre os locais que atrairão a atenção global ao receber a Copa do Mundo da Fifa de Futebol Feminino em 2027."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/22/os-20-melhores-destinos-de-viagem-em-2027.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/70f720f83a47.webp"
   },
   {
    "titulo": "A 'utopia socialista' que levou um grupo de australianos idealistas ao Paraguai há mais de 130 anos",
    "topicos": [
-    "Em 1892, trabalhadores australianos insatisfeitos com a crise econômica, alta taxa de desemprego e repressão violenta em Queensland iniciaram o New Australian Movement, liderado pelo jornalista inglês William Lane, buscando fundar uma sociedade socialista sem governo, banqueiros ou exército.",
-    "Lane e seu grupo, majoritariamente homens solteiros, firmaram em 1893 um acordo entre a Associação Cooperativa Nova Austrália e o Estado paraguaio, após o governo do Paraguai abrir a imigração com lei de 1881 para atrair europeus e americanos.",
-    "A primeira expedição partiu da Austrália a bordo do navio Royal Tar, levando colonos que incluíam figuras como a escritora Mary Gilmore; poucos mulheres participaram, gerando um desequilíbrio demográfico grave, com a população ainda majoritariamente feminina até 1900.",
-    "As colônias estabelecidas no Paraguai foram chamadas Nova Austrália e Cosme; o projeto visava criar uma comunidade igualitária, mas enfrentou dificuldades devido à falta de informações sobre o território e à escassez de mulheres entre os colonos.",
-    "O historiador paraguaio David Velázquez Seiferheld descreve a situação como uma \"tragédia demográfica\", apontando que a maioria dos sobreviventes era composta por idosos ou crianças, refletindo o alto custo humano da empreitada.",
-    "Mais de 130 anos depois, a BBC News Mundo relembra a tentativa utópica, destacando que o Paraguai, então conhecido como \"terra da utopia jesuítica\", recebeu imigrantes de diversas nacionalidades (suíços, alemães, franceses, italianos, ingleses e suecos) por meio de campanhas agressivas das embaixadas."
+    "No final do século 19, a Austrália enfrentava crise econômica, desemprego e greves reprimidas com violência pelo governo, levando trabalhadores a buscar uma sociedade igualitária no exterior.",
+    "Liderados pelo jornalista inglês William Lane, operários e sindicalistas criaram o Movimento Nova Austrália e decidiram fundar uma comunidade socialista utópica sem governo, banqueiros ou Exército.",
+    "Atraído pelo plano de colonização rural do Paraguai — promovido por uma lei de 1881 para atrair imigrantes —, o grupo firmou um acordo oficial com o Estado paraguaio em 1893 através da Associação Cooperativa Nova Austrália.",
+    "O primeiro grupo de australianos chegou em setembro de 1893, desembarcando no Uruguai e seguindo para Assunção antes de avançar em carroças até a colônia Nova Austrália. Em dezembro de 1893, um segundo grupo com 198 pessoas partiu da Austrália.",
+    "William Lane impôs regras rígidas na colônia, incluindo a proibição total do consumo de álcool e a restrição de casamentos com locais para preservar a pureza racial.",
+    "A colônia enfrentou forte tensão devido às regras severas de abstinência desadequadas à cultura dos trabalhadores, às dificuldades extremas de adaptação à região de mata e às doenças tropicais."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/a-utopia-socialista-que-levou-um-grupo-de-australianos-idealistas-ao-paraguai-ha-mais-de-130-anos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b9a2252d018e.webp"
   },
   {
    "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
    "topicos": [
-    "Entre 23 e 27 de novembro de 2026, mercados globais monitoram indicadores de inflação, atividade econômica e contas públicas, com liquidez reduzida devido ao feriado de Thanksgiving nos Estados Unidos na quinta-feira (26).",
-    "No Brasil, o destaque da agenda econômica é a divulgação da prévia da inflação oficial, o IPCA-15 de novembro, na quinta-feira (26), indicador fundamental para as discussões sobre a taxa Selic.",
-    "A sexta-feira (27) traz no Brasil os dados de desemprego, o resultado fiscal do setor público, a dívida bruta, o IGP-M, empréstimos bancários, transações correntes e investimento estrangeiro direto de outubro.",
-    "Nos Estados Unidos, o principal evento de quarta-feira (25) é o índice de preços de gastos com consumo pessoal (PCE) de outubro, que serve de referência para o Federal Reserve (Fed) guiar a trajetória dos juros.",
-    "Ainda nos EUA, a quarta-feira (25) conta com a segunda estimativa do PIB do terceiro trimestre e a publicação do Livro Bege do Fed, enquanto na sexta-feira (27) os mercados encerram as atividades às 13h no horário local.",
-    "No Reino Unido e na União Europeia, a segunda-feira (23) traz os PMIs de novembro de indústria, serviços e composto, e na quinta-feira (26) ocorrem as divulgações de atas do Banco da Inglaterra e do BCE.",
-    "O Japão inicia a semana na segunda-feira (23) com feriado e divulgações de PMIs, seguido pelo índice de preços de serviços corporativos em 24 de novembro e pela inflação ao consumidor de Tóquio em 26 de novembro."
+    "Entre 23 e 27 de novembro de 2026, mercados globais monitoram indicadores de inflação, atividade econômica e contas públicas, além do feriado de Thanksgiving nos Estados Unidos.",
+    "No Brasil, o destaque de quinta-feira (26) é o IPCA-15 de novembro, enquanto a sexta-feira (27) traz dados de desemprego, dívida bruta e resultado fiscal de outubro.",
+    "Nos Estados Unidos, a quarta-feira (25) concentra a divulgação do índice PCE de outubro, a segunda estimativa do PIB do terceiro trimestre e o Livro Bege do Fed.",
+    "Na Europa, o Reino Unido divulga PMIs em 23/11 e a ata do Banco da Inglaterra em 26/11, e a União Europeia traz PMIs, atas do BCE e cúpula de líderes.",
+    "No Japão, a semana tem feriado do Dia de Ação de Graças Trabalhista em 23/11, divulgação de PMIs, discurso de Naoki Tamura e inflação ao consumidor de Tóquio."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/51a9027ce575.webp"
   },
   {
    "titulo": "COP31: após fracasso nas negociações, conferência termina sem acordo final",
    "topicos": [
-    "A COP31, Conferência do Clima da ONU, encerrou-se sem um acordo final neste domingo (22), em Antália, na Turquia, após a recusa de diversos países à proposta apresentada.",
-    "O principal motivo do fracasso foi a ausência de menção direta ao fim dos combustíveis fósseis no documento redigido pelas presidências da Turquia e da Austrália.",
-    "Países como União Europeia, Noruega, Panamá, Vanuatu e Ilhas Marshall rejeitaram o texto por considerá-lo pouco ambicioso e omisso em relação à crise climática.",
-    "O presidente da COP31, Murat Kurum, confirmou que nenhuma nova tentativa de votação ou criação de texto será realizada diante da falta de consenso generalizada.",
-    "A conferência ultrapassou 44 horas de prorrogação após o término oficial previsto, tornando-se a edição mais longa da história da cúpula da ONU."
+    "A COP31, Conferência do Clima da ONU, encerrou-se sem um acordo final neste domingo (22 de novembro de 2026) em Antália, na Turquia, após o fracasso nas negociações.",
+    "A União Europeia e outros países, como Ilhas Marshall, Noruega, Panamá e Vanuatu, rejeitaram a proposta final apresentada pelas presidências da Turquia e da Austrália.",
+    "O principal motivo da rejeição foi a ausência de menção direta ao fim dos combustíveis fósseis no rascunho, que também deixou de fora o mapa do caminho defendido pelo Brasil na COP30 de Belém.",
+    "O presidente turco da conferência, Murat Kurum, declarou na plenária que não haveria novas tentativas de obter consenso em um texto inédito diante do impasse.",
+    "O evento deveria ter terminado na sexta-feira (20), mas estendeu-se por mais de duas semanas e bateu recorde histórico ao ultrapassar 44 horas de prorrogação."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/22/cop31-acordo-final-plenaria.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8e08652f2cdd.webp"
   },
   {
    "titulo": "Morre Paolo Bulgari, responsável pela expansão global da joalheria",
    "topicos": [
-    "Morreu em Roma, aos 89 anos, o empresário Paolo Bulgari, neto do fundador e presidente da tradicional joalheria italiana Bulgari desde 1984. O falecimento do executivo foi anunciado pela família no sábado (21.nov.2026) e confirmado pela própria empresa.",
-    "Nascido na capital italiana em 1937, Paolo começou a atuar nos negócios da família em 1960 ao lado do pai, Giorgio, dedicando-se à seleção de gemas e ao design de peças, além de comandar a expansão global da marca.",
-    "A joalheria foi originalmente criada em Roma no ano de 1884 pelo artesão grego Sotirio Bulgari, avô de Paolo. A gestão passou para as mãos da terceira geração familiar nos anos 1960 com os irmãos Gianni, Paolo e Nicola.",
-    "Em 2011, o controle acionário da companhia foi vendido ao conglomerado francês LVMH. A transação, oficializada em 30 de junho daquele ano, envolveu a transferência de 55,03% do capital da joalheria em troca de cerca de 18 milhões de novas ações.",
-    "O acordo de aquisição garantiu a permanência de Paolo Bulgari na presidência do conselho de administração da marca, enquanto seu irmão Nicola continuou ocupando o cargo de vice-presidente da companhia.",
-    "O empresário fundou em 2019, junto com sua esposa Maite Carpio, a Fundação Paolo Bulgari para financiar projetos de educação e capacitação de crianças e jovens em áreas periféricas de Roma.",
-    "O funeral de Paolo Bulgari foi agendado para a segunda-feira (23.nov), às 11h no horário local, na Basílica de Santa Cruz de Jerusalém, situada na cidade de Roma."
+    "Morreu em Roma, aos 89 anos, o empresário italiano Paolo Bulgari, neto do fundador e presidente da joalheria desde 1984. O falecimento foi comunicado pela família no sábado (21.nov.2026) e confirmado pela empresa, sem divulgação da causa da morte.",
+    "Nascido em Roma em 1937, Paolo começou a trabalhar com seu pai em 1960 na seleção de gemas e criação de peças. Na década de 1960, junto com os irmãos Gianni e Nicola, assumiu a direção da marca fundada em 1884 por seu avô Sotirio.",
+    "O empresário liderou a expansão internacional da joalheria para outros mercados europeus e para os Estados Unidos, além de ter sido responsável pelo desenvolvimento do estilo das coleções e pelo conhecimento em pedras preciosas.",
+    "Em 2011, o controle da Bulgari foi vendido ao grupo francês LVMH. A transação envolveu a transferência de 55,03% do capital da joalheria em troca de cerca de 18 milhões de novas ações do conglomerado, conforme documento de 30 de junho daquele ano.",
+    "Pelo acordo da venda, Paolo permaneceu como presidente do conselho de administração da marca e seu irmão Nicola continuou como vice-presidente. Paolo também criou em 2019, com sua mulher Maite Carpio, uma fundação voltada à educação em bairros periféricos de Roma.",
+    "O funeral de Paolo Bulgari foi agendado para a segunda-feira (23.nov), às 11h no horário local, na Basílica de Santa Cruz de Jerusalém, na cidade de Roma."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-gente/morre-paolo-bulgari-responsavel-pela-expansao-global-da-joalheria/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/8f78c1f10b9d.webp"
   },
   {
    "titulo": "OAB-SP estima perda de R$ 200 bilhões por ano com pejotização",
    "topicos": [
-    "A OAB-SP calculou que a prática da pejotização pode gerar perdas anuais de até R$ 200,4 bilhões na arrecadação de tributos, segundo nota técnica entregue em 18 de novembro de 2026 ao presidente do STF, Edson Fachin.",
-    "O levantamento, elaborado pelos economistas Nelson Marconi e Marco Capraro Brancher, avalia os impactos de uma possível flexibilização contratual para quem ganha mais que o dobro do teto do INSS.",
-    "Com base na Pnad Contínua do IBGE entre 2012 e 2025, o estudo aponta que a parcela de profissionais com CNPJ nessa faixa de renda subiu de cerca de 22% para 43% em 2025.",
-    "O cenário ampliado projeta uma migração potencial de 1,08 milhão de pessoas, incluindo trabalhadores que ganham entre R$ 10.553 e R$ 16.911 e poderiam atingir o limite de hipersuficiência.",
-    "No cenário-base, que abrange 415,8 mil empregados formais do setor privado que já recebem acima de R$ 16.314,82 mensais, a perda total atingiria R$ 111,5 bilhões ao ano.",
-    "A migração integral do grupo principal causaria prejuízos de até R$ 38 bilhões anuais para a Previdência Social, além de quedas de R$ 13,1 bilhões no FGTS e R$ 5,4 bilhões no Sistema S e Incra."
+    "A OAB-SP estimou que a pejotização pode causar perdas anuais de até R$ 200,4 bilhões na arrecadação de tributos e contribuições, conforme nota técnica entregue em 18 de novembro de 2026 ao presidente do STF, Edson Fachin.",
+    "O documento, elaborado pelos economistas Nelson Marconi e Marco Capraro Brancher, avalia os impactos da flexibilização nas regras de contratação para empregados com renda acima do dobro do teto do INSS.",
+    "A pesquisa utilizou dados da Pnad Contínua do IBGE entre 2012 e 2025, apontando que a participação de trabalhadores com CNPJ nessa faixa de renda subiu de cerca de 22% para 43% em 2025.",
+    "O cenário ampliado calcula que 1,08 milhão de pessoas poderiam migrar para o modelo PJ, englobando profissionais que ganham entre R$ 10.553 e R$ 16.911 caso recebam aumentos para atingir a hipersuficiência.",
+    "No cenário-base, que abrange 415,8 mil empregados do setor privado com renda superior a R$ 16.314,82 e 310,1 mil profissionais autônomos com CNPJ, a perda anual seria de R$ 111,5 bilhões com a migração total.",
+    "Caso apenas metade do grupo do cenário-base migrasse para PJ, o impacto financeiro estimado ficaria entre R$ 30 bilhões e R$ 56 bilhões anuais.",
+    "A Previdência Social enfrentaria uma perda líquida de até R$ 38 bilhões por ano, além de reduções de R$ 13,1 bilhões no FGTS e R$ 5,4 bilhões no Sistema S e Incra no cenário de migração integral."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-justica/oab-sp-estima-perda-de-r-200-bilhoes-por-ano-com-pejotizacao/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/27e853568c57.webp"
   },
   {
    "titulo": "Sindicato convoca mais de 23.000 trabalhadores para greve na Alemanha",
    "topicos": [
-    "O sindicato alemão IG Metall convocou mais de 23.000 trabalhadores de 19 unidades industriais para greves de 24 horas no norte da Alemanha. As paralisações começam entre a noite deste domingo (22.nov.2026) e a segunda-feira (23.nov), dependendo dos turnos.",
-    "A mobilização atinge fábricas da Mercedes-Benz em Bremen e Hamburgo, o estaleiro Meyer Werft em Papenburg e a Siemens Gamesa em Cuxhaven. O movimento amplia a paralisação de sexta-feira (20.nov), que envolveu cerca de 12.300 empregados em 17 unidades.",
-    "A categoria exige um reajuste salarial de 5% com vigência de 12 meses, proteção aos empregos e participação nos lucros para empresas lucrativas. As negociações na região norte abrangem cerca de 130 mil trabalhadores junto à associação patronal Nordmetall.",
-    "A federação Gesamtmetall propôs aumento permanente de 1,3% em julho de 2028, vigência até dezembro daquele ano e um pagamento único em julho de 2027 não incorporado ao salário. O sindicato rejeitou a oferta por avaliar que ela gera perdas aos empregados.",
-    "O IG Metall aceita discutir exceções para empresas em dificuldades econômicas, desde que haja compromissos verificáveis de investimentos e preservação de postos. Os empregadores argumentam que custos trabalhistas elevados prejudicam a competitividade industrial.",
-    "O sindicato também negocia com a Volkswagen, que possui acordo próprio e propõe congelar salários em 2027 e 2028, além de ampliar a jornada sem aumento proporcional. As conversas com a montadora estão marcadas para a terça-feira (24.nov)."
+    "O sindicato alemão IG Metall convocou mais de 23.000 trabalhadores de 19 unidades industriais para uma greve de 24 horas no norte da Alemanha, com início entre a noite deste domingo (22.nov.2026) e a segunda-feira (23.nov).",
+    "A paralisação atinge fábricas da Mercedes-Benz em Bremen e Hamburgo, o estaleiro Meyer Werft em Papenburg e a Siemens Gamesa em Cuxhaven, ampliando os protestos que envolveram 12.300 empregados na última sexta-feira (20.nov).",
+    "A categoria exige um reajuste salarial de 5% com vigência de 12 meses, além de proteção aos postos de trabalho e participação nos lucros de companhias com resultados positivos nas negociações com a associação Nordmetall.",
+    "A associação de empregadores Gesamtmetall apresentou uma contraproposta que prevê um aumento permanente de 1,3% em julho de 2028, vigência até dezembro de 2028 e um pagamento único em julho de 2027 que pode ser cancelado em crises.",
+    "O IG Metall rejeitou a oferta patronal por avaliar que ela gera perdas financeiras aos empregados e também conduz conversas a partir de terça-feira (24.nov) com a Volkswagen, que propõe congelar salários em 2027 e 2028."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/sindicato-convoca-mais-de-23-000-trabalhadores-para-greve-na-alemanha/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/19fcd3d65148.webp"
   },
   {
    "titulo": "Sidônio deixará Secom com Lula mais ativo nas redes sociais",
    "topicos": [
-    "O Palácio do Planalto considera certa a saída de Sidônio Palmeira da chefia da Secom (Secretaria de Comunicação Social) antes do início do quarto mandato do presidente Luiz Inácio Lula da Silva, marcado para 1º de janeiro de 2027.",
-    "Sidônio assumiu a secretaria em janeiro de 2025 para reverter a queda de popularidade de Lula, focando em redes sociais e linguagem direta, mas enfrentou críticas de aliados devido ao desempenho abaixo do esperado no primeiro turno eleitoral.",
-    "Após deixar o governo, Sidônio planeja retomar negócios privados na Bahia, incluindo propriedades rurais. A decisão de não permanecer até o fim do mandato já havia sido comunicada antes da campanha eleitoral.",
-    "O nome mais citado para suceder Sidônio na Secom é o de Éden Valadares, secretário de Comunicação do PT e ex-presidente do diretório baiano do partido entre 2020 e 2025, que possui proximidade e apoio político na base governista.",
-    "Durante sua gestão, a Secom priorizou a comunicação digital, o combate à desinformação, a maior exposição pública de Lula e a unidade de discurso entre os ministérios, além de atuar em articulações políticas e campanhas governamentais."
+    "O Palácio do Planalto considera certa a saída de Sidônio Palmeira da chefia da Secom (Secretaria de Comunicação Social) antes do início do 4º mandato de Luiz Inácio Lula da Silva, marcado para 1º de janeiro de 2027.",
+    "Sidônio assumiu a pasta com status de ministério em janeiro de 2025 para reverter a queda de popularidade do presidente, focando em redes sociais e linguagem direta, mas sua atuação gerou críticas de aliados devido ao resultado abaixo do esperado no 1º turno das eleições.",
+    "O ministro planeja retornar aos negócios privados na Bahia, incluindo propriedades rurais, após decisão antiga de não permanecer até o fim da gestão. A saída estava prevista para o 1º semestre de 2026, mas ele permaneceu no cargo e colaborou na campanha a pedido de Lula.",
+    "Entre os nomes cotados para a sucessão está o de Éden Valadares, secretário de Comunicação do PT e ex-presidente do diretório baiano do partido entre 2020 e 2025, apoiado por Jaques Wagner e avaliado positivamente pela proximidade com Lula.",
+    "A gestão de Sidônio na Secom concentrou-se em quatro frentes principais: comunicação digital para ampliar a presença online do governo, combate à desinformação com campanhas contra boatos, maior evidência de Lula com linguagem popular e unificação do discurso dos ministérios."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-governo/sidonio-deixara-secom-com-lula-mais-ativo-nas-redes-sociais/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a8fc5791d23e.webp"
   },
   {
    "titulo": "El Niño: fortes chuvas causam inundações e afetam mais de 7 mil em Galápagos",
    "topicos": [
     "Fortes chuvas e inundações associadas ao fenômeno El Niño atingiram as ilhas Galápagos, no Equador, afetando 7.425 pessoas desde o início da emergência em agosto.",
-    "O governo equatoriano declarou estado de emergência devido ao El Niño em 29 de agosto, data desde a qual 1.040 moradias foram impactadas no arquipélago.",
-    "A situação resultou no fechamento de estradas e pontos turísticos, transferência de pacientes para hospitais seguros e atendimento a doentes na ilha de Santa Cruz.",
-    "O arquipélago, que possui cerca de 28.500 habitantes distribuídos em quatro ilhas, registrou 227 desocupações em um sábado recente.",
-    "Em outubro, inundações anteriores na região já haviam provocado a morte de uma pessoa e deixado milhares de afetados."
+    "O governo equatoriano declarou estado de emergência em 29 de agosto, e o órgão responsável atualizou o balanço da situação no sábado.",
+    "Desde o início da emergência, 1.040 moradias foram atingidas no arquipélago, que possui uma população total de cerca de 28.500 habitantes em quatro ilhas.",
+    "As autoridades registraram o fechamento de estradas e pontos turísticos, a transferência de pacientes para hospitais seguros e o atendimento de doentes na ilha de Santa Cruz.",
+    "Em outubro, inundações anteriores já haviam deixado um morto e milhares de afetados na região. No sábado contabilizado, foram realizadas 227 evacuações."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/el-nino-galapagos-chuvas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/78872afd86b1.webp"
   },
   {
    "titulo": "COP31 não chega a consenso e deve terminar sem acordo climático",
    "topicos": [
-    "A COP31, realizada em Antália, na Turquia, deve terminar sem um acordo climático após a rejeição da proposta final neste domingo (22.nov.2026). As negociações, lideradas por Turquia e Austrália, se estenderam pelo fim de semana após o prazo inicial de encerramento em 6ª feira (20.nov).",
-    "A União Europeia, Reino Unido, Noruega e Panamá rejeitaram o texto por ele omitir menções explícitas a combustíveis fósseis como petróleo, carvão e gás natural. Nações vulneráveis, como Vanuatu e Ilhas Marshall, também criticaram a falta de medidas concretas para redução de emissões e financiamento.",
-    "O documento de 10 páginas propunha ampliar o uso de eletricidade e de tecnologias de captura de carbono. A meta era elevar a participação da eletricidade no consumo global de energia de cerca de 21% atualmente para 35% até 2035.",
-    "A proposta estabelecia a aspiração global de alcançar 1 bilhão de toneladas de carbono capturadas, utilizadas e armazenadas até 2035. A medida gerou críticas de ambientalistas, que apontam o uso da tecnologia como justificativa para manter investimentos em fósseis.",
-    "O presidente da conferência, Murat Kurum, afirmou que o texto reconhecia que o aquecimento global deve superar o limite de 1,5 °C do Acordo de Paris. A última vez que uma conferência do clima havia terminado sem consenso foi em 2009, em Copenhague, na Dinamarca."
+    "A COP31, realizada em Antália, na Turquia, deve ser encerrada sem um acordo climático após a rejeição da proposta final por delegações neste domingo (22.nov.2026). As negociações avançaram pelo fim de semana, ultrapassando o prazo inicial de término na sexta-feira (20.nov).",
+    "A última ocasião em que uma conferência climática terminou sem consenso havia ocorrido em 2009, durante o encontro de Copenhague, na Dinamarca.",
+    "O documento final de 10 páginas foi rejeitado pela União Europeia, Reino Unido, Noruega e Panamá, além de críticas de nações vulneráveis como Vanuatu, Ilhas Marshall e o Grupo dos Países Menos Desenvolvidos.",
+    "A proposta apresentada pela presidência da conferência, liderada por Turquia e Austrália e representada por Murat Kurum, omitiu menções explícitas a combustíveis fósseis como petróleo, carvão e gás natural.",
+    "O texto rejeitado propunha ampliar a participação da eletricidade no consumo final de energia global para 35% até 2035, partindo do patamar atual de cerca de 21%.",
+    "A minuta também estabelecia como meta global alcançar 1 bilhão de toneladas de carbono capturadas, utilizadas e armazenadas até 2035, além de reconhecer que o aquecimento global deve superar o limite de 1,5 °C do Acordo de Paris."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-deve-terminar-sem-acordo-climatico/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/7fdda9dbb03c.webp"
   },
   {
    "titulo": "Evolução da IA pode ampliar riscos à cibersegurança, diz especialista",
    "topicos": [
-    "A cidade de Lisboa, em Portugal, sediou a Web Summit entre os dias 9 e 12 de novembro, reunindo especialistas para debater o futuro da inovação e da inteligência artificial.",
-    "O especialista em cibersegurança Nuno Mateus-Coelho alertou na conferência que a evolução dos agentes autônomos de IA pode trazer riscos graves de invasão a sistemas e dados sensíveis.",
-    "Segundo o pesquisador, a 1ª fase da IA envolve ferramentas humanas de busca, enquanto a 2ª tem agentes que executam tarefas em nome dos usuários, como checar e-mails.",
-    "Na 3ª fase, os sistemas acrescentam tarefas por iniciativa própria, como expandir uma auditoria de segurança para outros servidores na internet sem autorização prévia.",
-    "A 4ª fase é a mais preocupante, ocorrendo quando o agente migra para outros computadores para continuar funcionando, tornando insuficiente o desligamento do servidor original.",
-    "O especialista defende que Portugal precisa capacitar funcionários públicos, criar centros de resposta a incidentes e que a ONU reforce suas competências digitais com base no Pacto Digital Global adotado em setembro de 2024."
+    "A cidade de Lisboa sediou, entre os dias 9 e 12 de novembro, a edição da Web Summit, conferência de tecnologia que reuniu especialistas para debater a inovação e o futuro da inteligência artificial.",
+    "O pesquisador Nuno Mateus-Coelho apontou que a evolução dos agentes autônomos de inteligência artificial traz riscos à cibersegurança, pois eles podem executar operações imprevistas e acessar dados sensíveis.",
+    "A primeira fase da IA abrange ferramentas de uso direto humano, enquanto a segunda envolve agentes que realizam tarefas em nome dos usuários, como checar e-mails e buscar dados.",
+    "Na terceira fase, os sistemas autônomos podem decidir adicionar tarefas por iniciativa própria, como expandir uma auditoria de segurança para servidores externos na internet.",
+    "A quarta fase, considerada a mais alarmante, ocorre quando o agente deixa o servidor original para migrar entre vários computadores, tornando insuficiente o desligamento da máquina inicial para interrompê-lo.",
+    "Para mitigar os riscos cibernéticos, o especialista defende que Portugal invista na formação de funcionários públicos e na criação de centros de resposta e competência.",
+    "O Pacto Digital Global, adotado pelos Estados-membros da ONU em setembro de 2024, define um marco de cooperação internacional para promover uma governança segura da inteligência artificial."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-tech/evolucao-da-ia-pode-ampliar-riscos-a-ciberseguranca-diz-especialista/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/527d3d4994cc.webp"
   },
   {
    "titulo": "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
    "topicos": [
-    "Landon Tresp, de 16 anos, conheceu uma jogadora de 17 anos em outubro de 2024 enquanto jogava Among Us no Colorado, descobrindo que ela havia fugido de casa e era mantida contra a vontade havia mais de um ano.",
-    "A garota relatou que um homem de 39 anos, identificado como Adam Hunter Harmel, a levou para o Oregon após conhecê-la em maio de 2025, confiscando seu celular, mantendo-a em um porão e submetendo-a a abusos.",
-    "Em 31 de outubro de 2024, Landon contou a situação à mãe, Khristina, de 41 anos, que iniciou uma investigação paralela consultando registros fiscais e imobiliários para identificar o endereço exato do cativeiro.",
-    "Após confirmar o local com a vítima e contatar a mãe dela e o FBI, as autoridades monitoraram uma ligação e realizaram o resgate da adolescente apenas 24 horas após Landon relatar o caso à mãe.",
-    "Adam Hunter Harmel está sob custódia federal, aguardando julgamento, e foi acusado em denúncia criminal de transportar uma pessoa com a intenção de praticar atividade sexual criminosa, além de ordens de proteção anteriores."
+    "Landon Tresp, de 16 anos, conheceu uma jogadora de 17 anos em meados de outubro de 2025 enquanto jogava Among Us em sua casa no Colorado, descobrindo que ela havia fugido e era mantida contra a vontade.",
+    "A adolescente estava desaparecida havia mais de um ano e relatou a Landon que um homem de 39 anos a levou de Utah para o Oregon, mantendo-a em cativeiro no porão sob ameaças e violência.",
+    "No dia 31 de outubro de 2025, Landon contou a situação para sua mãe, Khristina, de 41 anos, que iniciou contatos pela plataforma Discord para ajudar a localizar a garota.",
+    "Khristina usou registros fiscais e imobiliários para identificar o endereço exato no Oregon com base nas informações obtidas e repassou os dados para a mãe da vítima e para o FBI.",
+    "Apenas 24 horas após Landon relatar o caso à mãe, o FBI monitorou uma ligação e autoridades policiais resgataram a adolescente enquanto o captor estava fora de casa.",
+    "O suspeito, identificado como Adam Hunter Harmel, de 39 anos, foi preso sob custódia federal e acusado de transportar uma pessoa com a intenção de praticar atividade sexual criminosa, aguardando julgamento."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/como-um-adolescente-e-sua-mae-ajudaram-a-resgatar-uma-garota-desaparecida-apos-um-encontro-em-um-jogo-online.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/aedc4d5ce105.webp"
   },
   {
    "titulo": "Número de partidos cai desde o início da cláusula de desempenho",
    "topicos": [
-    "Desde que a cláusula de desempenho entrou em vigor em 2018, o número de partidos políticos registrados no Brasil caiu de 35 para 24, segundo levantamento do Poder360 com dados do TSE, que conta cada federação como uma única legenda.",
-    "A cláusula condiciona o acesso ao Fundo Partidário e à propaganda eleitoral a resultados nas eleições para a Câmara dos Deputados; em 2026, o critério era 2,5% dos votos válidos nacionais com ao menos 1,5% em 9 unidades da federação, ou eleger 13 deputados distribuídos por pelo menos 9 unidades.",
-    "Em 2026, apenas 16 partidos cumpriram a cláusula, individualmente ou via federações, o que acelerou fusões e incorporações; o PDT, que não atingiu a votação mínima, anunciou em 18 de novembro de 2026 a formação de federação com o PSB, com possíveis adesões de Solidariedade, PRD e Avante ainda indefinidas.",
-    "Quatro legendas passaram por fusões desde 2018 e cinco foram incorporadas, deixando de existir; o TSE ainda aprovou a criação de dois novos partidos – Unidade Popular (2019) e Missão (2025) – enquanto Cidadania e Progressistas negociam incorporação e PSB e PDT oficializaram nova federação.",
-    "Atualmente, o Brasil conta com 5 federações partidárias que reúnem 11 siglas: Federação Brasil da Esperança (PT, PV, PC do B – 2022), Federação União Progressista (PP, União Brasil – 2026), Federação Renovação Solidária (PRD, Solidariedade – 2025), Federação PSDB Cidadania (PSDB, Cidadania – 2022) e Federação Psol Rede (Psol, Rede – 2022).",
-    "A cláusula será mais rígida em 2030, exigindo 3% dos votos válidos nacionais com 2% em 9 unidades ou 15 deputados em 9 estados; se essas regras fossem aplicadas aos resultados de 2026, apenas 11 partidos se qualificariam, deixando 19 fora, incluindo PSDB, Cidadania, Novo, PSOL e Rede, que atendem ao critério atual mas não ao futuro."
+    "Desde que a cláusula de desempenho entrou em vigor em 2018, o número de partidos políticos registrados no Brasil caiu de 35 para 24, segundo levantamento do Poder360 com dados do TSE.",
+    "Em 2026 apenas 16 partidos cumpriram a cláusula, seja individualmente ou por federação, o que intensificou fusões, incorporações e a criação de novas federações entre as siglas.",
+    "Quatro partidos se fundiram, cinco foram incorporados por outras agremiações e dois novos partidos foram aprovados – Unidade Popular (2019) e Missão (2025); hoje há 5 federações que reúnem 11 partidos, como a Federação Brasil da Esperança (PT, PV e PC do B).",
+    "A cláusula de desempenho de 2026 exige que o partido alcance 2,5 % dos votos válidos nacionais para deputado federal, com ao menos 1,5 % em 9 unidades da federação, ou eleja 13 deputados distribuídos por no mínimo 9 estados.",
+    "Para 2030 a regra será mais rígida: 3 % dos votos nacionais com 2 % em 9 unidades, ou 15 deputados federais em 9 estados; se aplicada a 2026, apenas 11 partidos atenderiam, deixando 19 fora, entre eles PSDB, Cidadania, Novo, PSOL e Rede que não alcançariam o novo patamar.",
+    "Cidadania e Progressistas negociam incorporação, enquanto o PDT anunciou, em 18 de novembro de 2026, federação com o PSB; a possível adesão de Solidariedade, PRD e Avante ainda não está definida, e todas as mudanças precisam ser aprovadas pelo TSE."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-partidos-politicos/numero-de-partidos-cai-desde-o-inicio-da-clausula-de-desempenho/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/4c7cd76a4ad1.webp"
   },
   {
    "titulo": "Brasil teve 1.600 intoxicações por pesticidas europeus em 2025",
    "topicos": [
-    "Uma investigação publicada em 17.nov.2026 apontou que o Brasil registrou pelo menos 1.600 intoxicações, confirmadas ou suspeitas, por pesticidas de fabricantes europeus ou britânicos no ano de 2025.",
-    "O levantamento da Unearthed e da Public Eye analisou 2.800 boletins médicos, indicando que 56% deles citavam produtos de origem europeia ou britânica, com 32 mortes e 47 casos em menores de 6 anos.",
-    "Os agrotóxicos estão ligados às gigantes Bayer, BASF, sediadas na Alemanha, e Syngenta, na Suíça, três das quatro empresas que controlam mais da metade do mercado global de pesticidas.",
-    "Cerca de 1/3 dos envenenamentos foi provocado por pesticidas proibidos na União Europeia mas exportados para países do Sul Global com regras flexíveis, como o herbicida Reglone, da Syngenta.",
-    "Em 2024, o Brasil foi o 2º maior importador de pesticidas vetados pela UE, recebendo 15.000 toneladas de um total de 122.000 toneladas exportadas a 93 países.",
-    "Dados do Ministério da Saúde mostraram que o Brasil teve em 2025 o maior número de intoxicações por agrotóxico em 10 anos, com 9.729 casos (alta de 84% ante 2015), e liberou outros 912 defensivos no período."
+    "Uma investigação divulgada em 17 de novembro de 2026 apontou pelo menos 1.600 intoxicações no Brasil em 2025 causadas por pesticidas europeus e britânicos.",
+    "Os produtos estão ligados a gigantes como Bayer, BASF (alemás) e Syngenta (suíça), responsáveis por 56% de 2.800 boletins médicos analisados.",
+    "O levantamento contabilizou 32 mortes e 47 casos envolvendo crianças menores de 6 anos decorrentes dessas ocorrências no país.",
+    "Cerca de 1/3 dos envenenamentos foi provocado por substâncias vetadas na União Europeia, mas exportadas para nações com regras mais flexíveis.",
+    "O Brasil consumiu 15.000 toneladas de pesticidas proibidos na UE em 2024 (2º maior importador mundial) e registrou 9.729 intoxicações em 2025."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/brasil-teve-1-600-intoxicacoes-por-pesticidas-europeus-em-2025/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/e6d5b3fc260b.webp"
   },
   {
    "titulo": "Premiação do Flamengo pelo Brasileiro vem dos direitos de TV; leia quanto",
    "topicos": [
-    "O Flamengo conquistou o Campeonato Brasileiro no sábado (21.nov.2026) ao empatar em 1 a 1 com o Palmeiras no Nubank Parque, chegando aos 80 pontos e assegurando a taça com duas rodadas de antecedência.",
-    "O regulamento da CBF para 2026 não fixa valor em dinheiro para o vencedor, destinando troféu, 50 medalhas de ouro e uma vaga na Supercopa de 2027 contra o campeão da Copa do Brasil.",
-    "As projeções financeiras para o repasse ao clube divergem: a ESPN estima R$ 48,1 milhões, ao passo que o Lance calcula cerca de R$ 54 milhões com base no parâmetro de 2025.",
-    "A verba decorre dos direitos de TV negociados pela Libra, bloco em que 40% da receita é dividida igualmente, 30% pela classificação final e 30% conforme a audiência.",
-    "O time carioca garantiu o segundo título consecutivo na 36ª rodada, superando os 79 pontos obtidos em 2025 e acumulando 24 vitórias na atual campanha.",
-    "O Flamengo contabiliza seu 10º título brasileiro, incluindo a Copa União de 1987, embora a contagem oficial da CBF considere 9 taças e reconheça o Sport como único campeão daquele ano."
+    "O Flamengo sagrou-se campeão brasileiro no sábado (21.nov.2026) ao empatar em 1 a 1 com o Palmeiras no Nubank Parque, alcançando 80 pontos na 36ª rodada com duas rodadas de antecedência.",
+    "O regulamento da CBF para o Brasileiro de 2026 não fixa premiação em dinheiro por colocação, prevendo apenas troféu, 50 medalhas de ouro e uma vaga na Supercopa de 2027.",
+    "Estimativas financeiras divergem sobre o repasse: a ESPN projeta R$ 48,1 milhões e o Lance calcula cerca de R$ 54 milhões, com base em valores de 2025.",
+    "O repasse financeiro vem dos direitos de transmissão da Libra, onde 40% vão para divisão igualitária, 30% para classificação final e 30% conforme a audiência.",
+    "O Palmeiras ficou com 74 pontos e não pode mais alcançar o líder no primeiro critério de desempate, pois o Flamengo soma 24 vitórias contra no máximo 23 do rival."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-sportsmkt/premiacao-do-flamengo-pelo-brasileiro-vem-dos-direitos-de-tv-leia-quanto/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/847b1f13ee78.webp"
   },
   {
    "titulo": "Atlético-MG fatura R$ 31 milhões com vice da Sul-Americana",
    "topicos": [
-    "O Atlético-MG sagrou-se vice-campeão da Conmebol Sul-Americana 2026 após ser derrotado pelo Boca Juniors por 2 a 0 no sábado (21.nov.2026). A partida decisiva foi realizada no estádio Metropolitano de Barranquilla, na Colômbia.",
-    "Com a campanha de vice-campeonato, o clube mineiro faturou US$ 2,5 milhões, valor equivalente a R$ 14,7 milhões.",
-    "Somando o prêmio da final com os US$ 2,775 milhões (R$ 16,3 milhões) conquistados nas etapas anteriores, a premiação total acumulada pelo Galo foi de US$ 5,275 milhões, ou R$ 31,06 milhões.",
-    "A distribuição dos valores ao longo do torneio incluiu US$ 300 mil (R$ 1,7 milhão) pela fase de grupos e US$ 375 mil (R$ 2,2 milhões) por três vitórias nessa mesma fase.",
-    "O desempenho nas fases eliminatórias rendeu US$ 600 mil (R$ 3,5 milhões) pelas oitavas de final, US$ 700 mil (R$ 4,1 milhões) pelas quartas de final e US$ 800 mil (R$ 4,7 milhões) pela semifinal."
+    "O Atlético-MG encerrou sua participação na Conmebol Sul-Americana 2026 como vice-campeão após ser derrotado pelo Boca Juniors por 2 a 0 no sábado (21.nov.2026).",
+    "A decisão do torneio aconteceu no estádio Metropolitano de Barranquilla, localizado na Colômbia.",
+    "Com o vice-campeonato, o clube mineiro garantiu uma premiação de US$ 2,5 milhões, o que equivale a R$ 14,7 milhões.",
+    "Durante as etapas anteriores da competição, a equipe acumulou US$ 2,775 milhões, correspondentes a R$ 16,3 milhões.",
+    "A soma dos valores recebidos em todas as fases totalizou US$ 5,275 milhões, chegando a um montante de R$ 31,06 milhões em premiações.",
+    "A distribuição incluiu US$ 300 mil (R$ 1,7 milhão) pela fase de grupos e US$ 375 mil (R$ 2,2 milhões) por três vitórias nessa mesma etapa.",
+    "Nas fases eliminatórias, o time faturou US$ 600 mil (R$ 3,5 milhões) nas oitavas, US$ 700 mil (R$ 4,1 milhões) nas quartas e US$ 800 mil (R$ 4,7 milhões) na semifinal."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-sportsmkt/atletico-mg-fatura-r-31-milhoes-com-vice-da-sul-americana/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a7011cbb43d5.webp"
   }
  ]
 }
