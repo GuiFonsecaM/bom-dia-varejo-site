@@ -510,502 +510,577 @@
   {
    "titulo": "Controle da inflação é prioridade do Banco Central, diz Galípolo",
    "topicos": [
-    "O presidente do Banco Central, Gabriel Galípolo, declarou nesta segunda‑feira (23) que a principal missão da instituição é garantir a estabilidade de preços, reforçando que, se necessário, o BC pode manter ou elevar a taxa básica de juros (Selic) para conter a inflação.",
-    "A fala ocorreu duas semanas antes da última reunião do Comitê de Política Monetária (Copom) do ano, quando será decidido o nível da Selic, em um cenário de desaceleração econômica e inflação ainda acima da meta.",
-    "Galípolo apontou que o aumento do poder de compra, impulsionado pelo reajuste do salário mínimo e por programas de recomposição de renda, ajudou a reduzir o desconforto da população, mas também pode elevar a demanda e pressionar a inflação, sobretudo numa economia próxima do pleno emprego.",
-    "Segundo o presidente do BC, é possível manter programas sociais e benefícios sem abrir mão de rever regras que fazem despesas crescerem junto à arrecadação, buscando equilibrar as contas públicas sem cortes nominais de um ano para outro.",
-    "O Banco Central continua estudando medidas para evitar o endividamento excessivo das famílias e melhorar a transparência nas ofertas de crédito, após ter anunciado, em outubro, novas normas de proteção ao consumidor.",
-    "A partir de 31 de março de 2027, clientes em situação de vulnerabilidade financeira ou risco de endividamento só poderão receber ofertas ativas de crédito mediante autorização prévia, específica e inequívoca, devendo essas ofertas visar melhorar as condições financeiras, como renegociação ou portabilidade, sem liberação de novos recursos.",
-    "Galípolo ressaltou que o aumento do endividamento familiar foi intensificado pelos efeitos da pandemia de Covid‑19 e pela maior inclusão bancária, e que o BC busca aumentar a consciência dos consumidores sobre custos e custos de crédito."
+    "Gabriel Galípolo, presidente do Banco Central, declarou nesta segunda-feira (23), em evento do Itaú, que o controle da inflação é a prioridade máxima da instituição.",
+    "A postura indica que o Banco Central pode manter ou subir a taxa básica de juros (Selic) para conter a inflação e atingir a meta, antecedendo a última reunião do Copom do ano.",
+    "Segundo Galípolo, a valorização do salário mínimo e a recomposição de renda melhoraram o poder de compra, mas também podem pressionar a inflação em uma economia próxima do pleno emprego.",
+    "O chefe do BC defendeu que é viável manter programas sociais e ajustar regras de despesas que crescem com a arrecadação, gerando menos conflitos entre as políticas econômicas.",
+    "A instituição estuda ações para coibir o endividamento familiar excessivo e ampliar a transparência na concessão de crédito, conforme anunciado em outubro.",
+    "A partir de 31 de março de 2027, clientes vulneráveis ou com risco de endividamento só receberão ofertas ativas de crédito mediante autorização prévia e sem novos recursos."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/b571fb69f7ef.webp"
   },
   {
    "titulo": "JPMorgan vê alívio no caixa do GPA (PCAR3) após renegociação de dívida trabalhista",
    "topicos": [
-    "O Tribunal Regional do Trabalho da 2ª Região (TRT‑2) aprovou o Plano Especial de Pagamento Trabalhista (PEPT) do GPA, prorrogando o prazo para quitar R$ 140 milhões em passivos trabalhistas que venciam até o fim de 2027, permitindo pagamento em até 72 parcelas mensais ao longo de seis anos, corrigidas pela taxa Selic.",
-    "O JPMorgan considerou o anúncio ligeiramente positivo, pois a medida distribui o pagamento dos R$ 140 milhões, acrescidos de juros, que originalmente venceriam no próximo ano, ao longo de seis anos, aliviando o fluxo de caixa de curto prazo da empresa.",
-    "Com a nova estrutura, o GPA deverá desembolsar cerca de R$ 35 milhões em 2027, valor que corresponde a aproximadamente 20 % da posição de caixa da companhia no terceiro trimestre de 2026, sem contar os recursos adicionais do plano de recuperação extrajudicial.",
-    "A companhia ainda possui cerca de R$ 2 bilhões em contingências classificadas como perda provável, já provisionadas, e outros R$ 12 bilhões classificados como perda possível, ainda sem provisão.",
-    "O GPA está negociado a 5,7 vezes o valor da empresa sobre o EBITDA (EV/EBITDA) estimado para 2027, e o JPMorgan mantém recomendação underweight (abaixo da média do mercado) para suas ações.",
-    "A renegociação ocorre enquanto o GPA executa seu plano de recuperação extrajudicial, demonstrando esforço contínuo na resolução de passivos herdados, aspecto relevante para os investidores."
+    "O Tribunal Regional do Trabalho da 2ª Região (TRT‑2) aprovou o Plano Especial de Pagamento Trabalhista (PEPT) do GPA (PCAR3), permitindo que a empresa quite R$ 140 mi de passivos trabalhistas que venciam até o fim de 2027.",
+    "Com o novo acordo, o GPA poderá pagar o montante em até 72 parcelas mensais, ao longo de seis anos, com correção pela taxa Selic, diluindo o desembolso originalmente previsto para o próximo ano.",
+    "A medida reduz o pagamento previsto para 2027 de cerca de R$ 140 mi para aproximadamente R$ 35 mi, valor que corresponde a cerca de 20 % da posição de caixa da companhia no terceiro trimestre de 2026, sem contar recursos do plano de recuperação extrajudicial.",
+    "A empresa ainda registra R$ 2 bi em contingências de perda provável já provisionadas e R$ 12 bi em contingências de perda possível, ainda sem provisão, indicando a extensão dos passivos herdados.",
+    "Analistas do JPMorgan consideram o anúncio ligeiramente positivo, pois distribui o pagamento ao longo de seis anos, aliviando o fluxo de caixa de curto prazo enquanto o GPA executa seu plano de recuperação extrajudicial.",
+    "O GPA está sendo negociado a 5,7 vezes o EV/EBITDA estimado para 2027 e o JPMorgan mantém recomendação de \"underweight\" (abaixo da média do mercado) para as ações."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/jpmorgan-ve-alivio-no-caixa-do-gpa-pcar3-apos-renegociacao-de-divida-trabalhista/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2f60149fd69f.webp"
   },
   {
    "titulo": "Mercado financeiro eleva estimativa de inflação em 2026 e 2027 e projeta corte menor dos juros no ano que vem",
    "topicos": [
-    "O Boletim Focus, divulgado pelo Banco Central na segunda‑feira (23) e baseado em pesquisa com mais de 100 instituições financeiras, mostrou que os analistas elevaram a projeção de inflação para 2026 de 5,11 % para 5,15 % e para 2027 de 5 % para 5,12 %; as estimativas para 2028 e 2029 permaneceram em 4 %.",
-    "Na mesma publicação, a expectativa de crescimento do PIB foi revisada para baixo: para 2023 passou de 1,72 % para 1,70 %; para 2027 caiu de 1,02 % para 1,0 %; e para 2028 recuou de 1,80 % para 1,71 %.",
-    "O Banco Central manteve a taxa Selic em 13,75 % ao ano no início do mês; os analistas projetam que ela se mantenha em 13,75 % ao fim de 2026, suba para 13 % em 2027 (de 12,75 %), e depois fique em 11 % em 2028 e 10,5 % em 2029.",
-    "As previsões cambiais também foram ajustadas: a cotação esperada do dólar para o fim de 2023 subiu de R$ 5,40 para R$ 5,55; para 2027 passou de R$ 5,45 para R$ 5,50; para 2028 de R$ 5,48 para R$ 5,50; e para 2029 de R$ 5,50 para R$ 5,55.",
-    "O texto destaca que, em ano eleitoral, o governo adotou medidas de estímulo que aumentaram a demanda, mas dificultaram o controle da inflação, levando o BC a enfatizar que uma desaceleração do crescimento econômico faz parte da estratégia para conter pressões inflacionárias."
+    "Analistas do mercado financeiro elevaram as projeções de inflação e reduziram as estimativas de corte nos juros para os próximos anos, conforme o Boletim Focus divulgado nesta segunda-feira (23) pelo Banco Central.",
+    "A pesquisa, realizada na última semana com mais de cem instituições financeiras, apontou que a inflação projetada para 2026 subiu de 5,11% para 5,15%, enquanto para 2027 passou de 5% para 5,12%.",
+    "As previsões de inflação para 2028 e 2029 permaneceram estáveis em 4% em ambos os anos, segundo o levantamento do Banco Central.",
+    "Para o Produto Interno Bruto, a estimativa de crescimento de 2026 caiu de 1,72% para 1,70%, a de 2027 recuou de 1,02% para 1%, e a de 2028 foi ajustada de 1,80% para 1,71%.",
+    "A taxa Selic esperada para o fim de 2026 ficou mantida em 13,75% ao ano, mas a projeção para o encerramento de 2027 subiu de 12,75% para 13% ao ano.",
+    "As expectativas para a taxa Selic no fechamento de 2028 continuaram em 11% ao ano e, para o término de 2029, permaneceram em 10,5% ao ano.",
+    "A cotação do dólar projetada para o fim de 2026 passou de R$ 5,40 para R$ 5,55, e a estimativa para o fechamento de 2027 avançou de R$ 5,45 para R$ 5,50 por dólar."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/23/mercado-financeiro-eleva-estimativa-de-inflacao-em-2026-e-2027-e-projeta-corte-menor-dos-juros-no-ano-que-vem.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/85b2a0627e8c.webp"
   },
   {
    "titulo": "JBS investe US$ 150 milhões em fábricas de carne em Omã",
    "topicos": [
-    "Em 19 de novembro de 2026, a JBS anunciou a conclusão de um investimento de US$ 150 milhões para criar uma joint venture em Omã, com 80 % de participação da empresa e 20 % da Oman Food Capital, sendo a associação domiciliada na Holanda.",
-    "A joint venture reunirá duas unidades industriais em Omã – uma fábrica integrada de aves em A’Namaa, na região de Ibri (norte), e a expansão da unidade de confinamento e processamento de carne bovina e ovina em Al Bashayer, em Thumrait (sul) – com capacidade total estimada de 300 mil toneladas de carne por ano.",
-    "A JBS informou que o complexo poderá processar diariamente cerca de 1 000 bovinos, 5 000 cordeiros e 600 mil frangos, atendendo ao consumo interno de Omã e às exportações para países vizinhos.",
-    "O projeto tem como objetivo transformar Omã em um polo exportador de alimentos halal, obedecendo às normas islâmicas, e está alinhado ao plano Visão 2040, que visa fortalecer a segurança alimentar nacional.",
-    "A expansão da cadeia produtiva deverá gerar mais de 3 000 empregos diretos em Omã nos próximos cinco anos.",
-    "A Oman Food Capital, sócia local, atua como braço de investimentos em alimentos e agronegócio da Oman Investment Authority, o fundo soberano do país."
+    "A JBS concluiu em 19 de novembro de 2026 um aporte de US$ 150 milhões para estabelecer uma joint venture em Omã, localizada na região do Oriente Médio.",
+    "A gigante brasileira de alimentos deterá 80% do controle societário do negócio sediado na Holanda, enquanto a Oman Food Capital ficará com os 20% restantes.",
+    "Os fundos aplicados vão finalizar uma planta integrada de aves da A’Namaa na cidade de Ibri e expandir o confinamento da Al Bashayer em Thumrait.",
+    "Quando o complexo operar em plena capacidade, as duas unidades industriais produzirão anualmente 300 mil toneladas de carne no território omanense.",
+    "A estrutura industrial terá capacidade diária para processar aproximadamente 1.000 bovinos, 5.000 cordeiros e 600 mil frangos para o mercado interno e externo.",
+    "O empreendimento pretende transformar o país árabe em um centro exportador de alimentos halal e apoiar a estratégia econômica governamental Visão 2040.",
+    "A ampliação da cadeia produtiva tem a expectativa de gerar mais de 3.000 postos de trabalho diretos em Omã ao longo do período de 5 anos."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/jbs-investe-us-150-milhoes-em-fabricas-de-carne-em-oma/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/82c1bec258a1.webp"
   },
   {
    "titulo": "UE abre investigação antitruste contra Coca-Cola Europacific Partners",
    "topicos": [
-    "A Comissão Europeia iniciou, na segunda‑feira, 23, uma investigação formal antitruste contra a Coca‑Cola Europacific Partners (CCEP), empresa britânica e uma das maiores engarrafadoras da The Coca‑Cola na Europa.",
-    "A suspeita é de que a CCEP tenha dificultado o comércio transfronteiriço de refrigerantes e bebidas esportivas, impedindo alguns clientes de comprar esses produtos para vários países da UE.",
-    "A comissão alegou que a empresa pode ter abusado da sua posição dominante no fornecimento por atacado a supermercados e varejistas, violando as regras de concorrência da União Europeia.",
-    "A CCEP declarou que continuará a cooperar integralmente com as autoridades europeias e que leva a legislação concorrencial a sério.",
-    "Em paralelo, a Comissão Europeia avaliou que as medidas da plataforma de comércio eletrônico Temu, controlada pela chinesa PDD Holdings, são insuficientes para impedir a venda de produtos ilegais.",
-    "Caso a Comissão confirme a infração, a Temu pode ser multada em até 6 % do seu faturamento anual global, além de ter que melhorar a moderação de conteúdo e a aplicação de sanções a vendedores."
+    "A Comissão Europeia iniciou uma investigação formal contra a Coca-Cola Europacific Partners (CCEP) nesta segunda-feira, 23, para apurar possível violação das regras de concorrência do bloco.",
+    "A investigação suspeita que a engarrafadora sediada no Reino Unido dificultou o comércio transfronteiriço e impediu clientes de negociar compras de refrigerantes e bebidas esportivas para múltiplos países.",
+    "A CCEP declarou que colabora integralmente com as autoridades europeias e reforçou que leva o direito da concorrência muito a sério em suas operações no continente.",
+    "Em paralelo, a Comissão Europeia concluiu preliminarmente que as ações da Temu contra a venda de produtos ilegais são insuficientes e podem violar as normas da UE.",
+    "A plataforma Temu, controlada pela PDD Holdings, enfrenta críticas por moderação de conteúdo fraca, foco incorreto na segurança e sanções ineficazes que permitem reincidência de vendedores.",
+    "Caso a infração seja confirmada, a Temu poderá receber uma multa de até 6% do seu faturamento anual global, mas a empresa contestou a avaliação e busca uma solução amigável."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/ue-abre-investigacao-antitruste-contra-coca-cola-europacific-partners/",
-   "categoria": "Varejo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2d37f52b4995.webp"
   },
   {
    "titulo": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
    "topicos": [
-    "O dólar deve continuar em trajetória de alta no Brasil enquanto o presidente Luiz Inácio Lula da Silva não nomear um ministro da Fazenda considerado forte ou não anunciar medidas fiscais profundas.",
-    "Aliados e conselheiros alertam que a moeda americana poderá ultrapassar o patamar de R$ 6, o que geraria pressão sobre a inflação e poderia aproximá-la de 6%.",
-    "Conselheiros recomendam que Lula escolha o titular da Fazenda ainda em novembro, com a atribuição de apresentar medidas voltadas para conter a alta das despesas obrigatórias.",
-    "A dívida pública brasileira alcançou 82,9% do PIB em setembro e tem projeção de encerrar o ano de 2030 atingindo 83,5% do PIB.",
-    "Enquanto a equipe de Lula projeta que a dívida pública comece a cair em 2031, economistas do mercado financeiro avaliam que o indicador continuará crescendo."
+    "Lula ainda não nomeou um ministro da Fazenda considerado \"forte\" nem anunciou medidas fiscais mais profundas, mantendo o cenário de risco econômico até que isso ocorra.",
+    "Analistas alertam que, sem a definição de um ministro ou medidas fiscais robustas, o dólar pode ultrapassar R$ 6, pressionando a inflação para perto de 6% e dificultando a política econômica no quarto mandato.",
+    "Se os recursos atualmente aplicados no Brasil migrarem rapidamente para investimentos no exterior, a pressão sobre o dólar será ainda maior, obrigando o governo a adotar um ajuste fiscal mais rigoroso.",
+    "Conselheiros do presidente recomendam a nomeação de um ministro da Fazenda ainda em novembro, com a missão de propor medidas que reduzam o crescimento das despesas obrigatórias.",
+    "A dívida pública brasileira chegou a 82,9% do PIB em setembro e pode atingir 83,5% no final do ano, segundo dados de mercado, divergindo da projeção oficial de estabilização em 2030.",
+    "O governo acredita que a dívida se estabilizará em 2030 e começará a cair a partir de 2031, enquanto economistas de mercado preveem continuidade de alta, o que poderia assustar investidores estrangeiros."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a0863bce8a09.webp"
   },
   {
    "titulo": "Alemanha tem ameaças de bomba em mais de 450 escolas em meio a falsos alertas em toda a Europa",
    "topicos": [
-    "Na segunda-feira (23), a polícia alemã anunciou que mais de 450 escolas no estado de Baden-Württemberg, no sudoeste do país, receberam ameaças de bomba por e-mail.",
-    "A polícia do estado da Turíngia, no leste, também registrou diversas ameaças semelhantes em centros de ensino locais, mas as autoridades descartam um perigo concreto.",
-    "Os e-mails enviados por autores ainda desconhecidos são quase idênticos e afirmam que artefatos explosivos foram colocados nos prédios escolares para serem detonados.",
-    "A polícia da Renânia-Palatinado pediu calma à população e orientou as instituições de ensino a comunicarem imediatamente qualquer mensagem de ameaça recebida.",
-    "O episódio ocorre em meio a uma onda de falsos alarmes contra escolas e aviões na Europa nas últimas semanas, além de ciberataques a supermercados.",
-    "Na Dinamarca, a polícia também classificou como infundados os alertas de bomba recebidos em escolas do país na mesma segunda-feira, dispensando evacuações na Jutlândia do Norte."
+    "Na segunda‑feira (23), a polícia alemã informou que mais de 450 escolas do estado de Baden‑Württemberg receberam e‑mails com ameaças de bomba, mas descartou risco concreto.",
+    "A polícia do estado da Turíngia, no leste da Alemanha, também registrou \"muitas\" ameaças de atentados com bomba em centros de ensino da região, consideradas sem credibilidade.",
+    "Segundo a polícia da Renânia‑Palatinado, os e‑mails, quase idênticos, alegam que autores desconhecidos colocaram artefatos explosivos nas escolas e ameaçam detoná‑los, e pedem calma e comunicação de qualquer alerta.",
+    "Nas últimas semanas, a Europa vivenciou falsas ameaças de bomba contra escolas e aviões, além de ciberataques a sistemas de refrigeração de supermercados, hipótese ainda não confirmada como guerra híbrida.",
+    "A polícia dinamarquesa, também nesta segunda‑feira, classificou como \"infundados\" alertas de bomba recebidos por várias escolas em todo o país, sem necessidade de evacuação ou medidas de segurança específicas na Jutlândia do Norte.",
+    "Autoridades alemãs e dinamarquesas solicitaram que as escolas informem imediatamente qualquer suspeita de ameaça, reforçando que não há indícios de perigo real até o momento."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/23/ameacas-de-bomba-em-mais-de-450-escolas-na-alemanha.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9bbbbea4d186.webp"
   },
   {
    "titulo": "Comissão debate regras para a formulação de combustíveis no Brasil e atuação e agência reguladora",
    "topicos": [
-    "Na terça‑feira (24), a Comissão de Minas e Energia da Câmara dos Deputados realizou, às 10h, uma audiência no plenário 14 para debater regras da formulação de combustíveis no Brasil.",
-    "A discussão foca na segurança do consumidor e na concorrência, abordando a produção de gasolina ou diesel por meio da mistura de componentes já prontos em proporções técnicas definidas.",
-    "A formulação de combustíveis deve atender às especificações exigidas pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).",
-    "O pedido de debate foi feito pelo deputado General Pazuello (PL‑RJ), que questiona a decisão da ANP de suspender a atividade de formulação e defende sua manutenção sob padrões técnicos, rastreabilidade e fiscalização efetiva.",
-    "Pazuello argumenta que é necessário rever os mecanismos de controle para combater irregularidades e proteger o consumidor, sem comprometer o abastecimento.",
-    "O parlamentar acusa a ANP de falhar em larga escala no cumprimento de suas atribuições legais e de apresentar falhas sistemáticas na determinação da legalidade fiscal e no recolhimento de impostos federais e estaduais."
+    "A Comissão de Minas e Energia da Câmara dos Deputados realiza, nesta terça-feira (24), um debate sobre as regras de formulação de combustíveis no país, visando a segurança do consumidor e a concorrência no mercado.",
+    "A formulação consiste na fabricação de gasolina e diesel através da mistura de insumos prontos com proporções técnicas estabelecidas, garantindo que o resultado cumpra as exigências da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).",
+    "Marcada para as 10 horas no plenário 14, a audiência foi solicitada pelo deputado General Pazuello (PL-RJ).",
+    "Pazuello contestou a resolução da ANP que paralisou a formulação de combustíveis e apoia a continuidade do processo, contanto que haja exigência de critérios técnicos, rastreabilidade e fiscalização rigorosa.",
+    "O parlamentar aponta falhas recorrentes da ANP em suas obrigações legais e no monitoramento da legalidade fiscal e do pagamento de tributos federais e estaduais, destacando a necessidade de aperfeiçoar os controles sem prejudicar o abastecimento nacional."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1321683-comissao-debate-regras-para-a-formulacao-de-combustiveis-no-brasil-e-atuacao-e-agencia-reguladora",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/5a9ab3e96323.webp"
   },
   {
    "titulo": "O que faz o TotalPass funcionar? CEO da Smart Fit (SMFT3) revela a estratégia por trás da plataforma",
    "topicos": [
-    "Diogo Corona, CEO do Grupo Smart Fit (SMFT3), revelou que o TotalPass, criado em 2019, funciona como plataforma de bem‑estar corporativo que reúne academias, estúdios e serviços de saúde física e mental em uma assinatura mensal, com planos que variam conforme o acesso desejado.",
-    "O TotalPass compete diretamente com o WellHub e aposta na construção de marcas próprias e controle de qualidade, ao invés de acordos de exclusividade, segundo o executivo em entrevista ao Money Times.",
-    "Atualmente a operação está presente apenas no Brasil e no México; no Brasil a plataforma conta com quase 40 mil parceiros, enquanto a Smart Fit possui mais de 1.000 unidades próprias e 2.259 unidades totais na América Latina.",
-    "Em São Paulo, o cardápio do TotalPass inclui a rede Smart Fit e espaços como Vidya Studio, Aera Pilates, Tônus Gym e Race Bootcamp, ampliando a oferta para pilates, yoga, corrida e funcional.",
-    "Corona destacou que a Smart Fit cresceu quase 100 % ano contra ano no Brasil, mas a empresa mantém cautela na expansão, avaliando cada mercado antes de decidir entre franquias, unidades próprias ou o modelo TotalPass.",
-    "Embora analistas cogitem uma possível cisão, o CEO afirmou que não há planos de separar o TotalPass do grupo; a estratégia permanece de manter dados, equipes e cultura integrados, mas com autonomia operacional para cada negócio.",
-    "A expansão do agregador depende da cultura de benefícios corporativos nos países e da disponibilidade de academias para agregação, sendo vista como fonte de receita incremental no cenário competitivo de academias."
+    "Em 2019, Diogo Corona, CEO do Grupo Smart Fit (SMFT3), criou o TotalPass, plataforma de bem‑estar corporativo que agrega academias, estúdios e serviços de saúde física e mental em uma assinatura mensal, com planos que variam conforme o acesso oferecido.",
+    "O TotalPass compete com o WellHub e foca no controle de marcas próprias, acreditando que a entrega de suas próprias marcas supera as exclusividades da concorrência, segundo entrevista ao Money Times.",
+    "Atualmente o serviço opera apenas no Brasil e no México; no Brasil conta com quase 40 mil parceiros, enquanto o Grupo Smart Fit possui 2.259 unidades na América Latina e mais de mil unidades próprias.",
+    "Em São Paulo, o cardápio do TotalPass inclui academias da própria rede Smart Fit e espaços como Vidya Studio, Aera Pilates, Tônus Gym e Race Bootcamp, ampliando a oferta para pilates, yoga, corrida e funcional.",
+    "O CEO destacou que a Smart Fit cresceu quase 100 % ano contra ano no Brasil, reforçando a estratégia de expansão cuidadosa e a importância do TotalPass como fonte de receita incremental sem depender exclusivamente da expansão física.",
+    "Apesar de analistas questionarem uma possível cisão, Corona afirmou que não há planos de separar o TotalPass do grupo; porém, mantém separação de dados, equipes e cultura para garantir autonomia operacional.",
+    "A expansão futura do agregador dependerá da cultura de benefícios corporativos em outros países e da disponibilidade de academias que possam ser integradas ao serviço."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/o-que-faz-o-totalpass-funcionar-ceo-da-smart-fit-smft3-conta-a-estrategia-por-tras-da-plataforma-lmrs/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/97533f0fd6e1.webp"
   },
   {
    "titulo": "Boletim Focus: projeção para o dólar no fim de 2026 avança de R$ 5,40 para R$ 5,55",
    "topicos": [
-    "O Boletim Focus, divulgado pelo Banco Central nesta segunda‑feira, 23, mostrou que analistas elevaram a projeção do dólar para o fim de 2026 de R$ 5,40 para R$ 5,55.",
-    "A expectativa para 2027 também subiu, passando de R$ 5,45 para R$ 5,50; as previsões para 2028 e 2029 ficaram em R$ 5,50 e R$ 5,55, respectivamente.",
-    "A projeção do IPCA para 2026 avançou de 5,11% para 5,15%; para 2027 aumentou de 5% para 5,12%; as estimativas para 2028 e 2029 permaneceram em 4%.",
-    "A previsão de crescimento do PIB recuou: para 2026 de 1,72% para 1,70% e para 2027 de 1,02% para 1,00%; as projeções para 2028 e 2029 mantiveram‑se em 1,71% e 2,00%.",
-    "A taxa Selic prevista para o fim de 2026 ficou em 13,75% ao ano; para 2027 subiu de 12,75% para 13,00%; as estimativas para 2028 e 2029 foram 11,00% e 10,5%, respectivamente.",
-    "O IBGE informou que o IPCA desacelerou para 0,14% em outubro, após 0,82% em setembro, e que a inflação acumulada em 12 meses ficou em 4,63%."
+    "Na segunda‑feira, 23, o Banco Central divulgou o boletim Focus, que reúne as expectativas semanais de instituições financeiras sobre os principais indicadores da economia brasileira.",
+    "Os analistas elevaram a projeção do dólar para o fim de 2026 de R$ 5,40 para R$ 5,55; a estimativa para 2027 subiu de R$ 5,45 para R$ 5,50, e as previsões para 2028 e 2029 ficaram em R$ 5,50 e R$ 5,55, respectivamente.",
+    "A expectativa de inflação (IPCA) para 2026 passou de 5,11 % para 5,15 %; para 2027 aumentou de 5,0 % para 5,12 %, enquanto as projeções de 2028 e 2029 mantiveram‑se em 4 %. O IBGE informou que o IPCA desacelerou para 0,14 % em outubro, após 0,82 % em setembro, acumulando 4,63 % em 12 meses.",
+    "A previsão de crescimento do PIB para 2026 recuou de 1,72 % para 1,70 %; para 2027 caiu de 1,02 % para 1,0 %; as estimativas para 2028 e 2029 permaneceram em 1,71 % e 2 %, respectivamente.",
+    "A taxa Selic projetada para o fim de 2026 foi mantida em 13,75 % ao ano; para 2027 subiu de 12,75 % para 13 %, enquanto as previsões para 2028 e 2029 ficaram em 11 % e 10,5 % ao ano.",
+    "O boletim Focus serve como referência para a política monetária, pois o Banco Central usa a Selic para controlar a inflação; juros mais altos encarecem o crédito, reduzindo o consumo, e juros mais baixos podem ser adotados para estimular a atividade quando a inflação baixa."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/boletim-focus-projecao-para-o-dolar-no-fim-de-2026-avanca-de-r-540-para-r-555/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/e06b57861bce.webp"
   },
   {
    "titulo": "Banco Central amplia acesso de cooperativas ao mercado aberto",
    "topicos": [
-    "O Banco Central aprovou, nesta quinta‑feira, 19 alterações nas regras de participação no mercado aberto, ampliando o acesso de instituições de menor porte, como cooperativas de crédito, ao sistema que controla a quantidade de dinheiro em circulação.",
-    "A nova norma entra em vigor a partir de 30 de novembro de 2026 e inclui a atualização dos procedimentos do Sistema Especial de Liquidação e Custódia (Selic), focando em maior automação e segurança nas operações.",
-    "Cooperativas classificadas como participantes não liquidantes no Selic poderão aplicar recursos em depósitos voluntários remunerados no BC, desde que utilizem um liquidante‑padrão para efetuar a liquidação das transações.",
-    "O liquidante‑padrão, instituição responsável por liquidar operações em nome de outra participante, permite que entidades sem estrutura própria de liquidação acessem o instrumento de depósitos voluntários.",
-    "Foi criado um procedimento facultativo para ajustar valores de operações compromissadas com livre movimentação de títulos públicos quando houver diferença relevante entre o valor registrado e o preço de mercado, possibilitando realinhamento e nova operação com mesmas condições.",
-    "As mudanças visam melhorar a administração da liquidez, aumentar a competitividade e a inclusão de participantes menores no mercado, além de reduzir impactos de oscilações nos preços dos títulos públicos, em linha com a Agenda BC."
+    "O Banco Central aprovou, na quinta-feira, 19, mudanças para ampliar o acesso de instituições financeiras menores, como cooperativas de crédito, ao mercado aberto.",
+    "As novas regras passam a valer para as operações realizadas a partir de 30 de novembro de 2026, com o objetivo de aumentar a competitividade e a eficiência do setor.",
+    "Cooperativas que atuam como participantes não liquidantes no Selic poderão usar depósitos voluntários remunerados no BC, operando por meio de liquidantes-padrão.",
+    "A resolução cria um procedimento facultativo para ajustar valores financeiros de operações compromissadas quando houver diferença significativa no preço dos títulos.",
+    "O mecanismo permite antecipar a revenda de papéis ao BC e contratar nova operação mantendo quantidade, vencimento e remuneração, reduzindo efeitos de oscilações.",
+    "O regulamento do Selic foi atualizado com foco em automação, segurança operacional, novas rotinas e maior clareza nas responsabilidades cadastrais."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/banco-central-amplia-acesso-de-cooperativas-ao-mercado-aberto/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/4195283388c9.webp"
   },
   {
    "titulo": "Dólar bate R$ 6 pela primeira vez desde abril, com votação do pacote fiscal no radar; Ibovespa cai",
    "topicos": [
-    "O dólar subiu 0,40% e cotava R$ 5,9580 às 12h10, atingindo máxima de R$ 6,0055, primeira vez acima de R$ 6 desde 9 de abril 2025 (quando chegou a R$ 6,0961) e desde o fechamento de R$ 6,0302 em 21 de janeiro 2025.",
-    "A Câmara dos Deputados votará nesta segunda‑feira (23) o pacote de ajuste fiscal já aprovado pelo Senado; a pauta foi antecipada pelo presidente da Casa, Hugo Motta (Republicanos‑PB), e o relator Mauro Benevides (União Brasil‑CE) manteve o texto sem alterações.",
-    "O ajuste fiscal prevê economia de até R$ 50 bilhões em 2027, com limite de 2 % para crescimento das despesas acima da inflação em anos de risco fiscal e corte linear de 10 % em benefícios tributários concedidos a diversos setores.",
-    "Os mercados reagiram: o Ibovespa acumulou queda de -3,55 % na semana, -0,94 % no mês e alta de +3,23 % no ano; o dólar acumulou alta de +4,04 % na semana, +9,00 % no mês e +8,12 % no ano.",
-    "Investidores acompanharam evento do Itaú Unibanco com o presidente do BC, Gabriel Galípolo, e o ministro da Fazenda, Dario Durigan, cujas declarações podem indicar rumos da política econômica e dos juros no próximo mandato de Lula.",
-    "No exterior, o foco recai sobre dados de atividade e emprego nos EUA e declarações do Fed; Jensen Huang retornou ao comando da Nvidia, impulsionando as ações da empresa em mais de 30 % perto das 12h.",
-    "Futuros de Wall Street subiam: Dow Jones +2,01 %, S&P 500 +2,77 % e Nasdaq 100 +3,43 %; na Europa, DAX +0,61 %, CAC 40 +0,67 % e FTSE 100 +0,60 %; bolsas chinesas fecharam praticamente estáveis."
+    "O dólar cotava R$ 5,9580 por volta das 12h10, com alta de 0,40% e chegou a R$ 6,0055, marcando a primeira vez que ultrapassou R$ 6 desde 9 de abril de 2025 (quando atingiu R$ 6,0961); o último fechamento acima de R$ 6 foi em 21 de janeiro de 2025, a R$ 6,0302.",
+    "O Ibovespa registrou queda, acumulando -3,55% na semana, -0,94% no mês e +3,23% no ano, refletindo a pressão sobre os mercados diante das incertezas fiscais e externas.",
+    "A Câmara dos Deputados deve votar hoje (23) o pacote de ajuste fiscal já aprovado pelo Senado; a decisão de acelerar a votação foi tomada pelo presidente da Casa, Hugo Motta (Republicanos‑PB), e o relator Mauro Benevides (União Brasil‑CE) manteve o texto sem alterações.",
+    "O ajuste fiscal prevê economia de até R$ 50 bilhões em 2027, estabelece um limite de 2 % para o crescimento das despesas acima da inflação em anos com risco de descumprimento da meta fiscal e impõe corte linear de 10 % em benefícios tributários concedidos a diferentes setores.",
+    "Analistas apontam que o pacote ainda não elimina dúvidas sobre a capacidade de estabilizar a dívida pública; o ministro da Fazenda, Dario Durigan, reconheceu que as medidas são apenas um primeiro passo e que novas iniciativas estruturais serão necessárias.",
+    "A Nvidia anunciou o retorno imediato de Jensen Huang ao comando; as ações da empresa subiram quase 30 % antes da abertura das bolsas americanas e os contratos futuros do Nasdaq 100 avançaram 6,53 %, após decisão unânime do conselho de administração."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/38a81467fda7.webp"
   },
   {
    "titulo": "Fed pode subir juros em dezembro e prolongar aperto monetário nos EUA, diz Bullard, ex-dirigente",
    "topicos": [
-    "O ex-presidente do Fed de St. Louis, Jim Bullard, afirmou nesta segunda-feira (23), no evento Macro Vision do Itaú BBA, que o Federal Reserve pode subir os juros em dezembro e prolongar o aperto monetário nos EUA.",
-    "A expectativa principal é de uma alta de 0,25 ponto percentual na taxa básica em dezembro, mas Bullard mencionou que um aumento mais forte de 0,50 ponto percentual deve ser considerado.",
-    "O economista avalia que o Fomc pode reverter os três cortes de juros feitos em 2025, o que implicaria novos reajustes além da reunião de dezembro.",
-    "A inflação medida pelo índice PCE deve fechar 2026 acima de 3%, ficando pelo quarto ano consecutivo acima da meta oficial de 2% estipulada pelo banco central americano.",
-    "Bullard aponta que o PIB dos EUA deve crescer 3,5% no segundo semestre de 2026, com desemprego baixo, e alertou que não combater a inflação de forma suficiente prejudica a credibilidade do Fed."
+    "Em entrevista ao Macro Vision, evento do Itaú BBA realizado nesta segunda‑feira (23), o ex‑presidente do Fed de St. Louis, Jim Bullard, disse que a expectativa predominante é de um aumento de 0,25 ponto percentual nos juros em dezembro, mas não descartou a possibilidade de 0,50 ponto.",
+    "Bullard destacou que, no segundo semestre, o Fed mudou de postura, passando de discussões sobre cortes no início do ano para uma política mais rígida, consolidada com o aumento de 0,25 ponto percentual em setembro.",
+    "Ele avaliou que os membros do FOMC podem reverter os três cortes de juros realizados em 2025, o que implicaria outro aumento em dezembro e, possivelmente, novos ajustes posteriores.",
+    "Segundo o economista, a inflação subjacente medida pelo índice de preços de gastos com consumo pessoal (PCE) deve encerrar 2026 novamente acima de 3%, marcando a quarta vez consecutiva que o indicador fica acima da meta de 2%.",
+    "Bullard apontou que as projeções do Fed de queda da inflação para 2,7%, depois 2,5% e 2,3% não se confirmaram, gerando dúvidas sobre se a política monetária tem sido suficientemente restritiva.",
+    "Ele estima que o PIB dos EUA cresça a 3,5% ao ano no segundo semestre de 2026, acima do crescimento potencial de aproximadamente 2%, enquanto o desemprego permanece historicamente baixo, permitindo foco no controle de preços."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/fed-pode-subir-juros-em-dezembro-e-prolongar-aperto-monetario-nos-eua-diz-bullard-ex-dirigente-jcav/",
-   "categoria": "Mundo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0b04ba9bf1eb.webp"
   },
   {
    "titulo": "Taxas de prefixados do Tesouro renovam máximas do ano na volta do feriado",
    "topicos": [
-    "Na segunda-feira (23), após o feriado da Consciência Negra, as taxas dos títulos prefixados de 2029 e 2032 do Tesouro Direto registraram os maiores patamares do ano.",
-    "O Tesouro Prefixado 2032 subiu 4 pontos-base e foi para 15,64%, enquanto o Prefixado 2029 avançou 4 pontos-base, atingindo 15,37%.",
-    "O papel Prefixado com Juros Semestrais 2037 teve alta de 3 pontos-base, alcançando 15,52% na abertura do mercado.",
-    "Entre os títulos atrelados à inflação, o Tesouro IPCA+ 2032 subiu 7 pontos-base, passando para IPCA + 7,93%, e o IPCA+ 2050 foi para IPCA + 7,55%.",
-    "A alta ocorreu após uma semana de estresse no mercado de juros, que incluiu a suspensão de negociações de títulos na quinta-feira (19) e o dólar fechando a R$ 5,934 no mesmo dia."
+    "Na segunda‑feira (23), após o feriado da Consciência Negra, as taxas dos títulos prefixados do Tesouro Direto 2029 e 2032 abriram nos maiores patamares do ano.",
+    "O Tesouro Prefixado 2032 subiu 4 pontos‑base, de 15,60% para 15,64%, e o 2029 avançou de 15,33% para 15,37%, superando a marca de 3 de novembro, que até então era a mais alta de 2026.",
+    "O título Prefixado com juros semestrais 2037 subiu 3 pontos‑base, para 15,52%; entre os atrelados à inflação, o IPCA+ 2032 ganhou 7 pontos‑base, passando de IPCA + 7,86% para IPCA + 7,93%, e o IPCA+ 2050 ficou em IPCA + 7,55% (de 7,53%).",
+    "A alta ocorre após uma semana de estresse nos juros: na quinta‑feira o Tesouro Direto suspendeu a negociação de prefixados e atrelados à inflação; o dólar fechou a R$ 5,934, acumulando alta de 4,88% na semana, mesmo com a venda de US$ 1 bilhão pelo Banco Central.",
+    "O movimento coincide com a votação do pacote fiscal na Câmara às 18h; deputados precisam aprovar um requerimento de urgência e o projeto, já aprovado no Senado, requer no mínimo 257 votos, estimando impacto de R$ 45,1 bi a R$ 56,1 bi no resultado primário de 2027 e limitando o crescimento das despesas a 2% acima da inflação.",
+    "Em 21, o presidente Lula afirmou que não houve reforma fiscal, mas sim um ajuste para garantir a execução do Orçamento em 2025; o Boletim Focus elevou projeções de inflação e dólar e prevê Selic em 13% em 2027, enquanto o presidente do BC, Gabriel Galípolo, participou do evento Macro Vision do Itaú BBA."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/onde-investir/taxas-de-prefixados-do-tesouro-renovam-maximas-do-ano-na-volta-do-feriado/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/f784188a99c0.webp"
   },
   {
    "titulo": "Lei autoriza crédito de R$ 11,8 milhões para obras e equipamentos no Judiciário",
    "topicos": [
-    "A Lei 15.551/2026, sancionada pelo presidente Luiz Inácio Lula da Silva e publicada em 23/11/2026, autoriza crédito suplementar de R$ 11,8 milhões para o STJ, a Justiça Federal e a Justiça Militar da União.",
-    "A Justiça Federal receberá R$ 8,1 milhões, destinados a obras e à conservação do patrimônio da União, incluindo a reforma do edifício‑sede do TRF‑3 (São Paulo e Mato Grosso do Sul) e a construção de unidades em Salvador (BA), Blumenau e Joinville (SC).",
-    "O Superior Tribunal de Justiça (STJ) terá R$ 3,4 milhões para a aquisição de equipamentos da central técnica de televisão, abrangendo serviços de instalação, configuração e treinamento.",
-    "A Justiça Militar da União receberá R$ 259,5 mil para auxílio‑moradia, com a programação orçamentária prevendo o atendimento de seis beneficiários.",
-    "O crédito será financiado pelo cancelamento de dotações de outras ações do Orçamento Fiscal de 2026, não alterando o total das despesas primárias discricionárias da União, apenas redistribuindo recursos já previstos.",
-    "A medida originou‑se do Projeto de Lei do Congresso Nacional (PLN) 29/2026, relator senador Rogério Carvalho (PT‑SE); a Comissão Mista de Orçamento aprovou em 11 de novembro e o Congresso aprovou em 12 de novembro, junto a nove outras aberturas de créditos adicionais."
+    "O presidente Luiz Inácio Lula da Silva sancionou a Lei 15.551, publicada em 23 de novembro de 2026 no Diário Oficial da União, que autoriza um crédito suplementar de R$ 11,8 milhões para o Judiciário.",
+    "A Justiça Federal receberá R$ 8,1 milhões para obras e conservação do patrimônio, incluindo a reforma do TRF-3 (SP e MS) e novas unidades em Salvador, Blumenau e Joinville.",
+    "O STJ contará com R$ 3,4 milhões para comprar e instalar equipamentos para sua central técnica de televisão, além de serviços de configuração e treinamento.",
+    "A Justiça Militar da União terá R$ 259,5 mil voltados para o pagamento de auxílio-moradia ou ajuda de custo de moradia para um total de seis beneficiários.",
+    "Os recursos provêm do cancelamento de dotações do Orçamento Fiscal de 2026, sem alterar o total das despesas primárias discricionárias da União.",
+    "A matéria teve origem no PLN 29/2026 do Poder Executivo, relatado pelo senador Rogério Carvalho e aprovado pela Comissão Mista de Orçamento e pelo Congresso em novembro."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-autoriza-credito-de-r-11-8-milhoes-para-obras-e-equipamentos-no-judiciario",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/178ddc6d0dfb.webp"
   },
   {
    "titulo": "Galípolo diz que controle da inflação é prioridade do Banco Central",
    "topicos": [
-    "Gabriel Galípolo, presidente do Banco Central, declarou nesta segunda-feira (23.nov.2026) que a estabilidade de preços é o principal mandato de sua gestão, durante o evento Macro Vision promovido pelo Itaú BBA.",
-    "O dirigente defendeu a manutenção de juros elevados para reequilibrar oferta e demanda, lembrando que o Copom manteve a taxa Selic em 13,75% ao ano na reunião de 4 de novembro.",
-    "A manutenção da Selic atendeu às expectativas de grande parte do mercado financeiro, após o aumento de incertezas fiscais e da volatilidade decorrentes das eleições presidenciais.",
-    "Galípolo afirmou que é viável proteger programas e benefícios sociais para a população necessitada enquanto se revisam regras fiscais para conter o crescimento dos gastos públicos.",
-    "A fala ocorreu no mesmo dia em que a Câmara dos Deputados analisa o ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT), após o texto ser aprovado pelo Senado.",
-    "A proposta de ajuste fiscal busca melhorar as contas públicas em 2027, embora o mercado ainda questione a capacidade da medida de gerar resultados duradouros."
+    "O presidente do Banco Central, Gabriel Galípolo, declarou nesta 2ª feira (23.nov.2026), durante o evento Macro Vision do Itaú BBA, que o controle da inflação e a estabilidade de preços são as principais prioridades de sua gestão.",
+    "Galípolo defendeu a manutenção da taxa básica de juros em patamares elevados para equilibrar a oferta e a demanda, após o Copom manter a Selic em 13,75% ao ano na reunião de 4 de novembro.",
+    "A manutenção da Selic atendeu às previsões do mercado financeiro, influenciada por incertezas fiscais e pela volatilidade gerada após as eleições presidenciais.",
+    "O dirigente afirmou que é viável manter programas sociais e proteger a população vulnerável enquanto se revisam regras fiscais para conter o avanço das despesas públicas.",
+    "A manifestação ocorreu no mesmo dia em que a Câmara dos Deputados analisa o ajuste fiscal enviado pelo governo do presidente Luiz Inácio Lula da Silva (PT), após o texto ser aprovado pelo Senado na semana anterior.",
+    "A proposta de ajuste fiscal tem o objetivo de melhorar as contas públicas no ano de 2027, embora o mercado ainda questione a eficácia da medida em gerar resultados duradouros."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/galipolo-diz-que-controle-da-inflacao-e-prioridade-do-banco-central/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/90f25cc18e99.webp"
   },
   {
    "titulo": "Anvisa manda recolher xampu anticaspa em barra indicado para crianças",
    "topicos": [
-    "A Anvisa determinou o recolhimento do xampu em barra anticaspa DC Biocosméticos, rotulado para uso infantil, proibindo sua fabricação, distribuição, divulgação e utilização de todos os lotes com essa indicação; a resolução foi publicada no Diário Oficial da União nesta segunda‑feira, 23.",
-    "O produto é fabricado pela Argila Indústria e Comércio de Cosméticos e foi retirado do mercado porque a indicação de uso para crianças não é permitida pela legislação sanitária.",
-    "A agência também proibiu a venda da Needs Loção Oleosa Dermoprotetora, marca própria da RD Saúde, produzida pela Greenwood Indústria e Comércio Ltda., por falta de regularização sanitária e por alegações terapêuticas incompatíveis com cosméticos.",
-    "Em nota, a RD Saúde afirmou que cumprirá a determinação da Anvisa, mas não forneceu detalhes adicionais sobre o caso.",
-    "A medida se estende a qualquer pessoa física, jurídica ou veículo de comunicação que comercialize ou divulgue os produtos proibidos, abrangendo toda a cadeia de distribuição.",
-    "Em dezembro de 2025, a Anvisa já havia proibido o comércio e a propaganda de medicamentos das marcas próprias Bwell e Needs, ofertados pela Raia Drogasil, por falta de autorização para produção de medicamentos, reforçando o padrão de restrição a produtos não regularizados."
+    "A Anvisa determinou o recolhimento de um xampu em barra anticaspa da DC Biocosméticos indicado para crianças, conforme resolução publicada em 23 de dezembro no Diário Oficial da União.",
+    "O produto é fabricado pela Argila Indústria e Comércio de Cosméticos e a proibição abrange a fabricação, distribuição, divulgação e utilização de todos os lotes com apelo infantil, prática não permitida.",
+    "A agência reguladora também proibiu a venda da Loção Oleosa Dermoprotetora da marca Needs, da RD Saúde, fabricada pela Greenwood Indústria e Comércio Ltda, por falta de regularização sanitária e alegações terapêuticas irregulares.",
+    "Em nota à reportagem da Mercado&Consumo, a RD Saúde confirmou que vai cumprir a determinação da Anvisa sobre a loção, sem fornecer maiores detalhes adicionais.",
+    "Em dezembro de 2025, a Anvisa já havia proibido a comercialização e propaganda de medicamentos das marcas Bwell e Needs vendidos online pela Raia Drogasil S.A. porque a varejista não tem autorização para fabricar remédios."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/anvisa-manda-recolher-xampu-anticaspa-em-barra-indicado-para-criancas/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/eb3a749872eb.webp"
   },
   {
    "titulo": "Dólar sustenta alta e ultrapassa os R$ 6,00 com cautela fiscal",
    "topicos": [
-    "O dólar à vista subiu pela sétima sessão consecutiva em relação ao real nesta segunda‑feira (23), atingindo R$ 6,0010, nível não visto desde 8 de abril de 2025, quando chegou a R$ 6,0064.",
-    "A alta é atribuída à preocupação dos investidores com o cenário fiscal brasileiro, especialmente as dúvidas sobre indicações para cargos do quarto mandato do presidente Lula, como o ministro da Fazenda.",
-    "O Banco Central realizou um leilão de dólares de R$ 1 bilhão na quinta‑feira (18) para conter a desvalorização do real, medida que foi criticada pelo mercado e acabou pressionando ainda mais a moeda.",
-    "No exterior, o índice DXY, que mede o dólar frente a seis moedas, registrou 104 pontos, sua maior marca desde o primeiro bimestre de 2025, e já soma oito altas consecutivas, a sequência mais longa desde 2022.",
-    "O fortalecimento do dólar também reflete a expectativa de alta de juros nos Estados Unidos e a forte queda das bolsas de Nova York na sexta‑feira, durante o feriado da Consciência Negra, após liquidação de ações de tecnologia e IA.",
-    "A continuidade da pressão cambial indica que o real pode permanecer vulnerável enquanto persistirem as incertezas fiscais internas e as condições externas de alta dos juros nos EUA."
+    "Na segunda‑feira (23), o dólar à vista continuou a subir, registrando a sétima sessão consecutiva de alta frente ao real.",
+    "A moeda atingiu máxima intradiária de R$ 6,0010, o maior valor desde 8 de abril de 2025, quando chegou a R$ 6,0064.",
+    "A pressão doméstica vem da incerteza sobre as indicações para cargos do quarto mandato do presidente Lula, sobretudo o ministro da Fazenda, que gera cautela nos investidores.",
+    "O Banco Central tentou conter a alta cambial ao leiloar R$ 1 bilhão na quinta‑feira (18); a medida foi criticada e acabou pressionando ainda mais o real.",
+    "No exterior, o índice DXY do dólar subiu para 104 pontos, patamar mais alto desde o primeiro bimestre de 2025, acumulando oito altas consecutivas – a maior sequência desde 2022.",
+    "O cenário também foi influenciado pela expectativa de alta dos juros nos EUA e pela forte queda das bolsas de Nova York na sexta‑feira, durante o feriado da Consciência Negra, devido à liquidação de ações de tecnologia e IA."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/dolar-sustenta-alta-e-atinge-r-600-com-cautela-fiscal-e-exterior-davs/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/55360ca0c5d5.webp"
   },
   {
    "titulo": "Lei abre crédito de R$ 290 milhões para a Eletronuclear investir em Angra 3",
    "topicos": [
-    "Lei 15.547/2026, sancionada pelo presidente e publicada no DOU em 19/11/2026, autoriza crédito suplementar de R$ 290 milhões para a Eletronuclear S.A. investir na usina nuclear Angra 3.",
-    "O crédito será usado para antecipar pagamentos à empresa francesa Framatome, referentes a suprimentos importados, engenharia estrangeira e parte dos suprimentos nacionais, permitindo o recebimento de equipamentos já em fabricação.",
-    "A medida prevê o encerramento dos contratos atuais, a transferência da conclusão dos serviços para o futuro responsável pela execução, buscando evitar disputas judiciais que poderiam atrasar o cronograma e elevar a tarifa de equilíbrio da usina.",
-    "Os recursos provêm da geração própria da Eletronuclear, e a operação não afeta o resultado primário das empresas estatais federais, pois a Eletronuclear integra o Grupo ENBPar, excluído do cálculo da Lei de Diretrizes Orçamentárias de 2026.",
-    "O objetivo, segundo o Ministério da Gestão e da Inovação em Serviços Públicos, é garantir o andamento da implantação de Angra 3, reduzindo riscos financeiros e legais ao antecipar pagamentos e evitar atrasos."
+    "Foi sancionada a Lei 15.547/2026, publicada no Diário Oficial da União em 19 de novembro, que cria um crédito suplementar de R$ 290 milhões para a Eletronuclear S.A. investir na usina nuclear Angra 3.",
+    "O crédito será usado para antecipar pagamentos de contratos com a empresa francesa Framatome, referentes a suprimentos importados, engenharia estrangeira e parte dos suprimentos nacionais.",
+    "A medida prevê o encerramento dos contratos atuais, o recebimento de equipamentos já em fase de fabricação e a transferência da conclusão dos serviços para o futuro contratado responsável pela obra.",
+    "Segundo o Ministério da Gestão e da Inovação em Serviços Públicos, a antecipação dos pagamentos visa reduzir o risco de disputas judiciais que poderiam atrasar o cronograma e elevar a tarifa de equilíbrio da usina.",
+    "Os recursos para o crédito suplementar provêm da geração própria da Eletronuclear, não gerando impacto no resultado primário das empresas estatais federais, pois a Eletronuclear integra o Grupo ENBPar, excluído do cálculo da LDO 2026.",
+    "A iniciativa reforça o orçamento de investimento da União destinado à implantação da Angra 3, buscando garantir o andamento do projeto sem comprometer as contas públicas federais."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b3d7e433a473.webp"
   },
   {
    "titulo": "Galípolo: BC pode esperar mais para decidir sobre juros e defende cautela",
    "topicos": [
-    "Em 23 de novembro, durante o evento Macro Vision do Itaú BBA, o presidente do Banco Central, Gabriel Galípolo, afirmou que a postura conservadora adotada permite ao BC aguardar mais antes de decidir sobre a taxa Selic, avaliando as incertezas econômicas.",
-    "Galípolo destacou que a manutenção dos juros em patamar restritivo coloca o BC em posição mais confortável para enfrentar a volatilidade dos mercados e choques domésticos e internacionais.",
-    "Ele explicou que a política monetária depende não só do nível atual da taxa, mas também do tempo em que ela permanece elevada, pois os efeitos sobre a atividade econômica e a inflação se acumulam ao longo do período.",
-    "O presidente ressaltou que a combinação de incertezas fiscais e externas dificulta a emissão de guidance, sendo contraproducente oferecer projeções em um ambiente de volatilidade e dúvidas internas e externas.",
-    "Segundo Galípolo, a recente volatilidade dos mercados exige cautela para distinguir ruídos de informações reais, evitando decisões baseadas em movimentos passageiros.",
-    "O Boletim Focus tem apresentado revisões para baixo nas projeções de crescimento do PIB, enquanto as estimativas de inflação, dólar e da própria Selic são ajustadas para cima.",
-    "Apesar do cenário de desaceleração econômica, Galípolo reforçou que o mandato do Banco Central permanece focado na estabilidade de preços, e a desaceleração por si só não determinará os próximos passos da Selic."
+    "Na segunda‑feira, dia 23, o presidente do Banco Central, Gabriel Galípolo, participou do evento Macro Vision, organizado pelo Itaú BBA, e comentou a postura da autoridade monetária.",
+    "Galípolo afirmou que o conservadorismo adotado nos últimos anos, com a Selic mantida em patamar restritivo, permite ao BC ganhar tempo para analisar os efeitos das incertezas econômicas antes de decidir novos ajustes.",
+    "Ele explicou que a política monetária depende não só do nível atual da taxa, mas também do tempo em que ela permanece elevada, pois os efeitos sobre atividade econômica e inflação se acumulam ao longo desse período.",
+    "O presidente destacou que a combinação de incertezas fiscais e externas dificulta a emissão de guidance, sendo contraproducente sinalizar decisões em um ambiente de alta volatilidade.",
+    "Segundo Galípolo, o Boletim Focus tem revisado as projeções de crescimento do PIB para baixo, enquanto as estimativas de inflação, dólar e da própria Selic são ajustadas para cima.",
+    "Mesmo com a desaceleração econômica, o BC reforçou que seu mandato prioritário continua sendo a estabilidade de preços, mantendo o compromisso com a convergência da inflação à meta."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/galipolo-diz-que-bc-pode-esperar-mais-para-decidir-sobre-juros-e-defende-cautela-jcav/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/dda2970354e8.webp"
   },
   {
    "titulo": "Alta do dólar impulsiona preços de grão e derivados",
    "topicos": [
-    "A valorização do dólar em relação ao real na segunda-feira, 23 de novembro de 2026, impulsionou os preços da soja e de seus derivados no mercado brasileiro.",
-    "Às 10h11 da mesma data, a moeda norte-americana registrava alta de 0,93%, cotada a R$ 5,990, elevando as referências internacionais convertidas.",
-    "Os indicadores Cepea/Esalq para Paranaguá (PR) e para o Paraná alcançaram os maiores patamares nominais desde março de 2023, conforme dados do Cepea.",
-    "Produtores de soja mantêm-se retraídos nas negociações devido ao câmbio e ao clima adverso em certas áreas, limitando a disponibilidade do grão e a liquidez spot.",
-    "O avanço cambial elevou a paridade de exportação dos derivados e sustentou as exigências de preços dos vendedores no mercado interno.",
-    "Os valores do farelo e do óleo de soja subiram no país, sendo que o óleo teve alta menor devido à queda de contratos futuros na Bolsa de Chicago."
+    "Na segunda-feira (23.nov.2026), a valorização do dólar frente ao real impulsionou os preços da soja e de seus derivados no Brasil, elevando as referências internacionais convertidas para a moeda nacional.",
+    "Às 10h11, o dólar registrava alta de 0,93%, cotado a R$ 5,990, impulsionando a paridade de exportação dos derivados e sustentando as exigências de preços dos vendedores.",
+    "Os indicadores Cepea/Esalq–Paranaguá (PR) e Cepea/Esalq–Paraná alcançaram os maiores patamares nominais desde março de 2023, conforme levantamento do Cepea.",
+    "Monitorando o câmbio e o clima adverso em certas áreas, os produtores de soja mantêm cautela nas vendas, o que restringe a oferta do grão e reduz a liquidez no mercado spot.",
+    "Os preços do farelo e do óleo de soja subiram no mercado interno, mas o avanço do óleo foi contido pela forte retração dos contratos futuros na Bolsa de Chicago."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/alta-do-dolar-impulsiona-precos-de-grao-e-derivados/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/6bba267e4176.webp"
   },
   {
    "titulo": "Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
    "topicos": [
-    "Os pedidos de refúgio de cubanos no Brasil alcançaram 4.885 registros em setembro de 2026, configurando o maior volume mensal do ano conforme o OBMigra.",
-    "No acumulado de janeiro a setembro de 2026, as solicitações somaram 33.185, representando uma alta de 8% em relação aos 30.731 pedidos do mesmo período de 2025.",
-    "O crescimento foi impulsionado pelo agravamento da crise econômica e energética em Cuba, que incluiu apagões nacionais e escassez de suprimentos em julho e agosto.",
-    "Roraima tornou-se a principal porta de entrada no país nos primeiros nove meses de 2026, concentrando 62,5% dos registros, o equivalente a 18.501 entradas.",
-    "As entradas por vias terrestres subiram de 23% em 2025 para 66% nos primeiros nove meses de 2026, superando estados como São Paulo, que teve 3.862 entradas.",
-    "Em setembro de 2026, havia 99.306 pedidos de refúgio de cubanos em análise, o que corresponde a 58,7% do total de 169.136 solicitações de todas as nacionalidades."
+    "Os pedidos de refúgio de cubanos no Brasil alcançaram 4.885 em setembro de 2026, representando o maior volume mensal do ano conforme o OBMigra, ligado ao Ministério da Justiça e Segurança Pública.",
+    "No acumulado de janeiro a setembro de 2026, as solicitações somaram 33.185, o que representa um crescimento de 8% em relação às 30.731 registradas no mesmo período de 2025.",
+    "O avanço nos pedidos ocorreu paralelamente ao agravamento da crise econômica e energética em Cuba, marcada por apagões nacionais em julho e colapsos na rede elétrica no início de agosto.",
+    "Roraima tornou-se a principal porta de entrada no país em 2026, concentrando 62,5% dos registros (18.501 entradas) entre janeiro e setembro, superando o Amapá que liderava em 2025.",
+    "As entradas terrestres de cubanos saltaram de 23% do total em 2025 para 66% nos primeiros nove meses de 2026, com muitos migrantes utilizando rotas que passam pela Guiana.",
+    "Em setembro de 2026, havia 99.306 pedidos de refúgio de cubanos em análise no Brasil, correspondendo a 58,7% do total de 169.136 solicitações de todas as nacionalidades aguardando decisão."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/23/refugio-cuba-2026-parcial.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/3a0c475209dd.webp"
   },
   {
    "titulo": "Receita amplia participação em piloto da CBS para todas as empresas",
    "topicos": [
-    "A Receita Federal publicou portaria nesta segunda-feira, 23, permitindo que qualquer empresa com CNPJ participe do ambiente de testes do piloto da Contribuição sobre Bens e Serviços (CBS).",
-    "Com a mudança, não é mais preciso indicação por entidades representativas ou pedido prévio de participação, bastando cumprir requisitos operacionais, cadastrais e de segurança da Receita.",
-    "O projeto, desenvolvido com o Serpro, visa acelerar a implementação da CBS e permitir testes conjuntos para validar sistemas tecnológicos, corrigir falhas e aprimorar plataformas.",
-    "Para acessar o Portal Piloto da CBS e usar funções como gerar credenciais de API ou acessar a DeRE, a empresa precisa outorgar procuração digital e dar autorizações específicas aos representantes.",
-    "A Receita poderá limitar o acesso com base em transações e capacidade de processamento para garantir a segurança, podendo suspender participantes que descumprirem as regras.",
-    "Até o final de 2026, a coordenação do projeto caberá ao Programa para Implementação dos Sistemas Operacionais da Reforma Tributária, passando para a Cotec em janeiro de 2027.",
-    "As empresas participantes que encontrarem problemas operacionais poderão reportar as falhas e inconsistências diretamente por meio do canal de atendimento Receita Atende."
+    "A Receita Federal abriu nesta segunda-feira, 23, a participação no ambiente de testes do piloto da CBS para todas as empresas inscritas no Cadastro Nacional da Pessoa Jurídica.",
+    "Antes restrita a indicações de entidades, a entrada agora exige apenas o cumprimento de requisitos operacionais, cadastrais e de segurança definidos pela Receita Federal.",
+    "O projeto, desenvolvido com o Serpro, visa acelerar a Reforma Tributária permitindo testes conjuntos para validar sistemas tecnológicos e corrigir falhas antes do lançamento definitivo.",
+    "Para usar o Portal Piloto da CBS, as companhias precisam outorgar procuração digital aos representantes e conceder autorizações específicas para gerar credenciais de API ou acessar o DeRE.",
+    "A Receita poderá limitar acessos com base em transações e capacidade de processamento, além de suspender participantes que ponham em risco a segurança ou o funcionamento do sistema.",
+    "Até o fim de 2026, a coordenação cabe ao Programa para Implementação dos Sistemas da Reforma, passando para a Cotec da Receita Federal em janeiro de 2027."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/receita-amplia-participacao-em-piloto-da-cbs-para-todas-as-empresas/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/407869d2abfc.webp"
   },
   {
    "titulo": "A reviravolta que fez Jensen Huang voltar ao comando da Nvidia após escândalo de traição e espionagem",
    "topicos": [
-    "O conselho de administração da Nvidia reconduziu Jensen Huang aos cargos de CEO e presidente nesta segunda-feira (23/11), com efeito imediato e votação unânime.",
-    "Jensen Huang havia renunciado em 12 de novembro após admitir um caso extraconjugal com uma mulher suspeita de espionagem para a China.",
-    "O presidente dos Estados Unidos, Donald Trump, apoiou o retorno de Huang, classificando-o como a decisão correta para a economia americana e afirmando que não há riscos à segurança nacional.",
-    "As ações da Nvidia dispararam cerca de 30% na abertura da bolsa de Nova York após o anúncio, revertendo a queda de quase 14% registrada na sexta-feira anterior.",
-    "A saída anterior de Huang havia gerado incertezas no mercado devido ao seu papel central na transição da empresa para inteligência artificial e na rede de financiamento circular da companhia."
+    "Na segunda‑feira (23/11), o conselho de administração da Nvidia reconduziu Jensen Huang aos cargos de CEO e presidente, com efeito imediato, após votação unânime, conforme comunicado oficial da empresa.",
+    "Huang havia deixado o cargo em 12 de novembro, admitindo um caso extraconjugal com uma mulher suspeita de espionagem para a China, o que gerou um escândalo interno e investigação da SEC.",
+    "O presidente dos EUA, Donald Trump, saudou o retorno de Huang nas redes sociais, afirmando que não há risco à segurança nacional e que sua liderança é essencial para a economia americana.",
+    "A Nvidia, principal fornecedora de chips avançados usados em IA, videogames, veículos autônomos e data centers, tem suas exportações para a China restritas desde 2022 por motivos de segurança nacional, embora algumas restrições tenham sido flexibilizadas sob a administração Trump.",
+    "Após o anúncio, as ações da Nvidia subiram cerca de 30% no início do pregão em Nova York, revertendo a queda de quase 14% registrada na sexta‑feira anterior, quando a Reuters reportou a investigação da SEC.",
+    "Segundo o editor de economia da BBC, Faisal Islam, o valor de mercado da Nvidia aumentou US$ 1 trilhão imediatamente após a abertura da bolsa, um salto sem precedentes para uma única empresa."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/c5y4je03812wo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/1b5f7da40018.webp"
   },
   {
    "titulo": "Fim da escala 6X1 deve impactar mais de 100 mil trabalhadores domésticos, estima instituto",
    "topicos": [
-    "O fim da escala 6 × 1, regulamentado pelo presidente Luiz Inácio Lula da Silva, deve beneficiar cerca de 102 mil trabalhadores domésticos formais no Brasil, segundo o Instituto Doméstica Legal, com base em amostra de 80 mil e total de 1,29 milhão de empregados formais (PNAD, trimestre encerrado em setembro).",
-    "A primeira fase da transição afetará aproximadamente 50 mil (3,87%) domésticos que hoje trabalham mais de 42 horas semanais, enquanto outra parcela de cerca de 50 mil será impactada quando a jornada for reduzida para 40 horas semanais, prevista para 16 de dezembro de 2027.",
-    "Empregadores precisarão reorganizar jornadas, dias de descanso e contratos, além de atualizar os dados no eSocial; o Instituto disponibiliza cartilha e calculadora gratuita para simular custos de horas extras, adicional noturno e DSR nas jornadas de 42 e 40 horas, incluindo encargos.",
-    "Mario Avelino, presidente do Instituto, destaca que a mudança trará dois dias de folga para cerca de 50 mil domésticos que atualmente trabalham seis dias por semana, melhorando a qualidade de vida e a organização da jornada.",
-    "A Fenatrad apontou, no ano passado, desafios como alta informalidade, precarização, falta de informação e desvalorização da profissão, que permanecem relevantes apesar da nova regulamentação.",
-    "Para quem paga horas extras ou adicional noturno, a alteração do divisor de cálculo (de 220 para 210 horas na jornada de 42 h e para 200 horas na de 40 h) pode gerar dificuldades, sobretudo na transição em meados de dezembro; recomenda‑se iniciar a nova jornada em 1 de dezembro para evitar complicações.",
-    "A regra de descanso preferencialmente no domingo não é obrigatória; casos como o de caseiros podem ter folga em outros dias, devendo observar regras específicas de gênero e garantir planejamento conforme a legislação."
+    "O fim da escala 6x1, regulamentado pelo presidente Luiz Inácio Lula da Silva (PT), deve impactar cerca de 102 mil trabalhadores domésticos formais no Brasil, segundo estimativa do Instituto Doméstica Legal divulgada em 23/10/2024.",
+    "A análise, feita a partir de uma amostra de 1,29 milhão de empregados domésticos formais do IBGE no trimestre encerrado em setembro, indica que aproximadamente 50 mil (3,87%) que trabalham mais de 42 horas semanais serão afetados já na primeira etapa da transição.",
+    "Outros cerca de 50 mil trabalhadores serão impactados quando a jornada for reduzida para 40 horas semanais, mudança prevista para 16 de dezembro de 2027.",
+    "A nova regra obriga empregadores a reorganizar jornadas, dias de descanso e contratos, além de atualizar os registros no eSocial; o instituto disponibiliza cartilha e calculadora gratuita para simular custos de horas extras, adicional noturno e DSR nas jornadas de 42 e 40 horas.",
+    "Segundo Mario Avelino, presidente do Instituto Doméstica Legal, a medida trará benefício ao emprego doméstico, pois aproximadamente 50 mil empregados que hoje têm apenas um dia de descanso semanal passarão a ter dois dias de folga.",
+    "A alteração do divisor de cálculo de horas – de 220 para 210 na jornada de 42 horas e para 200 na de 40 horas – pode gerar dificuldades nos pagamentos de horas extras e adicional noturno; recomenda‑se que a nova jornada comece no primeiro dia de dezembro para evitar complicações."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0fc8a6f114de.webp"
   },
   {
    "titulo": "Jensen Huang volta a ser CEO da Nvidia",
    "topicos": [
-    "Jensen Huang reassumiu o cargo de presidente e CEO da Nvidia em 23 de novembro de 2026, 11 dias após ter renunciado em 12 de novembro por polêmicas extraconjugais envolvendo três casos, dois com funcionárias, e suspeitas de espionagem.",
-    "A decisão do conselho de administração foi tomada por unanimidade após reuniões com Huang, que destacou transparência e capacidade de liderança; o conselho recebeu orientações de integrantes do governo dos EUA.",
-    "Em 20 de novembro de 2026, o presidente Donald Trump (Partido Republicano) manifestou apoio público ao retorno de Huang à Nvidia.",
-    "A Nvidia mantém uma investigação independente sobre a suposta operação de espionagem contra Huang e criou um comitê para supervisionar questões de segurança nacional e regras de exportação, além de buscar um diretor de compliance.",
-    "Durante a ausência de Huang, a diretora financeira Colette Kress atuou como CEO interina, permanecendo no cargo de CFO da empresa.",
-    "De 29 de outubro a 10 de novembro, a Nvidia perdeu US$ 1,081 trilhão (R$ 6,1 trilhões) em valor de mercado, queda de cerca de 21%, superando o valor total de todas as empresas listadas na B3."
+    "Jensen Huang reassumiu nesta segunda-feira (23.nov.2026) os cargos de presidente e CEO da Nvidia, apenas 11 dias após ter renunciado ao posto.",
+    "A saída inicial, ocorrida em 12 de novembro, foi motivada por polêmicas envolvendo três casos extraconjugais — sendo dois com funcionárias — e suspeitas de espionagem.",
+    "O retorno foi aprovado por unanimidade pelo conselho de administração após reuniões com Huang, nas quais os conselheiros avaliaram positivamente a transparência do executivo.",
+    "O presidente dos Estados Unidos, Donald Trump, manifestou apoio público ao retorno de Huang à liderança da companhia em 20 de novembro.",
+    "A investigação independente sobre os relatos de que o executivo foi alvo de uma operação de inteligência estrangeira continuará mesmo com sua volta.",
+    "A Nvidia instituiu um comitê para supervisionar regras de exportação e segurança nacional, além de iniciar a busca por um novo diretor de compliance.",
+    "Entre 29 de outubro e 10 de novembro, a empresa sofreu uma desvalorização de US$ 1,081 trilhão (equivalente a R$ 6,1 trilhões), representando uma queda de cerca de 21%."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/jensen-huang-volta-a-ser-ceo-da-nvidia/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/31665f38ac61.webp"
   },
   {
    "titulo": "Trump celebra retorno de Jensen Huang ao comando da Nvidia e diz que não há risco de segurança nacional",
    "topicos": [
     "O presidente dos Estados Unidos, Donald Trump, celebrou nesta segunda-feira (23) a decisão do conselho da Nvidia de recontratar o cofundador e ex-CEO Jensen Huang.",
-    "Trump afirmou que o retorno de Huang não representa riscos à segurança nacional e destacou que a liderança do executivo é essencial para a economia americana.",
-    "Huang havia renunciado após suspeitas de envolvimento com Alice Huang, apontada como ex-amante e ligada a um agente do Ministério da Segurança da China entre 2025 e outubro.",
-    "Autoridades dos EUA investigam desde 2024 a Megaspeed International, empresa de Singapura comandada por Alice e grande cliente da Nvidia, por suspeita de contrabando de chips.",
-    "O procurador-geral Todd Blanche declarou neste mês que o Departamento de Justiça ainda não concluiu se Alice Huang atuava como espiã para o governo chinês."
+    "Trump afirmou que a volta de Huang não representa riscos à segurança nacional e declarou que o país precisa de sua liderança para garantir o sucesso econômico.",
+    "Jensen Huang havia deixado o cargo após suspeitas de que sua ex-amante, Alice Huang, seria uma espiã ligada ao governo da China para roubar tecnologia americana.",
+    "Alice manteve contato com um agente do Ministério da Segurança do Estado da China entre meados de 2025 e outubro deste ano, conforme revelado pelo The New York Times.",
+    "A ex-amante comandou a Megaspeed International, empresa de Singapura investigada desde 2024 por suposto contrabando de chips avançados de IA para a China.",
+    "O procurador-geral dos EUA, Todd Blanche, afirmou este mês que o Departamento de Justiça ainda não determinou se Alice atuava como espiã."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/23/trump-celebra-retorno-de-jensen-huang-ao-comando-da-nvidia-e-diz-que-nao-ha-risco-de-seguranca-nacional.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b91ed7a4f39e.webp"
   },
   {
    "titulo": "CVM suspende 5 companhias abertas por falta de informações, incluindo Ambipar e BRB",
    "topicos": [
-    "A Superintendência de Relações com Empresas (SEP) da CVM suspendeu o registro de cinco companhias abertas por mais de 12 meses de descumprimento da obrigação de divulgar informações periódicas, conforme a Resolução CVM 80.",
-    "As empresas afetadas são Ambipar Participações e Empreendimentos (em recuperação judicial), BRB Banco de Brasília, Environmental ESG Participações (em recuperação judicial), K‑Infra Rodovia do Aço e Refinaria de Petróleos de Manguinhos (em recuperação judicial).",
-    "Com a suspensão, os valores mobiliários emitidos por essas companhias ficam proibidos de negociação em bolsas ou mercados de balcão regulamentados.",
-    "A CVM ressaltou que a medida não exime as companhias, seus controladores e administradores de eventuais responsabilidades por infrações cometidas antes da suspensão.",
-    "A Procuradoria‑Geral do Distrito Federal pediu ao presidente do STF, Edson Fachin, que determine ao Banco Master o pagamento de indenização de R$ 2,2 bilhões ao BRB por fraudes que envolveram a transferência de R$ 12,2 bilhões em carteiras de ativos inexistentes.",
-    "Investigações apontam que Henrique Vorcaro, pai de Daniel Vorcaro, teve patrimônio bloqueado; ele teria adquirido imóveis no valor de R$ 146 milhões, com Costa como beneficiário final, e a compra do Master pelo BRB foi anulada pelo Banco Central."
+    "A Superintendência de Relações com Empresas (SEP) da CVM suspendeu o registro de cinco companhias abertas por descumprirem, há mais de 12 meses, a obrigação de prestar informações periódicas, conforme a Resolução CVM 80.",
+    "As empresas afetadas são: Ambipar Participações e Empreendimentos (em recuperação judicial), BRB Banco de Brasília, Environmental ESG Participações (em recuperação judicial), K‑Infra Rodovia do Aço e Refinaria de Petróleos de Manguinhos (em recuperação judicial).",
+    "Com a suspensão, os valores mobiliários emitidos por essas companhias ficam impedidos de serem negociados em mercados regulamentados, como bolsas de valores ou mercados de balcão, enquanto durar a medida.",
+    "A CVM ressaltou que a suspensão não exime as companhias, seus controladores e administradores de responsabilidades por eventuais infrações cometidas anteriormente.",
+    "A Procuradoria‑Geral do Distrito Federal solicitou ao presidente do STF, Edson Fachin, que determine ao BRB o pagamento de indenização de R$ 2,2 bilhões por fraudes praticadas pelo Banco Master, alegando prejuízos ao patrimônio público e aos dividendos do banco.",
+    "Investigações apontam que o grupo liderado por Henrique Vorcaro repassou ao BRB R$ 12,2 bilhões em carteiras de ativos inexistentes; o patrimônio bloqueado de Vorcaro inclui imóveis avaliados em R$ 146 milhões, e a compra do Master pelo BRB foi anulada pelo Banco Central."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/economia/cvm-suspende-5-companhias-abertas-por-falta-de-informacoes-incluindo-ambipar-e-brb/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/6a7ca0a72cfc.webp"
   },
   {
    "titulo": "Bukele exporta seu modelo de combate ao crime para o atoleiro haitiano",
    "topicos": [
-    "Nayib Bukele, presidente de El Salvador, busca a reeleição no 28 de fevereiro, com vitória garantida graças a uma reforma constitucional que permite a renovação do mandato e estende o período de cinco para seis anos, eliminando o segundo turno e possibilitando que permaneça no poder até 2033.",
-    "A candidatura de Bukele, do partido Novo Ideias, enfrenta oposição fraca, representada pelo médico de esquerda Rafael Aguirre (FMLN) e pela ex‑congressista de direita Mayté Ihareta (Arena), enquanto ele governa sob estado de emergência vigente desde 2022, alvo de denúncias de detenções arbitrárias e tortura.",
-    "O Centro de Confinamento do Terrorismo (Cecot), prisão de segurança máxima projetada para 40 mil detentos, foi apresentado como modelo para outros países; a presidente do Peru, Keiko Fujimori, anunciou que usará ideias do Cecot para duas novas prisões em seu país.",
-    "Na Costa Rica, Laura Fernández criou o Centro de Alta Contenção contra o Crime Organizado (Cacco), inaugurado no mês passado em San José, com capacidade para 5 mil presos de alta periculosidade, inspirado no modelo salvadorenho.",
-    "Em outubro passado, Bukele enviou ao Haiti 2 mil militares, blindados, drones e cães‑robôs após o sequestro de quatro técnicos de aviação salvadorenhos ligados à Força de Repressão a Gangues apoiada pela ONU, buscando combater as gangues que mataram 6 mil pessoas nos primeiros nove meses de 2024.",
-    "A operação no Haiti já registrou três soldados salvadorenhos mortos e um ferido; o paradeiro dos quatro técnicos sequestrados ainda é desconhecido, mas Bukele afirma ter apoio local para ampliar a presença militar no país em crise desde o assassinato do presidente Jovenel Moïse em 2021."
+    "Bukele busca terceiro mandato em El Salvador, com reeleição marcada para 28 de fevereiro; reforma constitucional permitiu renovação e estendeu o mandato de cinco para seis anos, eliminou o segundo turno e abre caminho para permanecer no poder até 2033.",
+    "O presidente, que reduziu a taxa de homicídios ao menor da América Latina, tenta exportar seu modelo ao Haiti, onde gangues já mataram 6 mil pessoas nos primeiros nove meses do ano.",
+    "Em outubro passado, Bukele enviou 2 mil militares salvadorenhos ao Haiti, equipados com blindados, drones e cães‑robôs, após o sequestro de quatro técnicos de aviação da Força de Repressão a Gangues apoiada pela ONU; o paradeiro dos quatro ainda é desconhecido.",
+    "A intervenção já registra baixas: três soldados salvadorenhos morreram e um ficou ferido durante as operações no território haitiano.",
+    "O Centro de Confinamento do Terrorismo (Cecot), projetado para 40 mil detentos, serviu de modelo; a presidente do Peru, Keiko Fujimori, pretende usar ideias para duas novas prisões, e a Costa Rica inaugurou o Cacco, com capacidade para 5 mil presos de alta periculosidade.",
+    "Bukele governa sob estado de emergência desde 2022, regime criticado por relatos de detenções arbitrárias, julgamentos apressados, tortura e mortes de presos; ele rejeita as críticas alegando agir em defesa das vítimas."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/23/bukele-exporta-seu-modelo-de-combate-ao-crime-para-o-atoleiro-haitiano.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/52cc6d52dedc.webp"
   },
   {
    "titulo": "A brasileira premiada que descobriu 6 novas espécies de tamanduá: 'Não conhecemos quase nada da nossa fauna'",
    "topicos": [
-    "A bióloga brasileira Flávia Miranda, professora da Universidade Estadual de Santa Cruz e presidente do Instituto Tamanduá, recebeu em outubro, em Londres, o prêmio Animal Action Awards na categoria Conservation Changemaker.",
-    "A premiação, promovida pelo Fundo Internacional para o Bem-Estar Animal (IFAW), reconhece o trabalho de destaque da cientista na conservação da fauna silvestre.",
-    "Miranda descreveu seis novas espécies de tamanduás-anões, chamados de tamanduaís, do gênero Cyclopes, além de ter participado da descrição de uma nova espécie de preguiça pesando cerca de oito quilos.",
-    "A pesquisadora estuda os xenartros há quase 30 anos. Esse grupo exclusivo das Américas, que inclui tamanduás, tatus e preguiças, existe há cerca de 65 milhões de anos.",
-    "A cientista afirma que o Brasil abriga mais de 50% da Amazônia e possui uma fauna e flora imensas ainda por descobrir, o que exige mais investimentos e valorização da ciência nacional."
+    "A bióloga brasileira Flávia Miranda foi premiada na categoria Conservation Changemaker pelo Fundo Internacional para o Bem-Estar Animal durante um evento realizado em outubro, em Londres, no Reino Unido.",
+    "A pesquisadora é professora da Universidade Estadual de Santa Cruz, na Bahia, e preside o Instituto Tamanduá, sendo referência internacional no estudo de xenartros, grupo de mamíferos exclusivo das Américas que inclui tamanduás, preguiças e tatus.",
+    "Miranda descreveu seis novas espécies de tamanduás-anões, conhecidos como tamanduaís, do gênero Cyclopes, além de ter participado da descrição de uma nova espécie de preguiça de cerca de oito quilos após um trabalho de dez anos.",
+    "O grupo de mamíferos estudado é muito antigo, existindo há em torno de 65 milhões de anos. No período Pleistoceno, que ocorreu entre 2,58 milhões e 11,7 mil anos atrás, existiam preguiças gigantes de seis metros de altura e tatus de quase uma tonelada.",
+    "A cientista alerta que os xenartros podem ser os mamíferos a se extinguir mais rapidamente no futuro, devido a questões relacionadas às mudanças climáticas e ao resfriamento global.",
+    "O Brasil abriga mais de 50% da Amazônia e possui uma enorme quantidade de fauna e flora ainda a ser descoberta, reforçando a importância de conhecer a história evolutiva dessas espécies para criar políticas públicas de conservação."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cvx2xkyy6254o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9aefe738bd89.webp"
   },
   {
    "titulo": "Trump volta a defender restituição de Huang ao cargo de CEO da Nvidia",
    "topicos": [
-    "Na noite de domingo, 22, o ex‑presidente dos EUA, Donald Trump, usou a rede Truth Social para pedir que o conselho da Nvidia recontrate Jensen Huang como CEO, alegando ser o melhor para a empresa e para os Estados Unidos.",
-    "Em sexta‑feira, 20, Trump já havia defendido o retorno de Huang, dizendo que o executivo tomou decisões erradas, mas é brilhante e que gostaria de vê‑lo de volta ao cargo.",
-    "Após a renúncia de Huang, motivada por revelações de relacionamentos extraconjugais, a Nvidia nomeou a vice‑presidente executiva e CFO Colette Kress, na empresa desde setembro de 2013, como CEO interina.",
-    "A companhia também anunciou Harvey C. Jones como seu primeiro presidente do conselho de administração, trazendo mais de 30 anos de experiência, inclusive passagem pela liderança da Synopsys.",
-    "Às 8h07 (horário de Brasília), as ações da Nvidia subiram 8,8 % no pré‑mercado de Nova York, em tentativa de recuperação após a queda na sessão anterior.",
-    "A Nvidia abriu uma investigação independente, anunciada no domingo, 8, para apurar se Jensen Huang foi alvo de operação de inteligência estrangeira.",
-    "O caso ganhou destaque quando Huang admitiu ter sido infiel e a mídia apontou um relacionamento com Alice Huang, empresária chinesa que autoridades americanas suspeitam ter sido recrutada por Pequim para obter informações."
+    "Na noite de domingo, 22/​abril, o ex‑presidente dos EUA Donald Trump usou a rede Truth Social para pedir que o conselho da Nvidia recontrate Jensen Huang como CEO, alegando ser a melhor escolha para a empresa e para os Estados Unidos.",
+    "Trump já havia manifestado apoio ao retorno de Huang na sexta‑feira, 20/​abril, dizendo que o executivo “tomou decisões erradas, mas é uma pessoa brilhante” e que gostaria de vê‑lo de volta ao cargo.",
+    "Huang deixou a Nvidia após a revelação de relacionamentos extraconjugais, incluindo um suposto vínculo com Alice Huang, empresária chinesa que autoridades americanas suspeitam ser espiã recrutada por Pequim.",
+    "Com a renúncia de Jensen Huang, a vice‑presidente executiva e CFO Colette Kress assumiu a direção interina; ela está na Nvidia desde setembro de 2013, após quase 25 anos em cargos financeiros na Cisco e Microsoft.",
+    "A empresa também nomeou Harvey C. Jones como seu primeiro presidente do conselho de administração; Jones tem mais de 30 anos de experiência como empresário, executivo de tecnologia e investidor, incluindo passagem pela Synopsys.",
+    "Às 8h07 (horário de Brasília), as ações da Nvidia subiram 8,8 % no pré‑mercado de Nova York, tentando recuperar perdas da sessão anterior, após a divulgação dos desdobramentos do caso."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/gestao/trump-volta-a-defender-restituicao-de-huang-ao-cargo-de-ceo-da-nvidia/",
-   "categoria": "Economia"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5c7b5d217c85.webp"
   },
   {
    "titulo": "VÍDEO: Menino de 7 anos é resgatado após 14 horas sob escombros na Ucrânia: 'Não tenham pressa, estou bem'",
    "topicos": [
-    "Um menino de 7 anos chamado David foi resgatado nesta segunda-feira (23) após passar 14 horas sob os escombros de um prédio residencial em Dimer, cidade a 40 quilômetros de Kiev, na Ucrânia.",
-    "O edifício foi atingido por um ataque russo ocorrido na manhã de domingo (22), parte de uma forte ofensiva contra a capital ucraniana que deixou 11 mortos até a última atualização.",
-    "Os pais de David sobreviveram ao bombardeio e relataram o desaparecimento do filho aos bombeiros, que iniciaram as buscas no local.",
-    "Durante o resgate, ao ser localizado pelas equipes, o menino pediu calma aos socorristas e afirmou que estava bem, conforme relatou o governador da região de Kiev, Timur Tkachenko.",
-    "Após ser retirado dos escombros, David foi hospitalizado e recebeu cuidados médicos, enquanto equipes de emergência continuavam as buscas por outras pessoas desaparecidas.",
-    "Além da criança, uma idosa de 79 anos também foi resgatada com vida dos escombros na região afetada pelo ataque da Rússia."
+    "Na segunda‑feira, 23 de novembro de 2026, um menino de 7 anos foi resgatado após ficar 14 horas preso sob os escombros de um ataque russo nos arredores de Kiev.",
+    "O bombardeio ocorreu na manhã de domingo, 22 de novembro de 2026, em Dimer, a 40 km de Kiev, e deixou 11 mortos, conforme dados do governo local.",
+    "Identificado como David, o garoto foi encontrado quando bombeiros ouviram sua voz; ao ser questionado, ele respondeu que estava bem e pediu que não tivessem pressa.",
+    "Os pais de David sobreviveram ao ataque e relataram seu desaparecimento, orientando as equipes de emergência na busca dentro do edifício residencial atingido.",
+    "Após o resgate, David foi levado a um hospital para receber cuidados médicos; simultaneamente, uma idosa de 79 anos também foi retirada dos destroços.",
+    "Equipes de resgate continuam procurando por outros desaparecidos na região, enquanto as autoridades monitoram a situação decorrente da ofensiva russa na capital."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/23/menino-de-7-anos-e-resgatado-apos-14-horas-sob-escombros-na-ucrania-ataque-matou-11-pessoas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e355fdd84715.webp"
   },
   {
    "titulo": "Como foi a captura de narcotraficante mexicano na lista dos 10 mais procurados do FBI",
    "topicos": [
-    "Na sexta‑feira, 20 de novembro, as forças especiais mexicanas prenderam Fausto Isidro “Chapo Isidro” Meza Flores, de 44 anos, líder do Cartel Guasave, em Guasave, Sinaloa, usando informações de inteligência americana para cercar o local e impedir fuga.",
-    "Na operação, sete suspeitos foram mortos, assim como quatro soldados do Exército mexicano que se dirigiam ao local para reforçar a segurança; ao todo, oito pessoas foram detidas, incluindo o braço direito (primo) e o cunhado responsável pelas finanças do cartel.",
-    "As autoridades apreenderam diversas armas, entre elas um lançador de granadas, além de quantidades de drogas e dinheiro; veículos foram incendiados em rodovia próxima a Los Mochis, Sinaloa.",
-    "O Consulado‑Geral dos EUA em Hermosillo informou que monitora confrontos armados, bloqueios e incêndios em Ahome, Guamúchil, Guasave e Navolato, e recomendou que cidadãos americanos permaneçam alertas e se abriguem em casa.",
-    "Meza Flores é acusado nos EUA de tráfico de drogas em 2012 e 2019 e de conspirar entre 2005 e 2019 para fabricar e distribuir grandes quantidades de cocaína, heroína, metanfetamina e maconha.",
-    "A presidente mexicana, Claudia Sheinbaum, adotou postura mais dura contra os cartéis, buscando resistir à intervenção dos EUA, enquanto o México demonstra abertura a cooperação, mas rejeita presença militar americana no território."
+    "Na sexta‑feira, 20/11, forças especiais mexicanas capturaram Fausto Isidro “Chapo Isidro” Meza Flores, de 44 anos, líder do Cartel Guasave, em Guasave, Sinaloa, usando informações de inteligência americana.",
+    "Na operação foram mortos sete suspeitos e quatro soldados do Exército que se dirigiam ao local; ao todo, oito pessoas foram presas, incluindo o primo (braço direito) e o cunhado (responsável financeiro) de Meza Flores.",
+    "As forças cercaram o alvo com surpresa, mas foram alvejadas por tiros e explosivos antes de entrar; vídeos mostram helicópteros disparando e pessoas fugindo de um estádio de beisebol.",
+    "Autoridades apreenderam armas – entre elas um lançador de granadas –, além de drogas, dinheiro e registraram veículos incendiados em rodovia próxima a Los Mochis.",
+    "O Consulado dos EUA em Hermosillo monitorou confrontos, bloqueios e incêndios em Ahome, Guamúchil, Guasave e Navolato, recomendando que cidadãos americanos permaneçam alertas e se abriguem em casa.",
+    "Meza Flores responde nos EUA a acusações de tráfico de 2012 e 2019 e a conspiração (2005‑2019) para produzir e distribuir cocaína, heroína, metanfetamina e maconha; foi membro de alto escalão da organização Beltrán Leyva, que se fragmentou em 2008, e fundou seu próprio cartel em 2013.",
+    "A presidente mexicana Claudia Sheinbaum adotou postura mais dura contra os cartéis, buscando cooperação estreita com os EUA, mas rejeitando a presença militar americana no território."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/23/como-foi-a-captura-de-narcotraficante-mexicano-na-lista-dos-10-mais-procurados-do-fbi.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/048c0c20345a.webp"
   },
   {
    "titulo": "'Agora sei que ele morreu': famílias de migrantes reagem ao descobrir que parentes estavam em embarcação encontrada no Pará",
    "topicos": [
     "Uma embarcação com nove corpos foi encontrada à deriva no litoral do Pará em 13 de abril de 2024, após uma investigação internacional apurar sua origem na África.",
-    "O barco saiu de Nouadhibou, na Mauritânia, em 23 de janeiro de 2024, rumo às Ilhas Canárias, mas perdeu o motor e o leme, ficando cerca de 80 dias e 4 mil quilômetros à deriva.",
-    "Em junho, uma equipe com peritos brasileiros e jornalistas percorreu mais de 1,5 mil km na Mauritânia e no Mali, coletando 85 amostras de DNA de 29 famílias.",
-    "Em 9 de outubro, um comitê formalizou a identificação de seis das nove vítimas, incluindo Suleiman Gassama, cujos documentos estavam na embarcação.",
-    "A rota atlântica utilizada pelas vítimas registrou 62 naufrágios e 1.070 mortes ou desaparecimentos em 2024, conforme dados da Organização Internacional para as Migrações."
+    "O barco partiu de Nouadhibou, na Mauritânia, em 23 de janeiro de 2024, rumo às Ilhas Canárias, mas perdeu o motor e o leme, ficando cerca de 80 dias à deriva e percorrendo 4 mil km.",
+    "Em junho, uma equipe brasileira e jornalistas percorreram mais de 1,5 mil km na Mauritânia e no Mali, coletando 85 amostras de DNA de 29 famílias para identificar os restos mortais.",
+    "Em 9 de outubro, um comitê formalizou a identificação de seis das nove vítimas, incluindo Suleiman Gassama, cujos documentos foram achados na embarcação junto a 28 celulares.",
+    "A Rota Atlântica da África Ocidental registrou 62 naufrágios e 1.070 mortes ou desaparecimentos em 2024, conforme dados da Organização Internacional para as Migrações da ONU."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/fantastico/noticia/2026/11/23/agora-sei-que-ele-morreu-familias-de-migrantes-reagem-ao-descobrir-que-parentes-estavam-em-embarcacao-encontrada-no-para.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0a632cacbae1.webp"
   },
   {
    "titulo": "Sudão do Sul: a tragédia ignorada pelo mundo - O Assunto #1850",
    "topicos": [
-    "Quinze anos após sua independência, o Sudão do Sul enfrenta uma grave escalada de violência, instabilidade política e o risco de fome para mais de 16 milhões de habitantes.",
+    "Quinze anos após a independência, o Sudão do Sul enfrenta uma grave escalada de violência, instabilidade política e o risco de fome para mais de 16 milhões de habitantes.",
     "O país mais jovem do mundo registra ataques a unidades de saúde, aumento da violência sexual e confrontos armados entre forças governamentais e grupos de oposição.",
-    "As primeiras eleições gerais da história sul-sudanesa foram adiadas, enquanto o presidente Salva Kiir permanece no poder em meio a rivalidades étnicas e disputas pelas reservas de petróleo.",
-    "O episódio do podcast O Assunto aborda a crise humanitária e política com a participação do jornalista Pedro Borges e do advogado César Augusto Chidozie."
+    "As primeiras eleições gerais na história da nação foram adiadas, enquanto o presidente Salva Kiir permanece no poder em meio a disputas por reservas de petróleo e rivalidades étnicas.",
+    "O podcast \"O Assunto\" abordou o tema no episódio #1850, contando com a participação do jornalista Pedro Borges, em Juba, e do advogado César Augusto Chidozie."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/23/sudao-do-sul-a-tragedia-ignorada-pelo-mundo-o-assunto-1850.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/ef9cfef29688.webp"
   },
   {
    "titulo": "Os problemas de saúde causados pelo parto que nunca desaparecem",
    "topicos": [
-    "Em 2024, a jornalista e autora Melissa Hogenboom passou por uma cirurgia de emergência de cinco horas após parte de seu intestino se protuberar para uma abertura no estômago, causando uma perfuração e infecção grave decorrente de aderências de partos anteriores.",
-    "Globalmente, cerca de 40 milhões de mulheres são atingidas anualmente por complicações pós-parto que duram meses ou anos, variando de incontinência a dores crônicas e problemas intestinais graves que podem surgir décadas depois.",
-    "Entre 2000 e 2023, o percentual global de mortes maternas em relação aos nascimentos vivos caiu 40%, mas o foco na redução de óbitos fez com que os efeitos de longo prazo do parto recebessem pouca atenção.",
-    "As cesarianas representam cerca de 21% de todos os partos no mundo, alcançando índices expressivos como 58% na República Dominicana, mais de 32% nos Estados Unidos e 57% no Brasil em 2021.",
-    "Um estudo americano com 43.646 mães acompanhadas por 50 anos mostrou que mulheres submetidas a cesarianas tiveram um risco 16% maior de morte no período do que aquelas que tiveram parto normal.",
-    "A cesariana é uma cirurgia abdominal de grande porte que pode elevar riscos de longo prazo como gravidez ectópica, placenta acreta, infecções, coágulos, problemas cardiovasculares e obstruções por cicatrizes."
+    "Em 2024, uma mulher relata uma grave complicação pós‑parto: após 36 h de dor intensa sem alívio da morfina, cirurgiões descobriram parte do intestino perfurada, com pus espalhado pelo abdômen, exigindo cirurgia de cinco horas e deixando incisão de 15 cm do umbigo à pelve.",
+    "A reportagem aponta que cerca de 40 milhões de mulheres no mundo sofrem anualmente complicações de parto que duram meses ou anos, incluindo incontinência fecal ou urinária, dores crônicas, cicatrizes intestinais potencialmente fatais e redução da fertilidade futura.",
+    "Entre 2000 e 2023, a taxa de mortalidade materna em relação aos nascimentos vivos caiu globalmente 40 %, o que deslocou o foco para a sobrevivência, enquanto os efeitos de longo prazo do trabalho de parto passaram a receber pouca atenção, segundo análise de 2024.",
+    "A análise global de 2024 foi liderada pelo epidemiologista perinatal Joshua Vogel, do Instituto Burnet (Austrália), que alerta que muitas mulheres não conseguem assistência adequada por desconhecerem o que é normal ou quando é necessário exame médico.",
+    "O relato pessoal inclui cesariana, cirurgia de urgência quatro dias após o parto devido a pontos rompidos e complicação intestinal, outra gravidez e, anos depois, dor abdominal súbita identificada como aderências que causaram obstrução intestinal.",
+    "Conversas com outras mulheres e especialistas mostram que essas complicações crônicas são subnotificadas, as pacientes frequentemente se sentem ignoradas e têm dificuldade de acesso a tratamento, evidenciando a necessidade de maior conscientização e apoio."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/crx20xxz9pv2o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/ade9a85eb2c8.webp"
   }
  ]
 }
