@@ -2,6 +2,235 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-23",
+   "n": [
+    {
+     "t": "Vendedor de loja fazendo live: a China já testou, e a lição vai além da câmera",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Em 9 de novembro, na NeoConference em São Paulo, Alexandre Birman, CEO da Arezzo, anunciou um investimento pesado no TikTok Shop e a proposta de colocar…",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/noticias/vendedor-de-loja-fazendo-live-a-china-ja-testou-e-a-licao-vai-alem-da-camera/"
+    },
+    {
+     "t": "Varejo e consumo no Japão servem de inspiração",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "No Japão, o varejo está evoluindo de simples venda de produtos para plataformas integradas que combinam comércio, serviços financeiros, saúde, bem‑estar e…",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/artigos/varejo-e-consumo-no-japao-servem-de-inspiracao/"
+    },
+    {
+     "t": "GPA, Brava, Unifique, Simpar, Equatorial e mais ações para acompanhar nesta segunda",
+     "c": "Varejo",
+     "f": "InfoMoney",
+     "r": "O Grupo Pão de Açúcar obteve autorização do TRT-2 para quitar R$ 140 milhões em débitos trabalhistas divididos em 72 prestações mensais.",
+     "l": "https://www.infomoney.com.br/mercados/gpa-brava-unifique-simpar-equatorial-e-mais-acoes-para-acompanhar-nesta-segunda/"
+    },
+    {
+     "t": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O presidente da Câmara, Hugo Motta (Republicanos-PB), marcou para esta segunda-feira a votação do projeto de ajuste fiscal do governo Lula, em uma sessão…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml"
+    },
+    {
+     "t": "Calendário econômico da semana: IPCA-15 e PCE nos EUA estarão no radar dos mercados",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "A agenda econômica da semana no Brasil e nos Estados Unidos traz indicadores de inflação e atividade para orientar a política monetária dos dois países.",
+     "l": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ipca-15-e-pce-nos-eua-estarao-no-radar-dos-mercados/"
+    },
+    {
+     "t": "Sánchez tenta impedir vitória da direita na Espanha e volta a citar vitória de Lula",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Pedro Sánchez, primeiro‑ministro socialista de 54 anos, tenta impedir a vitória dos conservadores nas eleições gerais espanholas marcadas para domingo, 29 de…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/23/sanchez-tenta-impedir-vitoria-direita-e-extrema-direita-espanha.ghtml"
+    },
+    {
+     "t": "O que os homens mais ricos da Rússia esperam para o futuro sem Putin",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Em 24 de fevereiro de 2022, logo após iniciar a invasão em grande escala da Ucrânia, Vladimir Putin reuniu mais de 36 dos empresários mais ricos da Rússia no…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/23/o-que-os-homens-mais-ricos-da-russia-esperam-para-o-futuro-sem-putin.ghtml"
+    },
+    {
+     "t": "Mel com pimenta e snacks funcionais estão entre as tendências de alimentos para 2027",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "O levantamento global Taste Trends 2027, realizado pela Kerry, divulgou as principais tendências de alimentos e bebidas previstas para o ano de 2027.",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/foodservice/mel-com-pimenta-e-snacks-funcionais-estao-entre-as-tendencias-de-alimentos-para-2027/"
+    },
+    {
+     "t": "YouTube Shopping: conhecimento dos criadores pesa na decisão de compra de 71%",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Um estudo do YouTube revelou que 71% dos usuários brasileiros entrevistados têm mais chances de comprar itens recomendados por criadores que demonstram paixão…",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/noticias/conhecimento-dos-criadores-pesa-na-decisao-de-compra-de-71-dos-usuarios-do-youtube/"
+    },
+    {
+     "t": "Batatas espaciais: cientistas descobrem como cultivar alimento em solo semelhante ao da Lua",
+     "c": "Mundo",
+     "f": "g1 Economia",
+     "r": "Cientistas cultivaram com sucesso batatas nutritivas e seguras utilizando solo lunar simulado, em pesquisa liderada pelo biólogo vegetal Aymeric Goyer, da…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/23/batatas-espaciais-cientistas-descobrem-como-cultivar-alimento-em-solo-semelhante-ao-da-lua.ghtml"
+    },
+    {
+     "t": "Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Alice Huang, ex-comandante da Megaspeed International e apontada como amante do ex-CEO da Nvidia Jensen Huang, manteve contato com um oficial da espionagem…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/23/amante-de-ceo-da-nvidia-manteve-contato-com-oficial-da-espionagem-chinesa-segundo-o-nyt.ghtml"
+    },
+    {
+     "t": "Pai e filha presos pelo ICE nos EUA estavam viajando para um batismo; VÍDEO mostra abordagem",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Um pai e sua filha, cidadãos mexicanos identificados como Ricardo Larrondo Mendoza e Sofia Hernandez Mejia, foram detidos por agentes do ICE no sábado (21) em…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/23/pai-e-filha-presos-pelo-ice-nos-eua.ghtml"
+    },
+    {
+     "t": "Marcelo Teixeira oficializa candidatura à reeleição no Santos",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "O atual presidente do Santos, Marcelo Teixeira, registrou no domingo (22.nov.2026) sua candidatura à reeleição para o triênio de 2027 a 2029.",
+     "l": "https://www.poder360.com.br/poder-sportsmkt/marcelo-teixeira-oficializa-candidatura-a-reeleicao-no-santos/"
+    },
+    {
+     "t": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+     "c": "Política",
+     "f": "Agência Câmara",
+     "r": "A Câmara dos Deputados marcou sessão para a noite de segunda-feira (23) para iniciar a discussão do projeto de ajuste fiscal (PLC 299/26), cuja votação…",
+     "l": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes"
+    },
+    {
+     "t": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Em 23 de novembro de 1826, os governos do Brasil e do Reino Unido assinaram um acordo estipulando o fim do tráfico transatlântico de africanos escravizados…",
+     "l": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Amante de fundador da Nvidia teve contato com agente chinês, diz NYT",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "Alice Huang, que teve um caso com o fundador da Nvidia, Jensen Huang, manteve contato com um oficial do Ministério de Segurança do Estado da China por mais de…",
+     "l": "https://www.poder360.com.br/poder-internacional/amante-de-fundador-da-nvidia-teve-contato-com-agente-chines-diz-nyt/"
+    },
+    {
+     "t": "Show na Inglaterra é evacuado após liberação de “substância”",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "No domingo, 22 de novembro de 2026, por volta das 22h (horário local), o show do rapper norte‑americano Don Toliver na arena Co‑op Live, em Manchester,…",
+     "l": "https://www.poder360.com.br/poder-internacional/show-na-inglaterra-e-evacuado-apos-liberacao-de-substancia/"
+    },
+    {
+     "t": "Ajuste fiscal mexe com bolsa enquanto semana é mais curta lá fora; Ibovespa em dólar salta nesta segunda-feira (23)",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "A bolsa brasileira iniciou a segunda-feira (23) com foco na votação da proposta de ajuste fiscal do governo federal na Câmara, sob desconfiança do mercado…",
+     "l": "https://www.moneytimes.com.br/ajuste-fiscal-mexe-com-bolsa-enquanto-semana-e-mais-curta-la-fora-ibovespa-em-dolar-salta-nesta-segunda-feira-23-rens/"
+    },
+    {
+     "t": "Futuros do Brent recuam e ficam abaixo de US$ 90",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "Os contratos futuros do petróleo Brent para fevereiro de 2027 caíam 0,62% e eram negociados a US$ 89,39 por barril às 6h34 de Brasília nesta 2ª feira…",
+     "l": "https://www.poder360.com.br/poder-economia/futuros-do-brent-recuam-e-ficam-abaixo-de-us-90/"
+    },
+    {
+     "t": "Santos anuncia Bozzella para trabalhar com pai de Neymar",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "No domingo (22.nov.2026), o Santos oficializou Júnior Bozzella como o novo diretor-geral de operações e futebol da instituição.",
+     "l": "https://www.poder360.com.br/poder-sportsmkt/santos-anuncia-bozzella-para-trabalhar-com-pai-de-neymar/"
+    },
+    {
+     "t": "Petrobras (PETR4), Taesa (TAEE3) e mais empresas pagam dividendos nesta semana; veja valores",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "Empresas listadas no Ibovespa, incluindo Petrobras e Taesa, realizam pagamentos de dividendos e juros sobre capital próprio (JCP) aos seus acionistas ao longo…",
+     "l": "https://www.moneytimes.com.br/petrobras-petr4-taesa-taee3-dividendos-nesta-semana-valores-mlem/"
+    },
+    {
+     "t": "Caixa libera saque calamidade de até R$ 6,2 mil após temporal no RS",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "Moradores de Tupanciretã (RS) afetados pelo temporal da última sexta-feira (20.nov.2026) podem pedir o saque calamidade do FGTS a partir desta segunda-feira…",
+     "l": "https://www.poder360.com.br/poder-brasil/caixa-libera-saque-calamidade-de-ate-r-62-mil-apos-temporal-no-rs/"
+    },
+    {
+     "t": "Após Master, CGU apura evolução patrimonial de funcionários do BC",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A Controladoria-Geral da União está investigando a evolução patrimonial de funcionários do Banco Central para verificar se os bens condizem com os salários do…",
+     "l": "https://www.poder360.com.br/poder-governo/apos-master-cgu-apura-evolucao-patrimonial-de-funcionarios-do-bc/"
+    },
+    {
+     "t": "Trump reúne investidores de sua criptomoeda após queda de valor",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "No domingo (22.nov.2026), o presidente dos EUA, Donald Trump, organizou um jantar de gala no seu clube de golfe na Virgínia para investidores de sua memecoin…",
+     "l": "https://www.poder360.com.br/poder-internacional/trump-reune-investidores-de-sua-criptomoeda-apos-queda-de-valor/"
+    },
+    {
+     "t": "Quem é o mini Papa brasileiro que Leão XIV pegou no colo no Vaticano",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O bebê brasileiro Miguel, de apenas 5 meses e natural de Ribeirão Preto (SP), chamou atenção na Praça São Pedro, no Vaticano, ao se vestir de papa.",
+     "l": "https://g1.globo.com/fantastico/noticia/2026/11/23/quem-e-o-mini-papa-brasileiro-que-leao-xiv-pegou-no-colo-no-vaticano.ghtml"
+    },
+    {
+     "t": "Zelensky reivindica ataque contra navio de guerra russo na costa da Líbia; VÍDEO mostra explosão",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O presidente ucraniano Volodymyr Zelensky afirmou nesta segunda-feira (23) que a Ucrânia afundou um navio de guerra russo na costa da Líbia utilizando sete…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/23/zelensky-reivindica-ataque-navio-de-guerra-russo-libia-video.ghtml"
+    },
+    {
+     "t": "Bolsas da Ásia fecham mistas após novas medidas para conter turbulência ligada à IA",
+     "c": "Mundo",
+     "f": "Money Times",
+     "r": "As bolsas da Ásia fecharam sem direção única nesta segunda-feira (23), após reguladores e operadores da China, Coreia do Sul e Taiwan adotarem medidas para…",
+     "l": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-apos-novas-medidas-para-conter-turbulencia-ligada-a-ia-fets/"
+    },
+    {
+     "t": "Plano de Moretti é só 'primeiro passo', e governo Lula deve fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "O governo do presidente Luiz Inácio Lula da Silva aguarda a votação do Projeto de Lei Complementar (PLP) 299/2026, prevista para esta segunda-feira (23/11) na…",
+     "l": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "EUA buscam respostas sobre venda de chips da Nvidia para China, diz secretário do Tesouro",
+     "c": "Mundo",
+     "f": "Money Times",
+     "r": "O secretário do Tesouro dos EUA, Scott Bessent, declarou neste domingo (22) que o governo de Donald Trump busca esclarecimentos sobre a comercialização de…",
+     "l": "https://www.moneytimes.com.br/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario-do-tesouro-fets/"
+    },
+    {
+     "t": "Em áudio | O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes menor que um átomo",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Cientistas liderados por pesquisadores de Cambridge, no Reino Unido, detectaram sinais no zeptoverso, uma escala 100 bilhões de vezes menor que um átomo.",
+     "l": "https://www.bbc.com/portuguese/listen/ck3rgp8jy0d7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Exército dos EUA planeja detonar 5 toneladas de explosivos apesar de ordem judicial e de alerta de ambientalistas",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O Exército dos Estados Unidos planeja detonar cerca de cinco toneladas de explosivos deteriorados nesta quarta-feira no Iowa Army Ammunition Plant, localizado…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/23/exercito-dos-eua-planeja-detonar-5-toneladas-de-explosivos-apesar-de-ordem-judicial-e-de-alerta-de-ambientalistas.ghtml"
+    },
+    {
+     "t": "Quais são os próximos feriados de 2026? Veja o único que resta",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Após o feriadão do Dia da Consciência Negra em 20 de novembro, que permitiu três dias de descanso, restam apenas as comemorações de fim de ano para os…",
+     "l": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/quais-sao-os-proximos-feriados-de-2026.ghtml"
+    }
+   ]
+  },
+  {
    "data": "2026-11-22",
    "n": [
     {
