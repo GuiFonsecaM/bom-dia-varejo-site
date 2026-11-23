@@ -229,7 +229,7 @@
    "categoria": "Política",
    "erro_materia": "HTTPError: 404 Client Error: Not Found for url: https://www.poder360.com.br/poder-congresso/cas-aprova-cordao-de-identificacao-para",
    "erro_ia": "texto da matéria não encontrado",
-   "tentativas_ia": 3,
+   "tentativas_ia": 4,
    "sem_imagem": true
   },
   {
