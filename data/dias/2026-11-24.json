@@ -4,559 +4,635 @@
   {
    "titulo": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
    "topicos": [
-    "A Câmara dos Deputados aprovou em 23 de março de 2026 um projeto de ajuste fiscal enviado pelo governo do presidente Lula, com potencial de gerar uma economia de até R$ 56 bilhões para cumprir a meta orçamentária de 2027.",
-    "O texto prevê um corte linear adicional de 10% em incentivos e benefícios tributários concedidos a diversos setores, acumulando uma redução de 20% nessa área nos últimos dois anos.",
-    "O Executivo fica autorizado a limitar o uso de créditos tributários e a proibir a compensação cruzada entre impostos diferentes, medida criticada pelo setor produtivo por falta de prazos de devolução.",
-    "A receita do imposto de exportação sobre o petróleo será retirada do cálculo de despesas obrigatórias até 2030, podendo reduzir em cerca de R$ 9 bilhões os recursos destinados ao piso da saúde em 2027.",
-    "O projeto estabelece um teto de 2% para o crescimento das despesas públicas em anos de contenção e permite congelar gastos obrigatórios que não estejam previstos na Constituição Federal.",
-    "O Congresso terá um prazo de até 60 dias para aprovar uma regulamentação sobre os supersalários do funcionalismo público que ultrapassam o teto de aproximadamente R$ 46,3 mil."
+    "A Câmara dos Deputados aprovou, em 23 de março, o projeto de lei que institui um ajuste fiscal de até R$ 56 bi, conforme o senador Eduardo Braga (MDB‑AM), após o Senado concluir a votação em 19 de março.",
+    "O ajuste inclui corte linear de benefícios tributários: 10 % já aplicados até o fim de 2025, gerando R$ 19,8 bi, e mais 10 % previstos, totalizando 20 % de redução nos dois últimos anos.",
+    "O texto autoriza o Executivo a limitar a compensação de créditos tributários, proibindo a compensação cruzada e estabelecendo percentuais diferentes conforme valor ou tipo de crédito, sem definir prazo de devolução, gerando críticas de 57 entidades do setor produtivo.",
+    "Até 2030, a receita do imposto sobre exportação de petróleo deixará de compor a base de cálculo do piso da saúde, medida que já vigora temporariamente em 2026 e pode reduzir em cerca de R$ 9 bi os recursos destinados à saúde em 2027.",
+    "O projeto altera a regra de crescimento das despesas públicas, que antes permitia aumento acima da inflação entre 0,6 % e 2,5 % ao ano, fixando um teto de 2 % nos anos em que for necessário cortar gastos para cumprir a meta fiscal.",
+    "O presidente da Câmara, Hugo Motta (Republicanos‑PB), convocou sessão extraordinária em 23 de março para analisar o texto, apesar de ser dia normalmente sem votação nos plenários do Congresso."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/24/entenda-projeto-de-ajuste-fiscal-de-ate-r-56-bilhoes-para-governo-lula-aprovado-pela-camara.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0bc5a3c335c1.webp"
   },
   {
    "titulo": "Câmara aprova projeto de ajuste fiscal que prevê economia de até R$ 56 bilhões para governo Lula; proposta segue para sanção",
    "topicos": [
-    "A Câmara dos Deputados aprovou em 23 de dezembro o projeto de ajuste fiscal para cumprir a meta orçamentária de 2027, com placar de 353 votos a favor, 128 contra e 5 abstenções. A proposta, que pode gerar uma economia de até R$ 56 bilhões no próximo ano, seguiu para sanção do presidente Luiz Inácio Lula da Silva.",
-    "O projeto amplia em mais 10% o corte linear em incentivos e benefícios tributários concedidos a setores da economia, somando-se ao corte de 10% realizado no final de 2025. A medida busca conter gastos e ajustar as contas públicas federais.",
-    "O texto autoriza o Executivo a limitar o uso de créditos tributários e proíbe a compensação cruzada, onde empresas usam créditos de um imposto para pagar outro. A oposição e 57 entidades do setor produtivo criticaram a medida pela falta de prazo para o retorno das compensações.",
-    "A proposta altera o cálculo do piso da saúde até 2030, excluindo receitas extraordinárias do imposto de exportação de petróleo geradas por altas de preços decorrentes de conflitos no Oriente Médio. Com isso, a Saúde pode deixar de receber cerca de R$ 9 bilhões em 2027.",
-    "O texto fixa em 2% ao ano o teto para o crescimento de despesas federais acima da inflação nos anos em que houver necessidade de corte de gastos. Além disso, o governo poderá congelar despesas obrigatórias que não estejam protegidas pela Constituição, montante que somou R$ 388 bilhões em 2026.",
-    "O projeto permite que até 40% dos saldos não utilizados de fundos públicos no ano anterior sejam direcionados a despesas constitucionais. A regra exclui o remanejamento de áreas como saúde, educação, segurança pública e repasses a estados e municípios.",
-    "O texto estabelece um prazo de até 60 dias para o Congresso aprovar a regulamentação dos supersalários do funcionalismo público, que ultrapassam o teto de cerca de R$ 46,3 mil. Na Lei Kandir, os repasses anuais da União a estados e municípios caem para R$ 2 bilhões até 2030."
+    "A Câmara dos Deputados aprovou, em 23 de dezembro, o projeto de ajuste fiscal do governo Lula que visa cumprir a meta do orçamento de 2027, obtendo 353 votos a favor, 128 contrários e 5 abstenções.",
+    "O pacote de medidas pode gerar uma economia de até R$ 56 bilhões já no próximo ano por meio de cortes de incentivos tributários, mudanças em despesas e restrições ao uso de créditos fiscais.",
+    "O texto estabelece um corte linear adicional de 10% em benefícios tributários dados a vários setores, somando-se a um corte semelhante feito no final de 2025 para atingir 20% de redução nos últimos dois anos.",
+    "O projeto autoriza o Executivo a limitar o uso de créditos tributários e proíbe a compensação cruzada entre impostos, medida criticada por entidades do setor produtivo por gerar aumento imediato da arrecadação em dinheiro.",
+    "A proposta altera a base de cálculo do piso da saúde até 2030, excluindo receitas extraordinárias do petróleo causadas pelo conflito no Oriente Médio, o que pode fazer a saúde deixar de receber cerca de R$ 9 bilhões em 2027.",
+    "O projeto fixa um teto de gastos de 2% em anos de contenção fiscal, permite o bloqueio de gastos obrigatórios não constitucionais e estabelece prazo de até 60 dias para o Congresso regulamentar os supersalários acima de R$ 46,3 mil."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-aprova-projeto-de-ajuste-fiscal.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/4a2093f61074.webp"
   },
   {
    "titulo": "Dólar a R$ 6: o que explica a disparada da moeda e o que pode frear novas altas?",
    "topicos": [
-    "O dólar americano voltou a se aproximar de R$ 6 no Brasil, após registrar alta de quase 19% em pouco mais de um mês, encerrando cotado a R$ 5,9262 nesta segunda-feira (23). A disparada superou as projeções iniciais dos analistas para o fechamento do ano, influenciada por incertezas fiscais internas e pelo cenário internacional.",
-    "O boletim Focus do Banco Central elevou a projeção central da cotação para o fim de 2026 de R$ 5,20 (em 2 de outubro) para R$ 5,55 nesta semana. Especialistas apontam que a falta de definição sobre a nova equipe econômica e os rumos das contas públicas do governo Lula prolonga o pessimismo dos investidores.",
-    "Fatores como o volume elevado de reservas internacionais, a balança comercial favorável e a taxa básica de juros alta (Selic em 13,75% ao ano) ajudam a limitar uma disparada ainda mais duradoura. No entanto, analistas alertam que uma eventual desaceleração do IPCA-15 pode reduzir expectativas de novos aumentos da Selic, enfraquecendo o real.",
-    "No cenário externo, a perspectiva de alta de juros nos EUA pressiona moedas emergentes, com dirigentes do Federal Reserve considerando elevações de 0,50 ponto percentual. O índice DXY avançou cerca de 2,5% entre 23 de outubro e o fechamento desta segunda-feira (23), enquanto o dólar subiu 18,7% no Brasil.",
-    "Para conter a tensão no mercado, o Banco Central vendeu US$ 1 bilhão (aproximadamente R$ 5,93 bilhões) de suas reservas em 19 de quinta-feira, cujos montantes totais somavam US$ 363,6 bilhões (cerca de R$ 2,15 trilhões) no dia anterior. Especialistas ressaltam que a intervenção atende à demanda por liquidez, mas não elimina a desconfiança fiscal que impulsiona a alta.",
-    "O governo estima que o pacote fiscal aprovado pelo Senado terá impacto de até R$ 60 bilhões em 2027, sendo R$ 50 bilhões para o cumprimento de metas e R$ 10 bilhões para novas despesas. Contudo, estudos do BTG Pactual calculam uma melhora de apenas 0,2 ponto percentual do PIB, indicando que medidas mais profundas de controle de gastos são necessárias."
+    "O dólar americano voltou a se aproximar da marca de R$ 6 no Brasil, encerrando cotado a R$ 5,9262 nesta segunda-feira (23), após acumular uma alta de quase 19% em pouco mais de um mês.",
+    "A projeção central do boletim Focus para o dólar no final de 2026 subiu de R$ 5,20, em 2 de outubro, para R$ 5,55, superando as expectativas iniciais dos analistas econômicos.",
+    "A disparada foi impulsionada pela reeleição de Lula e pela desconfiança dos investidores quanto à capacidade do governo de controlar o crescimento da dívida e das contas públicas.",
+    "Entre 23 de outubro e esta segunda-feira (23), o dólar encareceu 18,7% no Brasil, superando o avanço de cerca de 2,5% do índice global DXY e evidenciando fortes pressões internas.",
+    "Para conter a tensão no mercado, o Banco Central vendeu US$ 1 bilhão de suas reservas em 19 de dezembro (cerca de R$ 5,93 bilhões), montante retirado de reservas que somavam US$ 363,6 bilhões.",
+    "Especialistas apontam que a queda sustentável da moeda depende da aprovação integral do pacote fiscal na Câmara, de definições na equipe econômica e de medidas concretas de revisão de gastos."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-a-r-6-o-que-explica-a-disparada-da-moeda-e-o-que-pode-frear-novas-altas.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/2ed76e1a9dc0.webp"
   },
   {
    "titulo": "“Menos é mais”: a revisão do sortimento pode gerar milhões de reais",
    "topicos": [
-    "Líderes e especialistas do varejo e das indústrias de bens de consumo apontam que nos próximos anos será imprescindível maior eficiência operacional, disciplina de execução e foco estratégico, especialmente diante de desafios como reforma tributária, nova escala de trabalho, custo de capital de giro e IA.",
-    "O sortimento, ou mix de produtos, é destacado como elemento crítico: a racionalização busca mais assertividade na oferta e melhor uso do capital de giro, usando dados de sell‑out por loja, por SKU e presença nas prateleiras aliados a soluções de IA para definir o mix ideal por ponto de venda.",
-    "Racionalizar o sortimento não significa simplesmente eliminar SKUs; as decisões devem estar alinhadas à proposta de valor e à estratégia de posicionamento da empresa, visando diferenciação e conexão com as missões de compra dos consumidores.",
-    "Como exemplo, a Costco (EUA) opera com aproximadamente 4 mil SKUs, enquanto concorrentes chegam a 100 mil SKUs; essa estratégia gera altos volumes, forte poder de negociação, custos operacionais menores, baixa ruptura, alto giro e gestão rigorosa de cada SKU.",
-    "A Costco projeta faturamento de USD 270 bi em 2025, representando crescimento de 8 % em relação ao ano anterior, em um mercado americano estável e altamente competitivo.",
-    "O faturamento por SKU da Costco está estimado em USD 67,5 MM para 2025, também com crescimento de 8 % sobre o ano anterior, reforçando a viabilidade de um sortimento enxuto e eficiente."
+    "Líderes e especialistas apontam que os próximos anos exigirão maior eficiência operacional, disciplina de execução e priorização de esforços do varejo e das indústrias de bens de consumo diante de desafios como a reforma tributária, a nova escala de trabalho, o custo de capital de giro e o avanço da inteligência artificial.",
+    "O sortimento de produtos surge como elemento crítico para as operações, com o varejo buscando maior assertividade na oferta e eficiência no capital de giro, enquanto indústrias trabalham em conjunto com clientes para racionalizar o mix usando dados de sell-out por loja, por SKU e inteligência artificial agêntica.",
+    "A racionalização do mix não significa apenas eliminar SKUs, mas alinhar as escolhas à proposta de valor e ao posicionamento estratégico de cada empresa para se diferenciar perante o consumidor.",
+    "Um exemplo citado é a rede americana Costco, que opera com cerca de 4 mil SKUs frente aos até 100 mil SKUs de concorrentes, obtendo altos volumes, poder de negociação, custos baixos, alta previsibilidade, menor ruptura e alto giro de mercadorias.",
+    "Para o ano de 2025, a Costco projetou um faturamento de USD 270 bilhões, representando um crescimento de 8% em relação ao ano anterior em um mercado competitivo, além de um faturamento por SKU de USD 67,5 milhões, também com alta de 8%."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/artigos/menos-e-mais-a-revisao-do-sortimento-pode-gerar-milhoes-de-reais/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/149add0f8ac8.webp"
   },
   {
    "titulo": "Miss Make entra no e-commerce e amplia alcance para além das 63 lojas",
    "topicos": [
-    "Miss Make, rede goiana de maquiagem com 63 lojas espalhadas pelo País, lançou sua loja virtual, permitindo atender consumidores de cidades onde ainda não há unidades físicas.",
-    "A loja online reúne produtos de maquiagem, cuidados com a pele, cabelos e acessórios de marcas nacionais e importadas, com previsão de ampliar o catálogo nos próximos meses.",
-    "Fundada em 2020, a empresa concentrava as vendas nas lojas físicas (pontos de rua, shopping centers e quiosques); o lançamento da loja online foi apresentado em live conduzida por Misnay Assis, transmitida simultaneamente no YouTube, Instagram e TikTok.",
-    "De acordo com a Abiacom, o e‑commerce brasileiro faturou R$ 125 bilhões no primeiro semestre de 2026, representando alta de 24,37 % em relação aos R$ 100,5 bilhões registrados no mesmo período de 2025.",
-    "Nos seis primeiros meses de 2026 foram contabilizados 242 milhões de pedidos, com ticket médio de R$ 517.",
-    "A Abiacom projeta que 2026 termine com 460,87 milhões de pedidos e faturamento acima de R$ 260 bilhões.",
-    "O setor tem ampliado o uso de conteúdos para redes sociais, vídeos, transmissões ao vivo e parcerias com influenciadores, e a entidade espera que o ritmo de crescimento se mantenha no segundo semestre, impulsionado pela digitalização e inteligência artificial."
+    "A rede goiana de maquiagem Miss Make inaugurou sua loja virtual para expandir sua atuação para além de suas 63 unidades físicas espalhadas pelo país.",
+    "O catálogo do novo e-commerce inclui itens de maquiagem, acessórios e produtos para cuidados capilares e com a pele, com previsão de expansão nos próximos meses.",
+    "Fundada em 2020 e focada em pontos de rua, shoppings e quiosques, a empresa lançou o canal digital durante uma transmissão ao vivo no YouTube, Instagram e TikTok.",
+    "O setor de comércio eletrônico no Brasil faturou R$ 125 bilhões no primeiro semestre de 2026, alta de 24,37% frente aos R$ 100,5 bilhões do mesmo período de 2025, segundo a Abiacom.",
+    "Nos seis primeiros meses de 2026, o e-commerce brasileiro registrou 242 milhões de pedidos, com um ticket médio de R$ 517.",
+    "A Abiacom projeta fechar o ano de 2026 com um faturamento superior a R$ 260 bilhões e um total de 460,87 milhões de pedidos realizados."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/ecommerce/miss-make-entra-no-e-commerce-e-amplia-alcance-para-alem-das-63-lojas/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8b9c01980276.webp"
   },
   {
    "titulo": "'50 Best' divulga ranking ampliado dos melhores restaurantes da América Latina; Brasil emplaca 6",
    "topicos": [
-    "O ranking gastronômico \"50 Best\" divulgou na segunda-feira (23) a lista ampliada, do 51º ao 100º colocado, dos melhores restaurantes da América Latina.",
-    "A relação preliminar conta com seis representantes do Brasil, sendo um de Salvador, três de São Paulo e dois do Rio de Janeiro.",
-    "O restaurante Origem, em Salvador, apareceu na 59ª posição e foi o brasileiro mais bem colocado na lista divulgada.",
-    "Outros estabelecimentos nacionais que figuram no ranking são Oteque (75º) e Ocyá (95º), ambos no Rio de Janeiro, além dos paulistas D.O.M. (76º), A Casa do Porco (86º) e Mocotó (93º).",
-    "O ranking principal da premiação, que engloba as posições de 1º a 50º, será anunciado em 1º de dezembro durante um evento ao vivo em Guadalajara, no México."
+    "Em 23 de março, a organização \"50 Best\" divulgou a lista ampliada (posições 51 a 100) dos melhores restaurantes da América Latina, incluindo seis estabelecimentos brasileiros.",
+    "O ranking principal, que cobre os 1º ao 50º colocados, será anunciado em 1º de dezembro durante um evento ao vivo em Guadalajara, México.",
+    "Os restaurantes brasileiros que entraram na lista ampliada são: 59º Origem (Salvador), 75º Oteque (Rio de Janeiro), 76º D.O.M. (São Paulo), 86º A Casa do Porco (São Paulo), 93º Mocotó (São Paulo) e 95º Ocyá (Leblon, Rio de Janeiro).",
+    "Origem, comandado pelos chefs Fabrício Lemos e Lisiane Arouca, apresenta um menu degustação inspirado nos cinco biomas da Bahia, usando técnicas de defumação e texturas marcantes em ambiente minimalista.",
+    "Oteque, do chef Alberto Landgraf, funciona em uma casa dos anos 1930 em Botafogo e oferece um menu degustação sazonal focado em peixes e frutos do mar, com apenas seis mesas no salão principal e cozinha aberta.",
+    "A Casa do Porco (chef Jefferson Rueda) destaca o aproveitamento integral do porco com pratos criativos; Mocotó, fundado em 1973 e agora dirigido por Rodrigo Oliveira, mantém clássicos da culinária nordestina; Ocyá (chef Geronimo Athuel) serve peixes e frutos do mar em combinações inovadoras como linguiça de peixe defumado e colar de peixe com caramelo picante."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/23/50-best-divulga-ranking-ampliado-dos-melhores-restaurantes-da-america-latina-brasil-emplaca-6.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/343c4f3506b0.webp"
   },
   {
    "titulo": "Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026",
    "topicos": [
-    "O presidente da Câmara, Hugo Motta, defendeu nesta segunda-feira (23) que o governo federal adote novas medidas econômicas ainda em 2026 para buscar um ambiente financeiro mais saudável e a queda nos juros.",
-    "Segundo Motta, as ações futuras devem evitar prejuízos à população mais pobre e proteger políticas essenciais para a trajetória política do presidente Luiz Inácio Lula da Silva.",
-    "O parlamentar justificou a necessidade de novos ajustes devido à alta do dólar, que impacta diretamente a inflação e prejudica a parcela de menor renda da população.",
-    "A Câmara dos Deputados aprovou nesta segunda-feira (23) um projeto de ajuste fiscal enviado pelo governo, com 353 votos favoráveis, 128 contrários e cinco abstenções.",
-    "O texto aprovado inclui um novo corte de 10% em incentivos e benefícios tributários, alterações em despesas discricionárias e limites para o uso de créditos tributários empresariais.",
-    "O Ministério do Planejamento estima que as medidas do ajuste fiscal possam gerar um impacto de até R$ 56 bilhões nas contas públicas no próximo ano."
+    "O presidente da Câmara, Hugo Motta, defendeu na segunda-feira (23) que o governo de Luiz Inácio Lula da Silva adote novas medidas econômicas ainda em 2026 para melhorar o cenário do país rumo a 2027.",
+    "Motta ressaltou que as ações não devem prejudicar os mais pobres ou comprometer pilares políticos do presidente, mas buscam criar um ambiente saudável com queda na taxa de juros.",
+    "O parlamentar justificou a urgência citando a alta do dólar, que impacta diretamente a inflação e prejudica a população de menor renda, gerando preocupação no Congresso com juros elevados."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/24/apos-camara-aprovar-ajuste-de-lula-hugo-motta-defende-novas-medidas-fiscais-ainda-em-2026.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/3aa2c4f2a658.webp"
   },
   {
    "titulo": "Câmara aprova texto-base do projeto de ajuste fiscal",
    "topicos": [
-    "A Câmara dos Deputados aprovou, na noite desta segunda-feira (23), o texto-base de um projeto de lei complementar sobre ajuste fiscal nas contas públicas para 2027, registrando 353 votos favoráveis, 128 contrários e cinco abstenções.",
-    "O projeto busca alcançar um superávit primário de aproximadamente R$ 18,7 bilhões em 2027 por meio de corte de despesas e maior arrecadação, gerando uma economia estimada entre R$ 45,1 bilhões e R$ 56,1 bilhões no ano.",
-    "O texto altera o arcabouço fiscal ao permitir bloqueios extras de gastos para cumprir a meta e reduzir de 2,5% para 2% o teto de expansão das despesas acima da inflação nos anos de contenção a partir do próximo ano.",
-    "A proposta prevê a redução de benefícios tributários, o adiamento parcial de repasses estaduais e municipais da Lei Kandir e fixa um prazo de 120 dias para o Congresso regulamentar vencimentos acima do teto público de R$ 46,3 mil.",
-    "Ficaram estabelecidos repasses anuais de R$ 2 bilhões da União aos estados com base na Lei Kandir no período de 2028 a 2030, após alteração na proposta que inicialmente previa cortes maiores e parcelamentos até 2037.",
-    "Antes de seguir adiante, a Câmara ainda precisa analisar os destaques com sugestões de alterações em trechos específicos do projeto, que já havia passado pelo Senado na última quarta-feira (18)."
+    "A Câmara dos Deputados aprovou, na noite desta segunda-feira (23), o texto-base do projeto de lei complementar sobre o ajuste fiscal nas contas públicas em 2027. A votação registrou 353 votos favoráveis, 128 contrários e cinco abstenções, mantendo o parecer do relator Mauro Benevides Filho (União-CE) sem modificações.",
+    "O projeto visa alcançar um superávit primário de aproximadamente R$ 18,7 bilhões em 2027 por meio de corte de gastos. A economia total estimada pela iniciativa, que combina controle de despesas e ampliação da arrecadação, situa-se entre R$ 45,1 bilhões e R$ 56,1 bilhões para o mesmo ano.",
+    "A proposta altera o arcabouço fiscal para autorizar bloqueios adicionais de gastos e reduz, a partir do ano que vem, o teto de expansão das despesas acima da inflação de 2,5% para 2% nos períodos em que houver adoção de medidas de contenção.",
+    "O texto determina a diminuição de benefícios tributários, o adiamento parcial de repasses estaduais e municipais vinculados à Lei Kandir e fixa um prazo de 120 dias para o Congresso regulamentar vencimentos acima do teto do funcionalismo, que atualmente é de R$ 46,3 mil.",
+    "Ficaram definidos repasses federais anuais de R$ 2 bilhões aos estados pela Lei Kandir entre 2028 e 2030. Originalmente, o governo previa baixar essa transferência para R$ 1 bilhão por ano e parcelar o restante entre 2031 e 2037."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-texto-base-do-projeto-de-ajuste-fiscal",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/778318423314.webp"
   },
   {
    "titulo": "Câmara aprova urgência para votação do projeto de ajuste fiscal",
    "topicos": [
-    "Em 23 de novembro, a Câmara dos Deputados aprovou o requerimento de urgência para o PLP 299/26 com 318 votos favoráveis, 135 contra e seis abstenções, permitindo que o texto seja votado diretamente em plenário, sem passar pelas comissões.",
-    "A urgência foi solicitada pelo governo e partidos da base durante sessão extraordinária; o deputado Hildo Rocha (MDB‑MA) ressaltou que a votação ainda nesta semana é essencial para que o parlamento analise o Orçamento da União de 2027.",
-    "O projeto, já aprovado pelo Senado em 18 de novembro, tem como meta alcançar superávit primário de cerca de R$ 18,7 bilhões; o relator Mauro Benevides Filho (União‑CE) apresentou parecer sem alterações, embora mais de 50 emendas, majoritariamente da oposição, tenham sido apresentadas.",
-    "As medidas de ajuste preveem redução de despesas e ampliação da arrecadação, com economia estimada entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027, considerando tanto o aumento de receitas quanto o controle de gastos.",
-    "O arcabouço fiscal será alterado para permitir bloqueios adicionais de despesas e, a partir do próximo ano, o limite de crescimento dos gastos acima da inflação será reduzido de 2,5 % para 2 % nos anos em que houver contenção.",
-    "O texto também corta benefícios tributários, autoriza o adiamento de parte dos repasses aos estados e municípios previstos na Lei Kandir e estabelece prazo de 120 dias para o Congresso regulamentar pagamentos acima do teto salarial do funcionalismo público, atualmente de R$ 46,3 mil.",
-    "O Senado previa repasses de R$ 2 bilhões anuais da União aos estados entre 2028 e 2030; a proposta original reduzia o repasse de R$ 4 bilhões para R$ 1 bilhão por ano, mas foi ajustada após acordo com a oposição, mantendo parte dos recursos e postergando o restante para 2031‑2037."
+    "A Câmara dos Deputados aprovou, nesta segunda-feira (23), o requerimento de urgência para o Projeto de Lei Complementar 299/26 sobre o ajuste fiscal das contas públicas, registrando 318 votos favoráveis, 135 contrários e seis abstenções.",
+    "Com a aprovação da urgência em sessão extraordinária convocada pelo governo e partidos aliados, a proposta será votada diretamente no plenário, sem passar pelas comissões da Casa, para viabilizar a análise do Orçamento da União de 2027.",
+    "O texto foi aprovado pelo Senado na quarta-feira (18) e visa obter um superávit primário de aproximadamente R$ 18,7 bilhões, com o relator Mauro Benevides Filho apresentando um parecer sem modificações, apesar de mais de 50 emendas apresentadas.",
+    "O projeto estima uma economia entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027 por meio de controle de despesas e ampliação de arrecadação, alterando o arcabouço fiscal para permitir bloqueios adicionais e reduzir o teto de gastos.",
+    "A proposta diminui o limite de crescimento das despesas acima da inflação de 2,5% para 2% a partir do próximo ano, além de cortar benefícios tributários, adiar repasses da Lei Kandir e fixar prazo de 120 dias para o Congresso regulamentar vencimentos acima do teto do funcionalismo de R$ 46,3 mil.",
+    "O texto prevê transferências de R$ 2 bilhões por ano da União aos estados com base na Lei Kandir no período entre 2028 e 2030, em substituição à proposta inicial de pagar R$ 1 bilhão anual e parcelar o restante entre 2031 e 2037."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a4e7890ba8bb.webp"
   },
   {
    "titulo": "Melhor Bocado aposta em franquias e e-commerce para ampliar atuação no B2B e B2C",
    "topicos": [
-    "A fabricante de donuts Melhor Bocado planeja expandir sua atuação no setor alimentício ampliando o atendimento B2B para pequenos comerciantes e avançando no mercado B2C por meio de e-commerce e franquias.",
-    "A principal aposta da marca para o varejo direto ao consumidor é o lançamento da rede de franquias Melhor Bocado Café, que oferece donuts, croissants, sorvetes e bebidas especiais.",
-    "Com mais de 38 anos de história, a empresa possui atualmente oito lojas físicas situadas em diferentes pontos da Região Metropolitana de São Paulo.",
-    "A companhia lançou um e-commerce voltado a pequenos comerciantes, permitindo que esse público faça compras pelo site, canal que se soma aos vendedores internos e externos.",
-    "Para o consumidor final, as aquisições de produtos continuam disponíveis nas lojas da rede Melhor Bocado Café e em pontos de venda parceiros.",
-    "A empresa anunciou Hugo Bethlem, ex-vice-presidente do Grupo Pão de Açúcar e cofundador do Capitalismo Consciente Brasil, como o novo CEO da rede."
+    "A fabricante de donuts Melhor Bocado planeja ampliar sua atuação nos mercados B2B e B2C por meio de e-commerce e de um novo modelo de franquias chamado Melhor Bocado Café.",
+    "A principal aposta para o consumidor final são as franquias que reúnem o portfólio completo da marca, incluindo donuts, croissants, sorvetes e bebidas especiais.",
+    "Com mais de 38 anos de história, a companhia possui atualmente oito unidades localizadas na Região Metropolitana de São Paulo.",
+    "Para atender pequenos comerciantes, a empresa lançou uma plataforma de e-commerce que complementa o trabalho já realizado por equipes de vendas internas e externas.",
+    "Hugo Bethlem assumiu o cargo de novo CEO da rede, trazendo mais de quatro décadas de experiência em liderança no setor de varejo e passagens por grandes empresas."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/noticias-varejo/melhor-bocado-aposta-em-franquias-e-e-commerce-para-ampliar-atuacao-no-b2b-e-b2c/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/c1e7ca1c7e43.webp"
   },
   {
    "titulo": "Alles Alimentos entra no foodservice com marca própria e 20 produtos",
    "topicos": [
-    "A Alles Alimentos lançou a marca Fortena com 20 produtos voltados ao mercado de foodservice, atendendo restaurantes, lanchonetes e cozinhas industriais para otimizar o preparo, padronizar receitas e controlar custos.",
-    "O portfólio inclui almôndegas, bacon, linguiça tipo calabresa, carne moída com até 9% de gordura, peito de frango desfiado, pernil desfiado, cupim desfiado, costela desfiada e opção sabor carne seca, todas em embalagens de 1 kg.",
-    "Na linha de hambúrgueres, a empresa oferece quatro versões: o smash de 90 gramas, o tradicional em gramaturas de 90, 120 e 150 gramas, o sabor picanha em 90 e 120 gramas, e o misto bovino e suíno com 56 gramas.",
-    "As almôndegas bovinas e mistas são comercializadas em embalagens de 1 quilo, chegando ultracongeladas e prontas para o preparo.",
-    "As linguiças tipo calabresa vêm em formato reto e curvado em embalagens de 2,5 quilos, e fatiadas em pacotes de 1 quilo, todas cozidas e defumadas.",
-    "O bacon cozido e defumado é produzido com barriga suína e disponibilizado em fatias ou cubos em embalagens de 1 kg."
+    "A Alles Alimentos lançou a marca Fortena voltada para o mercado de foodservice, com um portfólio inicial de 20 produtos destinados a restaurantes, lanchonetes e cozinhas industriais.",
+    "A nova linha busca otimizar o tempo de preparo, padronizar receitas e controlar custos operacionais em estabelecimentos do setor de alimentação fora do lar.",
+    "Para hamburguerias, a marca oferece quatro versões de hambúrguer: smash de 90 gramas, tradicional de 90, 120 e 150 gramas, picanha de 90 e 120 gramas, e misto de 56 gramas.",
+    "O portfólio conta com almôndegas bovinas e mistas em embalagens de 1 quilo, além de linguiça tipo calabresa em formatos de 2,5 quilos para reta e curvada, e 1 quilo para a fatiada.",
+    "A oferta inclui bacon cozido e defumado em fatias ou cubos, além de carnes desfiadas e carne moída com até 9% de gordura, todas comercializadas em embalagens de 1 kg."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/foodservice/alles-alimentos-entra-no-foodservice-com-marca-propria-e-20-produtos/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2535789154d6.webp"
   },
   {
    "titulo": "LISTA: veja os 10 carros de até R$ 100 mil com os maiores porta-malas",
    "topicos": [
-    "O portal g1 divulgou uma lista com 10 modelos de carros vendidos no Brasil que custam até R$ 100 mil e oferecem os maiores porta-malas para viagens e uso urbano.",
-    "O Renault Kwid abre a lista com porta-malas de 290 litros, motor 1.0 flex, câmbio manual de cinco marchas e preço inicial de R$ 82.790.",
-    "Volkswagen Polo (300 litros, a partir de R$ 97.990), Hyundai HB20 (300 litros, a partir de R$ 96.140) e Fiat Argo (300 litros, a partir de R$ 98.990) integram a faixa intermediária inferior.",
-    "O Chevrolet Onix hatch traz 303 litros de capacidade, motor 1.0 turbo flex, câmbio manual de seis marchas e preço inicial de R$ 87.790.",
-    "O Citroën C3 oferece 315 litros (a partir de R$ 88.990), enquanto o Fiat Pulse conta com 320 litros (a partir de R$ 95.990).",
-    "O Hyundai i20 tem porta-malas de 346 litros, sendo 15,3% maior que o HB20, com preço inicial de R$ 94.990. O Renault Kardian entrega 358 litros por R$ 99.990.",
-    "O Citroën Basalt lidera o ranking com o maior porta-malas, dispondo de 490 litros, motor 1.0 flex, câmbio manual de cinco marchas e preço a partir de R$ 93.990."
+    "O portal g1 divulgou uma lista com 10 modelos de carros vendidos no Brasil por até R$ 100 mil que se destacam por oferecer os maiores porta-malas para uso urbano, viagens e compras.",
+    "O Renault Kwid abre a lista com porta-malas de 290 litros, motor 1.0 flex, câmbio manual de cinco marchas e preço a partir de R$ 82.790.",
+    "Volkswagen Polo (300 litros, R$ 97.990), Hyundai HB20 (300 litros, R$ 96.140) e Fiat Argo (300 litros, R$ 98.990) compõem a faixa intermediária inferior da lista.",
+    "O Chevrolet Onix hatch tem porta-malas de 303 litros, motor 1.0 turbo flex, câmbio manual de seis marchas e preço a partir de R$ 87.790.",
+    "O Citroën C3 oferece porta-malas de 315 litros por R$ 88.990, enquanto o Fiat Pulse conta com 320 litros e preço inicial de R$ 95.990.",
+    "O Hyundai i20 apresenta porta-malas de 346 litros, sendo 15,3% maior que o HB20, e custa a partir de R$ 94.990.",
+    "O Renault Kardian (358 litros, R$ 99.990) e o Citroën Basalt (490 litros, R$ 93.990) lideram o ranking como os maiores porta-malas entre os carros de até R$ 100 mil."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/carros/noticia/2026/11/24/lista-veja-os-10-carros-de-ate-r-100-mil-com-os-maiores-porta-malas.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/754195bd3915.webp"
   },
   {
    "titulo": "Bolsa e dólar: veja os destaques da agenda econômica desta terça-feira (24)",
    "topicos": [
-    "A agenda econômica desta terça-feira (24) conta com a divulgação de apenas dois indicadores para avaliar o ritmo da atividade no Brasil e no exterior.",
-    "No cenário nacional, a Fundação Getulio Vargas (FGV) divulga o índice de confiança do consumidor, usado por investidores como um termômetro para medir a percepção das famílias sobre a situação financeira e as expectativas de consumo.",
-    "Internacionalmente, o Japão divulga nesta terça-feira (24) o índice de preços de serviços corporativos referente ao mês de outubro.",
-    "O indicador japonês mede a evolução dos custos cobrados entre empresas e é monitorado pelo mercado devido aos seus possíveis reflexos na inflação e na política monetária do país."
+    "A agenda econômica desta terça-feira (24) conta com a divulgação de dois indicadores importantes para avaliar o ritmo da atividade econômica no Brasil e no exterior.",
+    "No Brasil, o principal destaque é o índice de confiança do consumidor da Fundação Getulio Vargas (FGV), que mede a percepção financeira atual e as expectativas futuras das famílias.",
+    "O indicador da FGV funciona como um termômetro essencial para o consumo, sendo monitorado de perto por investidores.",
+    "No cenário internacional, o Japão divulga nesta terça-feira (24) o índice de preços de serviços corporativos referente ao mês de outubro.",
+    "O dado japonês mede a evolução dos custos entre empresas e é acompanhado pelo mercado devido aos seus reflexos potenciais na inflação e na política monetária do país."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/bolsa-e-dolar-veja-os-destaques-da-agenda-economica-desta-terca-feira-mlem/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/244d13b37e7f.webp"
   },
   {
    "titulo": "Como a C&A usa a Ace para testar um novo modelo de negócio e abrir frentes de inovação",
    "topicos": [
-    "A C&A transformou a Ace, marca de moda esportiva criada nos anos 1980, em uma unidade de negócios independente, com equipes próprias de produto, marketing e canais de venda, enquanto áreas como tecnologia, finanças, RH, logística e abastecimento permanecem compartilhadas com a matriz.",
-    "A estratégia da Ace funciona como um laboratório interno: combina a agilidade de uma startup com a escala da C&A, permitindo testar novos modelos de negócio, formatos de loja, estratégias de produto e tecnologias sem precisar montar estrutura do zero.",
-    "Com foco no conceito athleisure premium, a Ace ampliou o portfólio além de leggings, tops e bermudas, incluindo jaquetas e boleros, e lançou o tecido próprio Butter Touch, que oferece toque macio e elasticidade, posicionando‑se como “smart choice” com preços 20% a 30% abaixo da média de concorrentes premium.",
-    "A primeira loja exclusiva da Ace abriu no Shopping Ibirapuera, em São Paulo, em maio, no mesmo shopping onde a C&A inaugurou sua primeira loja no Brasil há 50 anos; outras unidades já operam no Barra Shopping (RJ) e no Pátio Savassi (BH), com planos para Shopping Bourbon (SP) e Iguatemi Campinas.",
-    "A Ace testou diferentes formatos e metragens de lojas físicas antes de considerar expansão em larga escala, inclusive avaliando lojas de rua, para entender o comportamento dos consumidores e definir a configuração ideal para cada ponto comercial.",
-    "Após validar lojas próprias, a Ace iniciará o franchising, marcando a primeira vez que a C&A atua como franqueadora no Brasil; o modelo asset‑light busca ampliar a presença nacional com menor investimento direto, usando aprendizados das lojas piloto para definir perfil e modelo de franqueado.",
-    "A mudança de posicionamento da Ace ganhou força durante a pandemia de 2020, quando a demanda por roupas esportivas e confortáveis aumentou, levando a empresa a experimentar formatos como lojas anexas e store‑in‑store, que culminaram na criação da unidade de negócios dedicada."
+    "A C&A transformou a Ace, sua marca de moda esportiva criada na década de 1980, em uma unidade de negócios independente para testar formatos de lojas, tecnologias e estratégias com agilidade de startup e escala de grande empresa.",
+    "Com equipes próprias dedicadas a produto, marketing e canais de venda, a Ace compartilha com a C&A áreas corporativas como tecnologia, financeiro, recursos humanos, logística e abastecimento.",
+    "A marca reposicionou-se para o segmento de athleisure premium, com foco em conforto, funcionalidade e terceiras peças (como jaquetas e boleros), impulsionada pelo aumento da procura por vestuário confortável durante a pandemia em 2020.",
+    "A Ace desenvolveu o tecido próprio Butter Touch e adota o conceito smart choice, comercializando produtos com preços situados entre 20% e 30% abaixo da média das marcas concorrentes de referência no mercado premium.",
+    "A primeira loja física exclusiva da marca foi inaugurada em maio no Shopping Ibirapuera, em São Paulo, local onde a C&A abriu sua primeira unidade no Brasil há 50 anos.",
+    "A expansão física da Ace já contempla unidades no Barra Shopping (Rio de Janeiro) e no Pátio Savassi (Belo Horizonte), com novas aberturas previstas para o Shopping Bourbon (São Paulo) e o Iguatemi Campinas, além de testes com lojas de rua.",
+    "A marca prepara a entrada no franchising com o modelo asset-light para ampliar sua presença nacional, marcando a estreia da C&A como franqueadora no país após a definição do modelo de negócio e do perfil dos franqueados."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/noticias-varejo/como-a-ca-usa-a-ace-para-testar-um-novo-modelo-de-negocio-e-abrir-frentes-de-inovacao/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/767a7ac1f935.webp"
   },
   {
    "titulo": "Ornare leva loja de 700 m² à Madison Avenue e amplia presença no mercado americano",
    "topicos": [
-    "A Ornare abrirá uma loja de 700 m² na Madison Avenue, em Nova York, prevista para o primeiro trimestre de 2027, ampliando sua presença no mercado americano.",
-    "A nova unidade será uma das maiores da marca nos EUA, que já atua há quase 20 anos no país e conta com 13 lojas em operação.",
-    "O endereço posiciona a Ornare ao lado de marcas de luxo, em uma região tradicionalmente ocupada por grifes italianas de móveis.",
-    "A empresa já fornece mobiliário para empreendimentos residenciais de alto padrão, como todas as unidades do Fendi Château Residences em Miami, closets do St. Regis Residences Sunny Isles Beach e projetos de decoração nos edifícios 111 West 57th Street e 35 Hudson Yards em Nova York.",
-    "Fabio Aloi, Senior Advisor e membro do conselho da Ornare, afirma que o crescimento depende do relacionamento com arquitetos e designers de interiores, que especificam fornecedores e influenciam as escolhas dos compradores.",
-    "A Ornare destaca diferenças de custos: fabricantes italianos pagam tarifa de 15 % nas categorias relevantes, enquanto móveis brasileiros podem sofrer sobretaxas de até 37,5 % segundo a Abimóvel."
+    "A marca brasileira de móveis de alto padrão Ornare planeja inaugurar uma loja de 700 metros quadrados na Madison Avenue, em Nova York, durante o primeiro trimestre de 2027.",
+    "Esta nova unidade será uma das maiores operações da empresa nos Estados Unidos, país onde a rede opera há quase 20 anos e já possui 13 lojas.",
+    "A expansão posiciona a companhia brasileira junto a grifes internacionais de luxo em uma área tradicionalmente dominada por fabricantes italianos de mobiliário.",
+    "No mercado americano, a empresa já forneceu móveis para empreendimentos residenciais de luxo como Fendi Château Residences, St. Regis Residences, 111 West 57th Street e 35 Hudson Yards.",
+    "Segundo Fabio Aloi, conselheiro da Ornare, o crescimento no país depende de parcerias com arquitetos e designers que especificam os fornecedores e influenciam os compradores.",
+    "A estratégia de expansão exige estruturação independente dos donos e padronização das lojas, adaptando a atuação às particularidades de cada estado americano.",
+    "A Abimóvel aponta que produtos brasileiros enfrentam sobretaxas de até 37,5% nos Estados Unidos, enquanto concorrentes italianos pagam tarifas de 15% devido a acordos comerciais."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/noticias-varejo/ornare-leva-loja-de-700-m%c2%b2-a-madison-avenue-e-amplia-presenca-no-mercado-americano/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7c7178b8c9f1.webp"
   },
   {
    "titulo": "Motta vê ajuste fiscal como essencial para avançar com investimentos em 2027",
    "topicos": [
-    "Hugo Motta, presidente da Câmara dos Deputados (Republicanos‑PB), declarou que o ajuste fiscal previsto no Projeto de Lei Complementar 299/26 é essencial para que o presidente Lula adeque o orçamento de 2027 e viabilize novos investimentos.",
-    "O PLP 299/26, originado no Senado, altera as regras fiscais ao permitir ao Poder Executivo limitar a execução de despesas, visando alcançar metas de superávit primário a partir de 2027.",
-    "A Câmara aprovou o projeto na madrugada de segunda‑feira, 23, após mais de cinco horas seguidas de votação, sem alterações ao texto enviado pelo Senado, e encaminhou o PL para sanção presidencial.",
-    "Motta cobrou a adoção de medidas econômicas ainda este ano, ressaltando a necessidade de queda na taxa de juros e controle do preço do dólar para conter a inflação que impacta os mais vulneráveis.",
-    "Com a aprovação, o texto segue agora para a assinatura do presidente, sendo visto como passo para garantir regularidade na política fiscal e criar condições de cumprimento das metas eleitorais.",
-    "Ele sugeriu que um ajuste econômico significativo ainda em 2024 poderia colocar o Brasil em um cenário mais favorável para explorar todo o potencial da economia em 2027."
+    "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), afirmou que o ajuste fiscal é essencial para que o país alcance um ambiente econômico mais saudável.",
+    "A declaração foi feita após a aprovação do Projeto de Lei Complementar 299/26, que altera regras fiscais para o Poder Executivo limitar despesas e cumprir metas de superávit primário a partir de 2027.",
+    "A votação na Câmara ocorreu na madrugada desta segunda-feira (23), durou mais de cinco horas seguidas e o texto do Senado foi aprovado sem alterações, seguindo agora para sanção presidencial.",
+    "Motta cobrou novas medidas econômicas ainda este ano para viabilizar investimentos em 2027 e adequar o orçamento, além de defender a queda na taxa de juros e o controle do dólar.",
+    "Segundo o deputado, esses indicadores afetam diretamente a inflação e prejudicam a proteção social das parcelas da população que mais dependem do auxílio do governo."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1322184-motta-ve-ajuste-fiscal-como-essencial-para-avancar-com-investimentos-em-2027",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/f367575626b4.webp"
   },
   {
    "titulo": "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel",
    "topicos": [
     "A deputada estadual Monica Seixas (PSOL-SP) teve a entrada na Cisjordânia negada pelo governo de Israel após desembarcar no Aeroporto Internacional de Ben-Gurion neste domingo (22).",
-    "A parlamentar integrou uma comitiva internacional com o objetivo de acompanhar a colheita de azeitonas na Cisjordânia, região localizada entre Jerusalém (a 40 km) e a Jordânia (a 104 km).",
-    "Monica Seixas relatou ter ficado retida por mais de sete horas, sofrido tratamento hostil, sido separada de um acompanhante e negada de um tradutor até a ajuda da embaixada brasileira.",
-    "Segundo a deputada, os agentes questionaram sua renda e laços empregatícios, descobriram seu posicionamento político pró-Palestina na internet e proferiram ofensas após descobrirem seu cargo.",
-    "A Embaixada de Israel declarou que a entrada foi negada devido à recusa da deputada em colaborar com a imigração e ao receio de perturbação da ordem pública durante o procedimento no aeroporto.",
-    "A ONU registrou na safra de 2025 um total de 178 ataques de colonos israelenses associados à colheita em 88 vilas e cidades palestinas da Cisjordânia, afetando a subsistência local."
+    "A parlamentar integria uma comitiva internacional com o objetivo de acompanhar a colheita de azeitonas na Cisjordânia, região localizada a 40 quilômetros de Jerusalém e a 104 km de Amã.",
+    "Ela relatou ter ficado retida por mais de sete horas, sofrido tratamento hostil, sido separada de um acompanhante e negada de um tradutor inicial, recebendo apoio posterior da embaixada brasileira na Itália após ser deportada.",
+    "Segundo a deputada, os agentes questionaram sua renda e laços empregatícios, descobriram seu posicionamento político pró-Palestina na internet e passaram a proferir ofensas.",
+    "A Embaixada de Israel no Brasil declarou em nota que a entrada foi negada devido à recusa da deputada em colaborar com a imigração, repetir slogans e demonstrar desrespeito à segurança aeroportuária.",
+    "A ONU registrou na safra de 2025 um total de 178 ataques de colonos associados à colheita em 88 vilas e cidades palestinas da Cisjordânia, o maior patamar desde 2020."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/deputada-de-sp-tem-entrada-na-cisjordania-negada-por-governo-de-israel",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/d8f40aa8d6f7.webp"
   },
   {
    "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
    "topicos": [
-    "Investidores em Wall Street voltaram a comprar ações após uma sexta-feira marcada por fortes perdas nos setores de tecnologia e inteligência artificial.",
-    "O principal motor da recuperação foi o retorno de Jensen Huang como CEO da Nvidia, impulsionando as ações da empresa em cerca de 30%.",
-    "Na última sexta-feira (20), a Nvidia havia registrado uma desvalorização superior a 14% na Bolsa.",
-    "Drew Pettit, estrategista-chefe da Roundhill, avaliou à CNBC que a venda generalizada no final da semana indica que a baixa pode estar terminando.",
-    "Analistas apontam que os investidores otimistas ainda precisam demonstrar que o pessimismo do mercado está errado e que os lucros de longo prazo seguem seguros."
+    "Os investidores de Wall Street voltaram a comprar ações após uma sexta-feira marcada por fortes perdas nos setores de tecnologia e inteligência artificial.",
+    "O principal gatilho para a retomada foi o retorno de Jensen Huang como CEO da Nvidia, impulsionando os papéis da empresa em cerca de 30%.",
+    "Na última sexta-feira (20), as ações da Nvidia haviam registrado uma queda superior a 14%.",
+    "Drew Pettit, estrategista-chefe da Roundhill, avaliou à CNBC que a venda indiscriminada no fim da semana pode indicar o fim do ciclo de baixa.",
+    "O especialista destacou que os otimistas precisam comprovar que o pessimismo do mercado está errado e que a história de lucros de longo prazo segue sólida."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24112026/",
-   "categoria": "Economia"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/f998b187fdc6.webp"
   },
   {
    "titulo": "De olho no Lula 4, Centrão garante vitória do ajuste fiscal, mas governo precisa dar um segundo passo",
    "topicos": [
     "Na segunda-feira (23), a Câmara dos Deputados aprovou o ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva por um placar de 353 votos favoráveis e 128 contrários, com articulação liderada por Hugo Motta (Republicanos-PB).",
-    "Partidos do Centrão garantiram 178 votos a favor da proposta e negociam cargos no próximo governo com o presidente do PT, Edinho Silva, de olho na montagem dos ministérios.",
-    "O placar detalhado do Centrão registrou: União Brasil com 44 sim e 6 não; PSD com 42 sim e 5 não; Republicanos com 36 sim e 4 não; Podemos com 23 sim e 4 não; e PP com 33 sim e 12 não.",
-    "O MDB somou 33 votos sim e 4 não, o PSDB registrou 15 sim e 1 não, o PT teve 67 sim com três ausências ou abstenções, e o oposicionista PL deu 7 votos favoráveis.",
-    "O dólar iniciou o dia cotado a pouco mais de R$ 6 devido a tensões fiscais e internacionais, mas recuou e fechou cotado a R$ 5,93, mesmo patamar do encerramento da última quinta-feira (sendo sexta-feira, dia 20, feriado).",
-    "O ministro da Fazenda, Dario Durigan, com aval de Lula, prepara a segunda etapa do ajuste fiscal voltada para conter o crescimento das despesas obrigatórias, com anúncio previsto para ainda este ano."
+    "Partidos do Centrão asseguraram 178 votos a favor da proposta e negociam com o presidente do PT, Edinho Silva, cargos na esplanada dos ministérios para um eventual quarto mandato de Lula.",
+    "O resultado detalhado por partido na votação do texto-base incluiu: União Brasil (44 sim e 6 não), PSD (42 sim e 5 não), Republicanos (36 sim e 4 não), Podemos (23 sim e 4 não) e PP (33 sim e 12 não).",
+    "Outras legendas também participaram da base de apoio na Câmara: o MDB registrou 33 votos sim e 4 não, o PSDB somou 15 sim e 1 não, e o oposicionista PL contribuiu com 7 votos favoráveis ao governo.",
+    "No PT, 67 parlamentares votaram a favor, enquanto Lindbergh Farias e Natália Bonavides se abstiveram e Kiko Celeguim não registrou presença durante a sessão.",
+    "O mercado financeiro iniciou o dia sob tensão devido ao cenário internacional e ao ajuste fiscal, fazendo o dólar atingir pouco mais de R$ 6 antes de recuar e fechar cotado a R$ 5,93, igualando o patamar da última quinta-feira (o feriado ocorreu na sexta-feira, 20).",
+    "A próxima etapa do ajuste fiscal, sob a responsabilidade do ministro da Fazenda Dario Durigan e aval de Lula, foca em frear o avanço das despesas obrigatórias e será anunciada ainda neste ano."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/de-olho-no-lula-4-centrao-garante-vitoria-do-ajuste-fiscal-mas-governo-precisa-dar-um-segundo-passo.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/1e6b9e8be0ee.webp"
   },
   {
    "titulo": "A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
    "topicos": [
-    "Jensen Huang reassumiu o cargo de CEO da Nvidia após um breve afastamento motivado pela admissão de um caso amoroso com uma mulher identificada como espiã chinesa, revertendo mudanças estratégicas da gestão interina.",
-    "O retorno de Huang foi viabilizado por uma intervenção da Casa Branca, após o governo dos EUA afirmar que não havia preocupações de segurança nacional com a sua volta à liderança da companhia.",
-    "A Nvidia projeta vendas superiores a US$ 400 bilhões (R$ 2,37 trilhões) neste ano, um salto expressivo em relação aos US$ 27 bilhões registrados quatro anos antes.",
-    "Apesar do retorno do executivo, continua em andamento uma investigação independente para apurar se a empresa cumpriu as regulamentações de controle de exportações.",
-    "Democratas no Congresso americano prometeram investigar o presidente dos EUA e Huang, com o CEO devendo prestar depoimento perante os parlamentares na próxima semana."
+    "Jensen Huang reassumiu o cargo de CEO da Nvidia após um breve afastamento motivado por um relacionamento com uma mulher apontada como espiã chinesa.",
+    "A Casa Branca garantiu que não havia preocupações de segurança nacional no retorno de Huang, superando divergências internas no governo dos Estados Unidos.",
+    "A gestão interina da Nvidia havia sinalizado mudanças estratégicas e uma abordagem mais disciplinada que foram descartadas com a volta de Huang.",
+    "A Nvidia prevê vendas superiores a US$ 400 bilhões (R$ 2,37 trilhões) neste ano, ante US$ 27 bilhões registrados quatro anos atrás.",
+    "Analistas mantêm apreensão sobre o \"financiamento circular\", e parlamentares democratas no Congresso americano convocaram Huang para prestar depoimento na próxima semana.",
+    "Uma investigação independente sobre o cumprimento das regras de controle de exportações por parte da empresa continua em andamento."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/a-intervencao-de-trump-que-levou-jensen-huang-de-volta-ao-comando-da-nvidia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/78164e0109ee.webp"
   },
   {
    "titulo": "Carro-bomba deixa 20 feridos na Colômbia às vésperas dos dez anos do acordo de paz",
    "topicos": [
-    "Um carro-bomba explodiu na segunda-feira, 23 de novembro de 2026, nas proximidades da sede do governo do departamento de Meta, em Villavicencio, no centro da Colômbia.",
-    "O atentado causou danos materiais expressivos, deixou cerca de 20 feridos e provocou cortes de energia elétrica no centro da cidade, segundo a imprensa local.",
-    "A explosão ocorreu pouco depois das 21h locais, equivalente às 2h de terça-feira no horário de Brasília, abrindo uma enorme cratera na praça principal.",
-    "O presidente Abelardo de la Espriella, no poder desde 7 de agosto, afirmou que o ataque não ficará impune e atribuiu a ação ao narcoterrorismo.",
-    "O ataque aconteceu na véspera dos dez anos da assinatura do acordo de paz de 24 de novembro de 2016 com a antiga guerrilha das Farc.",
-    "Na região do atentado atua uma dissidência da antiga organização que disputa lucros do tráfico de drogas e mineração ilegal, embora ninguém tenha assumido a autoria."
+    "Um carro-bomba explodiu na segunda-feira (23) em Villavicencio, no centro da Colômbia, próximo à sede do governo do departamento de Meta, deixando cerca de 20 feridos e causando grandes danos estruturais e falta de energia.",
+    "O atentado ocorreu pouco depois das 21h (2h de terça-feira, horário de Brasília), abrindo uma enorme cratera na praça principal da cidade, destruindo portas, vidros e fachadas, sem registro de mortes até o momento.",
+    "O ataque acontece às vésperas dos dez anos da assinatura do acordo de paz com as Farc, firmado em 24 de novembro de 2016, em meio à pior onda de violência no país em uma década.",
+    "O presidente Abelardo de la Espriella, no poder desde 7 de agosto, declarou que o atentado foi obra do narcoterrorismo e afirmou que a ação criminosa não ficará impune.",
+    "Na região atingida atua uma dissidência da antiga guerrilha que rejeitou o acordo de paz e disputa os lucros do tráfico de drogas e mineração ilegal; nenhum grupo reivindicou a autoria.",
+    "Este foi o segundo atentado no país em menos de 24 horas, após um ataque com drones em Cúcuta deixar três feridos na mesma segunda-feira, somando 358 ataques com drones registrados pelo Ministério da Defesa entre janeiro e novembro."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/carro-bomba-deixa-20-feridos-na-colombia-as-vesperas-dos-dez-anos-do-acordo-de-paz.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bb88572fae93.webp"
   },
   {
    "titulo": "Mini-índice (WINZ26): o que pode mudar se o WINZ26 perder os 165.345 pontos?",
    "topicos": [
-    "Os contratos futuros de mini-índice com vencimento em dezembro fecharam a última sessão com baixa de 0,81%, marcando 166.250 pontos, com oscilação entre a mínima de 165.345 e a máxima de 167.270 pontos.",
-    "Para esta terça-feira (24), os suportes monitorados são de 165.345, 164.900 e 164.160 pontos, enquanto as resistências iniciais ficam em 166.450 e 167.290 pontos.",
-    "A agenda econômica desta terça-feira (24) inclui a Confiança do Consumidor da FGV no Brasil às 8h, além de dados de emprego e confiança nos Estados Unidos.",
-    "No gráfico de 15 minutos, o ativo permanece em canal de baixa, posicionado entre as médias móveis de 9 e 21 períodos e abaixo da média de 200 períodos.",
-    "Caso o contrato supere a resistência de 166.450 pontos, as próximas barreiras estão em 167.290, 168.590 e 169.910 pontos para reduzir a pressão vendedora.",
-    "A perda do suporte de 165.345 pontos pode intensificar as vendas e levar o mini-índice aos patamares de 164.900, 164.160, 163.880, 163.100 e 162.560 pontos."
+    "Os contratos futuros de mini-índice WINZ26 com vencimento em dezembro fecharam a última sessão em queda de 0,81%, atingindo 166.250 pontos, com oscilação entre a mínima de 165.345 e a máxima de 167.270 pontos.",
+    "Para esta terça-feira (24), os suportes monitorados são de 165.345 e 164.900 pontos, enquanto as primeiras resistências encontram-se em 166.450 e 167.290 pontos.",
+    "O mini-índice opera em um canal de baixa no gráfico de 15 minutos, posicionado entre as médias móveis de 9 e 21 períodos e abaixo da média de 200 períodos, sem sinal de força compradora.",
+    "Para tentar uma recuperação, o contrato precisa superar a resistência de 166.450 pontos para negociar acima das médias curtas, com resistências seguintes em 167.290, 168.590 e 169.910 pontos.",
+    "Caso a queda continue, a perda do suporte de 165.345 pontos pode intensificar o fluxo vendedor e derrubar o contrato para 164.900 e 164.160 pontos.",
+    "Se o preço romper o limite inferior do canal de baixa, os objetivos seguintes situam-se em 163.880 e 163.100 pontos, com alvo distante em 162.560 pontos.",
+    "A agenda desta terça-feira (24) inclui a Confiança do Consumidor da FGV no Brasil às 8h, além do levantamento de empregos da ADP às 10h15 e a confiança do consumidor nos EUA ao meio-dia."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-24112026/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/711052b3a79c.webp"
   },
   {
    "titulo": "EUA impõem restrições à Megaspeed, empresa ligada à crise da Nvidia",
    "topicos": [
-    "O Departamento de Comércio dos Estados Unidos incluiu a Megaspeed, de Cingapura, e suas subsidiárias na Tailândia e na Malásia na lista de restrições comerciais em 23 de novembro de 2026.",
-    "A empresa é investigada desde 2024 sob suspeita de desviar chips avançados de inteligência artificial da Nvidia para a China.",
-    "A sanção impede companhias norte-americanas de enviar mercadorias, tecnologias e softwares para as entidades restritas sem licença prévia, que tende a ser negada.",
-    "A decisão coincide com o retorno de Jensen Huang ao comando da Nvidia, após um afastamento de 11 dias motivado por polêmicas pessoais e investigações.",
-    "Jensen manteve um relacionamento com Alice Huang, ex-CEO da Megaspeed e acusada por autoridades dos EUA de atuar como espiã para Pequim.",
-    "O primeiro-ministro de Cingapura, Lawrence Wong, declarou em 24 de novembro que o país realiza sua própria investigação sobre a Megaspeed e que Alice Huang foi detida e liberada anteriormente por falta de bases legais para processo."
+    "O Departamento de Comércio dos EUA incluiu a Megaspeed, de Cingapura, e suas subsidiárias na Tailândia e Malásia na lista de restrições comerciais na 2ª feira (23.nov.2026).",
+    "A empresa era investigada desde 2024 sob suspeita de desviar chips de inteligência artificial dos Estados Unidos para a China.",
+    "A medida proíbe companhias norte-americanas de enviar mercadorias, softwares e tecnologias às empresas punidas sem licença prévia, cujo aval tem alta probabilidade de negação.",
+    "A decisão ocorre após Jensen Huang reassumir o comando da Nvidia, 11 dias após renunciar devido a escândalos pessoais e suspeitas envolvendo a ex-CEO da Megaspeed, Alice Huang.",
+    "Alice Huang é acusada de espionagem pelos EUA e de manter ligações com o Ministério de Segurança do Estado chinês entre o 1º semestre de 2025 e o 2º semestre de 2026.",
+    "O primeiro-ministro de Cingapura, Lawrence Wong, declarou nesta 3ª feira (24.nov) que o país realiza sua própria investigação sobre a Megaspeed e adotará medidas rigorosas se houver infrações."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/eua-impoem-restricoes-a-megaspeed-empresa-ligada-a-crise-da-nvidia/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0d6bddb4873b.webp"
   },
   {
    "titulo": "Portaria abre crédito suplementar de R$ 2,2 bilhões para Petrobras",
    "topicos": [
-    "O Ministério da Gestão e da Inovação em Serviços Públicos autorizou um crédito suplementar de R$ 2,2 bilhões no Orçamento de Investimento da União para a Petrobras.",
-    "A portaria foi assinada pela ministra Esther Dweck na segunda-feira (23.nov.2026) e veiculada no Diário Oficial da União na terça-feira (24.nov).",
-    "A maior parcela, no valor de R$ 2,039 bilhões, será voltada à manutenção da infraestrutura operacional e ao suporte para explorar e produzir petróleo e gás natural.",
-    "Um montante de R$ 161 milhões será aplicado no desenvolvimento produtivo, sendo R$ 131 milhões destinados à região Norte e R$ 130 milhões à região Nordeste.",
-    "Para cobrir a suplementação orçamentária, foram cancelados R$ 2,2 bilhões antes reservados ao desenvolvimento da produção de petróleo e gás no Sudeste."
+    "O Ministério da Gestão e da Inovação em Serviços Públicos liberou um crédito suplementar de R$ 2,2 bilhões para a Petrobras no Orçamento de Investimento da União.",
+    "A maior parcela, no valor de R$ 2,039 bilhões, será direcionada para a manutenção da infraestrutura operacional e de apoio às atividades de exploração e produção de petróleo e gás natural.",
+    "Outros R$ 161 milhões foram designados para o desenvolvimento da produção, sendo R$ 131 milhões destinados à região Norte e R$ 130 milhões para o Nordeste.",
+    "Para viabilizar a medida, a portaria cancelou o montante equivalente de R$ 2,2 bilhões que estava originalmente reservado para o desenvolvimento da produção na região Sudeste.",
+    "A portaria foi assinada pela ministra Esther Dweck na segunda-feira, 23 de novembro de 2026, e veiculada no Diário Oficial da União na terça-feira, 24 de novembro."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-governo/portaria-abre-credito-suplementar-de-r-22-bilhoes-para-petrobras/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/23519fb28103.webp"
   },
   {
    "titulo": "A cidade real que adotou nome da ficção e virou destino de conto de fadas",
    "topicos": [
-    "A histórica vila de Furong, no interior da China, possui mais de 2 mil anos de existência e abriga o povo Tujia, que manteve suas tradições vivas devido ao isolamento geográfico entre as montanhas.",
-    "Carpintaria local preserva há pelo menos mil anos uma técnica de construção em madeira baseada em encaixes precisos, sem o uso de pregos, transmitida de geração em geração.",
-    "Entre as construções preservadas destaca-se um antigo palácio erguido há cerca de 400 anos, durante a dinastia Ming, além de uma caverna atrás de uma cachoeira que abrigou milhares de soldados em batalhas.",
-    "Um prato tradicional de tofu de arroz, que era vendido nas ruas pelos moradores, ganhou destaque após aparecer em um filme de grande sucesso lançado em 1986 e virou atração turística com versões doces e salgadas.",
-    "Em 2007, a vila real adotou oficialmente o nome de Furong, que havia sido criado para a ficção no cinema, passando a receber cerca de 6 milhões de visitantes anualmente.",
-    "A estratégia de turismo inclui a chegada de trens de alta velocidade e a instalação de torres 5G camufladas, buscando atrair o mercado de turismo doméstico para o interior e evitar o esvaziamento das cidades."
+    "A vila milenar de Furong, no interior da China, possui mais de 2 mil anos de história e é habitada pelo povo Tujia, destacando-se por sua arquitetura típica nas montanhas.",
+    "Carpinteiros locais preservam há pelo menos mil anos a técnica de erguer construções de madeira apenas com encaixes precisos, sem o uso de pregos.",
+    "Entre as construções preservadas na região montanhosa está um antigo palácio de cerca de 400 anos, erguido durante a dinastia Ming.",
+    "Um prato tradicional de tofu de arroz, que apareceu em um filme chinês de grande sucesso em 1986, tornou-se uma das principais atrações gastronômicas e turísticas locais.",
+    "A vila real adotou oficialmente em 2007 o nome Furong, que pertencia à cidade fictícia retratada na obra cinematográfica.",
+    "Atualmente, a localidade recebe cerca de 6 milhões de visitantes por ano, após passar a contar com trem de alta velocidade e torres de 5G camufladas."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/fantastico/noticia/2026/11/24/a-cidade-real-que-adotou-nome-da-ficcao-e-virou-destino-de-conto-de-fadas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/449a7a0c6e1c.webp"
   },
   {
    "titulo": "Black Friday: saiba como identificar sites e anúncios falsos para não cair em golpes; VÍDEO",
    "topicos": [
-    "Golpistas utilizam táticas de urgência, como contagens regressivas de 30 segundos e avisos de últimas unidades, para pressionar consumidores a comprarem rapidamente sem checar a veracidade das ofertas durante a Black Friday.",
-    "Especialistas recomendam verificar rigorosamente o endereço eletrônico antes de efetuar qualquer pagamento para garantir que o usuário está acessando o site oficial da loja.",
-    "Criminosos estão pagando para impulsionar anúncios falsos tanto em redes sociais quanto nos resultados de buscas, exigindo atenção redobrada dos compradores antes de clicarem em promoções."
+    "Golpistas utilizam táticas de pressão psicológica, como contagens regressivas de 30 segundos e alertas de últimas unidades, para induzir os consumidores a realizarem compras precipitadas em sites falsos durante a Black Friday.",
+    "A recomendação fundamental para evitar fraudes é verificar rigorosamente o endereço eletrônico antes de efetuar qualquer pagamento, certificando-se de que se trata da página oficial do estabelecimento desejado.",
+    "Criminosos estão investindo em anúncios patrocinados em redes sociais e em resultados de mecanismos de busca para impulsionar e promover páginas falsas que imitam lojas legítimas.",
+    "O consumidor deve adotar cautela redobrada ao interagir com ofertas encontradas na internet, checando a veracidade dos links antes de clicar para proteger dados pessoais e financeiros contra golpes online."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/24/black-friday-saiba-como-identificar-sites-e-anuncios-falsos-para-nao-cair-em-golpes-video.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/69d355db8d06.webp"
   },
   {
    "titulo": "A queda de braço entre governo e mercado financeiro - O Assunto #1851",
    "topicos": [
-    "Em transmissão ao vivo realizada no último sábado (21), o presidente Lula afirmou ser o governante que mais realizou superávit primário e criticou o sistema financeiro.",
-    "As declarações respondem às críticas do mercado financeiro sobre a suposta incapacidade do governo em equilibrar as contas públicas.",
-    "A cotação do dólar atingiu R$ 6 nesta segunda-feira (23), encerrando o dia cotada a R$ 5,92 em meio à derrapagem dos índices econômicos.",
-    "O governo apresentou o pacote de medidas fiscais apelidado de \"Plano Moretti\", idealizado pelo ministro do Planejamento, Bruno Moretti.",
-    "A proposta fiscal, que prevê uma economia de R$ 50 bilhões em 2027, foi aprovada pelo Senado e chancelada pela Câmara nesta segunda-feira."
+    "Em transmissão ao vivo no último sábado (21), o presidente Lula afirmou ser o governante que mais realizou superávit primário e criticou o sistema financeiro quanto à gestão do país.",
+    "A reação governamental ocorre em meio a críticas de agentes da Faria Lima sobre a suposta incapacidade da gestão atual em equilibrar as contas públicas federais.",
+    "O dólar atingiu a cotação de R$ 6 durante a última segunda-feira (23), encerrando o pregão cotado a R$ 5,92 em um contexto de derrapagem dos índices econômicos.",
+    "A Câmara dos Deputados aprovou nesta segunda-feira (23) o pacote de medidas fiscais conhecido como \"Plano Moretti\", anteriormente validado pelo Senado.",
+    "Idealizada pelo ministro do Planejamento, Bruno Moretti, a proposta fiscal aprovada pelo Congresso prevê a obtenção de uma economia de R$ 50 bilhões para o ano de 2027."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/24/a-queda-de-braco-entre-governo-e-mercado-financeiro-o-assunto-1851.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/ed55676b8858.webp"
   },
   {
    "titulo": "Da Alemanha à costa da África: os sinais de que a guerra na Ucrânia está se expandindo no mundo",
    "topicos": [
-    "O presidente ucraniano Volodimir Zelensky afirmou na segunda-feira (23) que a Ucrânia realizou ataques no domingo (22) com sete drones navais contra duas embarcações russas na costa de Benghazi, na Líbia.",
-    "A ofensiva afundou a corveta russa Merkury, incorporada à frota em 2023, destruiu um helicóptero Ka-27 e atingiu o navio de carga MV Angara, usado para o transporte de armas.",
-    "O ataque ocorreu a mais de 1.500 quilômetros das linhas de frente e gerou alerta da ONU sobre o risco de a Líbia se tornar campo de batalha para conflitos estrangeiros.",
-    "No sábado (21), o cargueiro russo Sparta II foi atingido por drones no Golfo da Finlândia, e incidentes anteriores envolveram embarcações como o Arctic Metagaz em março e navios mercantes em outubro na Romênia e Bulgária.",
-    "Na sexta-feira passada, dois mísseis e um drone russos caíram na Polônia, e a Estônia anunciou o fechamento de sua fronteira com a Rússia a partir de dezembro após episódios de sabotagem e violações aéreas.",
-    "A Alemanha relatou ameaças diárias de guerra híbrida com ciberataques e drones carregados de explosivos, enquanto relatório da CIA aponta riscos de ataques a Itália, França e Espanha."
+    "Na segunda-feira (23), o presidente Volodimir Zelensky afirmou que a Ucrânia realizou ataques com sete drones navais contra duas embarcações russas na costa da Líbia, perto do porto de Benghazi, no domingo (22).",
+    "A corveta russa Merkury, incorporada à frota em 2023, foi afundada no ataque, que também destruiu um helicóptero Ka-27 e atingiu o navio de carga MV Angara, utilizado para transporte de armas.",
+    "O governo do leste da Líbia informou que a embarcação russa havia atracado para reabastecimento em um acordo de cooperação e reiterou que o país não é parte do conflito e não permite o uso de seu território para atos hostis.",
+    "A ONU condenou os episódios e alertou para o risco de a Líbia se transformar em um campo de batalha para conflitos estrangeiros, enquanto a ação a mais de 1.500 quilômetros das linhas de frente reforçou temores de expansão da guerra.",
+    "No sábado (21), o cargueiro russo Sparta II foi atingido por drones em águas internacionais no Golfo da Finlândia, e a Polônia relatou a queda de dois mísseis e um drone russos em seu território na sexta-feira anterior.",
+    "A Estônia anunciou o fechamento de sua fronteira com a Rússia a partir de dezembro, após uma tentativa de incêndio criminoso em uma fábrica de drones militares considerada pelas autoridades locais como um ato de sabotagem."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/da-alemanha-a-costa-da-africa-os-sinais-de-que-a-guerra-na-ucrania-esta-se-expandindo-no-mundo.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8c90e561b2aa.webp"
   },
   {
    "titulo": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
    "topicos": [
-    "Petrobras adquiriu 42% da Neomille, terceira maior produtora de etanol de milho do Brasil, por R$ 2,8 bilhões, marcando seu retorno ao mercado de etanol.",
-    "A Neomille opera duas unidades em Chapadão do Céu (GO) e Maracaju (MS) com capacidade conjunta de cerca de 800 milhões de litros por ano, que deve subir para aproximadamente 1,5 bilhão de litros até 2028 com as expansões previstas.",
-    "Do total, R$ 1,8 bilhão será pago diretamente à Neomille mediante compra de novas ações; o restante cobre a aquisição de ações dos acionistas atuais e inclui pagamento adicional de até R$ 397 milhões, condicionado ao cumprimento de cláusulas contratuais.",
-    "A compra integra a estratégia da Petrobras de diversificar seu portfólio e ampliar fontes de energia com menor emissão de carbono, permitindo futuro uso do etanol de milho como matéria‑prima para combustível sustentável de aviação (SAF).",
-    "Em 12 de novembro, a estatal também comprou 100 % da Logum, controladora da principal rede de dutos de transporte de etanol no país, visando integrar produção e logística e melhorar a eficiência da distribuição.",
-    "A conclusão da operação ainda depende do atendimento das condições previstas no contrato; a participação na Neomille também coloca a Petrobras em contato com o agronegócio, já que a empresa produz DDG para alimentação animal e óleo de milho, subproduto útil para SAF."
+    "A Petrobras investiu R$ 2,8 bilhões para adquirir 42% da Neomille, marcando o retorno da estatal ao mercado de etanol após um período de afastamento.",
+    "A Neomille é a terceira maior produtora de etanol de milho do Brasil, possuindo fábricas em Chapadão do Céu (GO) e Maracaju (MS) com capacidade atual de cerca de 800 milhões de litros por ano.",
+    "Com planos de expansão, a capacidade produtiva conjunta das unidades deve saltar para aproximadamente 1,5 bilhão de litros anuais até 2028.",
+    "Do total negociado, R$ 1,8 bilhão vai direto para a Neomille via compra de novas ações, enquanto o restante abrange ações de atuais acionistas e um pagamento condicional de até R$ 397 milhões.",
+    "A aquisição integra a estratégia da Petrobras de diversificar os negócios e ampliar a atuação em energias de menor emissão de carbono, abrindo caminho para produzir combustíveis sustentáveis para aviação.",
+    "Em 12 de novembro, a estatal anunciou a compra integral da Logum, principal rede de dutos de etanol do país, unindo a produção da Neomille à infraestrutura logística de transporte."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/7b727be39a6f.webp"
   },
   {
    "titulo": "Petrobras prevê investir US$ 122 bilhões entre 2027 e 2031, alta de 11,9% em relação ao plano anterior",
    "topicos": [
-    "A Petrobras aprovou, em 23 de março, um novo plano de negócios que prevê US$ 122 bi (cerca de R$ 723 bi) de investimentos entre 2027 e 2031, 11,93 % acima dos US$ 109 bi estimados para 2026‑2030.",
-    "Mais de 70 % dos recursos, ou US$ 86 bi (R$ 509 bi), serão destinados à exploração e produção de petróleo e gás; US$ 113 bi (R$ 670 bi) vão para projetos em implantação e US$ 9 bi (R$ 53,3 bi) para iniciativas em avaliação.",
-    "O conselho autorizou pagamento único de R$ 15,6 bi em dividendos extraordinários, a ser efetuado em 23 de dezembro, equivalente a R$ 1,21035949 por ação ordinária e preferencial em circulação.",
-    "A empresa manterá produção de 2,9 milhões de barris de petróleo e líquidos de gás natural por dia de 2027‑2031, com aumento de 200‑300 mil bpd em relação ao plano anterior, instalando nove novos sistemas (oito já contratados) e cerca de 50 projetos complementares, além de US$ 10 bi (R$ 59 bi) em exploração de ~50 poços em diversas bacias.",
-    "No segmento de refino, transporte e comercialização, serão investidos US$ 24 bi (R$ 142,2 bi), dos quais US$ 23 bi (R$ 136,3 bi) em projetos em implantação, para elevar a capacidade instalada de 1,813 mi para 2,173 mi de barris por dia até 2031 e aumentar a produção de diesel S‑10 em 405 mil bpd, com 293 mil bpd adicionados entre 2027‑31; a expansão do Complexo Boaventura e o segundo trem da RNEST têm operação prevista para 2029.",
-    "A refinaria Presidente Bernardes (Cubatão‑SP) receberá uma unidade de produção de diesel renovável e combustível sustentável de aviação (SAF), usando matérias‑primas vegetais e animais, com início de operação estimado para 2030.",
-    "O plano inclui US$ 13,5 bi (R$ 80 bi) em transição energética: US$ 6,7 bi para diversificação de negócios, US$ 4,8 bi para redução de emissões e US$ 2 bi em P&D; projetos de baixo carbono contemplam US$ 2 bi em biocombustíveis, energia eólica, solar e armazenamento, mais US$ 2 bi em gás e energia, mantendo meta de neutralidade de emissões até 2050."
+    "A Petrobras aprovou seu novo plano de negócios com investimentos de US$ 122 bilhões, cerca de R$ 723 bilhões, para o período entre 2027 e 2031, alta de 11,93% sobre o plano anterior. Do total, US$ 113 bilhões vão para projetos em implantação e US$ 9 bilhões ficam reservados para iniciativas em avaliação.",
+    "A exploração e produção de petróleo e gás concentrarão mais de 70% dos recursos, somando US$ 86 bilhões (R$ 509 bilhões). A estatal planeja investir US$ 10 bilhões em atividades exploratórias, incluindo a perfuração de cerca de 50 poços na Margem Equatorial, regiões Sul e Sudeste, outras bacias e exterior.",
+    "A produção de petróleo e líquidos de gás natural deve se manter em 2,9 milhões de barris por dia de 2027 a 2031. Já a produção comercial de petróleo e gás deve atingir 3,1 milhões de barris de óleo equivalente por dia em 2027 e alcançar 3,2 milhões de barris diários entre 2028 e 2031.",
+    "O conselho de administração aprovou o pagamento de R$ 15,6 bilhões em dividendos intercalares extraordinários aos acionistas. O valor será quitado em parcela única no dia 23 de dezembro, correspondendo a R$ 1,21035949 por ação ordinária e preferencial em circulação.",
+    "O segmento de refino, transporte, comercialização, petroquímica e fertilizantes receberá US$ 24 bilhões. A capacidade instalada de refino deve subir de 1,813 milhão para 2,173 milhões de barris diários até 2031, incluindo a expansão do Complexo Boaventura e o segundo trem da RNEST em 2029.",
+    "Os investimentos em transição energética somarão US$ 13,5 bilhões, divididos em diversificação de negócios, redução de emissões e inovação. A estatal mantém a meta de neutralidade de emissões até 2050 e corte de 18% nas emissões operacionais totais até 2030 frente a 2015.",
+    "A companhia projeta gerar entre US$ 230 bilhões e US$ 250 bilhões em caixa operacional e pagar de US$ 55 bilhões a US$ 60 bilhões em dividendos ordinários. O planejamento prevê ainda manter caixa mínimo de US$ 6 bilhões e limitar a dívida bruta entre US$ 75 bilhões e US$ 65 bilhões."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/c59ae6022716.webp"
   },
   {
    "titulo": "Braskem anuncia acordo preliminar com credores sobre plano de reestruturação de dívidas",
    "topicos": [
-    "Na noite de segunda-feira (23), a Braskem divulgou ao mercado que firmou um acordo preliminar com credores para reestruturar suas dívidas.",
-    "O entendimento tem o respaldo dos principais acionistas da petroquímica, incluindo a Petrobras, e de um grupo detentor da maioria das dívidas da recuperação extrajudicial.",
-    "O acerto busca reorganizar as obrigações financeiras da empresa e assegurar a continuidade operacional, embora ainda não seja definitivo e não crie obrigações imediatas.",
-    "Para ter validade, os termos precisam passar por formalização, aprovação dos envolvidos e homologação judicial, após o pedido feito em 24 de agosto para renegociar cerca de US$ 10,9 bilhões.",
-    "O processo de recuperação extrajudicial abrange apenas dívidas financeiras, deixando de fora obrigações com fornecedores, clientes e prestadores de serviços.",
-    "A petroquímica enfrenta um cenário de alto endividamento, com dívida líquida de US$ 7,5 bilhões no fim de 2025 e queda de 49% no EBITDA recorrente naquele ano, além de impactos do desastre em Maceió e da pressão chinesa no setor."
+    "Na noite de segunda-feira (23), a Braskem informou ao mercado que firmou um acordo preliminar com credores para reestruturar suas dívidas.",
+    "O entendimento tem o respaldo dos acionistas principais, incluindo a Petrobras, e de credores detentores da maioria dos débitos em recuperação extrajudicial.",
+    "O pacto visa reorganizar as finanças e assegurar a continuidade operacional da petroquímica, embora ainda não seja definitivo nem obrigatório.",
+    "Para ter validade, os termos pendem de formalização, aprovação dos envolvidos e homologação judicial, conforme divulgado pela companhia.",
+    "Em 24 de agosto, a empresa protocolou pedido de recuperação extrajudicial para renegociar aproximadamente US$ 10,9 bilhões em débitos financeiros.",
+    "O processo de recuperação exclui obrigações ligadas a fornecedores, clientes e prestadores de serviços da petroquímica."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/braskem-anuncia-acordo-preliminar-com-credores-sobre-plano-de-reestruturacao.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/1fc4d924bb97.webp"
   },
   {
    "titulo": "Violência doméstica matou cinco mulheres por hora em 2025, afirma ONU",
    "topicos": [
-    "Um relatório divulgado pela ONU nesta terça-feira (24) aponta que mais de 47 mil mulheres e meninas foram mortas por parceiros ou familiares no mundo em 2025.",
-    "A média global indica que uma mulher ou menina foi assassinada a cada 11 minutos, o que equivale a quase cinco mortes por hora ou 129 óbitos diários.",
-    "O levantamento, que antecede o Dia Internacional para a Eliminação da Violência contra as Mulheres em 25 de novembro, baseou-se em dados de 122 países e territórios.",
-    "Do total de 78 mil mulheres e meninas vítimas de homicídio doloso no ano passado, quase 60% perderam a vida no ambiente doméstico.",
-    "A África liderou o ranking com 22,1 mil vítimas, seguida por Ásia (15,1 mil), Américas (7,4 mil), Europa (2,1 mil) e Oceania (300).",
-    "A ONU destacou que as taxas de feminicídio caem de forma mais lenta que os homicídios gerais e exigiu a ampliação de ações preventivas contra a violência."
+    "Mais de 47 mil mulheres e meninas foram mortas por parceiros íntimos ou familiares em 2025 globalmente, conforme relatório da ONU divulgado nesta terça-feira (24). O dado equivale a uma morte a cada 11 minutos, ou quase cinco por hora.",
+    "Do total de 78 mil mulheres assassinadas com dolo no ano passado, quase 60% perderam a vida em casa pelas mãos de familiares ou parceiros íntimos, totalizando 129 vítimas diárias.",
+    "A África liderou o ranking mundial de homicídios domésticos femininos em 2025 com 22,1 mil casos, seguida por Ásia (15,1 mil), Américas (7,4 mil), Europa (2,1 mil) e Oceania (300).",
+    "O levantamento da ONU Mulheres e do UNODC, baseado em dados de 122 países, aponta que o total anual de vítimas oscilou entre 45 mil e 51 mil nos últimos anos.",
+    "Enquanto os homicídios gerais caíram no mundo, os feminicídios recuaram em ritmo mais lento, sobretudo nas Américas e na Europa, refletindo barreiras no acesso à Justiça e normas de gênero.",
+    "A ONU enfatizou a urgência de fortalecer estratégias de prevenção à violência no âmbito doméstico, abrangendo tanto parceiros íntimos quanto laços familiares estendidos."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/violencia-familiar-matou-cinco-mulheres-por-hora-em-2025-afirma-onu.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/41a1637bbae6.webp"
   },
   {
    "titulo": "A cantora iraniana que levou 74 chicotadas por se apresentar sem véu no YouTube",
    "topicos": [
-    "A cantora Parastoo Ahmadi, de 29 anos, três músicos e um produtor receberam 74 chibatadas na cidade de Qom, no Irã, na segunda-feira (23/11).",
-    "A punição ocorreu porque Ahmadi usou um vestido sem mangas e se apresentou sem véu em um show ao vivo no YouTube em dezembro de 2024.",
-    "Os advogados identificaram os quatro homens açoitados ao lado da artista como Soheil Faghih-Nasiri, Amin Taheri, Amirali Pirnia e Mohsen Lashkari.",
-    "Em junho, um tribunal criminal de Qom condenou os réus por atentar contra a decência pública, impondo também proibição de atividades audiovisuais e de deixar o país por dois anos.",
-    "No fim de setembro, um tribunal de apelação rejeitou o recurso da defesa e confirmou a sentença, que foi aplicada imediatamente pelo Departamento de Execução de Sentenças Criminais."
+    "A cantora iraniana Parastoo Ahmadi, de 29 anos, três músicos e um produtor receberam 74 chibatadas cada na cidade de Qom, na segunda-feira (23/11).",
+    "A punição ocorreu porque Ahmadi usou um vestido sem mangas em um show transmitido ao vivo no YouTube em dezembro de 2024, desafiando as leis iranianas sobre vestimenta.",
+    "Em junho, um tribunal criminal de Qom condenou os réus por atentar contra a decência pública, aplicando também proibição de atividades audiovisuais e de deixar o país por dois anos.",
+    "Um tribunal de apelação rejeitou o recurso no fim de setembro, e a defesa informou que tentativas de anular, reduzir ou suspender a pena falharam, com o departamento responsável exigindo aplicação imediata.",
+    "Os quatro homens açoitados ao lado da cantora foram identificados pelos advogados como Soheil Faghih-Nasiri, Amin Taheri, Amirali Pirnia e Mohsen Lashkari."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/a-cantora-iraniana-que-levou-74-chicotadas-por-se-apresentar-sem-veu-no-youtube.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9b19e506b81d.webp"
   },
   {
    "titulo": "Aprovação do pacote fiscal e dividendos da Petrobras movimentam bolsa; Ibovespa em dólar cai nesta terça-feira (24)",
    "topicos": [
-    "Na noite de 23/02, a Câmara dos Deputados aprovou o projeto de ajuste fiscal que prevê redução de despesas para alcançar superávit primário de cerca de R$ 18,7 bilhões no próximo ano, além de gerar economia estimada entre R$ 45,1 bilhões e R$ 56,1 bilhões até 2027.",
-    "A Petrobras divulgou plano de investimentos de US$ 122 bilhões para o período 2027‑2031, com US$ 113 bilhões destinados à implantação de projetos e US$ 9 bilhões reservados à carteira em avaliação, composta por oportunidades de menor maturidade.",
-    "No mesmo plano, a estatal projeta dividendos ordinários entre US$ 55 bilhões e US$ 60 bilhões, valor cerca de US$ 10 bilhões superior ao previsto no plano anterior, o que deveria atrair investidores.",
-    "Apesar da projeção de dividendos, os ADRs da Petrobras registraram queda no pré‑mercado de Nova York; o Ibovespa recuou 0,95% na segunda‑feira (23), fechando em 164.796,05 pontos, perdendo cerca de 165 mil pontos, enquanto o dólar fechou em R$ 5,9262, mas chegou a ultrapassar R$ 6,00, patamar máximo desde 2025.",
-    "O ETF iShares MSCI Brazil (EWZ) recuou 1,09%, cotado a US$ 28,92; bolsas asiáticas fecharam sem variação significativa, a Europa também, e os futuros de Nova York operam em baixa, com petróleo Brent a US$ 89,07/barril, WTI a US$ 80,02/barril, e criptomoedas em queda (Bitcoin US$ 60.142,84, Ethereum US$ 1.690,56).",
-    "No exterior, a recondução de Jensen Huang ao cargo de CEO da Nvidia impulsionou as ações de empresas ligadas à inteligência artificial, gerando otimismo nos mercados globais na tarde de ontem."
+    "A Câmara dos Deputados aprovou, na noite de segunda-feira (23), um projeto de ajuste fiscal que visa alcançar um superávit primário de cerca de R$ 18,7 bilhões no próximo ano.",
+    "A medida prevê corte de gastos para o ano que vem e uma economia estimada entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027 por meio de redução de despesas e aumento de arrecadação.",
+    "A Petrobras divulgou um plano de investimentos de US$ 122 bilhões para o período de 2027 a 2031, sendo US$ 113 bilhões para implantação e US$ 9 bilhões em avaliação.",
+    "A estatal petrolífera também projetou o pagamento de dividendos ordinários entre US$ 55 bilhões e US$ 60 bilhões para o mesmo quinquênio, superando em cerca de US$ 10 bilhões o plano anterior.",
+    "O Ibovespa encerrou a sessão de segunda-feira (23) em queda de 0,95%, fechando aos 164.796,05 pontos devido à aversão ao risco gerada pelas incertezas fiscais locais.",
+    "O dólar à vista fechou cotado a R$ 5,9262, com recuo de 0,15%, embora a moeda norte-americana tenha ultrapassado a marca de R$ 6,00 durante o pregão."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/aprovacao-do-pacote-fiscal-e-plano-da-petrobras-movimentam-bolsa-ibovespa-em-dolar-cai-nesta-terca-feira-24-rens/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/27ae769d2a9b.webp"
   },
   {
    "titulo": "Gisèle Pelicot denuncia uso comercial de fotos de nudez suas: 'Humilhada novamente'",
    "topicos": [
-    "Gisèle Pelicot, francesa de 73 anos, denunciou o uso comercial de fotos suas de nudez para promover um livro sobre controle coercitivo, classificando o ato como uma nova humilhação.",
-    "As imagens íntimas, produzidas por seu ex-marido, foram enviadas por e-mail a órgãos de imprensa pela Tinbad, editora sediada em Paris, conforme relatado pela mídia francesa.",
-    "A obra, escrita pela filósofa e psicanalista Sabine Prokhoris e que aborda o movimento MeToo, inclui um capítulo sobre o escândalo envolvendo Pelicot e questiona sua condição de vítima, segundo seu advogado.",
-    "O caso ganhou repercussão global em 2024, quando 50 homens, incluindo seu ex-marido Dominique Pelicot, foram condenados a penas que somaram mais de 400 anos por estupro.",
-    "Em comunicado em seu site, a Tinbad pediu desculpas e garantiu que não haverá novas tiragens da publicação além dos 280 exemplares já em circulação.",
-    "A autora da obra atribuiu total responsabilidade à editora pela campanha de divulgação considerada inadequada, enquanto Pelicot anunciou que pretende adotar medidas judiciais."
+    "Gisèle Pelicot, francesa de 73 anos, denunciou o uso comercial de fotos suas de nudez para promover um livro sobre controle coercitivo, afirmando ter sido novamente humilhada.",
+    "As imagens íntimas foram enviadas por e-mail a veículos de mídia pela Tinbad, pequena editora de Paris, conforme relatado pela imprensa francesa na segunda-feira (23).",
+    "A autora do livro é a filósofa e psicanalista Sabine Prokhoris, e a obra aborda o controle coercitivo e critica o movimento Me Too, incluindo um capítulo sobre o escândalo Pelicot.",
+    "O advogado da francesa, Christophe Bigot, declarou que a publicação questiona a condição de vítima de sua cliente, e Pelicot planeja acionar a Justiça contra a editora e a autora.",
+    "A editora Tinbad publicou um pedido de desculpas, garantiu que não haverá novas tiragens além dos 280 exemplares em circulação e negou o envio de imagens de estupro ou vídeos pornográficos.",
+    "Sabine Prokhoris atribuiu total responsabilidade à editora pela campanha promocional, classificando a ação como inadequada, e o caso ganhou repercussão internacional."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/gisele-pelicot-denuncia-uso-comercial-fotos-nua-humilhada-novamente.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/27ee4ad55218.webp"
   },
   {
    "titulo": "'Hoje me vejo novamente humilhada, exposta e ferida': Gisèle Pelicot denuncia divulgação de fotos dela nua para a imprensa",
    "topicos": [
     "Gisèle Pelicot, de 73 anos, denunciou a divulgação de fotos suas nua enviadas à imprensa para promover um livro sobre controle coercitivo na França.",
-    "A vítima afirmou estar profundamente chocada e declarou que pretende acionar judicialmente a autora da obra e a editora responsável.",
-    "As imagens íntimas foram registradas pelo ex-marido de Pelicot, Dominique, condenado a 20 anos de prisão por drogá-la, estuprá-la e permitir que outros homens a violentassem.",
-    "A editora parisiense Tinbad enviou os registros por e-mail a órgãos de imprensa para divulgar o ensaio escrito pela filósofa e psicanalista Sabine Prokhoris.",
-    "Após a repercussão negativa, a editora pediu desculpas públicas, encerrou novas impressões e informou que apenas 280 exemplares permanecem em circulação.",
-    "O caso de Gisèle Pelicot ganhou projeção internacional em 2024, quando ela abriu mão do anonimato durante o julgamento que condenou dezenas de homens envolvidos nas agressões sofridas por quase uma década."
+    "A pequena editora parisiense Tinbad enviou por e-mail as imagens feitas pelo ex-marido de Pelicot para órgãos de imprensa.",
+    "Pelicot declarou à emissora BFM TV que pretende adotar medidas legais contra a editora e a autora do ensaio, Sabine Prokhoris.",
+    "A Tinbad pediu desculpas públicas, informou que suspendeu novas impressões e declarou que apenas os 280 exemplares já impressos continuam em circulação.",
+    "A autora do livro, que já criticou o movimento Me Too, afirmou que a editora tem total responsabilidade pela campanha promocional inadequada.",
+    "Gisèle Pelicot ganhou projeção internacional em 2024 ao abrir mão do anonimato no julgamento em que seu ex-marido e dezenas de outros homens foram condenados por estupro."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cmn4kqel07jyo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/1d42c348976a.webp"
   },
   {
    "titulo": "Por que o RJ não sabe quantas crianças são mortas pela polícia",
    "topicos": [
-    "Ágatha Félix, 8 anos, foi atingida por tiro de fuzil dentro de uma Kombi no Complexo do Alemão em 2019; dois anos depois, Ana Clara Gomes Machado, 5 anos, recebeu um disparo no peito na porta de casa em Niterói, ambos segundo a Polícia Civil, com projéteis de policiais militares.",
-    "Apesar das denúncias do Ministério Público contra os agentes, nenhum desses casos foi incluído nas estatísticas oficiais de letalidade policial, revelando falha nos registros do Estado.",
-    "O Instituto Fogo Cruzado, em levantamento exclusivo da BBC News Brasil, identificou 11 crianças mortas em ações policiais na região metropolitana do Rio de Janeiro entre 2016 e junho de 2026, todas classificadas como homicídio doloso sem menção à operação policial.",
-    "Para chegar ao número, o Fogo Cruzado comparou os registros de homicídios do Instituto de Segurança Pública (ISP‑RJ) com seu próprio banco de dados de violência armada, cruzando data, município, bairro, faixa etária e sexo, e analisou cada caso individualmente.",
-    "As vítimas tinham entre 3 e 11 anos, sendo seis meninas e cinco meninos; seis mortes ocorreram na Baixada Fluminense, três na capital do Rio, e uma cada em Niterói e Maricá.",
-    "Outras vítimas listadas são: Carlos Eduardo Cabral de Moura (5 anos, Japeri, nov 2024), Heloísa dos Santos Silva (3 anos, Seropédica, set 2023, morreu nove dias depois), Eloá Passos (5 anos, Rio, ago 2023), Dijalma de Azevedo Clemente (11 anos, Maricá, jul 2023), Kevin Lucas dos Santos Silva (6 anos, Queimados, jan 2022), Rebecca Beatriz Rodrigues Santos (7 anos) e Emilly Victoria da Silva Moreira Santos (4 anos, Duque de Caxias, dez 2020), Kauan Rosário (11 anos, Rio, mai 2019) e Matheus Santos de Morais (5 anos, Magé, abr 2016).",
-    "A diretora de Dados e Transparência do Fogo Cruzado, Maria Isabel Couto, afirma que registrar essas mortes como homicídio doloso mascara a violência policial contra crianças e impede a fiscalização do uso da força, pedindo que sejam classificadas como \"mortes por intervenção de agentes\"."
+    "Ágatha Félix, 8 anos, foi atingida por tiro de fuzil dentro de uma Kombi no Complexo do Alemão (RJ) em 2019, e dois anos depois Ana Clara Gomes Machado, 5, foi alvejada no peito na porta de casa em Niterói; as investigações da Polícia Civil apontam que os disparos foram de policiais militares.",
+    "Apesar das denúncias do Ministério Público contra os agentes, nenhum dos casos foi incluído nas estatísticas oficiais de letalidade policial, revelando falha nos registros do Estado.",
+    "Um levantamento exclusivo do Instituto Fogo Cruzado, comparando dados do Instituto de Segurança Pública (ISP‑RJ) com seu próprio banco de relatos, identificou 11 crianças mortas em ações policiais na região metropolitana do Rio de Janeiro entre 2016 e junho de 2026.",
+    "As vítimas, de 3 a 11 anos, eram seis meninas e cinco meninos; seis mortes ocorreram na Baixada Fluminense, três na capital do Rio, e uma cada em Niterói e Maricá.",
+    "Entre os casos estão: Carlos Eduardo Cabral de Moura (5) em Japeri (nov/2024), Heloísa dos Santos Silva (3) em Seropédica (set/2023, morreu 9 dias depois), Eloá Passos (5) no Rio (ago/2023), Dijalma de Azevedo Clemente (11) em Maricá (jul/2023), Kevin Lucas dos Santos Silva (6) em Queimados (jan/2022), as primas Rebecca Beatriz Rodrigues Santos (7) e Emilly Victoria da Silva Moreira Santos (4) em Duque de Caxias (dez/2020), Kauan Rosário (11) no Rio (mai/2019) e Matheus Santos de Morais (5) em Magé (abr/2016).",
+    "Maria Isabel Couto, diretora de Dados e Transparência do Fogo Cruzado, afirma que classificar essas mortes como homicídio doloso sem indicar a intervenção policial mascara a real dimensão da violência das forças de segurança contra crianças no Rio.",
+    "Embora o Brasil tenha adotado o Protocolo de Bogotá, que define critérios para contabilizar mortes violentas, a falta de contextualização nas estatísticas impede a fiscalização do uso da força policial, segundo a pesquisadora."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cx24e9z27q30o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/52bdc2f7853d.webp"
   },
   {
    "titulo": "Família gaúcha cria IA que 'degusta' vinhos e ajuda a desenvolver novas receitas",
    "topicos": [
-    "A família Hilgert, da cidade de Três de Maio, no Rio Grande do Sul, criou um algoritmo de inteligência artificial para sugerir novas misturas de vinhos e avaliar o potencial de premiação das bebidas.",
-    "O engenheiro Gabriel Hilgert desenvolveu a tecnologia cadastrando milhares de vinhos premiados globalmente, permitindo que o sistema simule milhares de receitas e indique a melhor após receber amostras.",
-    "O algoritmo cruza dados de aroma, cor e sabor, apontando combinações que agradam ao paladar ao receber uma nova amostra.",
-    "A enóloga Viviane Hilgert e os clientes realizam análises de aroma, cor e sabor após a criação da receita, definindo se a bebida avançará para a produção em grande escala.",
-    "O primeiro rótulo desenvolvido com o auxílio da inteligência artificial foi lançado há dois anos, combinando quatro uvas de diferentes safras cultivadas nos parreirais da família.",
-    "A IA estimou que o primeiro vinho alcançaria 90 pontos em uma competição, e a bebida obteve nota 91.42 no concurso em que participou.",
-    "A família já comercializou mais de mil garrafas do primeiro vinho e planeja o lançamento de um novo rótulo utilizando uvas cultivadas em propriedades vizinhas."
+    "A família Hilgert, de Três de Maio (RS), criou uma inteligência artificial capaz de sugerir novas misturas de vinhos e avaliar o potencial dos produtos em premiações.",
+    "O engenheiro Gabriel Hilgert desenvolveu o algoritmo após cadastrar milhares de vinhos premiados globalmente, permitindo que o sistema identifique padrões de alta qualidade.",
+    "O sistema simula milhares de receitas ao receber amostras e cruza informações de aroma, cor e sabor para indicar as melhores combinações para o paladar.",
+    "Após a indicação da IA e a produção da receita, a enóloga Viviane Hilgert e os clientes realizam análises sensoriais antes de decidir pela fabricação em grande escala.",
+    "Há dois anos, a família lançou o primeiro rótulo feito com colaboração da tecnologia, unindo quatro uvas de safras colhidas nos parreirais próprios.",
+    "A IA estimou 90 pontos para o primeiro vinho em competições, e a bebida alcançou a nota 91,42 no concurso em que foi inscrita.",
+    "Com mais de mil garrafas comercializadas do primeiro produto, a família planeja agora elaborar um novo rótulo com uvas de propriedades vizinhas."
    ],
    "fonte": "g1 Agronegócios",
    "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/24/familia-gaucha-cria-ia-que-degusta-vinhos-e-ajuda-a-desenvolver-novas-receitas.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7ef93849d6a2.webp"
   },
   {
    "titulo": "Com flagship na Paulista, Ypê entra no mercado de lavanderias",
    "topicos": [
-    "A Ypê inaugurou sua primeira flagship da Lavanderia Tixan Max na Avenida Paulista, número 1.337, em frente à estação de metrô Trianon-Masp, em São Paulo.",
-    "O novo espaço marca a entrada inédita da companhia, com mais de sete décadas de mercado, no segmento de lavanderias de autosserviço.",
-    "Os ciclos de lavagem ou secagem custam R$ 18,90 cada e as máquinas suportam até 15 quilos de vestimentas, abrangendo itens volumosos como cobertores e edredons.",
-    "O processo de lavagem tem duração a partir de 30 minutos, ao passo que a etapa de secagem pode se estender por até 45 minutos.",
-    "A unidade multifuncional integra serviços de lavagem e secagem, área de coworking com wi-fi, espaço de convivência e uma cafeteria da rede Café Cultura.",
-    "O local também comercializa artigos de higiene e cuidados pessoais das marcas Banho a Banho e Flor de Ypê."
+    "A Ypê inaugurou sua primeira flagship da Lavanderia Tixan Max na Avenida Paulista, número 1.337, em frente à estação Trianon-Masp, em São Paulo.",
+    "O local disponibiliza serviços de lavagem e secagem por R$ 18,90 cada ciclo, utilizando equipamentos com capacidade para até 15 quilos de vestimentas.",
+    "O tempo estimado de operação é a partir de 30 minutos para a lavagem e até 45 minutos para a secagem de peças, como cobertores e edredons.",
+    "Os frequentadores contam com área de convivência, espaço de coworking com wi-fi e cafeteria da rede Café Cultura durante a espera.",
+    "A unidade também comercializa artigos de cuidados pessoais das marcas Flor de Ypê e Banho a Banho.",
+    "A iniciativa representa a estreia da Ypê no setor de lavanderias de autosserviço, expandindo sua atuação além da venda tradicional de limpeza e higiene."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/servicos/com-flagship-na-paulista-ype-entra-no-mercado-de-lavanderias/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e1c19fe37516.webp"
   },
   {
    "titulo": "Fim da escala 6×1: conheça as regras de compensação",
    "topicos": [
-    "O Ministério do Trabalho publicou em 23 de dezembro uma portaria com as normas para o encerramento da escala de trabalho 6x1, cuja primeira etapa começa a valer em 16 de dezembro.",
-    "Os empregados passam a ter direito a duas folgas semanais de 24 horas consecutivas, sendo uma delas preferencialmente aos domingos, sem exigência de dias seguidos de descanso.",
-    "O cálculo do total de folgas exigirá média mensal baseada nos dias do mês divididos por sete e multiplicados por dois, resultando em oito folgas em fevereiro, nove em meses de 30 dias e dez em meses de 31 dias.",
-    "A jornada semanal cairá para 42 horas em 16 de dezembro e para 40 horas um ano depois, sem nenhuma redução nos salários dos trabalhadores, com divisores de cálculo redefinidos para 210 e 200 horas.",
-    "O trabalho em dias destinados ao descanso exigirá pagamento em dobro, a menos que ocorra a concessão de uma folga compensatória na mesma semana.",
-    "Auditories fiscais terão um prazo de 90 dias para orientar os empregadores antes da aplicação de penalidades, período que se iniciará em 16 de dezembro de 2026 e será renovado em 16 de dezembro de 2027."
+    "O Ministério do Trabalho publicou em 23 de dezembro a portaria com as diretrizes para o fim da escala 6x1, cuja primeira etapa começa em 16 de dezembro.",
+    "A norma garante aos empregados duas folgas semanais de 24 horas consecutivas, sendo uma delas preferencialmente aos domingos, sem obrigação de serem dias seguidos.",
+    "O cálculo das folgas exigirá média de dois descansos semanais por mês, resultando em 8 folgas em fevereiro, 9 em meses de 30 dias e 10 em meses de 31 dias.",
+    "A jornada máxima semanal cairá para 42 horas em 16 de dezembro e para 40 horas um ano depois, sem redução salarial e com novos critérios para o salário-hora.",
+    "O texto estabelece prazo de 90 dias para que auditores fiscais orientem as empresas antes de aplicar multas, contado a partir de cada mudança na jornada.",
+    "Profissionais com ensino superior que ganhem ao menos 2,5 vezes o teto do INSS (R$ 21.188,88) estão dispensados do controle e duração da jornada."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/23/11/2026/noticias/fim-da-escala-6x1-conheca-as-regras-de-compensacao/",
-   "categoria": "Economia"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/8edebe0db8f0.webp"
   }
  ]
 }
