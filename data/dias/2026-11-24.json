@@ -1164,549 +1164,621 @@
   {
    "titulo": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
    "topicos": [
-    "O economista Eduardo Giannetti alertou que, se o governo Lula não apresentar até março do próximo ano um plano fiscal robusto, há risco elevado de recessão, definida como queda do PIB por dois trimestres consecutivos, como ocorreu nos dois primeiros trimestres de 2020 (‑1,5% e ‑9,7%).",
-    "Giannetti exige que o Brasil alcance um superávit primário entre 1,5% e 2% do PIB até 2028, meta que supera o último superávit registrado em 2022 (1,25% do PIB) e o de 2013 (1,71%).",
-    "O Projeto de Lei Complementar (PLP) 299/26, aprovado pelo Congresso em 23/11, propõe reduzir o orçamento de 2027 em até R$ 56 bilhões e visa um superávit primário de 0,5% do PIB ao final desse ano, mas Giannetti considera insuficiente.",
-    "Giannetti critica o ministro da Fazenda, Dario Durigan, por projetar o superávit apenas para o último ano do mandato (2030) e aponta que o ajuste fiscal deve envolver corte de subsídios tributários, supressão de salários excessivos, revisão de emendas parlamentares e dos repasses para educação e saúde.",
-    "Ele ressalta que, sem um ajuste mais agressivo, o governo não conseguirá cumprir promessas eleitorais como ampliar o programa Pé de Meia ou reajustar o Bolsa Família, o que ele chama de “estelionato eleitoral”.",
-    "A entrevista, concedida à BBC News Brasil, destaca que o ajuste fiscal não precisa contrariar políticas sociais, mas que a batalha de expectativas – a confiança do mercado – será decisiva nos primeiros meses do novo mandato."
+    "O economista Eduardo Giannetti alertou que, se o governo Lula não apresentar até março do próximo ano um plano fiscal robusto que garanta superávit primário de 1,5% a 2% do PIB até 2028, há grande risco de recessão, definida como queda do PIB por dois trimestres consecutivos, como ocorreu em 2020 (‑1,5% e ‑9,7%).",
+    "O Projeto de Lei Complementar 299/26, elaborado pelo ministro do Planejamento Bruno Moretti e aprovado pelo Congresso em 23/11, prevê redução de até R$ 56 bi no orçamento de 2027 e busca alcançar superávit primário de 0,5% do PIB ao final desse ano, mas Giannetti considera insuficiente.",
+    "Giannetti criticou a estratégia do ministro da Fazenda, Dario Durigan, que projeta o superávit apenas para o último ano do mandato (2030), argumentando que isso perde a batalha de expectativas necessária no início do novo governo.",
+    "O último superávit primário registrado foi em 2022 (1,25% do PIB) e, antes disso, em 2013 (1,71% do PIB); alcançar a meta proposta exigirá cortes em subsídios tributários, salários elevados da máquina pública, emendas parlamentares e revisão dos recursos para educação e saúde.",
+    "Giannetti afirma que, se o ajuste for efetivo, o presidente poderá cumprir promessas eleitorais como ampliar o programa Pé de Meia e manter reajustes do Bolsa Família, enquanto a falta de ajuste seria considerada “estelionato eleitoral”.",
+    "A entrevista foi concedida à BBC News Brasil, onde Giannetti, membro da Academia Brasileira de Letras desde 2021, ressaltou que o PLP 299/26 representa o último capítulo de um governo que termina, não o primeiro de um novo mandato, e que ainda não constitui um “freio de arrumação”."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/brasil-tera-recessao-se-lula-nao-fizer-ajuste-fiscal-mais-robusto-diz-eduardo-giannetti.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/00a7cd8f5337.webp"
   },
   {
    "titulo": "Senado celebra 12 anos da Febraf, entidade de fomento ao comércio",
    "topicos": [
-    "O Senado realizou, em sessão especial no dia 24/11/2026, uma homenagem aos 12 anos da Federação Brasileira de Fomento Comercial, Serviços e Atividades Financeiras (Febraf), entidade que representa o factoring e outros serviços financeiros.",
-    "A Febraf informou que o mercado de recebíveis movimentou R$ 300 bilhões em 2025, atendendo cerca de 300 mil micro, pequenas e médias empresas e sustentando 6 milhões de empregos diretos e indiretos.",
-    "Luiz Lemos Leite, de 97 anos, presidente do Conselho de Representantes da Febraf, é reconhecido como pioneiro do factoring no Brasil; fundou a Associação Nacional de Fomento Comercial (Anfac) em 1982, que deu origem à federação, que recebeu registro sindical em 24 de fevereiro de 2014.",
-    "A sessão foi solicitada pelos senadores Laércio Oliveira (PP‑SE), Esperidião Amin (PP‑SC), Flávio Arns (PSB‑PR), Soraya Thronicke (PSB‑MS), Ciro Nogueira (PP‑PI) e Dr. Hiran (PP‑RR), que também abordaram a reforma tributária prevista para iniciar sua implantação em 2027.",
-    "O senador Laércio ressaltou que a reforma tributária trará a cobrança integral da CBS, o fim do PIS e da Cofins, impactando especialmente as opções do Simples Nacional, e defendeu ampliar o acesso ao crédito, reduzir a burocracia e investir em infraestrutura e segurança jurídica.",
-    "Hélzio Mascarenhas, vice‑presidente de Assuntos Legislativos da Febraf, anunciou a intenção de integrar fintechs e fundos de investimento em direitos creditórios (FIDCs) à federação e a criação de dois observatórios – um de ambiente digital e outro tributário – para acompanhar mudanças legislativas."
+    "O Senado realizou uma sessão especial nesta terça-feira (24) para celebrar os 12 anos da Federação Brasileira de Fomento Comercial, Serviços e Atividades Financeiras (Febraf). A entidade obteve seu registro sindical em 24 de fevereiro de 2014.",
+    "A sessão comemorativa foi requerida pelos senadores Laércio Oliveira (PP-SE), Esperidião Amin (PP-SC), Flávio Arns (PSB-PR), Soraya Thronicke (PSB-MS), Ciro Nogueira (PP-PI) e Dr. Hiran (PP-RR).",
+    "O mercado de recebíveis movimentou R$ 300 bilhões em 2025, atendeu cerca de 300 mil micro, pequenas e médias empresas e sustentou 6 milhões de empregos diretos e indiretos, segundo dados da federação.",
+    "Fundada em 1982 como Anfac por Luiz Lemos Leite, de 97 anos e pioneiro do factoring no Brasil, a Febraf reúne sindicatos e associações de fomento comercial, recuperação de crédito, meios de pagamento e mercado imobiliário.",
+    "A federação planeja incorporar fintechs e fundos de investimento em direitos creditórios (FIDCs) e criou dois observatórios, focados no ambiente digital e na área tributária, para acompanhar alterações legislativas.",
+    "Durante o evento, parlamentares e dirigentes debateram os impactos da reforma tributária com início da implantação integral em 2027, destacando mudanças na cobrança da CBS, o fim do PIS e da Cofins, e reflexos no Simples Nacional."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-celebra-12-anos-da-febraf-entidade-de-fomento-ao-comercio",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a9f3a3b340ea.webp"
   },
   {
    "titulo": "Lei do ajuste fiscal é publicada e já está valendo",
    "topicos": [
-    "A Lei Complementar 239, que estabelece regras de ajuste fiscal, foi sancionada sem vetos pelo presidente Luiz Inácio Lula da Silva e publicada no Diário Oficial da União em 24/11/2026.",
-    "O governo federal calcula que a nova legislação poderá gerar um alívio de até R$ 50 bilhões nos cofres públicos, permitindo ao Executivo limitar despesas para cumprir metas de superávit a partir de 2027.",
-    "A partir de 2027, o crescimento real das despesas do Executivo não poderá passar de 2% ao ano caso o relatório bimestral indique necessidade, ficando de fora obrigações constitucionais e o serviço da dívida.",
-    "A lei autoriza a dedução de até R$ 10,5 bilhões da meta fiscal em 2026 para subvenções ao óleo diesel, e permite que o FNDCT custeie bolsas de estudo caso haja cortes orçamentários na Capes ou no CNPq.",
-    "As empresas terão limites maiores na compensação de créditos tributários decorrentes de causas judiciais, gerando uma estimativa de economia entre R$ 12,8 bilhões e R$ 18,3 bilhões.",
-    "O texto prevê uma arrecadação extra de cerca de R$ 15 bilhões com a redução de 10 pontos percentuais em incentivos e deduções tributárias, mantendo isenções na compra de veículos para PcD e autistas.",
-    "O Congresso Nacional votará em até 60 dias um projeto para definir o que são indenizações fora do teto salarial do funcionalismo, direcionando a economia do Executivo para investimentos e segurança pública."
+    "O projeto de ajuste fiscal, apresentado pelo senador Jaques Wagner (PT‑BA) e relator no Senado Eduardo Braga (MDB‑AM), foi sancionado sem vetos por Lula e publicado em edição extra do DOU em 24/11/2026, tornando a Lei Complementar 239 em vigor imediatamente.",
+    "A lei prevê um alívio de até R$ 50 bilhões aos cofres públicos, ao permitir que o Executivo limite a execução de despesas para alcançar um superávit primário de R$ 18,7 bilhões em 2027, após deduções de R$ 64,7 bilhões autorizadas pelo novo arcabouço fiscal.",
+    "Caso o resultado primário do exercício anterior fique abaixo de 0,5 % do PIB, o governo deverá apresentar à Comissão Mista de Orçamento (CMO) as causas e as medidas corretivas previstas, conforme estabelece a norma.",
+    "A partir de 2027, se o relatório bimestral indicar necessidade de ajuste, o crescimento real das despesas do Executivo não poderá ultrapassar 2 % em relação ao ano anterior, reduzindo o limite atual de 2,5 %; o contingenciamento adicional incide apenas sobre despesas do Poder Executivo, excluindo obrigações constitucionais, despesas obrigatórias, pagamento da dívida, inovação e itens da LDO.",
+    "Quando houver economia extra e o resultado fiscal superar a meta, o excedente poderá ser convertido em crédito adicional para investimentos estruturantes no ano seguinte, limitado ao valor economizado e sem contar para o teto de despesas daquele exercício, embora seja considerado na meta fiscal.",
+    "A lei autoriza a destinação anual de recursos não reembolsáveis do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) para bolsas de estudo e pesquisa, permitindo que cortes nos orçamentos da Capes ou do CNPq sejam compensados por esse fundo.",
+    "Para 2026, a norma permite deduzir até R$ 10,5 bilhões em subvenções a produtores e importadores de diesel, medida excepcional vinculada à guerra entre EUA/Israel e Irã; também exclui da Receita Corrente Líquida da União os valores da venda de petróleo e do imposto de exportação, tratando‑os como receitas patrimoniais extraordinárias."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/aa141e1e90a7.webp"
   },
   {
    "titulo": "PCC foca em rotas do tráfico a partir do Sudeste e CV aposta no controle do território no Norte e Nordeste, mostra estudo da Abin",
    "topicos": [
-    "Um relatório da Agência Brasileira de Inteligência (Abin) em parceria com o Fórum Brasileiro de Segurança Pública (FBSP) foi divulgado nesta terça‑feira (24) de novembro de 2026, contendo dados de junho de 2025 sobre a atuação de organizações criminosas nas 27 unidades da federação.",
-    "Foram identificadas 31 organizações criminosas relevantes: 28 facções, 2 milícias e 1 grupo estrangeiro da Venezuela; o PCC tem presença relevante em 22 estados, o CV em 19, e ambos dividem espaço em 17 unidades, sendo que em 5 apenas o PCC e em 2 apenas o CV são relevantes.",
-    "O Primeiro Comando da Capital (PCC) mantém estrutura altamente verticalizada, com decisões centralizadas em São Paulo pela \"Sintonia Final Geral\"; prioriza o tráfico internacional de cocaína, controla portos, aeroportos e corredores logísticos, e usa esquemas sofisticados de lavagem de dinheiro, como revelado na Operação Carbono Oculto.",
-    "O Comando Vermelho (CV) opera com modelo descentralizado semelhante a franquias, focando na ocupação de territórios e domínio direto de comunidades urbanas, sobretudo nas regiões Norte e Nordeste, buscando controle local ao invés de rotas internacionais.",
-    "O Terceiro Comando Puro (TCP) aparece como terceira facção de alcance nacional, com atuação relevante em quatro estados – Rio de Janeiro, Espírito Santo, Minas Gerais e Bahia; Rio de Janeiro e Rio Grande do Sul têm cinco organizações relevantes cada, enquanto São Paulo e Paraná têm apenas o PCC, e Sergipe não registrou nenhuma organização que cumprisse os critérios de relevância.",
-    "Além do tráfico de drogas, as facções ampliam atividades para serviços essenciais como gás e internet, cobram taxas a moradores e comerciantes e se infiltram na economia formal, integrando controle territorial, movimentação financeira e influência social às suas estratégias."
+    "Um estudo da Abin e do FBSP, divulgado em 24 de novembro de 2026 com dados de junho de 2025, analisou a atuação de 31 organizações criminosas relevantes nas 27 unidades da federação do Brasil.",
+    "O PCC, com decisões centralizadas em São Paulo, tem presença relevante em 22 estados e prioriza o tráfico internacional de cocaína, rotas logísticas, lavagem de dinheiro e o mercado atacadista.",
+    "O Comando Vermelho adota modelo descentralizado de franquias, está presente em 19 estados e foca no controle territorial de comunidades urbanas, especialmente nas regiões Norte e Nordeste.",
+    "PCC e CV dividem espaço em 17 estados. Apenas o PCC atua de forma relevante em 5 estados (incluindo SP e PR), enquanto apenas o CV está presente em 2 estados, segundo a metodologia.",
+    "O Terceiro Comando Puro é a terceira facção nacional, com relevância no Rio de Janeiro, Espírito Santo, Minas Gerais e Bahia; as outras 28 organizações atuam em até 2 estados.",
+    "As 31 organizações mapeadas incluem 28 facções, 2 milícias e 1 grupo estrangeiro da Venezuela. Além do tráfico, os grupos exploram gás, internet, crimes ambientais e lavagem em setores legais."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/24/pcc-cv-estudo-abin-forum-brasileiro-seguranca-publica.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/5db44a75a1f5.webp"
   },
   {
    "titulo": "Ajuste fiscal: horas depois de aprovação na Câmara, Lula sanciona lei que pode gerar economia de até R$ 56 bilhões",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (24), sem vetos, o projeto de lei do ajuste fiscal enviado pelo governo ao Congresso Nacional.",
-    "A nova legislação tem o objetivo de assegurar as condições para o cumprimento da meta fiscal do Orçamento de 2027 e pode gerar uma economia de até R$ 56 bilhões no ano.",
-    "A votação foi acelerada na Câmara na segunda-feira por articulação do presidente da Casa, Hugo Motta, após passar pelo Senado na quinta-feira (19), diante da alta do dólar e projeção de juros altos.",
-    "A lei amplia em mais 10% o corte linear de incentivos fiscais, acumulando uma redução de 20% em dois anos em benefício de setores da economia.",
-    "Até 2030, a arrecadação com impostos sobre a exportação de petróleo sai da base de cálculo do piso da saúde, evitando um repasse estimado em cerca de R$ 9 bilhões em 2027.",
-    "O texto fixa em até 2% o limite de crescimento real das despesas quando houver necessidade de contenção e permite o contingenciamento permanente de gastos obrigatórios não constitucionais, que somaram R$ 388 bilhões em 2026.",
-    "As transferências anuais da União para estados e municípios pela Lei Kandir diminuem de R$ 4 bilhões para R$ 2 bilhões por ano até 2030, e a meta fiscal de 2026 poderá desconsiderar até R$ 10,5 bilhões em subsídios ao diesel."
+    "O presidente Luiz Inácio Lula da Silva sancionou sem vetos, nesta terça-feira (24), a lei do ajuste fiscal que busca assegurar o cumprimento da meta orçamentária de 2027 e pode gerar até R$ 56 bilhões em economia.",
+    "A proposta foi enviada pelo Executivo e teve tramitação acelerada na Câmara na segunda-feira por articulação do presidente da Casa, Hugo Motta, após aprovação no Senado na quinta-feira (19), em meio à pressão da alta do dólar e dos juros.",
+    "A lei amplia em mais 10% o corte linear de incentivos fiscais a setores econômicos, acumulando uma redução de 20% em dois anos após um corte idêntico aprovado no final de 2025.",
+    "O governo fica autorizado a limitar o uso de créditos tributários por empresas para compensar impostos junto à Receita Federal, proibindo a compensação cruzada, medida criticada por 57 entidades produtivas pela falta de prazos e regras de correção.",
+    "Até 2030, a receita do imposto de exportação de petróleo sai da base de cálculo do piso da saúde, evitando que ganhos extraordinários gerados por conflitos no Oriente Médio inflem gastos permanentes e reduzindo repasses em cerca de R$ 9 bilhões em 2027.",
+    "O texto fixa em 2% o limite de crescimento real de despesas em momentos de contenção fiscal, autoriza o bloqueio permanente de gastos obrigatórios não previstos na Constituição (que somaram R$ 388 bilhões em 2026) e destina até 40% de sobras de fundos públicos para despesas constitucionais.",
+    "A norma estabelece prazo de até 60 dias para o Congresso regulamentar o teto do funcionalismo público (hoje em cerca de R$ 46,3 mil), reduz os repasses da Lei Kandir de R$ 4 bilhões para R$ 2 bilhões anuais até 2030 e desconta até R$ 10,5 bilhões em subsídios ao diesel da meta de 2026."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/24/ajuste-fiscal-horas-depois-de-aprovacao-na-camara-lula-sanciona-lei-que-preve-economia-de-ate-ate-r-56-bilhoes.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/959ff7b3d701.webp"
   },
   {
    "titulo": "'Ninguém vai morrer se fechar um dia', diz ministro sobre fim da escala 6x1",
    "topicos": [
-    "O ministro do Trabalho, Luiz Marinho, afirmou que fechar um dia na semana não trará prejuízos, ao ser questionado sobre o fim da escala 6x1 no comércio.",
-    "A declaração foi feita em audiência pública na Comissão de Direitos Humanos do Senado, na terça‑feira (24) de novembro de 2026.",
-    "Empresas que quiserem adotar jornada diferente, sem folga aos sábados e domingos, devem firmar acordos coletivos até 16 de dezembro de 2026, data em que entram em vigor as novas normas.",
-    "A PEC que elimina a escala 6x1 estabelece três fases: até 15/12/2026 jornada máxima de 44 h; a partir de 16/12/2026, 42 h; e a partir de 16/12/2027, 40 h semanais.",
-    "Cerca de 14,8 milhões de trabalhadores que atualmente cumprem a escala 6x1 serão diretamente afetados; outros 21,7 milhões que já trabalham cinco dias por semana também terão redução gradual da carga horária.",
-    "A emenda constitucional, aprovada pelo Congresso e promulgada em 16 de outubro de 2026, garante dois dias de repouso semanal remunerado, alinhando a prática brasileira à de países europeus que fecham aos domingos e feriados."
+    "O ministro do Trabalho, Luiz Marinho, declarou nesta terça-feira (24) em audiência no Senado que o fechamento do comércio por um dia é viável com o fim da escala 6x1.",
+    "Marinho recomendou que empresários e trabalhadores formalizem acordos coletivos até 16 de dezembro de 2026 para definir jornadas diferentes e flexibilizar as folgas semanais.",
+    "Sem acordo coletivo, os setores devem cumprir a emenda constitucional que fixa a jornada em 42 horas semanais e determina duas folgas obrigatórias aos sábados e domingos.",
+    "A PEC que encerrou a escala 6x1 e garantiu dois dias de repouso remunerado foi aprovada pelo Congresso e promulgada em 16 de outubro de 2026.",
+    "O cronograma de transição prevê limite de 44 horas semanais até 15 de dezembro de 2026, 42 horas a partir de 16 de dezembro de 2026, e 40 horas a partir de 16 de dezembro de 2027.",
+    "Cerca de 14,8 milhões de empregados da escala 6x1 serão impactados, enquanto outros 21,7 milhões que já cumprem cinco dias semanais serão beneficiados pela redução gradual."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/ninguem-vai-morrer-se-fechar-um-dia-diz-ministro-sobre-fim-da-escala-6x1.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/e5a731450a49.webp"
   },
   {
    "titulo": "Conservadores cristãos e classe D e E somam quase metade do eleitorado brasileiro, diz Quaest",
    "topicos": [
-    "Uma pesquisa da Quaest divulgada em 24 de novembro de 2026 aponta que conservadores cristãos e pessoas das classes D e E compõem 47% do eleitorado do país.",
-    "O levantamento classificou os eleitores brasileiros em nove segmentos identitários, baseando-se em comportamentos, valores, interesses e visões de mundo compartilhadas.",
-    "Entre 2023 e 2026, os conservadores cristãos passaram de 27% para 25%, os militantes de esquerda foram de 7% para 9%, os empreendedores de 5% para 7% e a extrema direita de 3% para 2%.",
-    "O segmento liberal social registrou o maior crescimento para o presidente Lula entre o 1º e o 2º turno de 2026, subindo de 36% para 56%, um aumento de 20 pontos percentuais.",
-    "A pesquisa da Quaest realizou 2.004 entrevistas domiciliares em todo o território nacional, abrangendo eleitores a partir de 16 anos, entre os dias 30 de outubro e 2 de novembro de 2026.",
-    "O estudo apresenta margem de erro de 2 pontos percentuais para mais ou para menos e conta com um nível de confiança de 95%, utilizando também dados do TSE e do IBGE."
+    "Uma pesquisa da Quaest divulgada em 24 de novembro de 2026 aponta que 47% do eleitorado brasileiro é composto por conservadores cristãos e pessoas das classes D e E.",
+    "O estudo dividiu os eleitores em nove segmentos identitários com base em interesses, valores e comportamentos, registrando pouca oscilação entre 2023 e 2026.",
+    "Os conservadores cristãos passaram de 27% para 25%, os militantes de esquerda foram de 7% para 9%, os empreendedores individuais de 5% para 7%, e a extrema direita de 3% para 2%.",
+    "O segmento liberal social registrou o maior crescimento de votos no presidente Lula do 1º para o 2º turno de 2026, subindo de 36% para 56%, alta de 20 pontos percentuais.",
+    "Entre os progressistas, Lula avançou 16 pontos percentuais entre os turnos, passando de 66% para 82%, enquanto no agro o apoio foi de 14% para 24%.",
+    "A pesquisa da Quaest foi realizada com 2.004 entrevistas domiciliares de eleitores com 16 anos ou mais em todo o país, entre 30 de outubro e 2 de novembro de 2026, com margem de erro de 2 pontos percentuais e 95% de confiança."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/24/segmentos-identitarios-quaest-2026.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/9495903c83b8.webp"
   },
   {
    "titulo": "'Vamos buscar a autossuficiência em diesel', diz Magda sobre plano da Petrobras até 2031",
    "topicos": [
-    "A Petrobras anunciou nesta terça-feira (24), durante a apresentação do plano de negócios para os próximos cinco anos, a meta de alcançar a autossuficiência em diesel até 2031 para atender 100% da demanda brasileira.",
-    "O plano de negócios para o período de 2027 a 2031 prevê investimentos de US$ 122 bilhões, o equivalente a cerca de R$ 723 bilhões, representando um aumento de 11,9% em relação ao ciclo anterior de 2026 a 2030.",
-    "Do total de recursos previstos, US$ 86 bilhões (R$ 509 bilhões) serão destinados à exploração e produção de petróleo e gás, mantendo a previsão de produzir 2,9 milhões de barris diários, com possibilidade de superar a marca.",
-    "A presidente da estatal, Magda Chambriard, afirmou que o plano não prevê o aumento da dívida financeira e que os investimentos serão financiados integralmente pela geração de caixa da própria companhia.",
-    "A Petrobras aprovou um aporte de R$ 2,9 bilhões para adquirir 42% de participação na Neomille, empresa de etanol de milho do grupo Cerradinho Bio, marcando o retorno da estatal ao setor de biocombustíveis.",
-    "A estatal estima recolher R$ 1,6 trilhão em tributos nos próximos cinco anos, após ter pago mais de R$ 1 trilhão no último quinquênio, incluindo R$ 277 bilhões no ano passado e mais de R$ 250 bilhões já quitados neste ano."
+    "A Petrobras anunciou nesta terça-feira (24) a meta de alcançar a autossuficiência em diesel até 2031, visando atender 100% da demanda brasileira pelo combustível com produção nacional.",
+    "O plano de negócios para o período de 2027 a 2031 prevê investimentos de US$ 122 bilhões (cerca de R$ 723 bilhões), o que representa alta de 11,9% sobre o ciclo anterior de 2026 a 2030.",
+    "Do total de investimentos, US$ 86 bilhões (R$ 509 bilhões) serão direcionados à exploração e produção de petróleo e gás, mantendo a projeção de produzir 2,9 milhões de barris diários.",
+    "A estatal aprovou um aporte de R$ 2,9 bilhões para comprar 42% da Neomille, do grupo Cerradinho Bio, marcando o retorno da empresa ao setor de etanol e prevendo elevar a produção para 1,5 bilhão de litros anuais.",
+    "A presidente da Petrobras, Magda Chambriard, estima que a estatal recolha R$ 1,6 trilhão em tributos nos próximos cinco anos, após ter pago mais de R$ 1 trilhão no quinquênio anterior.",
+    "O planejamento financeiro não prevê aumento da dívida corporativa, com os recursos sendo financiados pela geração de caixa própria e foco na redução do endividamento e disciplina de capital."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/petrobras-plano-2027-2031.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/06ba6dbf7fc6.webp"
   },
   {
    "titulo": "Criminosos fazem 24 reféns em destino turístico na Colômbia; vídeo mostra homens fortemente armados",
    "topicos": [
     "Criminosos armados fizeram 24 reféns em um supermercado em Cartagena, na Colômbia, após uma tentativa de assalto frustrada em 24 de novembro de 2026.",
-    "Cinco idosas e um homem foram libertados durante as negociações com a polícia, e a imprensa local informou que não há feridos entre os cativos.",
-    "Os sequestradores exigem o pagamento de cerca de 7 bilhões de pesos colombianos (aproximadamente R$ 9,5 milhões) e passagem livre para Barranquilla, situada a 130 km.",
-    "O presidente Abelardo de la Espriella mobilizou forças de segurança e unidades especiais, posicionando policiais e atiradores de elite nos arredores do local.",
-    "As chegadas de voos no aeroporto de Cartagena chegaram a ser suspensas por causa do episódio, mas já foram reativadas pela agência de aviação do país.",
-    "O sequestro coincide com o aniversário de dez anos do acordo de paz com as Farc e com uma explosão de carro-bomba em Villavicencio na noite de segunda-feira (23)."
+    "Cinco mulheres idosas e um homem foram libertados durante as negociações com a polícia, e a imprensa local informou que não há feridos.",
+    "Os sequestradores exigem o pagamento de cerca de 7 bilhões de pesos colombianos, equivalentes a aproximadamente R$ 9,5 milhões, e livre passagem até Barranquilla, situada a 130 km de Cartagena.",
+    "As chegadas de voos no aeroporto de Cartagena chegaram a ser suspensas por causa do incidente, mas já foram reativadas pela agência de aviação do país.",
+    "O presidente Abelardo de la Espriella mobilizou as principais forças policiais e unidades especiais da Colômbia para lidar com a crise na cidade turística.",
+    "O sequestro coincide com os dez anos do acordo de paz com as Farc e com a explosão de um carro-bomba em Villavicencio na noite de segunda-feira (23), que deixou 25 feridos."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/assaltantes-fazem-varios-refens-em-supermercado-em-cartagena-na-colombia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bcdf73aec171.webp"
   },
   {
    "titulo": "Magda nega abandono da austeridade em plano da Petrobras para 2031",
    "topicos": [
-    "A presidente da Petrobras, Magda Chambriard, negou na 3ª feira (24.nov.2026) que o novo plano de negócios da estatal signifique abandono da austeridade na gestão.",
-    "O plano de negócios para o período de 2027 a 2031, apresentado na 2ª feira (23.nov), prevê um pacote de US$ 122 bilhões em investimentos ao longo de 5 anos.",
-    "O valor representa um acréscimo de US$ 13 bilhões em relação aos US$ 109 bilhões anunciados no planejamento anterior da companhia.",
-    "Segundo a estatal, inflação e variação cambial respondem por US$ 7 bilhões da diferença, enquanto US$ 6 bilhões vêm de ajustes na cotação dos projetos.",
-    "A diretoria estima um excedente de caixa de US$ 20 bilhões a US$ 25 bilhões no quinquênio, valor que pode ir para novos projetos, dívidas ou dividendos.",
-    "A Petrobras manteve em US$ 50 o preço do barril do Brent como parâmetro de resiliência e usará média de US$ 74 em 2027 e US$ 70 de 2028 a 2031."
+    "A presidente da Petrobras, Magda Chambriard, negou na terça-feira (24.nov.2026) que o novo plano de negócios da estatal signifique abandono da austeridade na gestão.",
+    "O plano de negócios para o período de 2027 a 2031, apresentado na segunda-feira (23.nov), projeta US$ 122 bilhões em investimentos em cinco anos, um acréscimo de US$ 13 bilhões sobre o plano anterior de US$ 109 bilhões.",
+    "A estatal justificou que inflação e variação cambial respondem por US$ 7 bilhões da diferença, enquanto US$ 6 bilhões decorrem de ajustes na renovação do portfólio.",
+    "A diretoria estima que a empresa terá um excedente de caixa de US$ 20 bilhões a US$ 25 bilhões no quinquênio, valor que pode ir para novos projetos, redução de dívida ou dividendos.",
+    "A Petrobras manteve em US$ 50 o preço do barril do Brent como parâmetro de resiliência e adotou médias de US$ 74 para 2027 e US$ 70 de 2028 a 2031 nas projeções financeiras."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-infra/magda-nega-abandono-da-austeridade-em-plano-da-petrobras-para-2031/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/294134570e52.webp"
   },
   {
    "titulo": "Quase 38% das PMEs esperam aumentar vendas na Black Friday, aponta Serasa",
    "topicos": [
-    "Um levantamento da Serasa Experian, realizado em outubro de 2026 com 1.072 pequenas e médias empresas de todo o Brasil, indica que 37,6% dos negócios projetam aumento nas vendas durante a Black Friday de 2026.",
-    "Dentre os otimizadores, 18,5% esperam alta de até 10% nas vendas, 10,5% projetam crescimento entre 10% e 30% e 8,6% acreditam que as ações podem elevar as vendas em mais de 30%.",
-    "Os principais obstáculos apontados são a limitação de orçamento e custos elevados (30,8%), a concorrência com outros negócios (23,6%), a dificuldade de alcançar o público certo (23,1%) e a cautela dos consumidores (22,6%).",
-    "Letícia Muzzi, diretora de Pequenas e Médias Empresas da Serasa Experian, ressalta que participar da Black Friday requer mais que descontos, sendo essencial avaliar a viabilidade da ação, o investimento possível e o retorno necessário para manter a saúde financeira da PME.",
-    "Para apoiar os empreendedores, a Serasa Experian disponibiliza gratuitamente um checklist com 13 orientações que abrangem finanças, dados, estoque, marketing, tecnologia, segurança, logística, atendimento e pós‑venda.",
-    "O material recomenda definir metas, organizar o fluxo de caixa, revisar estoques e fornecedores, calcular preços e margens, planejar canais de divulgação e testar a capacidade de atendimento e entrega para evitar gargalos na demanda."
+    "Um levantamento da Serasa Experian divulgado em outubro de 2026 indica que 37,6% das pequenas e médias empresas brasileiras projetam ampliar suas vendas durante a Black Friday.",
+    "Entre as PMEs otimistas com a data, 18,5% estimam um avanço de até 10% nas vendas, 10,5% esperam alta entre 10% e 30%, e 8,6% preveem crescimento superior a 30%.",
+    "O principal obstáculo apontado por 30,8% dos negócios para aproveitar a data é a limitação de orçamento e os custos elevados para investir em campanhas de marketing.",
+    "Outros desafios citados foram a concorrência com outros negócios por 23,6%, a dificuldade de alcançar o público certo por 23,1% e a cautela dos consumidores com gastos por 22,6%.",
+    "A Serasa Experian lançou um checklist gratuito com 13 orientações sobre finanças, estoque, marketing, logística e segurança para auxiliar na preparação dos empreendedores.",
+    "A pesquisa da Serasa ouviu 1.072 pequenas e médias empresas de todo o país, com forte presença de negócios dos setores de comércio, serviços e de pequeno porte."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/black-friday/quase-38-das-pmes-esperam-aumentar-vendas-na-black-friday-aponta-serasa/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/65001bf78197.webp"
   },
   {
    "titulo": "Reforma tributária não muda planos da Amazon no Brasil: “Nunca pensamos em benefício fiscal”, diz diretor",
    "topicos": [
-    "A Amazon afirmou que a reforma tributária não exigirá alterações em sua estratégia logística no Brasil, pois a localização de seus centros de distribuição sempre priorizou a proximidade com os clientes em vez de incentivos fiscais.",
-    "Segundo Ricardo Pagani, diretor de operações da Amazon Brasil, a empresa planeja sua expansão com foco nos principais mercados consumidores desde o início desse planejamento, iniciado por volta de 2017.",
-    "O executivo mencionou operações situadas em Cajamar (SP), Rio de Janeiro, Recife, Fortaleza e Curitiba para exemplificar a estratégia de proximidade adotada pela companhia.",
-    "Nos últimos 15 anos, a Amazon investiu um total de R$ 75 bilhões no Brasil em áreas como infraestrutura, tecnologia e pessoas, sendo R$ 19 bilhões aplicados somente em 2025.",
-    "Atualmente, a empresa opera com mais de 300 centros logísticos no país e uma rede composta por 100 mil vendedores parceiros em seu marketplace.",
-    "A alta taxa básica de juros (Selic) e o endividamento dos consumidores não afetarão os planos de longo prazo da companhia, que desconsidera flutuações conjunturais e de curto prazo em suas decisões."
+    "O diretor de operações da Amazon Brasil, Ricardo Pagani, afirmou que a reforma tributária não exigirá mudanças na estratégia logística da empresa, pois a escolha dos centros de distribuição nunca foi guiada por benefícios fiscais, mas pela proximidade com os consumidores.",
+    "Desde o início do planejamento, por volta de 2017, a Amazon tem priorizado instalar suas estruturas perto dos principais mercados, citando centros em Cajamar (SP), Rio de Janeiro, Recife, Fortaleza e Curitiba como exemplos dessa lógica de proximidade.",
+    "A reforma tributária prevê a substituição gradual dos tributos sobre o consumo, reduzindo as vantagens fiscais ligadas à localização das operações, mas Pagani disse que isso não demanda revisão da estratégia da companhia.",
+    "Nos últimos 15 anos, a Amazon destinou R$ 75 bilhões ao Brasil em infraestrutura, tecnologia e pessoas, dos quais R$ 19 bilhões foram investidos apenas em 2025, reforçando o compromisso de expansão no país.",
+    "Atualmente, a empresa opera mais de 300 centros logísticos espalhados pelo território nacional e mantém uma rede de 100 mil vendedores parceiros no marketplace, ampliando a capilaridade da entrega ao consumidor.",
+    "Mesmo com a taxa Selic elevada e consumidores sob pressão de endividamento, a Amazon não ajustará seus planos de longo prazo, pois decisões de expansão não são baseadas em oscilações conjunturais; a empresa já ampliou significativamente sua capacidade logística durante a pandemia."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/reforma-tributaria-nao-muda-planos-da-amazon-no-brasil-nunca-pensamos-em-beneficio-fiscal-diz-diretor/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/1b4968ba7fe9.webp"
   },
   {
    "titulo": "Lula sanciona ajuste fiscal aprovado no Congresso",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (24) a lei do ajuste fiscal nas contas públicas, com foco no ano de 2027.",
-    "O projeto foi aprovado pelo Senado na semana passada e passou pela Câmara na madrugada da última terça-feira (24).",
-    "A legislação estabelece a meta de superávit de cerca de R$ 18,7 bilhões para o ano que vem.",
-    "O conjunto de medidas para cortar gastos e elevar receitas projeta uma economia de R$ 45,1 bilhões a R$ 56,1 bilhões em 2027.",
-    "A nova regra altera o arcabouço fiscal, autorizando bloqueios extras de gastos pelo Executivo para assegurar o cumprimento das metas fiscais.",
-    "A partir de 2027, o teto para a expansão dos gastos acima da inflação cairá de 2,5% para 2% nos períodos em que houver contenção de despesas."
+    "O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (24) a nova lei de ajuste fiscal nas contas públicas, aprovada pelo Congresso Nacional.",
+    "A medida altera as regras fiscais para dar ao Poder Executivo o poder de limitar a execução de despesas, visando cumprir as metas de superávit primário a partir de 2027.",
+    "O projeto foi aprovado pelo Senado na semana passada e pela Câmara dos Deputados na madrugada desta terça-feira (24).",
+    "Para o próximo ano, a legislação aprovada estabelece a previsão de um superávit estimado em cerca de R$ 18,7 bilhões.",
+    "A lei estabelece ações para cortar gastos e elevar receitas, gerando uma economia calculada entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027.",
+    "A partir do ano que vem, o texto reduz de 2,5% para 2% o teto de expansão dos gastos acima da inflação nos períodos em que houver medidas de contenção."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b8f5f51c3a0c.webp"
   },
   {
    "titulo": "Humberto Costa celebra aprovação do projeto de ajuste fiscal",
    "topicos": [
-    "O senador Humberto Costa (PT-PE) celebrou nesta terca-feira, 24 de novembro de 2026, a aprovacao pela Camara dos Deputados do projeto de ajuste fiscal, identificado como PLP 299/2026.",
-    "O texto foi aprovado sem modificacoes em relacao ao texto original do Senado e ja foi sancionado pela Presidencia da Republica no mesmo dia, virando a Lei Complementar 239/2026 em edicao extra do DOU.",
-    "A nova legislacao estabelece a reducao do teto de crescimento dos gastos publicos de 2,5% para 2% acima da inflacao se houver perigo de nao cumprimento da meta fiscal.",
-    "O parlamentar ressaltou que o ajuste sera aplicado de forma gradual e que as obrigacoes constitucionais estarao guardadas do sistema de contencao de despesas.",
-    "O texto garante a manutencao do piso constitucional da educacao e preve que a area da saude receba cerca de R$ 20 bilhoes adicionais no proximo ano.",
-    "A estrategia tambem assegura a valorizacao do salario minimo, a protecao de beneficios sociais como o BPC e o financiamento de atendimentos, equipes e equipamentos pelo SUS."
+    "Em pronunciamento nesta terça-feira (24), o senador Humberto Costa (PT-PE) comemorou a aprovação pela Câmara dos Deputados do projeto de ajuste fiscal, identificado como PLP 299/2026.",
+    "O texto foi aprovado pelos deputados sem nenhuma modificação em relação ao formato que veio do Senado, garantindo o equilíbrio das contas públicas junto com a manutenção de políticas sociais.",
+    "A proposta foi sancionada pela Presidência da República no mesmo dia e publicada em edição extra do Diário Oficial da União (DOU) como a Lei Complementar 239/2026.",
+    "A nova legislação estabelece a redução do limite de expansão dos gastos de 2,5% para 2% acima da inflação, sempre que houver risco de descumprimento da meta fiscal.",
+    "O senador ressaltou que a contenção será gradual e que as obrigações constitucionais estarão protegidas, mantendo o piso da educação e garantindo cerca de R$ 20 bilhões adicionais para a saúde no próximo ano."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/humberto-costa-celebra-aprovacao-do-projeto-de-ajuste-fiscal",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/bd062d35b726.webp"
   },
   {
    "titulo": "Depois da K-beauty, a China entra na disputa pela beleza global",
    "topicos": [
-    "Marcas chinesas de beleza, conhecidas como C-beauty, superaram as estrangeiras no mercado doméstico em 2022 e atingiram 57,4% das vendas de cosméticos na China em 2025.",
-    "Em novembro, a marca chinesa Proya chegou ao comércio eletrônico e a 400 lojas da rede Ulta Beauty nos Estados Unidos, além de abrir um centro de inovação na França.",
-    "A Florasis, outra marca da C-beauty, inaugurou em 2025 sua primeira loja própria fora da China, localizada no distrito de Ginza, em Tóquio, incorporando a cultura chinesa aos produtos.",
-    "As exportações sul-coreanas de cosméticos alcançaram o recorde de US$ 11,4 bilhões em 2025, impulsionadas pelo ecossistema cultural e de entretenimento da K-beauty.",
-    "O Brasil é o terceiro maior mercado de beleza do mundo, faturando cerca de R$ 200 bilhões em 2025 e registrando recorde de US$ 1,061 bilhão em exportações para 189 países.",
-    "As marcas coreanas de skincare no Brasil saltaram de 0,5% para mais de 7% das vendas monitoradas no país até maio de 2026, abrindo espaço para a chegada da C-beauty."
+    "As marcas chinesas de cosméticos, conhecidas como C-beauty, superaram as empresas internacionais no mercado interno em 2022 e alcançaram 57,4% das vendas locais em 2025.",
+    "A marca Proya expandiu sua presença internacional em novembro ao chegar a 400 lojas e ao e-commerce da Ulta Beauty nos Estados Unidos, além de abrir um centro de inovação na França.",
+    "A Florasis inaugurou em 2025 sua primeira loja própria fora da China, localizada no distrito de Ginza, em Tóquio, apostando em referências da cultura chinesa em seus produtos.",
+    "As exportações sul-coreanas de cosméticos bateram recorde em 2025 ao atingir US$ 11,4 bilhões, impulsionadas por um ecossistema que une entretenimento, moda e influência digital.",
+    "O Brasil é o terceiro maior mercado consumidor de beleza do mundo, registrando faturamento de cerca de R$ 200 bilhões e US$ 1,061 bilhão em exportações para 189 países em 2025.",
+    "Até maio de 2026, as marcas coreanas de skincare no Brasil saltaram de 0,5% para mais de 7% das vendas monitoradas no país, mostrando a rápida aceitação asiática."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/artigos/depois-da-k-beauty-a-china-entra-na-disputa-pela-beleza-global/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/94ca9d55e445.webp"
   },
   {
    "titulo": "É #FAKE que vídeo de descarte de cebolas na Bahia tenha a ver com alta de preços em 2026; cena há dois anos",
    "topicos": [
-    "Um vídeo que mostra homens descartando 17 mil sacos de cebola em João Dourado, região de Irecê (Bahia), foi publicado nas redes X, Instagram, Facebook, YouTube e TikTok nesta quinta‑feira (19) e tem sido usado com legendas que alegam manipulação de preços.",
-    "A gravação é autêntica, mas a cena ocorreu em novembro de 2024, conforme publicação no TikTok de 6/11/2024, e não no período atual de alta de preços, como alguns usuários afirmam.",
-    "Na época do descarte, o preço da cebola havia caído quase 80% devido ao excesso de oferta, levando produtores a jogar fora os sacos para conter a queda.",
-    "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) registrou, entre 16 de setembro e 14 de outubro, alta de 13,65% nos preços da cebola, sendo o quarto alimento que mais encareceu no período, atrás de abobrinha, tomate e limão.",
-    "A verificação feita pelo Fato ou Fake utilizou a ferramenta InVID para dividir o vídeo em frames e o Google Lens para busca reversa, identificando a origem da gravação no TikTok de 2024.",
-    "Portanto, a afirmação de que o descarte de cebolas em 2024 está relacionado a uma suposta alta de preços em 2026 é falsa; o vídeo não tem vínculo com a atual elevação de valores."
+    "Um vídeo que circula nas redes sociais mostra homens descartando 17 mil sacos de cebola em João Dourado, região de Irecê, Bahia; a gravação foi feita em novembro de 2024, mas foi repostada em 19 de maio de 2024 nas plataformas X, Instagram, Facebook, YouTube e TikTok.",
+    "As legendas que acompanham o material alegam que o descarte teria sido feito para provocar alta de preços e responsabilizar o governo Lula, mas a checagem confirma que o objetivo era conter a queda de preços da cebola naquele período.",
+    "Em novembro de 2024, o preço da cebola havia recuado quase 80% devido ao excesso de oferta, o que levou produtores a eliminar 17 mil sacos para tentar estabilizar o mercado.",
+    "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) registrou, entre 16 de setembro e 14 de outubro de 2024, alta de 13,65% nos preços da cebola, posicionando‑a como o quarto alimento que mais encareceu, atrás de abobrinha, tomate e limão.",
+    "A verificação utilizou a ferramenta InVID para dividir o vídeo em frames e o Google Lens para busca reversa, identificando uma publicação original no TikTok em 6 de novembro de 2024 com a legenda \"Cebola sendo jogada fora, por falta de preço 06/11/2024\".",
+    "Portanto, embora o vídeo seja autêntico, ele não tem relação com a suposta alta de preços de cebola em 2026; a associação feita nas redes sociais é considerada #FAKE."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/24/e-fake-que-video-de-descarte-de-cebolas-na-bahia-tenha-a-ver-com-alta-de-precos-em-2026-cena-ha-dois-anos.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/b53b02669139.webp"
   },
   {
    "titulo": "Tarifaço de Trump: EUA preparam aumento de tarifas contra China, União Europeia e mais",
    "topicos": [
-    "O governo dos Estados Unidos prepara novas tarifas comerciais contra China, União Europeia e outras 14 economias, com anúncio esperado para esta semana.",
-    "A medida busca substituir taxas derrubadas pela Suprema Corte e foca em nações acusadas de prejudicar a indústria americana por meio de subsídios e superprodução.",
-    "A iniciativa baseia-se na Seção 301 da Lei de Comércio dos EUA e resulta de uma investigação conduzida pelo USTR, órgão que abriu a apuração em março.",
-    "Ainda não foram divulgadas informações sobre os produtos afetados, as alíquotas aplicadas ou a data em que as novas taxas passarão a vigorar.",
-    "Em julho, os EUA já haviam aplicado taxas de 10% a 12,5% contra cerca de 60 parceiros, incluindo o Brasil, devido a divergências sobre combate ao trabalho forçado.",
-    "Os EUA bloquearam o primeiro pedido do Brasil na OMC para abrir um painel que avaliaria a legalidade das tarifas, mas o país planeja reapresentar a solicitação."
+    "O governo dos EUA prepara novas tarifas contra a China, a União Europeia e outras 14 economias para substituir taxas derrubadas pela Suprema Corte.",
+    "O anúncio oficial deve ocorrer nesta semana, após a conclusão de uma investigação do USTR sobre excesso de capacidade produtiva no exterior.",
+    "As medidas usarão como base a Seção 301 da Lei de Comércio dos EUA, sem alíquotas, produtos afetados ou datas de vigência divulgados até o momento.",
+    "Em julho, os EUA já haviam aplicado taxas de 10% a 12,5% contra cerca de 60 parceiros, incluindo o Brasil, por combate insuficiente ao trabalho forçado.",
+    "Os EUA bloquearam na OMC a tentativa do Brasil de abrir um painel para julgar as tarifas brasileiras, mas o país reapresentará o pedido na próxima reunião."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/50b026f9c3f1.webp"
   },
   {
    "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
    "topicos": [
-    "O Ministério da Fazenda divulgou, nesta segunda-feira, 23, o Boletim Macrofiscal de novembro, reduzindo a projeção do PIB de 2027 de 2,3% para 1,8%.",
-    "A estimativa da inflação para 2027, medida pelo IPCA, subiu de 3,8% para 4,5%, alcançando o limite superior da meta estabelecida pelo Conselho Monetário Nacional.",
-    "Para 2026, a previsão de crescimento caiu de 2% para 1,9%, enquanto a estimativa de inflação aumentou de 4,9% para 5,3%, ficando acima do teto da meta.",
-    "O governo reduziu as projeções de crescimento para 2028 e 2029 de 2,6% para 2,5%, mantendo a estimativa de 2,6% para o ano de 2030.",
-    "A desaceleração econômica é atribuída pelo governo à política monetária restritiva, com juros altos e crédito caro que restringem o consumo e os investimentos."
+    "O Ministério da Fazenda divulgou em segunda-feira, 23, o Boletim Macrofiscal de novembro, reduzindo a projeção do PIB de 2027 de 2,3% para 1,8%.",
+    "A previsão da inflação para 2027, medida pelo IPCA, foi elevada de 3,8% para 4,5%, atingindo o limite superior da meta estabelecida pelo CMN.",
+    "Para 2026, a estimativa de crescimento caiu de 2% para 1,9% e a inflação subiu de 4,9% para 5,3%, superando o teto da meta.",
+    "A desaceleração econômica é atribuída pela pasta aos juros altos e ao encarecimento do crédito, que restringem o consumo das famílias e os investimentos corporativos.",
+    "A projeção para o preço do barril de petróleo Brent em 2027 passou de US$ 79,50 para US$ 95,20, o que pode pressionar os combustíveis.",
+    "As previsões de crescimento para 2028 e 2029 também foram reduzidas de 2,6% para 2,5%, enquanto a taxa para 2030 foi mantida em 2,6%."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/economia/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/dea555b02ecf.webp"
   },
   {
    "titulo": "Visita ao Poder360: Glauco Humai",
    "topicos": [
-    "Glauco Humai, presidente da Abrasce, esteve na sede do jornal digital Poder360, em Brasília, nesta terça-feira (24.nov.2026).",
-    "O executivo gravou uma entrevista, que será transmitida no fim de semana, para discutir os desafios e as projeções do setor para o próximo ano.",
-    "Fábio Chaves, gerente executivo de Comunicação da Loures, acompanhou o presidente da Associação Brasileira de Shopping Centers durante a visita."
+    "Glauco Humai, presidente da Abrasce (Associação Brasileira de Shopping Centers), visitou a sede do jornal digital Poder360 em Brasília na terça‑feira, 24 de novembro de 2026.",
+    "Durante a visita, Humai concedeu entrevista gravada que será exibida no fim de semana seguinte.",
+    "Ele esteve acompanhado por Fábio Chaves, gerente executivo de Comunicação da empresa Loures.",
+    "Na entrevista, Humai abordou os principais desafios enfrentados pelo setor de shopping centers e as expectativas para o próximo ano.",
+    "A gravação ocorreu no estúdio do Poder360, que divulgará o conteúdo ao público ao final de semana."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-glauco-humai/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/7f454e77952d.webp"
   },
   {
    "titulo": "Marca chinesa 361° abre primeira pop-up store no Brasil para testar expansão física",
    "topicos": [
-    "A marca chinesa de artigos esportivos 361° inaugurou sua primeira pop‑up store no Brasil, localizada no Boavista Shopping, zona sul de São Paulo, com área de 57 m² e funcionamento previsto até 30 de novembro.",
-    "O espaço reúne aproximadamente 2 mil pares de calçados do portfólio da 361°, permitindo que consumidores experimentem o novo formato de atuação da empresa no país.",
-    "Sérgio Baccaro, general manager da 361° no Brasil, destacou que a pop‑up serve para entender o comportamento do consumidor e avaliar a expansão física da marca.",
-    "A presença da 361° no mercado brasileiro começou em 2016, quando forneceu mais de 107 mil kits de uniformes para os Jogos Olímpicos e Paralímpicos do Rio de Janeiro.",
-    "Desde 2025 a empresa vende seus produtos tanto em seu e‑commerce próprio quanto em parceiros como Centauro, Netshoes, NBA, Futfanatics e Velocità.",
-    "A iniciativa segue a tendência de expansão física de marcas estrangeiras, como a Privalia, que abriu pop‑up de 350 m² em Curitiba (Shopping Crystal) de 1 de novembro a 31 de dezembro, com cerca de 10 mil produtos e expectativa de 15 mil visitantes mensais."
+    "A marca chinesa de artigos esportivos 361° abriu sua primeira pop-up store no Brasil, localizada no Boavista Shopping, na zona sul de São Paulo.",
+    "O espaço temporário da 361° tem 57 metros quadrados, funciona até 30 de novembro e comercializa cerca de 2 mil pares de calçados.",
+    "A iniciativa serve para a empresa testar um novo formato, compreender o comportamento do consumidor e avaliar a ampliação da presença física no País, segundo Sérgio Baccaro, general manager da marca no Brasil.",
+    "No Brasil desde 2016, quando forneceu mais de 107 mil kits de uniformes nos Jogos Olímpicos e Paralímpicos do Rio de Janeiro, a empresa atua desde 2025 com e-commerce próprio e redes parceiras como Centauro, Netshoes, NBA, Futfanatics e Velocità.",
+    "A Privalia também inaugurou uma pop-up store no Shopping Crystal, no bairro Batel, em Curitiba, com 350 metros quadrados e cerca de 10 mil produtos disponíveis.",
+    "A loja da Privalia funciona por dois meses, de 1º de novembro a 31 de dezembro, com expectativa de receber 15 mil visitantes mensais para compras que incluem o período de Black Friday e Natal."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/noticias-varejo/marca-chinesa-361-abre-primeira-pop-up-store-no-brasil-para-testar-expansao-fisica/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/26308abba60b.webp"
   },
   {
    "titulo": "XP (XPBR31) e B3 (B3SA3) podem ter um 2027 mais difícil: Safra rebaixa ações e corta preço-alvo; confira",
    "topicos": [
-    "O banco Safra rebaixou nesta terça-feira (24) as recomendações das ações da XP (XPBR31) e da B3 (B3SA3) para neutra, projetando um ano de 2027 desafiador para o mercado de capitais.",
-    "A decisão considera juros mais altos, desvalorização do real, prêmio de risco maior e desaceleração econômica, que devem limitar volumes negociados e receitas.",
-    "O preço-alvo da XP despencou de US$ 22 para US$ 16, o que representa um potencial de alta de 18% sobre o último fechamento.",
-    "O preço-alvo da B3 caiu de R$ 23 para R$ 17, implicando uma valorização potencial de até 20%.",
-    "No caso da XP, o Safra aponta pressão no take rate do varejo, consumo intenso de capital e o risco de tributação em produtos de renda fixa hoje isentos.",
-    "Para a B3, a cautela envolve volumes fracos e a necessidade de reduzir preços e dar incentivos para enfrentar a concorrência, pressionando margens.",
-    "O Safra manteve a recomendação de compra para o BTG Pactual (BPAC11), com preço-alvo cortado de R$ 71 para R$ 64 e rentabilidade robusta de 26%."
+    "O Banco Safra rebaixou nesta terça-feira (24) as recomendações para as ações da B3 (B3SA3) e da XP (XPBR31) para neutra devido a um mercado de capitais menos favorável previsto para 2027.",
+    "O preço-alvo da XP caiu de US$ 22 para US$ 16, o que representa uma alta potencial de 18%, enquanto o da B3 recuou de R$ 23 para R$ 17, implicando valorização de até 20%.",
+    "O Safra aponta que juros mais altos, aumento do prêmio de risco, desvalorização do real e desaceleração econômica devem limitar volumes e receitas das companhias em 2027.",
+    "Para a XP, o banco cita volumes mais fracos, pressão prolongada sobre o take rate do varejo, riscos com possível tributação da renda fixa e maior consumo de capital.",
+    "Na B3, a preocupação envolve volumes menores combinados com a pressão nas margens, já que a empresa precisa oferecer descontos para enfrentar a concorrência.",
+    "O BTG Pactual (BPAC11) manteve recomendação de compra e tornou-se a preferência do Safra, mesmo com o preço-alvo ajustado de R$ 71 para R$ 64 (potencial de 29%)."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/xp-e-b3-podem-ter-um-2027-mais-dificil-safra-rebaixa-acoes-e-corta-preco-alvo-confira-miql/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/c1ccef5065ac.webp"
   },
   {
    "titulo": "Expectativa de vida em Cuba cai pela 1ª vez em quase 80 anos, alerta OMS",
    "topicos": [
-    "A expectativa de vida em Cuba recuou pela primeira vez desde o início dos registros em 1950, caindo de 78,8 anos em 2020 para 74,4 anos em 2025.",
-    "O anúncio foi feito por Adhanom Ghebreyesus, da OMS, ao término de uma visita de três dias à ilha governada pelo regime comunista.",
-    "O país abriga quase 9,5 milhões de habitantes e enfrenta uma severa crise econômica agravada por um bloqueio energético dos EUA iniciado no começo do ano.",
-    "A mortalidade materna no país subiu de 37,4 por mil nascidos vivos em 2019 para 44,1 em 2025, conforme dados divulgados pela organização.",
-    "A taxa de sobrevivência ao câncer pediátrico despencou de 85% para 65% após o início do bloqueio energético americano, segundo a OMS.",
-    "O sistema de saúde cubano, outrora reconhecido globalmente como um dos grandes feitos do governo, atravessa atualmente uma fase crítica e difícil."
+    "A expectativa de vida em Cuba registrou queda pela primeira vez desde o início dos registros em 1950, conforme alerta da OMS divulgado por Adhanom após uma visita de três dias ao país.",
+    "O indicador caiu de 78,8 anos em 2020 para 74,4 anos em 2025, impulsionado pelo aumento da mortalidade em meio a uma grave crise econômica e um bloqueio energético dos EUA.",
+    "A mortalidade materna na ilha, que possui quase 9,5 milhões de habitantes, aumentou de 37,4 por mil nascidos vivos em 2019 para 44,1 em 2025.",
+    "A taxa de sobrevivência ao câncer pediátrico despencou de 85% para 65% após o início do bloqueio energético imposto pelos Estados Unidos no início deste ano.",
+    "O renomado sistema de saúde cubano, considerado historicamente uma grande conquista do governo comunista, atravessa atualmente uma condição difícil e crítica."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/expectativa-de-vida-em-cuba-cai-pela-primeira-vez-em-quase-80-anos-alerta-oms.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/134fda983a36.webp"
   },
   {
    "titulo": "Governo prepara PEC com medidas para dar 'potência fiscal' e assegurar cumprimento de meta, diz Moretti",
    "topicos": [
-    "O ministro do Planejamento, Bruno Moretti, afirmou nesta terça-feira (24) que o governo federal prepara uma Proposta de Emenda à Constituição com novas medidas de ajuste econômico.",
-    "A PEC, construída com a participação do presidente Lula, busca dar potência fiscal, acelerar o controle da dívida pública e assegurar o cumprimento da meta de resultado primário.",
-    "O pacote em elaboração não prevê cortes em programas sociais ou em promessas de campanha feitas pelo governo.",
-    "O anúncio ocorre após a Câmara dos Deputados aprovar um projeto de ajuste fiscal enviado por Lula, que agora segue para sanção presidencial e pode gerar economia de até R$ 56 bilhões no próximo ano.",
-    "O projeto aprovado inclui um corte linear de 10% em incentivos e benefícios tributários concedidos a diversos setores da economia, além de mudanças em despesas discricionárias.",
-    "A matéria restringe o uso de créditos tributários para compensar impostos devidos à Receita Federal e altera a base de cálculo para gastos obrigatórios, como o piso da saúde, excluindo a receita da exportação de petróleo até 2030.",
-    "As regras de crescimento dos gastos públicos também mudam: em anos de necessidade de corte para cumprir a meta, o limite de alta acima da inflação será fixado em 2%."
+    "Na terça‑feira (24), o ministro do Planejamento Bruno Moretti informou que o governo está elaborando uma Proposta de Emenda à Constituição (PEC) com novas medidas de ajuste, que será somada ao projeto de lei aprovado na madrugada na Câmara dos Deputados.",
+    "O conjunto deve conferir “potência fiscal” e garantir o cumprimento da meta de resultado primário, com o presidente Luiz Inácio Lula autorizando e participando das discussões, sem cortes em programas sociais ou promessas de campanha.",
+    "O projeto, já encaminhado à sanção presidencial, pode gerar economia de até R$ 56 bilhões já no próximo ano, por meio de cortes de incentivos, benefícios tributários e alterações nas despesas discricionárias.",
+    "Uma das mudanças principais é a efetivação de um corte linear de 10 % nos benefícios concedidos a diferentes setores da economia, além de autorizar o Executivo a limitar o uso de créditos tributários para compensar outros impostos da Receita Federal.",
+    "O texto altera a base de cálculo de despesas vinculadas à arrecadação, como o piso da saúde, e prevê que, até 2030, a receita do imposto sobre exportação de petróleo não seja considerada no cálculo de determinadas despesas obrigatórias.",
+    "Atualmente, o arcabouço fiscal permite que os gastos públicos cresçam acima da inflação entre 0,6 % e 2,5 % ao ano, conforme a receita; com a nova regra, nos anos em que for necessário cortar gastos, o teto será fixado em 2 %."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/24/governo-prepara-pec-com-medidas-de-para-dar-potencia-fiscal-e-assegurar-cumprimento-de-meta.ghtml",
-   "categoria": "Política"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/cb966c524dd7.webp"
   },
   {
    "titulo": "Temu e Mastercard ampliam parceria em pagamentos e soluções financeiras",
    "topicos": [
-    "A Temu e a Mastercard assinaram um Memorando de Entendimento para expandir sua cooperação em soluções de pagamento e financeiras, com foco em consumidores e vendedores locais.",
-    "As companhias vão avaliar a implementação do Click to Pay, tecnologia para compras online sem a necessidade de redigitar dados do cartão, além de ferramentas antifraude e para reduzir recusas indevidas.",
-    "O acordo prevê o estudo do Mastercard Agent Pay, sistema que possibilita que agentes de Inteligência Artificial efetuem compras autorizadas em nome dos usuários.",
-    "Atualmente, a Temu presta serviços a consumidores em mais de 90 mercados, lidando com variados hábitos e preferências de pagamento.",
-    "A parceria atual já utiliza tokens exclusivos para substituir números de cartões salvos na plataforma, visando proteger dados e acelerar transações.",
-    "O Programa de Vendedores Locais da Temu atua em mais de 35 mercados, abrangendo o Brasil, os Estados Unidos e nações da Europa.",
-    "A colaboração abrangerá soluções de pagamentos comerciais e remessas internacionais para otimizar transações e facilitar o financiamento e a gestão de capital de giro de pequenos e médios lojistas."
+    "A Temu e a Mastercard ampliaram sua parceria por meio de um Memorando de Entendimento para aprimorar a experiência de pagamento e apoiar vendedores locais.",
+    "O acordo prevê a avaliação da tecnologia Click to Pay, que dispensa a digitação de dados do cartão a cada compra online realizada na plataforma.",
+    "As companhias vão estudar o uso do Mastercard Agent Pay, permitindo que agentes de Inteligência Artificial façam compras autorizadas pelos consumidores.",
+    "O projeto inclui ferramentas de combate a fraudes e de redução de recusas indevidas, além do uso de tokens exclusivos no lugar dos números dos cartões.",
+    "A Temu atende compradores em mais de 90 mercados, enquanto o seu Programa de Vendedores Locais já está presente em mais de 35 mercados, como Brasil, Estados Unidos e nações europeias.",
+    "A parceria vai analisar soluções de pagamentos comerciais e remessas internacionais para facilitar o financiamento, a gestão de capital de giro e a eficiência para lojistas."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/meios-de-pagamento/temu-e-mastercard-ampliam-parceria-em-pagamentos-e-solucoes-financeiras/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8a1e12f77e82.webp"
   },
   {
    "titulo": "Deputado democrata amplia investigação sobre fundo de investimentos de Donald Trump Jr.",
    "topicos": [
-    "O deputado democrata Jamie Raskin ampliou a investigação sobre a empresa 1789 Capital, de Donald Trump Jr., enviando cartas na segunda-feira (23) a quatro companhias que receberam aportes do fundo antes de obterem contratos ou políticas federais vantajosas.",
-    "As empresas investigadas são a Hadrian Automation (fornecedora de defesa), a Juul Labs (cigarros eletrônicos), a Polymarket (plataforma de previsões) e a GrabAGun (loja de armas), localizadas nos Estados Unidos.",
-    "O parlamentar exigiu que cada companhia envie dois anos de comunicações com a 1789 Capital para apurar se Trump Jr. usou informações privilegiadas para antecipar decisões governamentais que beneficiaram os negócios e suas finanças.",
-    "A investigação ampliada teve início em agosto de 2024 e foca em coincidências temporais entre investimentos do fundo de Trump Jr., fundado em 2022 e onde ele virou sócio em novembro de 2024, e decisões de órgãos federais americanos.",
-    "Segundo Raskin, a Hadrian Automation recebeu quase US$ 1 bilhão em contratos com a Marinha e o Exército em março de 2025 após receber aporte do fundo; a Juul obteve aval da FDA em julho de 2025, quatro meses após o investimento.",
-    "O deputado também aponta que a GrabAGun recebeu ajuda da 1789 para abrir capital antes de proposta da ATF sobre envio de armas, e que investigações contra a Polymarket no Departamento de Justiça e CFTC foram encerradas em julho de 2025 após aporte.",
-    "Trump Jr., a 1789 Capital (sediada em Palm Beach, Flórida) e as empresas negaram irregularidades. Paralelamente, o governo Trump emitiu uma ordem executiva na sexta-feira (20) exigindo que contratadas consultem o governo antes de responder ao Congresso."
+    "O deputado democrata Jamie Raskin, principal representante da minoria no Comitê Judiciário da Câmara dos EUA, enviou cartas na noite de segunda‑feira (23) a quatro empresas – Hadrian Automation, Juul Labs, Polymarket e GrabAGun – exigindo documentos sobre seus vínculos com a 1789 Capital, fundo de risco de Donald Trump Jr.",
+    "Nas cartas, Raskin solicitou que cada companhia forneça dois anos de comunicações com a 1789 Capital, além de documentos específicos, para averiguar se informações privilegiadas foram usadas para antecipar decisões governamentais que beneficiaram as empresas e as finanças de Trump Jr.",
+    "Raskin apontou que a Hadrian Automation recebeu quase US$ 1 bilhão em contratos com a Marinha e o Exército dos EUA em março de 2025, logo após a 1789 Capital investir na empresa naquele mesmo ano, sugerindo coincidência suspeita.",
+    "Segundo o deputado, a Juul Labs obteve autorização da FDA em julho de 2025 para manter seus cigarros eletrônicos no mercado, quatro meses depois de a 1789 Capital adquirir participação na companhia, levantando dúvidas sobre influência indevida.",
+    "A GrabAGun recebeu apoio da 1789 Capital para abrir seu capital e colocou Donald Trump Jr. em seu conselho antes de o ATF propor facilitar o envio de armas diretamente às residências dos compradores; a Polymarket teve investigações do DOJ e da CFTC encerradas em julho de 2025, após investimento prévio da 1789.",
+    "Donald Trump Jr. e a 1789 Capital negam qualquer irregularidade; em carta de setembro, seus advogados defenderam que a estratégia de investimento existia antes da presidência de Trump e que acolhem fiscalização legítima, enquanto o advogado Bill Burck acusou Raskin de não responder às alegações.",
+    "Raskin, futuro presidente do Comitê Judiciário quando os democratas assumirem o Congresso em janeiro, declarou que investigar suspeitas de suborno e corrupção financeira será prioridade da fiscalização democrática sobre o governo Trump."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/deputado-democrata-amplia-investigacao-sobre-fundo-de-investimentos-de-donald-trump-jr.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6a8be647f5c4.webp"
   },
   {
    "titulo": "Total Express investe mais de R$ 100 milhões para reforçar operação na Black Friday 2026",
    "topicos": [
-    "A Total Express aportou mais de R$ 100 milhões em tecnologia, transporte, equipes e infraestrutura para preparar sua operação voltada à Black Friday 2026.",
-    "A capacidade instalada da empresa alcançou 1,25 milhão de encomendas diárias, o que representa um crescimento de 8,7% na comparação com o ano de 2024.",
-    "A companhia implantou um sorter linear Multibelt automatizado capaz de realizar a leitura, pesagem e o processamento de até 220 mil pacotes por dia.",
-    "No setor de transporte, a frota de carretas próprias passou de 88 para mais de 100 unidades, além da adição de 500 veículos para o evento."
+    "A Total Express aportou mais de R$ 100 milhões em infraestrutura, transporte, tecnologia e equipes para preparar sua operação voltada à Black Friday 2026.",
+    "O aporte elevou a capacidade instalada para 1,25 milhão de encomendas diárias, registrando um crescimento de 8,7% em relação ao volume de 2024.",
+    "A empresa implementou um sorter linear com tecnologia Multibelt com capacidade para processar até 220 mil pacotes por dia, realizando leitura, pesagem e cubagem automáticas.",
+    "Na frota, a quantidade de carretas próprias passou de 88 para mais de 100 veículos, além da incorporação de 500 novos veículos para o evento e duplicação das saídas dos hubs de Piracema e Jundiaí.",
+    "A rede de atendimento abrange entregas próprias em 5.165 municípios, coletas em 2 mil cidades, adição de 4.500 novos CEPs e mais de 1.600 pontos parceiros Total Points.",
+    "Para suprir a demanda, a empresa contratou mais de 3 mil profissionais temporários, escalou equipes para fins de semana e ampliou transportadores agregados para novas saídas de entrega."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/black-friday/total-express-investe-mais-de-r-100-milhoes-para-reforcar-operacao-na-black-friday-2026/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b276ae58e700.webp"
   },
   {
    "titulo": "Tarifaço de Trump: EUA barram primeira tentativa do Brasil de julgamento na OMC",
    "topicos": [
-    "Em 24 de março de 2024, os Estados Unidos bloquearam a primeira tentativa do Brasil de abrir um painel na Organização Mundial do Comércio (OMC) para analisar as tarifas adicionais impostas a produtos brasileiros.",
-    "O Brasil contesta uma tarifa adicional de 25 % aplicada após investigação dos EUA sob a Seção 301, que abrange comércio digital, tarifas de importação, propriedade intelectual, combate à corrupção, etanol e fiscalização ambiental, alegando violação das regras da OMC.",
-    "A Seção 301 da Lei de Comércio dos EUA autoriza o governo americano a investigar práticas comerciais consideradas injustas ou prejudiciais e a adotar medidas corretivas, como as tarifas em questão.",
-    "Em julho de 2024, o governo brasileiro solicitou consultas formais com os EUA, etapa inicial do processo de solução de disputas da OMC, para tentar um acordo antes de levar o caso a um painel de especialistas.",
-    "O bloqueio dos EUA impede apenas a primeira solicitação; o Brasil pode reapresentar o pedido em reunião subsequente da OMC, e na segunda tentativa o painel será criado a menos que todos os membros concordem em impedir sua abertura.",
-    "Caso o painel seja constituído, especialistas analisarão os argumentos e as medidas contestadas, emitindo um relatório final, mas a abertura do painel não suspende automaticamente as tarifas questionadas.",
-    "O Brasil sustenta que as tarifas violam compromissos da OMC sobre tratamento de nação‑mais‑favorecida e limites de tarifas de importação, enquanto os EUA defendem a legitimidade das medidas sob a Seção 301."
+    "Os Estados Unidos impediram, nesta terça-feira (24), que o Brasil abrisse um painel na Organização Mundial do Comércio para julgar as tarifas adicionais aplicadas pelo governo americano contra mercadorias brasileiras.",
+    "O governo brasileiro contesta uma taxa extra de 25% imposta com base na Seção 301 da Lei de Comércio dos EUA, após investigações sobre comércio digital, tarifas de importação, etanol, propriedade intelectual, meio ambiente e corrupção.",
+    "Para o Brasil, as cobranças violam os acordos internacionais da OMC, especialmente as normas de tratamento igualitário entre parceiros comerciais e os tetos fixados para taxas de importação.",
+    "Em julho deste ano, o Brasil iniciou consultas formais com os americanos, etapa inicial obrigatória de negociação que antecede a tentativa de levar o caso para avaliação de um painel de especialistas.",
+    "O veto americano não encerra o processo, pois as regras da OMC permitem que o Brasil reapresente o pedido em uma nova reunião, momento em que os EUA perderão o poder de veto individual e o painel só será barrado se houver unanimidade dos membros."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/eua-bloqueia-pedido-do-brasil-para-um-painel-de-disputas-tarifarias-diz-um-funcionario-comercial.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9150cbbf134e.webp"
   },
   {
    "titulo": "Petróleo sobe com alta dos riscos à navegação em Ormuz e tensões na Arábia Saudita",
    "topicos": [
-    "O petróleo fechou em alta na terça‑feira, 24, com o contrato WTI para janeiro subindo 2,35 % (US$ 1,88) e cotando US$ 82,05 o barril na NYMEX; o Brent para o mesmo mês avançou 2,27 % (US$ 2,03) e chegou a US$ 91,40 o barril na ICE de Londres.",
-    "A agência britânica UKMTO registrou um incidente no Estreito de Ormuz envolvendo três embarcações, reforçando os riscos à navegação no Golfo Pérsico que têm pressionado os preços do petróleo.",
-    "Um ataque atingiu a torre do Fundo de Investimento Público no Distrito Financeiro Rei Abdullah, em Riad, segundo o porta‑voz da Coalizão de Apoio à Legitimidade no Iêmen, brigadeiro‑general Turki al‑Maliki; o Financial Times informou que 11 pessoas ficaram feridas.",
-    "Os rebeldes houthis ameaçaram novas investidas contra instalações financeiras e portuárias sauditas, levando o governo da Arábia Saudita a solicitar aos aliados o reforço dos estoques de interceptadores de mísseis, conforme reportado pelo Semafor.",
-    "A Capital Economics apontou que o orçamento saudita para 2027 prevê que a política fiscal deverá conter o crescimento da economia não‑petrolífera do país no próximo ano, apesar dos efeitos da guerra.",
-    "O presidente do Parlamento iraniano e principal negociador, Mohammad Bagher Qalibaf, declarou que Teerã não negociará com os EUA até que sejam atendidas as sete condições exigidas pelo Irã; na segunda‑feira, o vice‑presidente dos EUA, JD Vance, e o secretário de Estado, Marco Rubio, se encontraram com o primeiro‑ministro do Catar, Mohammed bin Abdulrahman bin Jassim Al Thani, para tentar retomar as negociações estagnadas entre EUA e Irã."
+    "Na terça‑feira, 24, o petróleo WTI para janeiro subiu 2,35% (US$ 1,88), fechando a US$ 82,05 o barril na NYMEX, enquanto o Brent avançou 2,27% (US$ 2,03), a US$ 91,40 o barril na ICE de Londres.",
+    "A agência britânica UKMTO registrou um incidente no Estreito de Ormuz envolvendo três embarcações, reforçando os riscos à navegação no Golfo Pérsico.",
+    "Um ataque atingiu a torre do Fundo de Investimento Público no Distrito Financeiro Rei Abdullah, em Riad; segundo o Financial Times, 11 pessoas ficaram feridas.",
+    "Os rebeldes houthis ameaçaram instalações financeiras e portuárias sauditas, levando o governo da Arábia Saudita a solicitar a aliados reforço nos estoques de interceptadores de mísseis, informou o Semafor.",
+    "Mohammad Bagher Qalibaf, negociador‑chefe do Irã e presidente do Parlamento, declarou que Teerã não negociará com os EUA até que sete condições iranianas sejam atendidas, segundo a TV estatal.",
+    "Na segunda‑feira, o vice‑presidente dos EUA, JD Vance, e o secretário de Estado, Marco Rubio, se reuniram com o primeiro‑ministro do Catar, Mohammed bin Abdulrahman bin Jassim Al Thani, para impulsionar as negociações estagnadas entre EUA e Irã.",
+    "A Capital Economics apontou que o orçamento saudita de 2027 prevê que a política fiscal deve frear o crescimento da economia não petrolífera do país no próximo ano."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-24112026/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/84cf11d0b2fc.webp"
   },
   {
    "titulo": "Alerj prepara votação de reajuste para governador, vice e secretários",
    "topicos": [
-    "A Assembleia Legislativa do Rio (Alerj) prepara a votação de um projeto para reajustar os salários do governador, vice-governador, secretários e subsecretários estaduais, após quase 12 anos sem atualização.",
-    "Pela proposta apresentada nesta terça-feira, o subsídio mensal do governador passará de R$ 21.868,14 para R$ 36 mil, e o do vice-governador, de R$ 18.421,99 para R$ 34 mil.",
-    "Para os secretários estaduais, o valor subirá de R$ 18.421,99 para R$ 30 mil, enquanto os subsecretários passarão a receber R$ 26 mil, ante os atuais R$ 16.579,79.",
-    "O impacto anual estimado é de R$ 16,36 milhões com 28 secretarias e 96 subsecretários, ou R$ 14,68 milhões caso haja redução para 25 secretarias e 86 subsecretários.",
-    "O projeto será discutido nesta quarta-feira na Comissão de Orçamento, devendo receber parecer das comissões em plenário e votação em regime de urgência até a próxima semana.",
-    "O texto considera a inflação acumulada de 89,56% pelo IPCA entre janeiro de 2015 e setembro de 2026, resultando em reajustes de cerca de 57% a 85%, abaixo da inflação do período."
+    "A Assembleia Legislativa do Rio de Janeiro prepara a votação de um projeto para reajustar os salários do governador, vice-governador, secretários e subsecretários estaduais após quase 12 anos sem correção.",
+    "A proposta, apresentada pelo deputado Gustavo Tutuca nesta terça-feira, prevê uma recomposição parcial da defasagem acumulada desde janeiro de 2015, quando entrou em vigor o último reajuste aprovado em 2014.",
+    "O subsídio do governador passará de R$ 21.868,14 para R$ 36 mil, e o do vice-governador subirá de R$ 18.421,99 para R$ 34 mil.",
+    "Para os secretários estaduais, o valor passará de R$ 18.421,99 para R$ 30 mil, enquanto os subsecretários receberão R$ 26 mil, ante os atuais R$ 16.579,79.",
+    "O impacto anual estimado da medida é de R$ 16,36 milhões com 28 secretarias e 96 subsecretários, ou R$ 14,68 milhões com uma estrutura reduzida de 25 secretarias e 86 subsecretários.",
+    "O esboço será discutido nesta quarta-feira na Comissão de Orçamento, devendo receber parecer das comissões em plenário e votação em regime de urgência até a próxima semana."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/politica/alerj-prepara-votacao-de-reajuste-para-governador-vice-e-secretarios/",
-   "categoria": "Economia"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/834db357ed92.webp"
   },
   {
    "titulo": "Dólar fecha em queda e volta para os R$ 5,90 com redução dos riscos fiscais",
    "topicos": [
-    "O dólar recuou para R$5,90 após ter ultrapassado R$6,00 na véspera, fechando a sessão de 24 de novembro em queda de 0,26% a R$5,9107 no mercado à vista.",
-    "A desvalorização foi impulsionada pela informação de que o presidente Luiz Inácio Lula da Silva autorizou o envio ao Congresso de uma proposta de emenda constitucional que pretende limitar despesas obrigatórias.",
-    "O índice DXY, que mede o dólar frente a seis moedas fortes, também caiu 0,51% e ficou em 103,8080 pontos por volta das 17h20.",
-    "Na segunda‑feira (23), a Câmara dos Deputados aprovou o ajuste fiscal; o texto segue agora para sanção presidencial, embora ainda seja considerado insuficiente para eliminar dúvidas sobre as contas públicas.",
-    "O governo planeja divulgar nesta terça‑feira (24) o relatório do 5º bimestre com dados das contas públicas de 2026 e eventuais bloqueios ou contingenciamentos de despesas.",
-    "A entrevista coletiva prevista para apresentar detalhes foi adiada para a manhã de quarta‑feira (25)."
+    "Nesta terça-feira (24), o dólar comercial encerrou o dia em baixa de 0,26%, cotado a R$ 5,9107 no mercado à vista, após ter superado a marca de R$ 6,00 na véspera.",
+    "A retração da moeda norte-americana foi influenciada pelo aval do presidente Luiz Inácio Lula da Silva para o envio de uma proposta de controle de despesas obrigatórias ao Congresso.",
+    "O movimento interno também acompanhou o cenário externo, com o índice DXY registrando queda de 0,51%, atingindo 103,8080 pontos por volta das 17h20.",
+    "Os investidores repercutiram a aprovação de um ajuste fiscal pela Câmara dos Deputados na segunda-feira (23), texto que seguiu para sanção presidencial, mas ainda gera dúvidas nas contas públicas.",
+    "O governo planeja enviar uma PEC elaborada pela equipe econômica para limitar o avanço de despesas, fixando novos tetos para gastos com saúde, educação e emendas parlamentares.",
+    "O Ministério do Planejamento programou a divulgação do relatório do 5º bimestre com os dados fiscais de 2026, com entrevista coletiva transferida para a manhã de quarta-feira (25)."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/dolar-fecha-em-queda-e-volta-para-os-r-590-com-reducao-dos-riscos-fiscais-davs/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/50acf845a91b.webp"
   },
   {
    "titulo": "VÍDEO: EUA usam cavalos para prender imigrantes na fronteira com o México",
    "topicos": [
-    "A Patrulha de Fronteira dos Estados Unidos passou a usar cavalos para deter imigrantes na fronteira com o México, conforme mostra um vídeo divulgado nesta terça‑feira (24).",
-    "O vídeo foi publicado pela Alfândega e Proteção de Fronteiras dos EUA (CBP) em rede social, mas a agência não informou a data exata da operação.",
-    "Segundo a publicação, agentes da unidade aérea de El Paso orientaram o policial a cavalo até o local onde o homem se escondia entre arbustos e pedras.",
-    "A cena foi gravada em uma região montanhosa do Texas, próxima à fronteira mexicana, onde o imigrante tentou se ocultar.",
-    "O CBP declarou que dispõe de helicópteros, patrulhas a cavalo e sistemas avançados de vigilância para cobrir qualquer tipo de terreno.",
-    "A mensagem da agência alerta: “Se você cruzar ilegalmente, vamos encontrar você, prender você e deportar você. A fronteira está fechada”."
+    "A Patrulha de Fronteira dos Estados Unidos passou a utilizar cavalos para capturar imigrantes na divisa com o território mexicano, conforme registro divulgado nesta terça-feira (24).",
+    "O material audiovisual foi publicado pela Alfândega e Proteção de Fronteiras dos Estados Unidos (CBP) e exibe a prisão de um indivíduo do sexo masculino.",
+    "A instituição norte-americana responsável pela divulgação não especificou a data exata em que a operação de captura ocorreu.",
+    "Conforme o órgão oficial, os agentes da unidade aérea situada em El Paso direcionaram o policial montado diretamente para o ponto onde o suspeito estava oculto.",
+    "A gravação exibe o homem buscando esconderijo entre pedras e arbustos em uma área de relevo montanhoso localizada no estado do Texas.",
+    "A agência governamental declarou possuir recursos para abranger qualquer tipo de terreno e enfatizou que quem cruzar a fronteira de forma ilegal será localizado, detido e deportado."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/video-eua-usam-cavalos-para-prender-imigrantes-na-fronteira-com-o-mexico.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0ece28db1b68.webp"
   },
   {
    "titulo": "Bombeiros são condenados no Chile por incêndio com 138 mortos; réus queriam ganhos com horas extras",
    "topicos": [
-    "Um tribunal chileno condenou nesta terça‑feira (24) sete bombeiros e brigadistas florestais por provocarem os incêndios que mataram 138 pessoas em Viña del Mar, ocorridos em 2 de fevereiro de 2024.",
-    "Os focos começaram simultaneamente nos arredores da cidade litorânea, a 110 km noroeste de Santiago, e se espalharam rapidamente devido ao calor intenso e às fortes rajadas de vento típicas do verão no Hemisfério Sul.",
-    "Segundo o Ministério Público, os bombeiros e brigadistas incendiaram deliberadamente as áreas para aumentar a remuneração por horas extras, configurando crime intencional.",
-    "Dos nove acusados, sete foram julgados como autores de crime de incêndio com resultado de morte, associação criminosa e incêndio florestal; os dois restantes foram absolvidos.",
-    "O Ministério Público pediu prisão perpétua para os condenados, e a definição das penas será feita em audiência prevista para 18 de dezembro.",
-    "O incêndio de Viña del Mar tornou‑se o segundo mais mortífero do mundo neste século, ficando atrás apenas do incêndio de 2009 no sudeste da Austrália, que causou ao menos 173 mortes."
+    "Um tribunal chileno condenou nesta terça‑feira (24) sete bombeiros e brigadistas por provocarem os incêndios que mataram 138 pessoas em Viña del Mar, ocorridos em 2 de fevereiro de 2024.",
+    "Os focos começaram simultaneamente nos arredores da cidade, situada a 110 km a noroeste de Santiago, e se alastraram rapidamente devido ao calor intenso e às fortes rajadas de vento típicas do verão no Hemisfério Sul.",
+    "Investigações do Ministério Público concluíram que os agentes incendiaram deliberadamente as áreas para aumentar a remuneração por horas extras.",
+    "Dos nove réus, sete foram considerados autores de crime de incêndio com resultado de morte, associação criminosa e incêndio florestal; os dois restantes foram absolvidos.",
+    "O Ministério Público pediu prisão perpétua para os condenados, com a sentença a ser definida em audiência prevista para 18 de dezembro.",
+    "O incêndio de Viña del Mar tornou‑se o segundo mais mortífero do século, superado apenas pelo fogo de 2009 no sudeste da Austrália, que causou ao menos 173 mortes."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/7-bombeiros-sao-condenados-no-chile-por-incendios-que-deixaram-138-mortos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/220ada0d22e5.webp"
   },
   {
    "titulo": "CIA e agência de inteligência dos EUA sofrem ataque cibernético e têm dados expostos, diz NYT",
    "topicos": [
-    "A CIA e o Escritório do Diretor de Inteligência Nacional dos EUA sofreram um ataque cibernético que expôs dados não sigilosos, conforme revelado pelo jornal \"The New York Times\".",
-    "A invasão atingiu um sistema de análise de inteligência de fontes abertas, empregado para localizar dados relevantes em materiais públicos e não classificados de órgãos governamentais.",
-    "Autoridades confirmaram que informações altamente sigilosas não foram comprometidas, embora exista a suspeita de que dados de outras agências governamentais também tenham sido expostos.",
-    "Trata-se do segundo incidente em menos de uma semana envolvendo sistemas de inteligência americanos, após a rede interna da NSA ficar fora do ar por dias desde a última terça-feira (17).",
-    "O presidente Donald Trump confirmou recentemente que o banco de dados do FBI também foi invadido e o caso está sob investigação, somando-se a falhas recentes em órgãos como o Departamento de Agricultura."
+    "A CIA e o Escritório do Diretor de Inteligência Nacional dos EUA sofreram uma invasão cibernética que expôs dados não sigilosos, conforme o jornal The New York Times.",
+    "O ataque cibernético atingiu um sistema de análise de inteligência de fontes abertas, empregado para filtrar materiais públicos e sem classificação governamental.",
+    "Esse foi o segundo incidente em sistemas de inteligência americanos em menos de uma semana, após a rede da NSA ficar fora do ar por dias desde a terça-feira passada (17).",
+    "Autoridades apontam que dados sigilosos não foram comprometidos, mas suspeitam que informações de outros órgãos do governo também tenham sido expostas.",
+    "O presidente Donald Trump confirmou recentemente que o banco de dados do FBI para compartilhar informações sobre suspeitos também foi alvo de invasão.",
+    "O FBI está investigando o caso da CIA, enquanto o país acumula falhas e ataques cibernéticos e tecnológicos recentes em órgãos públicos e empresas privadas."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/cia-e-agencia-de-inteligencia-dos-eua-sofrem-ataque-cibernetico-e-tem-dados-expostos-diz-nyt.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e8b4a5ecbee8.webp"
   },
   {
    "titulo": "EUA bloqueiam pedido do Brasil na OMC contra tarifas de 25% e 12,5%",
    "topicos": [
-    "Os Estados Unidos bloquearam nesta terca-feira (24) um pedido do Brasil na Organizacao Mundial do Comercio (OMC) para criar um painel que avaliaria a legalidade de tarifas sobre produtos brasileiros.",
-    "O governo brasileiro acionou a OMC em 27 de julho para contestar duas medidas baseadas na Secao 301 da Lei de Comercio dos EUA de 1974, que inclui taxas de 25% e 12,5%.",
-    "A sobretaxa de 25% envolve investigacoes sobre comercio digital, pagamentos eletronicos, propriedade intelectual, etanol e desmatamento ilegal, enquanto a taxa de 12,5% abrange o combate a trabalho forcado.",
-    "Segundo o MDIC e dados de 2024, as duas tarifas podem ser cumulativas e afetam cerca de 23,1% das exportacoes do Brasil para os Estados Unidos.",
-    "Brasil e Estados Unidos realizaram consultas em 25 de setembro sem alcancar um acordo, motivando o pedido brasileiro por um painel de disputa na OMC.",
-    "O governo norte-americano defendeu que as investigacoes tratam de preocupacoes antigas sobre politicas do Brasil e afirmou continuar disposto a dialogar para buscar reciprocidade comercial."
+    "Os Estados Unidos barraram nesta terça-feira (24) a solicitação do Brasil na Organização Mundial do Comércio para formar um painel que avaliaria a legalidade de sobretaxas aplicadas a itens brasileiros.",
+    "O governo brasileiro recorreu à entidade em 27 de julho para questionar duas tarifas estabelecidas com base na Seção 301 da Lei de Comércio dos EUA de 1974, que pune práticas comerciais vistas como desleais.",
+    "A primeira taxação impõe um acréscimo de 25% motivado por investigações sobre comércio digital, pagamentos eletrônicos, propriedade intelectual, etanol e desmatamento ilegal.",
+    "A segunda tarifa determina um encargo adicional de 12,5% derivado de apurações em 60 economias acerca de barreiras contra a importação de mercadorias feitas com trabalho forçado.",
+    "Conforme projeções do MDIC baseadas no comércio bilateral de 2024, ambas as cobranças, que podem ser acumuladas, afetam aproximadamente 23,1% das vendas externas do Brasil para os EUA.",
+    "Após consultas bilaterais realizadas em 25 de setembro sem consenso, o Brasil pediu o painel, mas os EUA alegaram que as medidas combatem políticas brasileiras prejudiciais, embora tenham sinalizado abertura para diálogo."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/eua-bloqueiam-pedido-do-brasil-na-omc-contra-tarifas-de-25-e-125-jcav/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b1974e824fca.webp"
   },
   {
    "titulo": "Em meio a impasse eleitoral, Israel acusa Irã de desenvolver armas químicas",
    "topicos": [
-    "O ministro da Defesa de Israel, Israel Katz, afirmou nesta terca-feira (24) que o Ira esta desenvolvendo armamentos quimicos e prometeu barrar o objetivo de Teera.",
-    "A declaracao de Katz ocorreu em coletiva com jornalistas israelenses, com base em informacoes divulgadas pela emissora publica KAN e outros veiculos locais.",
-    "A CNN informou na semana passada que o Ira preparava ataques contra autoridades do governo de Donald Trump usando uma bomba suja com material quimico ou radioativo.",
-    "Fontes anonimas ouvidas pela CNN indicaram que o plano iraniano parecia uma tentativa de manter opcoes em aberto e nao uma operacao iminente.",
-    "O chanceler do Ira, Abbas Araghchi, rejeitou a noticia como propaganda semelhante a guerra contra o Iraque e apontou indicios de origem israelense.",
-    "As acusacoes coincidem com as conversas para formar um novo governo em Israel, apos nenhum partido conquistar maioria absoluta nas eleicoes de outubro.",
-    "O centrista Gadi Eisenkot tenta montar um governo e diverge de Benjamin Netanyahu, que classificou o Ira como uma ameaca imediata e grave."
+    "O ministro da Defesa de Israel, Israel Katz, afirmou nesta terca-feira (24) que o Ira esta desenvolvendo armas químicas e prometeu barrar essa intencao.",
+    "A declaracao foi feita em entrevista coletiva com jornalistas israelenses, conforme divulgado pela emissora KAN e outros veiculos locais.",
+    "A CNN informou anteriormente que o Ira preparava ataques contra funcionarios do governo de Donald Trump usando uma bomba suja que mistura explosivos e material químico ou radioativo.",
+    "Fontes ouvidas pela emissora americana apontaram que o plano parecia uma tentativa de manter opcoes em aberto e nao uma operacao iminente.",
+    "O chanceler iraniano, Abbas Araghchi, rejeitou a informacao classificando-a como propaganda com possivel origem em Israel.",
+    "As acusacoes ocorrem durante negociacoes para a formacao de governo em Israel, apos as eleicoes do fim de outubro que nao deram maioria absoluta a nenhum partido."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/ministro-da-defesa-de-israel-afirma-que-ira-esta-desenvolvendo-armas-quimicas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b43212f2ed01.webp"
   },
   {
    "titulo": "Petrobras prevê investimentos de US$ 122 bilhões entre 2027 e 2031",
    "topicos": [
-    "O Conselho de Administração da Petrobras aprovou na segunda-feira, 23, o plano de negócios para o período de 2027 a 2031, prevendo investimentos totais de US$ 122 bilhões.",
-    "Do montante total de investimentos, US$ 113 bilhões serão direcionados para projetos da Carteira em Implantação e US$ 9 bilhões para a Carteira em Avaliação.",
-    "A presidente Magda Chambriard destacou que o plano prioriza a disciplina de capital, o rigor nas decisões e projetos com retorno positivo em cenários desafiadores.",
-    "A estatal projeta uma produção de óleo e líquido de gás natural de 2,9 milhões de barris por dia, com um acréscimo diário de 200 mil a 300 mil bpd em relação ao plano anterior.",
-    "A produção comercial de óleo e gás está estimada em 3,1 milhões de barris de óleo equivalente por dia em 2027, subindo para 3,2 milhões de boed entre 2028 e 2031.",
-    "O plano reserva US$ 10 bilhões para o setor exploratório no quinquênio, o que inclui a perfuração de cerca de 50 poços em bacias do Brasil e do exterior, além da Margem Equatorial."
+    "O Conselho de Administração da Petrobras aprovou, na segunda‑feira, 23, o Plano de Negócios 2027‑31, que prevê investimentos totais de US$ 122 bilhões no período.",
+    "Do total aprovado, US$ 113 bilhões serão alocados na Carteira em Implantação e US$ 9 bilhões na Carteira em Avaliação, que reúne projetos de menor maturidade.",
+    "A estatal projeta que a produção de óleo e líquido de gás natural (LGN) atinja 2,9 milhões de barris por dia ao final do plano, representando um aumento de 200 mil a 300 mil bpd em relação ao plano anterior.",
+    "A produção comercial de óleo e gás deve chegar a 3,1 milhões de barris de óleo equivalente por dia (boed) em 2027, subindo para 3,2 milhões de boed de 2028 a 2031.",
+    "Para a reposição de reservas, a Petrobras destinará US$ 10 bilhões a atividades exploratórias no quinquênio, incluindo a perfuração de cerca de 50 poços em áreas da Margem Equatorial, margens Sul e Sudeste e outras bacias no Brasil e no exterior.",
+    "A empresa reafirmou a ambição de manter posição de destaque no fornecimento de energia ao Brasil até 2050, combinando crescimento, diversificação de combustíveis fósseis e renováveis, disciplina de capital, desalavancagem e geração de valor para acionistas e sociedade."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/economia/petrobras-preve-investimentos-de-us-122-bilhoes-entre-2027-e-2031/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/f8dcdab73df1.webp"
   },
   {
    "titulo": "Braskem pede prorrogação de 20 dias para apresentar plano de recuperação extrajudicial",
    "topicos": [
-    "A Braskem informou na noite de segunda-feira, 23, que firmou um acordo de princípios com credores do comitê diretivo sobre as condições comerciais de seu plano de recuperação extrajudicial.",
-    "O entendimento ocorreu com o respaldo dos acionistas Shine I Fundo de Investimento em Participações e Petrobras, além de credores que detêm a maioria dos créditos afetados.",
-    "A Petrobras concordou em injetar US$ 1,3 bilhão na petroquímica, enquanto os credores devem converter US$ 3,6 bilhões em dívida.",
-    "A companhia protocolou um pedido para estender em 20 dias úteis o prazo de apresentação do plano atualizado, com o apoio da maioria dos credores financeiros.",
-    "A Braskem relatou à CVM que negocia os termos definitivos e a documentação para submeter a proposta ao juízo da recuperação extrajudicial nas próximas semanas.",
-    "A empresa compartilhou com investidores dados não públicos em 30 de outubro de 2026, abrangendo projeções financeiras e operacionais com horizonte até 2035."
+    "Na noite de segunda-feira, 23, a Braskem confirmou um acordo de princípios com credores do comitê diretivo para os termos de seu plano de recuperação extrajudicial.",
+    "O entendimento contou com o apoio da Petrobras e do fundo Shine I Fundo de Investimento em Participações, além de credores que detêm a maioria dos créditos afetados.",
+    "A Petrobras concordará em injetar US$ 1,3 bilhão na petroquímica, enquanto os credores planejam converter US$ 3,6 bilhões em dívida.",
+    "A empresa protocolou um pedido para estender o prazo de apresentação do plano atualizado em 20 dias úteis, com o respaldo de credores que representam a maioria dos créditos.",
+    "Os termos acordados ainda não são vinculantes e dependem de negociações adicionais, assinatura de documentos definitivos e aprovação da Justiça e de governança."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/economia/braskem-pede-prorrogacao-de-20-dias-para-apresentar-plano-de-recuperacao-extrajudicial/",
-   "categoria": "Economia"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/10e120c69b1a.webp"
   },
   {
    "titulo": "Austrália quer multar big techs em até 5% do faturamento global por conteúdos nocivos",
    "topicos": [
-    "O governo da Austrália apresentou um projeto de lei para multar gigantes tecnológicas, como Google e Meta, em até 5% da receita global se falharem em barrar conteúdos nocivos ou recursos viciantes.",
-    "A proposta legislativa, que avança no Parlamento australiano com apoio do Partido Verde no Senado, pode ter sua aprovação votada ainda nesta semana, conforme informou a ministra das Comunicações, Anika Wells.",
-    "O novo teto de punição supera o limite inicial de 109 milhões de dólares australianos, o equivalente a cerca de US$ 72,2 milhões, adaptando-se ao faturamento multibilionário dessas companhias.",
-    "O texto também dá o direito a usuários de processar as plataformas caso os serviços oferecidos facilitem práticas prejudiciais à segurança e ao bem-estar.",
-    "As regras estipuladas pelo governo abrangem aplicativos de mensagens, mecanismos de busca e chatbots de inteligência artificial na identificação e remoção de abusos sexuais infantis, deepfakes íntimos, violência de gênero, incentivo à automutilação e terrorismo.",
-    "As empresas do setor criticam a medida por permitir que autoridades governamentais definam o que é conteúdo nocivo e alertam para o risco de remoção excessiva de publicações para evitar multas."
+    "O governo da Austrália apresentou um projeto de lei para multar gigantes tecnológicas, como Google e Meta, em até 5% da receita global caso permitam conteúdos nocivos ou recursos viciantes.",
+    "A proposta anterior estipulava multa máxima de 109 milhões de dólares australianos, equivalentes a cerca de US$ 72,2 milhões, valor que foi superado pela nova regra baseada no faturamento anual.",
+    "O texto foi viabilizado após um acordo entre o governo australiano e o Partido Verde no Senado, com expectativa de aprovação no Parlamento ainda nesta semana, segundo a ministra das Comunicações, Anika Wells.",
+    "A legislação abrangerá aplicativos de mensagens, mecanismos de busca e chatbots de inteligência artificial, obrigando as empresas a coibir abusos sexuais infantis, deepfakes íntimos, violência de gênero, automutilação e terrorismo."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/australia-google-meta.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/ed5a5f1e3456.webp"
   },
   {
    "titulo": "Anvisa determina apreensão de água mineral Pura por falhas na fabricação",
    "topicos": [
-    "Em 24 de junho, a Anvisa publicou no Diário Oficial da União a determinação de apreensão de todos os lotes da água mineral Pura – Fonte Estrela da Manhã, fabricada pela Raio de Sol Mineração Ltda., proibindo sua venda, distribuição, propaganda e uso nas embalagens de 500 ml, 1,5 L, 5 L e galão de 20 L.",
-    "A inspeção conjunta da Anvisa e da Suvisa‑GO constatou condições higiênico‑sanitárias insatisfatórias nas etapas de fabricação, envase e comercialização, configurando descumprimento das boas práticas de industrialização e comprometendo a qualidade e segurança do produto.",
-    "A mesma resolução determinou a apreensão de suplementos alimentares produzidos pela W Nutry Ltda., do colostro bovino em pó da marca Muuh Magic (fabricado pela Hupper Nutrition Ltda.) e do Kit 3 Ômega Core (lote L75F0001) da Essencial Nutrition, todos sem registro ou notificação na Anvisa.",
-    "O Kit 3 Ômega Core contém 60 cápsulas, validade até 04/2027, lote L75F0001; o fabricante INP Indústria de Alimentos Ltda. não reconheceu o produto, que estava à venda no Mercado Livre pela loja Luciano Elias Cardoso da Silva (Megha Utilidades).",
-    "A Anvisa também determinou a apreensão de todos os suplementos da marca Vittacaps, incluindo os produtos 6 Magnésios + B12 e Femme Power, que estavam sendo anunciados e comercializados na plataforma Shopee sem notificação sanitária.",
-    "Todas as medidas foram formalizadas no Diário Oficial da União, tornando as proibições de fabricação, venda, distribuição, divulgação e uso legalmente obrigatórias em todo o território nacional, impactando varejistas físicos e digitais que comercializavam os itens."
+    "A Anvisa determinou a apreensão de todos os lotes da água mineral Pura – Fonte Estrela da Manhã, conforme resolução publicada no Diário Oficial da União nesta terça-feira, 24.",
+    "A medida proíbe a venda, distribuição, propaganda e uso do produto da Raio de Sol Mineração Ltda nas versões de 500 ml, 1,5 litro, 5 litros e no galão de 20 litros.",
+    "Uma inspeção sanitária conjunta da Anvisa e da Suvisa-GO encontrou condições higiênico-sanitárias insatisfatórias na fabricação, envase e comercialização da água.",
+    "A Anvisa também ordenou a apreensão de suplementos alimentares da W Nutry Ltda e de colostro bovino em pó da Muuh Magic (Hupper Nutrition Ltda) por falta de registro.",
+    "Foi proibido o lote L75F0001 do Kit 3 Ômega Core (Essencial Nutrition), com 60 cápsulas e validade 04/2027, após o fabricante informar não reconhecer o produto.",
+    "O lote falsificado do Ômega Core era vendido no Mercado Livre pela loja Luciano Elias Cardoso da Silva, enquanto os suplementos da Vittacaps foram banidos na Shopee."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/economia/anvisa-determina-apreensao-de-agua-mineral-pura-por-falhas-na-fabricacao/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/024424fb03a9.webp"
   }
  ]
 }
