@@ -637,468 +637,529 @@
   {
    "titulo": "Projeto de ajuste fiscal segue para a sanção presidencial",
    "topicos": [
-    "A Câmara dos Deputados aprovou na segunda‑feira (23/11/2026) o PLP 299/2026, que altera regras fiscais para limitar despesas e alcançar superávit primário a partir de 2027; a votação foi de 353 a favor e 128 contra, sem alterações em relação ao texto aprovado no Senado, e segue agora para sanção presidencial.",
-    "A meta para 2027 é obter superávit primário de R$ 18,7 bilhões, após deduções de até R$ 64,7 bilhões permitidas pelo arcabouço fiscal, o que corresponde a 0,5 % do PIB (R$ 83,4 bilhões em valores nominais). Em 2026 o governo fechará o ano com déficit de R$ 52 bilhões, precisando economizar cerca de R$ 70,6 bilhões para atingir a meta.",
-    "A partir da promulgação, se o resultado primário do ano anterior for inferior a 0,5 % do PIB, o Executivo deverá apresentar à Comissão Mista de Orçamento (CMO) as causas do resultado e as medidas previstas para sua correção.",
-    "De 2027 em diante, caso o relatório bimestral de receitas e despesas indique necessidade de ajuste, o governo poderá travar despesas além do limite da Lei de Responsabilidade Fiscal, fixando o crescimento real da despesa em no máximo 2 % ao ano, reduzindo o teto atual de 2,5 %.",
-    "O contingenciamento adicional incidirá apenas sobre despesas do Poder Executivo, excluindo obrigações constitucionais, despesas obrigatórias, serviço da dívida, despesas de inovação custeadas pelo FNDCT e as ressalvadas pela LDO; as reduções deverão ser feitas por meio da lei orçamentária anual.",
-    "Se o total economizado superar o necessário para manter o crescimento real de 2 %, o excedente será deduzido do limite de despesas definido na LDO, diminuindo a base de cálculo para os anos seguintes e não podendo ser usado para abrir créditos adicionais no mesmo exercício.",
-    "O projeto autoriza, excepcionalmente em 2026, a dedução de até R$ 10,5 bilhões em subvenções econômicas ao produtor e importador de óleo diesel, justificando o gasto extraordinário com subsídios ao combustível devido à guerra entre EUA e Irã."
+    "A Câmara dos Deputados aprovou em 23/11/2026, com 353 votos favoráveis e 128 contrários, o projeto de lei complementar (PLP 299/2026) de ajuste fiscal. O texto seguiu para a sanção da Presidência da República sem alterações em relação ao Senado.",
+    "A meta de superávit primário para 2027 é de R$ 18,7 bilhões, após deduções de R$ 64,7 bilhões permitidas pelo arcabouço fiscal sobre a meta nominal inicial de R$ 83,4 bilhões (0,5% do PIB). Em 2026, o governo fechará com déficit de menos R$ 52 bilhões.",
+    "A partir de 2027, se o relatório bimestral exigir, o governo poderá travar despesas além da Lei de Responsabilidade Fiscal, limitando o crescimento real anual dos gastos a 2%, em vez dos 2,5% atuais. O contingenciamento afeta apenas o Poder Executivo.",
+    "O projeto autoriza o governo a deduzir da meta fiscal até R$ 10,5 bilhões em despesas de 2026 com subvenções ao óleo diesel para conter alta provocada pela guerra entre Estados Unidos e Irã. Os subsídios foram pagos com receitas extraordinárias do petróleo.",
+    "Para aumentar a arrecadação, o projeto restringe a compensação de créditos tributários de causas ganhas na Justiça, gerando economia estimada entre R$ 12,8 bilhões e R$ 18,3 bilhões. A compensação cruzada, como usar PIS e Cofins para pagar IRPJ, será dificultada.",
+    "A redução de incentivos e deduções tributárias passará de 10% para 20%, gerando uma arrecadação extra de cerca de R$ 15 bilhões. Com isso, empresas com benefícios previstos em lei contarão apenas com 80% do valor dedutível a partir de agora."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/031148410048.webp"
   },
   {
    "titulo": "Arrecadação federal avança para R$ 294 bilhões em outubro, novo recorde para o mês",
    "topicos": [
-    "Em outubro, a arrecadação federal atingiu R$ 294 bilhões, 7,3% a mais que no mesmo mês de 2022 (R$ 274 bilhões corrigidos), estabelecendo o maior valor registrado para outubro desde 1995, ou seja, em 32 anos.",
-    "O recorde decorre do crescimento econômico, da elevação de tributos nos últimos anos e da alta do preço do petróleo, que aumentou receitas de royalties, participação na extração e criou nova taxação sobre exportações.",
-    "Entre os ajustes tributários estão a maior tributação de fundos exclusivos e offshores, mudanças nas subvenções estaduais, manutenção do aumento de impostos sobre combustíveis de 2023, reoneração gradual da folha, fim de benefícios ao setor de eventos (Perse), aumento do IOF sobre crédito e câmbio e maior tributação dos juros sobre capital próprio.",
-    "Nos primeiros dez meses de 2023, a arrecadação totalizou R$ 2,64 trilhão sem correção inflacionária e R$ 2,68 trilhão corrigida, representando crescimento real de 7% frente ao mesmo período de 2022 (R$ 2,5 trilhão), também recorde histórico.",
-    "Para 2026, o governo almeja superávit de 0,25% do PIB, cerca de R$ 34,3 bilhões, com tolerância de 0,25 ponto percentual; a meta será considerada cumprida se houver saldo zero ou superávit até R$ 68,6 bilhões.",
-    "O arcabouço fiscal permite excluir R$ 57,8 bilhões em despesas, como pagamento de precatórios; mesmo assim, projeta‑se um déficit de R$ 23,3 bilhões em 2026, indicando contas negativas ao longo de todo o terceiro mandato de Lula."
+    "A arrecadação federal em outubro chegou a R$ 294 bilhões, alta real de 7,3% em relação ao mesmo mês do ano passado (R$ 274 bilhões corrigidos), estabelecendo o maior valor registrado para outubro desde 1995, ou seja, em 32 anos.",
+    "O recorde reflete o crescimento da economia, aumentos de impostos anunciados nos últimos anos e a alta do preço do petróleo, incluindo maior tributação de fundos exclusivos (alta renda) e offshores, mudanças nos incentivos estaduais, aumento de impostos sobre combustíveis mantidos desde 2023, reoneração gradual da folha, fim de benefícios ao setor de eventos (Perse), elevação do IOF sobre crédito e câmbio e maior tributação dos juros sobre capital próprio.",
+    "A elevação do preço do petróleo, impulsionada pela guerra entre Estados Unidos e Irã, aumentou as receitas do governo com royalties, participação na extração e gerou uma taxação extra sobre exportações.",
+    "Nos dez primeiros meses de 2024, a arrecadação federal somou R$ 2,64 trilhões sem correção e R$ 2,68 trilhões corrigidos, representando crescimento real de 7% em relação ao mesmo período de 2023 (R$ 2,5 trilhões), estabelecendo novo recorde para o período.",
+    "Para 2026, a meta fiscal do governo é saldo positivo de 0,25% do PIB, cerca de R$ 34,3 bilhões, com tolerância de 0,25 ponto percentual; a meta será considerada cumprida se o saldo for zero ou até R$ 68,6 bilhões de superávit.",
+    "O arcabouço fiscal permite excluir R$ 57,8 bilhões em despesas (ex.: precatórios) do cálculo, projetando um rombo de R$ 23,3 bilhões em 2026, indicando que as contas permanecerão negativas ao longo do terceiro mandato de Lula, mesmo que o resultado oficial seja positivo."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/arrecadacao-federal-avanca-para-r-294-bilhoes-em-outubro-novo-recorde-para-o-mes.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/e890a2a19dc3.webp"
   },
   {
    "titulo": "El Niño provoca secas severas no Pacífico, ameaça causar inundações nos EUA e preocupa economistas",
    "topicos": [
-    "O El Niño de intensidade excepcional está provocando secas severas nas ilhas do Pacífico; Fiji declarou estado de desastre nacional e Tonga estado de emergência, permitindo racionamento de água, evacuações e realocação de recursos, com dezenas de caminhões enviados para abastecer comunidades afetadas.",
-    "San Francisco se prepara para marés altas que podem causar inundações de quase um metro; o pico está previsto para quarta‑feira, 25 de novembro de 2026, véspera do Dia de Ação de Graças, sendo as mais altas desde janeiro de 1983, com novos episódios esperados para dezembro e janeiro.",
-    "Economistas alertam que o El Niño pode gerar perdas nas colheitas, elevação dos preços dos alimentos e queda na geração de energia, configurando um choque negativo de oferta; a Oxford Economics estima que o PIB mundial pode recuar 0,6 % em 2027 e 0,8 % em 2028.",
-    "A NOAA informa que o fenômeno continua se intensificando, mas a probabilidade de um evento recorde caiu para cerca de 60 % entre outubro de 2026 e janeiro de 2027, frente a estimativas anteriores de 83 % e 70 %; a agência usa agora o índice “El Niño 3.4” que mede anomalias de temperatura da superfície do mar.",
-    "Um estudo da Allianz mostra que o El Niño altera a distribuição de eventos climáticos extremos, reduzindo o risco de ciclones no Caribe; isso diminuiu pedidos de indenização e interrupções no fornecimento de petróleo, gás e GNL no Golfo do México, conforme apontado pelo executivo da Scor.",
-    "O conjunto de secas, risco de inundações urbanas, impactos econômicos globais e mudanças no perfil de sinistros evidencia como o El Niño intensifica vulnerabilidades em diferentes regiões, exigindo medidas emergenciais e monitoramento contínuo."
+    "O fenômeno climático El Niño, impulsionado pelo aquecimento anormal das águas do Oceano Pacífico, atinge intensidade excepcional neste ano e preocupa economistas com possíveis prejuízos globais.",
+    "Nas ilhas Fiji, o primeiro-ministro Sitiveni Rabuka decretou estado de desastre nacional, enquanto Tonga declarou emergência devido às secas severas associadas ao fenômeno.",
+    "As medidas de emergência no Pacífico autorizam racionamento de água, evacuações e realocação de recursos públicos, com dezenas de caminhões enviados para abastecer as comunidades.",
+    "Em San Francisco, na Califórnia, autoridades preparam-se para marés altas que podem causar inundações de quase um metro em áreas costeiras, atingindo o pico na quarta-feira (25).",
+    "A projeção da Oxford Economics indica que um episódio intenso do El Niño pode reduzir o PIB mundial em 0,6% em 2027 e em 0,8% em 2028, atuando como um choque negativo de oferta.",
+    "A NOAA reduziu para cerca de 60% a probabilidade de um evento recorde do El Niño entre outubro de 2026 e janeiro de 2027, após projeções anteriores de 83% e 70%."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/24/el-nino-provoca-secas-severas-no-pacifico-ameaca-causar-inundacoes-nos-eua-e-preocupa-economistas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/cb39772824cc.webp"
   },
   {
    "titulo": "Fim da escala 6x1: ministro recomenda que setores 'corram' para fechar acordo coletivo até dia 16 se quiserem escala diferente",
    "topicos": [
-    "Na terça‑feira (24), o ministro do Trabalho, Luiz Marinho, pediu que empresários e sindicatos fechem acordos coletivos até 16 de outubro de 2026, data em que entram em vigor as novas regras de jornada sem a escala 6x1.",
-    "A Proposta de Emenda à Constituição que elimina a escala 6x1 foi aprovada pelo Congresso e promulgada em 16 de outubro de 2026, garantindo dois dias de repouso semanal remunerado.",
-    "A transição da jornada será em três fases: até 15 de dezembro de 2026 o limite permanece 44 h/semana; a partir de 16 de dezembro de 2026 cai para 42 h/semana; e a partir de 16 de dezembro de 2027 o limite definitivo será 40 h/semana.",
-    "O governo estima que 14,8 milhões de trabalhadores que atualmente seguem a escala 6x1 serão diretamente impactados, enquanto 21,7 milhões que já trabalham cinco dias por semana receberão a redução gradual da jornada.",
-    "Com acordo coletivo, a folga pode ser preferencialmente no domingo e outra em dia definido pelo acordo; quem não negociar deverá observar a regra constitucional de duas folgas nos sábados e domingos.",
-    "Marinho ressaltou que fechar um dia por semana não trará prejuízos graves, citando exemplos da Europa, e defendeu que a folga adicional pode melhorar a produtividade no comércio."
+    "O ministro do Trabalho, Luiz Marinho, recomendou nesta terça‑feira (24) que empresas e sindicatos que desejam manter escala diferente da 6x1 fechem acordos coletivos até 16 de dezembro de 2026, data em que entram em vigor as novas regras.",
+    "A Proposta de Emenda à Constituição (PEC) que elimina a escala 6x1 e garante dois dias de repouso semanal remunerado foi aprovada pelo Congresso e promulgada em 16 de outubro de 2026.",
+    "A transição da jornada será em três fases: até 15/12/2026 limite de 44 h semanais; a partir de 16/12/2026 limite de 42 h semanais; e a partir de 16/12/2027 limite definitivo de 40 h semanais.",
+    "O governo estima que 14,8 milhões de trabalhadores que atualmente cumprem a escala 6x1 serão diretamente afetados, e outros 21,7 milhões que já trabalham cinco dias por semana serão beneficiados pela redução gradual da jornada.",
+    "Se não houver acordo coletivo, as empresas deverão obedecer à emenda, aplicando duas folgas nos sábados e domingos; com acordo, a folga pode ser preferencialmente no domingo e outra dia definido em convenção.",
+    "Marinho afirmou que fechar um dia por semana não trará prejuízos graves, citando a prática europeia de fechar aos domingos e feriados, e destacou que um dia de folga pode melhorar a produtividade.",
+    "O presidente Luiz Inácio Lula da Silva participou da cerimônia de assinatura das regras sobre a nova escala 5x2, demonstrando apoio ao ajuste da jornada."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/fim-da-escala-6-por-1-ministro-recomenda-que-setor-da-economia-feche-acordo-coletivo-ate-dia-16-se-quiser-escala-diferente.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/54ee6390abc3.webp"
   },
   {
    "titulo": "Aviação vive momento mais delicado desde a pandemia, dizem aeroportos",
    "topicos": [
-    "Em 24 de novembro de 2026, Fábio Rogério Carvalho, CEO da ABR, declarou em Brasília que a aviação brasileira enfrenta o momento mais delicado desde a pandemia, coincidindo com a aproximação da alta temporada (1ª quinzena de dezembro a fevereiro).",
-    "Carvalho apontou quatro pressões simultâneas ao setor: início da reforma tributária, fim da escala 6 × 1, alta do dólar e aumento do preço do combustível de aviação (QAV).",
-    "A reforma tributária, que entrará em vigor em 2027, pode elevar o preço final das passagens domésticas em 17,3 %, conforme projeção do governo federal divulgada pelo Poder360.",
-    "O fim da escala 6 × 1, que permite operação 24 h, pode gerar aumento de custos, redução da capacidade operacional e comprometimento de serviços se a transição não for previsível e equilibrada.",
-    "A valorização do dólar eleva custos de aeronaves, equipamentos, manutenção, tecnologia e investimentos, reduzindo a previsibilidade em um setor intensivo em capital e com forte exposição internacional.",
-    "O preço do QAV, impulsionado pela guerra no Oriente Médio, subiu de cerca de 30‑32 % para mais de 45 % das despesas operacionais; Latam, Gol e Azul gastaram R$ 5,2 bilhões a mais em 2026, levando à redução de voos e retirada de aeronaves de maior porte."
+    "Em 24 de novembro de 2026, Fábio Rogério Carvalho, CEO da ABR, declarou em evento em Brasília que a aviação brasileira enfrenta o momento mais delicado desde a pandemia, coincidindo com a chegada da alta temporada (da 1ª quinzena de dezembro a fevereiro).",
+    "Carvalho apontou quatro pressões simultâneas ao setor: o início da reforma tributária (vigente a partir de 2027), o fim da escala 6 × 1, a alta do dólar e o aumento do preço do combustível de aviação (QAV).",
+    "A reforma tributária, prevista para entrar em vigor em 2027, pode elevar em 17,3 % o preço final das passagens domésticas, segundo projeção do governo federal divulgada pelo Poder360.",
+    "O encerramento da escala 6 × 1 pode gerar aumento de custos, redução da capacidade operacional e comprometimento de serviços, pois afeta companhias e aeroportos que operam 24 h e dependem de profissionais especializados.",
+    "A alta do dólar eleva custos de aeronaves, equipamentos, manutenção, tecnologia e investimentos, reduzindo a previsibilidade financeira de um setor intensivo em capital e com forte exposição internacional.",
+    "O QAV, que antes representava de 30 % a 32 % das despesas operacionais, já ultrapassa 45 % após a guerra no Oriente Médio; em agosto, Latam, Gol e Azul gastaram R$ 5,2 bilhões a mais que o previsto em 2026, levando à redução de voos e retirada de aeronaves de maior porte.",
+    "A ABR reúne 72 aeroportos, responsáveis por mais de 93 % da movimentação de passageiros e cerca de 99 % da carga aérea transportada no Brasil."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/aviacao-vive-momento-mais-delicado-desde-a-pandemia-dizem-aeroportos/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/34c359b16905.webp"
   },
   {
    "titulo": "Dólar cai 1,8% e opera em R$ 5,82 após Câmara aprovar ajuste",
    "topicos": [
-    "O dólar comercial recuou 1,76% na terça‑feira (24 nov 2026), cotado a R$ 5,82 às 11h40, tendo tocado R$ 5,80 na mínima e R$ 5,95 na máxima do dia; na segunda‑feira (23 nov) chegou a R$ 6, primeira vez desde abril de 2025.",
-    "A queda ocorreu após a Câmara dos Deputados aprovar o pacote de ajuste fiscal, que prevê economia de até R$ 50 bilhões em 2027 e segue para sanção do presidente Luiz Inácio Lula da Silva (PT).",
-    "Entre as medidas do ajuste, está o limite de 2 % para o crescimento real das despesas em situações de risco de descumprimento da meta fiscal e um corte linear de 10 % em benefícios tributários.",
-    "Apesar da aprovação, investidores consideram o pacote insuficiente para estabilizar a dívida pública.",
-    "Nos mercados externos, a recuperação das bolsas norte‑americanas ajudou; na segunda‑feira (23 nov) as ações da Nvidia subiram 31,48 % após o anúncio do retorno de Jensen Huang ao comando da empresa.",
-    "O Ibovespa, principal índice da B3, avançou 1,51 % no mesmo horário, atingindo 167.277 pontos."
+    "Na terça‑feira (24/11/2026) o dólar comercial recuou 1,8%, cotado a R$ 5,82 às 11h40, tendo tocado R$ 5,80 na mínima e R$ 5,95 na máxima do dia.",
+    "A queda segue a aprovação, na Câmara dos Deputados, do pacote de ajuste fiscal que prevê economia de até R$ 50 bilhões em 2027 e aguarda sanção do presidente Luiz Inácio Lula da Silva (PT).",
+    "Entre as medidas do ajuste, está o teto de 2 % para o crescimento real das despesas em cenários de risco de descumprimento da meta fiscal e o corte linear de 10 % em benefícios tributários.",
+    "Investidores consideram o pacote ainda insuficiente para estabilizar a dívida pública, apesar da reação positiva nos mercados cambiais.",
+    "Nos Estados Unidos, as ações da Nvidia dispararam 31,48% na segunda‑feira (23/11) após o anúncio do retorno de Jensen Huang ao comando da fabricante de chips, impulsionando Wall Street.",
+    "O Ibovespa subiu 1,51% no mesmo horário, alcançando 167.277 pontos, refletindo o otimismo gerado tanto pela recuperação dos mercados internacionais quanto pela aprovação do ajuste fiscal."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/dolar-cai-18-e-opera-em-r-582-apos-camara-aprovar-ajuste/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/46e974c4ea99.webp"
   },
   {
    "titulo": "Arrecadação bate recorde com ajuda de imposto do petróleo e ganhos atípicos",
    "topicos": [
-    "Em outubro, a arrecadação federal registrou alta real de 7,28% em relação ao mesmo mês do ano anterior, totalizando R$ 293,975 bilhões, o melhor resultado desde o início da série histórica em 1995, conforme informou a Receita Federal nesta terça‑feira.",
-    "No acumulado de janeiro a outubro, a arrecadação subiu 7,00% acima da inflação em comparação com o mesmo período de 2025, alcançando R$ 2,645 trilhões, também recorde para o intervalo.",
+    "Em outubro, a arrecadação do governo federal registrou alta real de 7,28% em relação ao mesmo mês do ano anterior, totalizando R$ 293,975 bilhões, o melhor resultado para o mês desde o início da série histórica em 1995, conforme informou a Receita Federal nesta terça‑feira.",
+    "No acumulado de janeiro a outubro, a arrecadação cresceu 7,00% acima da inflação em comparação com o mesmo período de 2025, atingindo R$ 2,645 trilhões, também recorde para o período.",
     "As receitas administradas pela Receita Federal somaram R$ 273,367 bilhões em outubro, representando alta real de 5,8% frente a outubro de 2025.",
-    "As receitas administradas por outros órgãos públicos totalizaram R$ 20,608 bilhões no mês, registrando salto de 31,7% na mesma comparação.",
-    "O imposto temporário de exportação de petróleo, criado este ano para conter a alta dos preços da gasolina devido à guerra no Oriente Médio, contribuiu com R$ 2,910 bilhões para a arrecadação de outubro.",
-    "Ganhos atípicos de R$ 3 bilhões foram registrados na arrecadação do IRPJ e da CSLL, e as receitas previdenciárias cresceram R$ 2,5 bilhões, acompanhando o aumento da massa salarial."
+    "As receitas administradas por outros órgãos públicos totalizaram R$ 20,608 bilhões, registrando salto de 31,7% na mesma comparação com outubro de 2025.",
+    "O resultado foi impulsionado pelo imposto temporário de exportação de petróleo, criado este ano para conter a alta dos preços da gasolina devido à guerra no Oriente Médio, que aportou R$ 2,910 bilhões em outubro.",
+    "Ganhos atípicos de R$ 3 bilhões na arrecadação do IRPJ e da CSLL e aumento de R$2,5 bilhões nas receitas previdenciárias, em linha com o crescimento da massa salarial, também contribuíram para o recorde."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/arrecadacao-federal-cresce-73-em-outubro-e-e-recorde-para-o-mes-mostra-receita-jcav/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/60690f0b624b.webp"
   },
   {
    "titulo": "Volkswagen negocia com trabalhadores sob ameaça de greve na Alemanha",
    "topicos": [
-    "Na terça‑feira (24), a Volkswagen iniciou a primeira rodada de negociações salariais em Emden, envolvendo o sindicato IG Metall, o conselho de trabalhadores e a direção da empresa, após cerca de 4 mil trabalhadores protestarem carregando caixões pretos.",
-    "A montadora pretende cortar 100 mil postos de trabalho e fechar quatro unidades na Alemanha no início da próxima década, afetando aproximadamente 120 mil funcionários no país.",
-    "A proposta da VW inclui congelar os salários dos trabalhadores alemães em 2027 e 2028, reduzir benefícios, ampliar a jornada de 35 horas sem aumento salarial, acabar com intervalos remunerados de 20 minutos nos turnos de três equipes e retirar folgas pagas na véspera de Natal e Ano‑Novo.",
-    "A empresa também quer eliminar acordos salariais específicos para gestores e gratificações para funcionários com 25 e 35 anos de empresa, além de reduzir os dividendos dos principais acionistas, as famílias Porsche e Piech.",
-    "O acordo de 2024 previa a redução de 35 mil postos de trabalho em troca de garantias de emprego e investimentos; o atual plano de reestruturação é considerado violação desse pacto, e greves podem começar a partir de 1º de janeiro.",
-    "Devido a vendas fracas na China, a margem operacional da Volkswagen deve ficar no máximo em 1% neste ano, contra 5,9% em 2024, refletindo menor disponibilidade de caixa e margens reduzidas."
+    "A Volkswagen iniciou nesta terça-feira (24) uma rodada de negociações salariais com representantes dos trabalhadores na Alemanha, em meio a protestos e ameaças de greve.",
+    "A montadora planeja cortar 100 mil postos de trabalho, e quatro das suas fábricas na Alemanha podem ser fechadas no início da próxima década.",
+    "A reestruturação afeta cerca de 120 mil funcionários no país, com greves podendo começar a partir de 1º de janeiro caso o acordo histórico de reestruturação seja violado.",
+    "A empresa pretende congelar os salários dos trabalhadores alemães em 2027 e 2028, além de cortar benefícios, gratificações por tempo de serviço e alterar a jornada de 35 horas semanais.",
+    "O acordo de 2024 previa a redução de 35 mil postos em troca de garantias de emprego, mas a margem operacional da empresa deve cair para no máximo 1% neste ano, ante 5,9% em 2024."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/carros/noticia/2026/11/24/volkswagen-negocia-com-trabalhadores-sob-ameaca-de-greve-na-alemanha.ghtml",
-   "categoria": "Economia"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bab67b957ab5.webp"
   },
   {
    "titulo": "Tipificação de crime de tráfico de animais silvestres vai a Plenário",
    "topicos": [
-    "Em 24/11/2026, a Comissão de Meio Ambiente (CMA) do Senado aprovou o PL 5.809/2025, que cria um tipo penal específico para tráfico de animais silvestres e aumenta as penas; o texto segue com urgência ao Plenário.",
-    "O projeto acrescenta à Lei de Crimes Ambientais crimes como vender, comprar, guardar, manter em cativeiro e transportar ovos, larvas ou espécimes de fauna exótica, silvestre ou aquática, reunindo punições já existentes em uma definição única.",
-    "A iniciativa partiu da CPI da Câmara (PL 347/2003), foi aprovada pela Comissão de Constituição e Justiça (CCJ) em 11 de novembro e recebeu parecer favorável do presidente da CMA, senador Fabiano Contarato (PT‑ES).",
-    "As penas passam de detenção de seis meses a um ano para reclusão de dois a cinco anos, permitindo início em regime fechado; a mesma sanção vale para crimes envolvendo substâncias, princípios ativos ou patrimônio genético da fauna.",
-    "Agravantes elevam a pena para três a oito anos quando o delito recai sobre espécie rara ou ameaçada, uso de arma de fogo, gaiola que cause maus‑tratos ou modificações físicas como depenagem, tatuagem ou mutilação.",
-    "O PL também aumenta punições para exportação ilegal de peles e couros de anfíbios e répteis, maus‑tratos a animais em rotas migratórias e a equídeos, e elimina a possibilidade de perdão judicial na guarda doméstica de espécie silvestre não ameaçada.",
-    "Segundo o relator, a autonomização do tipo penal alinha a tutela penal à realidade do tráfico, que inclui captura, transporte, armazenamento, intermediação e comercialização, cumprindo o dever constitucional de proteger a fauna."
+    "A Comissão de Meio Ambiente (CMA) aprovou nesta quarta‑feira, 24 de novembro de 2026, o projeto que tipifica o crime de tráfico de animais silvestres e eleva as penas, enviando a proposta ao Plenário com urgência.",
+    "O PL 5.809/2025 acrescenta à Lei de Crimes Ambientais um tipo penal específico para tráfico, abrangendo venda, compra, guarda, cativeiro e transporte de ovos, larvas ou espécimes de fauna exótica, silvestre ou aquática.",
+    "A iniciativa originou‑se na CPI da Câmara dos Deputados como PL 347/2003, foi aprovada na Comissão de Constituição e Justiça (CCJ) em 11 de novembro e recebeu parecer favorável do presidente da CMA, senador Fabiano Contarato (PT‑ES).",
+    "As penas previstas passam de detenção de seis meses a um ano para reclusão de dois a cinco anos, permitindo início em regime fechado; a mesma sanção vale para crimes ligados a substâncias, princípios ativos ou patrimônio genético da fauna.",
+    "Agravantes elevam a pena para três a oito anos de reclusão quando o delito envolve espécie rara ou ameaçada, uso de arma de fogo, gaiola ou recipiente que cause maus‑tratos, ou modificações físicas como depenagem, tatuagem ou mutilação.",
+    "O projeto revoga o perdão judicial na guarda doméstica de espécie silvestre não ameaçada de extinção e aumenta as penas para exportação de peles e couros de anfíbios e répteis, além de maus‑tratos a animais em rotas migratórias ou a equídeos."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/tipificacao-de-crime-de-trafico-de-animais-silvestres-vai-a-plenario",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/133134b7259e.webp"
   },
   {
    "titulo": "Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos vai à sanção",
    "topicos": [
-    "A Comissão de Meio Ambiente do Senado aprovou nesta terça‑feira (24/11/2026) o Projeto de Lei 2.238/2021, que institui a Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos.",
-    "O projeto, de autoria do deputado federal Carlos Henrique Gaguim (União‑TO), prevê a realização anual da semana logo após a Semana de Meio Ambiente, celebrada no início de junho.",
-    "A aprovação foi feita por decisão terminativa, enviando o texto direto para sanção presidencial, salvo eventual recurso que leve à votação no Plenário do Senado.",
-    "O parecer favorável foi elaborado pelo senador Wellington Fagundes (PL‑MT), relator da matéria, e lido na reunião da CMA pelo senador Zequinha Marinho (Podemos‑PA).",
-    "O parecer destaca que, durante a semana, deverão ocorrer debates e atividades educativas sobre redução, descarte adequado, coleta seletiva, reutilização e reciclagem de equipamentos eletroeletrônicos.",
-    "O relator incluiu emenda que determina a ampla divulgação da semana por parte do Poder Público, alinhando a iniciativa à Política Nacional de Resíduos Sólidos e à Agenda 2030.",
-    "Na mesma sessão, a CMA aprovou o requerimento de audiência pública REQ 12/2026 – CMA, apresentado por Zequinha Marinho, para discutir o PL 1.053/2020, que cria a Contribuição de Intervenção no Domínio Econômico sobre agrotóxicos (Cide‑Agrotóxico)."
+    "Em 24/11/2026, a Comissão de Meio Ambiente do Senado (CMA) aprovou o PL 2.238/2021, que cria a Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos, em decisão terminativa.",
+    "Com a aprovação, o projeto segue direto para a sanção da Presidência da República, salvo recurso que leve à votação no Plenário do Senado.",
+    "A semana de conscientização será realizada anualmente logo após a Semana de Meio Ambiente, comemorada no início de junho, e incluirá debates e atividades educativas sobre redução, descarte adequado, coleta seletiva, reutilização e reciclagem de eletroeletrônicos.",
+    "O autor da iniciativa é o deputado federal Carlos Henrique Gaguim (União‑TO); o relator, senador Wellington Fagundes (PL‑MT), emitiu parecer favorável e acrescentou emenda que obriga o Poder Público a divulgar amplamente a semana.",
+    "Na mesma sessão, a CMA aprovou o requerimento REQ 12/2026 – CMA, que solicita audiência pública para discutir o PL 1.053/2020, que institui a Contribuição de Intervenção no Domínio Econômico (Cide‑Agrotóxico) sobre importação e comercialização de agrotóxicos."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/semana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/cbfcfdddc545.webp"
   },
   {
    "titulo": "2027 vai ter “muita pressão” na tarifa aérea, diz CEO da Latam",
    "topicos": [
-    "Jerome Cadier, CEO da Latam Brasil, afirmou em 24 de novembro de 2026 que 2027 trará “muita pressão” nas tarifas aéreas, principalmente pela persistente alta do querosene de aviação (QAV).",
-    "A companhia começou 2026 projetando US$ 90 por barril de QAV, mas entre o 2º e 3º trimestre pagou US$ 190, um aumento de 111% em relação ao valor inicialmente previsto.",
-    "Até o momento a Latam não conseguiu repassar esse custo ao preço das passagens; o repasse pode ocorrer a partir de 2027 se a alta dos preços de combustível permanecer.",
-    "Cadier indicou que, ao planejar o próximo ano, a empresa deixava de imaginar QAV a US$ 130 e agora se prepara para valores entre US$ 150 e US$ 160 por barril.",
-    "Além do combustível, a alta do dólar e a expectativa de retração da economia brasileira em 2027 são apontados como fatores que podem prejudicar as companhias aéreas.",
-    "Segundo a Abear, o QAV já representa mais de 45% dos custos operacionais das companhias, frente a 30‑32% antes da guerra; em agosto, Latam, Gol e Azul gastaram R$ 5,2 bi a mais que o previsto em 2026 com combustível."
+    "Em 24 de nov. 2026, o CEO da Latam Brasil, Jerome Cadier, afirmou que 2027 trará forte pressão nas tarifas aéreas, motivada principalmente pela manutenção da alta do querosene de aviação (QAV).",
+    "A Latam passou de uma projeção de US$ 90 por barril de QAV no início do ano para US$ 190 entre o 2.º e o 3.º trimestre, representando um aumento de 111% nos custos de combustível em 2026.",
+    "A companhia ainda não repassou esse aumento ao preço das passagens, mas planeja ajustar as tarifas a partir de 2027, preparando‑se para preços de combustível entre US$ 150 e US$ 160 por barril, ao invés da estimativa anterior de US$ 130.",
+    "A Abear indica que a participação do QAV nas despesas operacionais das companhias aéreas subiu de cerca de 30%‑32% para mais de 45% após a alta do petróleo.",
+    "Em agosto, a Abear divulgou que Latam, Gol e Azul gastaram R$ 5,2 bilhões a mais que o previsto em 2026 com combustível, o que levou à redução de voos e à retirada de aeronaves de maior porte em alguns períodos.",
+    "O aumento do combustível está ligado ao conflito iniciado em 28 de fevereiro, com ataques dos EUA e Israel ao Irã, que restringiu a navegação no Estreito de Ormuz, responsável por cerca de 20% da oferta global de petróleo, mantendo o barril próximo a US$ 100 durante boa parte do ano.",
+    "No dia 23 de nov. 2026, o petróleo Brent encerrou cotado a US$ 86,68 por barril."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/2027-vai-ter-muita-pressao-na-tarifa-aerea-diz-ceo-da-latam/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/063517ce1a37.webp"
   },
   {
    "titulo": "VÍDEO: imagens mostram momento que carro-bomba explode na Colômbia",
    "topicos": [
-    "Em 23 de novembro de 2026, um carro‑bomba explodiu em Villavicencio, centro da Colômbia, próximo à sede do governo do departamento de Meta, formando uma grande cratera e deixando a cidade sem energia elétrica.",
-    "A detonação ocorreu pouco depois das 21h (02h de 24/11, horário de Brasília) e deixou cerca de 20 feridos; até o momento não há registro de mortes.",
-    "O presidente Abelardo de la Espriella, no cargo desde 7 de agosto de 2026, condenou o atentado, afirmou que não ficará impune e ressaltou a ofensiva militar, com apoio dos EUA, contra grupos narcoterroristas.",
-    "O ataque aconteceu na véspera do décimo aniversário do acordo de paz assinado em 24 de novembro de 2016 entre o Estado colombiano e as FARC, cujo dissidente ainda atua na região e rejeita o tratado.",
-    "Nenhum grupo reivindicou a autoria; a zona é disputada por organizações criminosas que lucram com mineração ilegal e tráfico de cocaína, fontes de financiamento de grupos armados.",
-    "Na mesma segunda‑feira, um ataque com drones em Cúcuta, na fronteira com a Venezuela, feriu três pessoas, inclusive um menor; o Ministério da Defesa registra 358 ataques com drones carregados de explosivos entre janeiro e novembro de 2026."
+    "Um carro-bomba explodiu na segunda-feira (23) em Villavicencio, no centro da Colômbia, causando danos severos à sede do governo do departamento de Meta e deixando cerca de 20 feridos, conforme a imprensa local.",
+    "A detonação ocorreu pouco depois das 21h, gerou uma enorme cratera, destruiu fachadas e deixou o centro da cidade sem energia elétrica, sem registro de mortes até o momento.",
+    "O atentado antecede o décimo aniversário do acordo de paz com as Farc, assinado em 24 de novembro de 2016, cujo tratado foi criticado pelo atual presidente como uma \"falsa paz\".",
+    "O ataque acontece durante uma ofensiva militar conduzida pelo presidente Abelardo de la Espriella, no poder desde 7 de agosto, contra grupos armados financiados pelo tráfico de cocaína.",
+    "Este foi o segundo atentado no país em menos de 24 horas, após um ataque com drones em Cúcuta deixar três feridos, incluindo um menor, na mesma segunda-feira.",
+    "Entre janeiro e novembro, a Colômbia registrou 358 ataques com drones carregados de explosivos, segundo dados do Ministério da Defesa."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/video-imagens-mostram-momento-que-carro-bomba-explode-na-colombia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/30a5cf2b4960.webp"
   },
   {
    "titulo": "Ações da Anthropic caem abaixo do preço do IPO cinco dias após estreia",
    "topicos": [
-    "A Anthropic abriu capital na Nasdaq em 19 de novembro de 2026, com preço de IPO fixado em US$ 83 (R$ 495,58); na manhã de 24 de novembro as ações já negociavam abaixo desse valor.",
-    "Na estreia, a avaliação totalmente diluída da empresa chegou a ultrapassar brevemente US$ 2 trilhões (R$ 11,94 trilhões), e o executivo principal detinha diretamente mais de 206,5 milhões de ações Classe A, conforme registros da SEC.",
-    "As ações subiram 34% em relação ao preço de IPO, mas recuaram ao acompanhar a venda de tecnologia; o S&P 500 e o Dow fecharam a semana anterior em correção, enquanto a Nvidia, que subiu mais de 30% no mesmo pregão, registrou sua maior perda semanal desde 2008.",
-    "A Anthropic arrecadou US$ 93,5 bilhões (R$ 558,27 bilhões) na oferta pública, valor superior aos US$ 85,7 bilhões (R$ 511,70 bilhões) captados pela SpaceX em junho, graças ao exercício de direito de compra adicional pelos bancos coordenadores.",
-    "A empresa será incluída nos índices globais da MSCI após o fechamento de 30 de novembro; fundos passivos podem adquirir até 30% das ações ofertadas até o fim do ano, o que pode sustentar a demanda apesar da queda.",
-    "Comparações históricas mostram que a SpaceX precisou de cerca de um mês e o Facebook (Meta) apenas dois dias para cair abaixo do preço de IPO, indicando que a rápida desvalorização da Anthropic não determina necessariamente seu desempenho futuro."
+    "As ações da Anthropic caíram abaixo do preço de US$ 83 (R$ 495,58) definido no IPO já no início do pregão desta terça‑feira (24), poucos dias após a estreia recorde na Nasdaq.",
+    "Na abertura, as cotas subiram 34% em relação ao preço de IPO, mas depois seguiram a onda de vendas no setor de tecnologia, enquanto S&P 500 e Dow fecharam a semana em correção e a Nvidia registrou sua maior perda semanal desde 2008.",
+    "A avaliação totalmente diluída da empresa chegou brevemente a superar US$ 2 trilhões (R$ 11,94 trilhões) e, segundo registros da SEC, o executivo detinha diretamente mais de 206,5 milhões de ações Classe A antes da operação.",
+    "A Anthropic levantou US$ 93,5 bilhões (R$ 558,27 bilhões) com a venda pública de ações, após os bancos responsáveis exercerem o direito de adquirir um lote adicional, superando os US$ 85,7 bilhões (R$ 511,70 bilhões) captados pela SpaceX em junho.",
+    "A empresa ficou de fora da alta de ações de IA na segunda‑feira, quando a Nvidia reintegrou Jensen Huang ao cargo de presidente‑executivo e suas ações dispararam mais de 30 %.",
+    "A Anthropic será incluída nos índices globais da MSCI após o fechamento de 30 de novembro; a MSCI estima que fundos passivos podem comprar até 30 % das ações ofertadas até o fim do ano, o que pode elevar a demanda pelos papéis."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/acoes-da-anthropic.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/862feb2d145f.webp"
   },
   {
    "titulo": "UE impõe cotas à importação de veículos híbridos; China sinaliza possível recurso à OMC",
    "topicos": [
-    "A Comissão Europeia anunciou, nesta terça‑feira, 24, a criação de cotas provisórias para a importação de veículos híbridos, visando proteger a indústria automobilística da UE diante do forte aumento de compras externas desde 2023.",
-    "As cotas entrarão em vigor em 1º de dezembro e terão validade máxima de 200 dias, aplicando‑se a todos os países, independentemente da origem dos veículos.",
-    "Serão estabelecidas cotas individuais para os países que representaram mais de 2 % das importações europeias de híbridos em 2025, correspondendo ao volume importado naquele ano acrescido de pouco mais de 15 %; os demais exportadores ficarão sujeitos a uma cota residual.",
-    "Importações que ultrapassarem os limites estabelecidos serão proibidas, segundo a Comissão, que apontou excesso de capacidade produtiva global e barreiras comerciais em outros grandes mercados como fatores que impulsionam as importações.",
-    "A medida segue um entendimento bilateral entre Pequim e Bruxelas firmado em 9 de outubro para moderar as exportações chinesas de híbridos ao bloco, mas a China agora cobra o cumprimento das regras da OMC e avisa que pode recorrer à entidade exigindo compensações comerciais.",
-    "O Ministério do Comércio da China pediu que a UE respeite o consenso bilateral, aplique o princípio da não discriminação e conduza a investigação de forma justa, reiterando que o protecionismo não é solução e que a cooperação entre as indústrias automobilísticas chinesa e europeia é benéfica para ambas."
+    "Em 24 de março de 2024, a Comissão Europeia anunciou cotas provisórias para a importação de veículos híbridos, com o objetivo de proteger a indústria automobilística da UE após forte aumento das compras externas desde 2023.",
+    "As cotas entrarão em vigor em 1 de dezembro e terão duração máxima de 200 dias.",
+    "Países que responderam por mais de 2 % das importações europeias de híbridos em 2025 receberão uma cota equivalente ao volume importado naquele ano, acrescido de pouco mais de 15 %; os demais ficarão sujeitos a uma cota residual, e importações acima desses limites serão proibidas.",
+    "A medida segue entendimento bilateral entre Pequim e Bruxelas firmado em 9 de outubro, mas as restrições serão aplicadas independentemente da origem dos veículos.",
+    "O Ministério do Comércio da China pediu que a UE respeite o princípio da não‑discriminação, conduza a investigação de forma justa e avisou que pode recorrer à Organização Mundial do Comércio, exigindo compensações comerciais.",
+    "A Comissão justificou a ação apontando excesso de capacidade produtiva global e barreiras comerciais em outros grandes mercados como fatores que impulsionaram as importações, alertando para uma “ameaça iminente de prejuízo grave” à indústria automotiva europeia, que vem perdendo participação de mercado."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/economia/ue-impoe-cotas-a-importacao-de-veiculos-hibridos-china-sinaliza-possivel-recurso-a-omc/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/2ff50ada9eba.webp"
   },
   {
    "titulo": "Mercado&Consumo é finalista do Brasil Publisher Awards 2026",
    "topicos": [
-    "Mercado&Consumo foi anunciado como finalista do Brasil Publisher Awards 2026, competição organizada pela Associação Nacional do Mercado e Indústria Digital (AnaMid).",
-    "A publicação concorre na categoria “Melhor Site de Economia e/ou Finanças”, dividindo a disputa com BeInCrypto e DataSebrae.",
-    "Esta é a segunda vez consecutiva que a Mercado&Consumo chega à fase final do prêmio, reforçando o reconhecimento ao seu conteúdo especializado em varejo, consumo, serviços, tecnologia e negócios.",
-    "O prêmio deste ano tem como tema “Confiança digital: todos no combate à desinformação na web”, destacando a importância do jornalismo responsável online.",
-    "A cerimônia de entrega dos prêmios será realizada em São Paulo no dia 7 de dezembro de 2026, quando serão divulgados os vencedores.",
-    "A indicação evidencia a relevância dos publishers digitais na produção de informação de qualidade, credibilidade e impacto no mercado brasileiro."
+    "A Mercado&Consumo foi indicada como finalista para a edição de 2026 do Brasil Publisher Awards, uma premiação organizada pela Associação Nacional do Mercado e Indústria Digital (AnaMid) que destaca veículos e produtores de conteúdo digital no Brasil.",
+    "O portal concorre na categoria \"Melhor Site de Economia e/ou Finanças\", disputando o prêmio ao lado dos finalistas BeInCrypto e DataSebrae.",
+    "Esta é a segunda vez consecutiva que a marca alcança a final do prêmio, refletindo a consolidação de seu trabalho na geração de conteúdo especializado sobre varejo, consumo, tecnologia e negócios.",
+    "A premiação deste ano tem como foco central a temática \"Confiança digital: todos no combate à desinformação na web\", destacando a relevância da produção de informações seguras e de credibilidade no ambiente digital.",
+    "A divulgação oficial dos vencedores e a cerimônia de premiação estão marcadas para o dia 7 de dezembro, na cidade de São Paulo."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/economia/mercadoconsumo-e-finalista-do-brasil-publisher-awards-2026/",
-   "categoria": "Mundo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/77c84ebd6765.webp"
   },
   {
    "titulo": "Nenhum deputado do PSOL votou a favor do ajuste fiscal na Câmara; 2 parlamentares do PT criticaram projeto e se abstiveram",
    "topicos": [
-    "Na segunda‑feira (23) à noite, o projeto de ajuste fiscal do governo Lula foi votado na Câmara; nenhum dos 13 deputados do PSOL apoiou, optando por obstrução ou abstenção.",
-    "Dentro do PSOL, dez parlamentares usaram a obstrução e três – Erika Hilton, Luciene Cavalcante e Célia Xakriabá – abstiveram; Hilton, reeleita com 1,5 milhão de votos, apontou a exclusão da receita extraordinária do petróleo do cálculo do piso da saúde e a possível redução do limite de crescimento real das despesas públicas de 2,5 % para 2 %.",
-    "O PT, com 67 deputados, registrou 64 votos favoráveis ao ajuste, duas abstenções (Lindbergh Farias e Natália Bonavides) e uma ausência; os dois que se abstiveram reafirmaram apoio a Lula, mas criticaram o projeto.",
-    "Lindbergh Farias (RJ) alegou que juros altos prejudicam a economia e que o voto deveria fortalecer Lula contra o mercado financeiro; Natália Bonavides (RN) reconheceu pontos positivos, como combate a supersalários e redução de benefícios tributários, mas alertou que o ajuste não pode comprometer a capacidade de investimento do Estado.",
-    "A deputada Fernanda Melchionna (PSOL‑RS) justificou a postura unânime do partido como coerência, criticou a pressão do mercado financeiro e pediu uma nova agenda econômica após o segundo turno para garantir direitos ao povo.",
-    "Outros partidos de esquerda que compõem a base de Lula votaram assim: PCdoB – 9 votos a favor e 1 ausência (10 deputados); PDT – 9 a favor (9 deputados); PSB – 17 a favor (17 deputados); Rede – 3 a favor (3 deputados)."
+    "Na noite de segunda-feira (23), a bancada do PSOL na Câmara dos Deputados não registrou nenhum voto a favor do projeto de ajuste fiscal do governo Lula.",
+    "Os 13 parlamentares do PSOL se dividiram entre a obstrução (10 deputados) e a abstenção (3 deputados: Erika Hilton, Professora Luciene Cavalcante e Célia Xakriabá).",
+    "O PT, com 67 deputados, teve 64 votos favoráveis, 1 ausência e 2 abstenções de parlamentares que criticaram o projeto: Lindbergh Farias (RJ) e Natália Bonavides (RN).",
+    "Entre as críticas do PSOL estão a exclusão das receitas de petróleo da saúde e a redução de 2,5 para 2 no limite de crescimento real das despesas públicas.",
+    "Outros partidos da base de esquerda votaram integralmente ou com ausências a favor: PCdoB (9 sim, 1 ausência), PDT (9 sim), PSB (17 sim) e Rede (3 sim)."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/24/esquerda-votos-ajuste-fiscal-camara.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/86c0c510fca0.webp"
   },
   {
    "titulo": "Dólar cai quase 2% e vai a R$ 5,80, com foco em ajuste fiscal e noticiário corporativo",
    "topicos": [
-    "Na terça (24), o dólar recuou 1,81% e ficou cotado a R$ 5,8190 às 11h30, atingindo mínima de R$ 5,8015; simultaneamente, o Ibovespa subiu 1,24%, para 166.846 pontos.",
-    "Na véspera, a moeda chegou a R$ 6,0961, primeiro nível acima de R$ 6 desde 9 de abril 2025; o último fechamento acima de R$ 6 foi em 21 de janeiro 2025, a R$ 6,0302.",
-    "A Câmara dos Deputados aprovou na segunda‑feira (23) o ajuste fiscal que segue para sanção do presidente Lula, prevendo economia de até R$ 56 bi no próximo ano, com limite de 2 % ao crescimento das despesas acima da inflação e corte linear de 10 % em benefícios tributários.",
-    "Investidores continuam céticos quanto à capacidade do pacote de estabilizar a dívida pública, apesar de o governo afirmar que a medida visa conter o endividamento sem comprometer políticas sociais.",
-    "As ações da Nvidia dispararam 31,48% na segunda‑feira (23) após o retorno de Jensen Huang ao cargo de presidente‑executivo, fechando a US$ 165,05 e recuperando US$ 953 bi (R$ 5,6 tri) em valor de mercado, superior ao total da B3.",
-    "A Petrobras divulgou seu plano de negócios 2027‑2031, anunciando investimentos de US$ 122 bi (R$ 723 bi), 11,93 % acima dos US$ 109 bi (R$ 650,8 bi) previstos antes, e pagamento de remuneração extraordinária de R$ 15,6 bi aos acionistas."
+    "O dólar recuou 1,81% nesta terça (24), sendo cotado a R$ 5,8190 às 11h30, com mínima de R$ 5,8015; simultaneamente, o Ibovespa subiu 1,24%, alcançando 166.846 pontos.",
+    "Na véspera, a moeda chegou a R$ 6, primeira vez desde 9 de abril de 2025, atingindo R$ 6,0961; o último fechamento acima de R$ 6 foi em 21 de janeiro de 2025, a R$ 6,0302.",
+    "A Câmara dos Deputados aprovou na segunda‑feira (23) o ajuste fiscal que segue para sanção do presidente Lula, estimando economia de até R$ 56 bilhões já no próximo ano.",
+    "O pacote prevê limite de 2% para crescimento das despesas acima da inflação em anos de risco fiscal e corte linear de 10% em benefícios tributários concedidos a setores da economia.",
+    "Após anunciar o retorno de Jensen Huang ao comando, as ações da Nvidia dispararam 31,48% e fecharam a US$ 165,05, recuperando US$ 953 bilhões (R$ 5,6 trilhões) em valor de mercado, superior ao total das empresas listadas na B3.",
+    "A Petrobras divulgou plano de negócios 2027‑2031 com investimentos de US$ 122 bilhões (R$ 723 bilhões), 11,93% acima dos US$ 109 bilhões (R$ 650,8 bilhões) previstos antes, e anunciou remuneração extraordinária de R$ 15,6 bilhões aos acionistas."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-ibovespa.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/3361c14ffa0e.webp"
   },
   {
    "titulo": "Volta de Huang à Nvidia reanima bolsas e ações de tecnologia",
    "topicos": [
-    "O retorno de Jensen Huang ao cargo de CEO da Nvidia, após pedidos de Donald Trump, trouxe euforia e recuperou as bolsas e o setor de tecnologia na segunda-feira (23) em Wall Street e nesta terça-feira (24) na Ásia.",
-    "As bolsas asiáticas registraram fortes altas de cerca de 9% em Taiwan, mais de 6% na Coreia do Sul e quase 4% no Japão, além de ganhos em Xangai, Sydney, Singapura, Bangcoc e Manila, embora Hong Kong tenha apresentado leve queda.",
-    "Fabricantes e fornecedoras de chips como TSMC, MediaTek e Advantest dispararam cerca de 10% ou mais com a volta do executivo, considerada essencial para dissipar dúvidas sobre a rentabilidade e os investimentos no setor de inteligência artificial.",
-    "O governo dos EUA investiga um suposto desvio de chips avançados da Nvidia para a China por meio de Singapura e incluiu a Megaspeed e outras seis empresas do Sudeste Asiático em uma lista de restrições comerciais na segunda-feira.",
-    "A nova regra do Departamento de Comércio americano exige que fornecedores obtenham licenças para transferir tecnologias e chips avançados para as empresas listadas, devido ao risco de desvio para usuários não autorizados.",
-    "A partir de fevereiro de 2027, os Estados Unidos passarão a exigir licenças para a exportação de chips avançados para o Brasil e outros quatro países considerados de risco elevado de desvio: Indonésia, Malásia, Singapura e Tailândia.",
-    "Analistas apontam que incertezas jurídicas, políticas e dúvidas sobre a sustentabilidade financeira dos investimentos em inteligência artificial e centros de dados continuam a preocupar o mercado globalmente."
+    "O retorno de Jensen Huang ao cargo de CEO da Nvidia, após pedidos de Donald Trump, recuperou as bolsas mundiais e o setor de tecnologia na segunda-feira (23) e terça-feira (24).",
+    "Na Ásia, Taiwan subiu cerca de 9%, a Coreia do Sul mais de 6% e o Japão quase 4%, com altas expressivas em fabricantes de chips como TSMC, MediaTek e Advantest.",
+    "Autoridades dos EUA investigam se a Nvidia tem vínculos com a inteligência chinesa e se houve desvio de chips avançados para a China via Singapura, em desacordo com restrições.",
+    "O Departamento de Comércio americano incluiu a Megaspeed, de Singapura, e outras seis empresas do Sudeste Asiático em uma lista de restrições comerciais na segunda-feira.",
+    "A medida exige licença governamental para fornecedores venderem tecnologias sujeitas a regras dos EUA à Megaspeed, cuja ex-CEO Alice Huang deixou o cargo em 2025.",
+    "A partir de fevereiro de 2027, os EUA passarão a exigir licenças para exportar chips avançados ao Brasil, Indonésia, Malásia, Singapura e Tailândia devido a risco de desvio."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/24/volta-de-huang-a-nvidia-reanima-bolsas-e-acoes-de-tecnologia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/69e285e5d345.webp"
   },
   {
    "titulo": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção",
    "topicos": [
-    "A Câmara dos Deputados aprovou, na madrugada de terça-feira (24), o Projeto de Lei Complementar 299/26, que estabelece um ajuste fiscal nas contas públicas válido para o ano de 2027.",
-    "O texto foi aprovado sem modificações após a rejeição de destaques e segue para a sanção presidencial, visto que já havia sido aprovado pelo Senado na quarta-feira (18).",
-    "A nova legislação autoriza o Poder Executivo a limitar gastos públicos a partir de 2027 para garantir o cumprimento das metas de superávit primário estabelecidas.",
-    "Se o resultado primário do ano anterior ficar abaixo de 0,5% do PIB, o Executivo deverá justificar as causas à Comissão Mista de Orçamento e apresentar medidas corretivas.",
-    "Quando o relatório bimestral apontar necessidade de ajuste para a meta, o governo poderá bloquear mais despesas do que o limite atual da Lei de Responsabilidade Fiscal.",
-    "Com o novo contingenciamento, o crescimento real dos gastos em relação ao ano anterior não poderá ultrapassar 2%, substituindo o patamar atual de 2,5% do arcabouço fiscal.",
-    "O bloqueio de verbas afetará exclusivamente despesas do Executivo, preservando obrigações constitucionais, gastos obrigatórios, serviço da dívida, o FNDCT e exceções da LDO."
+    "A Câmara dos Deputados aprovou, na madrugada desta terça-feira (24), o Projeto de Lei Complementar 299/26, que estabelece um ajuste fiscal nas contas públicas para o ano de 2027.",
+    "O texto foi aprovado sem modificações após a rejeição de destaques e segue agora para a sanção presidencial, visto que já havia sido aprovado pelo Senado em 18 de dezembro.",
+    "A partir da nova lei, se o resultado primário do governo no ano anterior ficar abaixo de 0,5% do PIB, o Executivo deverá justificar as causas e apontar medidas de melhora à Comissão Mista de Orçamento.",
+    "A partir de 2027, caso o relatório bimestral aponte necessidade para cumprir a meta fiscal, o governo poderá limitar gastos além do exigido pela atual Lei de Responsabilidade Fiscal.",
+    "Nessa situação de contingenciamento adicional, o crescimento real das despesas em comparação ao ano anterior ficará limitado a 2%, substituindo o patamar atual de 2,5% permitido pelo arcabouço fiscal.",
+    "A redução ou o cancelamento de verbas afetará exclusivamente as despesas do Executivo, preservando obrigações constitucionais, gastos obrigatórios, serviço da dívida, certas despesas de inovação do FNDCT e itens da LDO."
    ],
    "fonte": "Agência Brasil Política",
    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/ae8507143ac1.webp"
   },
   {
    "titulo": "Wall Street cai com perda de força de impulso da IA gerado pela Nvidia",
    "topicos": [
-    "Na terça‑feira, 24 de novembro, os principais índices de Wall Street abriram em baixa após recuo das ações de inteligência artificial que haviam subido impulsionadas pela Nvidia.",
-    "O Dow Jones Industrial Average iniciou a sessão com queda de 0,20%, cotado em 49.494,6 pontos.",
-    "O S&P 500 recuou 0,90%, registrando 7.172,33 pontos na abertura.",
-    "O Nasdaq Composite apresentou queda de 1,43%, ficando em 23.745,862 pontos.",
-    "Investidores aguardam os dados de inflação dos Estados Unidos que serão divulgados ainda nesta semana, buscando pistas sobre a política monetária antes da reunião de dezembro do Federal Reserve."
+    "Em 24 de novembro, os principais índices de Wall Street abriram em baixa, com as ações de inteligência artificial recuando após a alta impulsionada pela Nvidia, enquanto investidores aguardam os dados de inflação dos EUA desta semana.",
+    "O Dow Jones Industrial Average recuou 0,20% na abertura, registrando 49.494,6 pontos.",
+    "O S&P 500 caiu 0,90%, ficando em 7.172,33 pontos.",
+    "O Nasdaq Composite registrou queda de 1,43%, situando‑se em 23.745,862 pontos.",
+    "O mercado espera os números de inflação dos EUA para obter pistas sobre a política monetária antes da reunião do Federal Reserve prevista para dezembro."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/wall-street-cai-com-perda-de-forca-de-impulso-da-ia-gerado-pela-nvidia/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/3d2e5bee3807.webp"
   },
   {
    "titulo": "O que mais pesa para o câmbio: os fatores externos ou os dilemas internos?",
    "topicos": [
-    "Desde a vitória de Lula no segundo turno em outubro de 2022, os mercados adicionaram um prêmio de risco ao real, elevando a cotação do dólar mais de 17% até 23 de novembro de 2024, quando ultrapassou R$ 6.",
-    "Economistas citados pelo InfoMoney apontam que a volatilidade cambial atual combina aversão global ao risco com fragilidades internas, como dúvidas sobre a política fiscal para 2027.",
-    "Um estudo recente do FMI analisou a volatilidade cambial brasileira, mostrando que na pandemia de 2020 os choques globais foram responsáveis por cerca de 50 % da desvalorização, enquanto nos períodos de 2024 e 2025‑2026 os fatores domésticos ganharam relevância.",
-    "O documento indica que, de janeiro a maio de 2020, o real perdeu mais de 30 % frente ao dólar, reflexo da busca por ativos seguros e da fuga de capitais dos mercados emergentes.",
-    "O modelo do FMI relaciona o risco doméstico ao CDS relativo do Brasil, o risco global aos índices VIX e VSTOXX, e os choques de política monetária dos EUA e do Brasil a padrões já descritos na literatura.",
-    "O FMI destaca que, apesar da rápida redução das taxas de juros pelo Federal Reserve, a política monetária americana teve impacto limitado nos movimentos cambiais, sendo superada pelos choques de risco e incerteza global.",
-    "Por ter câmbio flutuante, grande tamanho econômico, exposição a commodities e forte integração financeira, o Brasil serve como caso‑estudo para entender como fatores internos e externos afetam moedas de economias emergentes."
+    "Desde a vitória de Lula nas urnas em outubro, os mercados adicionaram um prêmio de risco ao câmbio, elevando o dólar mais de 17% e ultrapassando R$6 em 23 de novembro.",
+    "Economistas consultados pelo InfoMoney apontam que a atual volatilidade cambial combina aversão global ao risco com fragilidades internas, como dúvidas sobre a política fiscal até 2027.",
+    "Um estudo do FMI analisou episódios de volatilidade e constatou que, durante a pandemia de Covid‑19 (jan‑mai 2020), o real perdeu mais de 30% frente ao dólar, sendo cerca de 50% da desvalorização atribuída a choques globais.",
+    "Nos períodos de 2024 e 2025‑2026, o modelo do FMI indica que as oscilações cambiais foram dominadas por fatores domésticos, cujo risco interno segue a evolução do CDS relativo do Brasil.",
+    "O documento relaciona o risco global ao comportamento dos índices VIX e VSTOXX, enquanto os choques de política monetária dos EUA e do Brasil tiveram impacto menor que o de incertezas macroeconômicas.",
+    "O FMI destaca que o Brasil, com câmbio flutuante, grande economia, exposição a commodities e forte integração financeira, serve como caso‑modelo para entender a influência de fatores internos e externos em moedas emergentes.",
+    "A análise reforça que, para interpretar a dinâmica macroeconômica brasileira, é crucial distinguir a contribuição dos riscos globais e domésticos na formação da taxa de câmbio."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/economia/o-que-mais-pesa-para-o-cambio-os-fatores-externos-ou-os-dilemas-internos/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/11421ee36a07.webp"
   },
   {
    "titulo": "Ibovespa deve ter desempenho positivo em 2027 mas com retornos seletivos, segundo estrategistas",
    "topicos": [
-    "Em pesquisa da Reuters com 17 estrategistas de renda variável (entre 16 e 24 de novembro), o Ibovespa deve fechar 2027 em 182.000 pontos, alta de 10% em relação aos 164.796 pontos registrados na segunda‑feira.",
-    "Nos últimos três meses o índice subiu cerca de 25% e depois devolveu esses ganhos, influenciado pelos dois turnos da eleição presidencial de outubro e pelas fortes oscilações ligadas à inteligência artificial em Wall Street.",
-    "O Ibovespa atingiu recorde de 209.713 pontos em 9 de outubro após a vitória no primeiro turno do senador Flávio Bolsonaro (PL) e recuou 14% em 25 de outubro com a reeleição do presidente Luiz Inácio Lula da Silva (PT).",
-    "A projeção de 182.000 pontos fica 13% abaixo da máxima de outubro e 10% abaixo dos 201.500 pontos estimados há três meses, indicando que os retornos deverão ser mais seletivos.",
-    "Para o México, o índice S&P/BMV IPC deve chegar a 77.550 pontos no fim de 2027, alta de 12% em relação aos 69.356 pontos da segunda‑feira, 6,3% acima do recorde de 72.937 pontos registrado em 11 de novembro, e 0,4% abaixo da previsão de 77.900 pontos feita em agosto.",
-    "Ilan Arbetman (Ativa Investimentos) recomenda focar em empresas com forte geração de caixa, balanços sólidos e lucros resilientes; Jorge Gordillo (TRF Casa de Bolsa) vê espaço para valorização nas ações mexicanas, mas alerta para riscos que podem reduzir sua atratividade.",
-    "Até agora em 2026, o Ibovespa acumula alta de 2,3% e o IPC mexicano registra ganho de 7,8%."
+    "Pesquisa da Reuters com 17 estrategistas de renda variável projeta que o Ibovespa fechará 2027 em 182.000 pontos, 10% acima dos 164.796 pontos da segunda‑feira e 13% abaixo do recorde de outubro.",
+    "Nos últimos três meses o índice subiu cerca de 25% e depois devolveu esses ganhos, influenciado pelos turnos da eleição presidencial de outubro e pela volatilidade da IA em Wall Street; chegou a 209.713 pontos em 9 outubro após a vitória de Flávio Bolsonaro (PL) e recuou 14% em 25 outubro com a reeleição de Lula (PT).",
+    "Ilan Arbetman, analista da Ativa Investimentos, recomenda focar em empresas com forte geração de caixa, balanços sólidos e lucros resilientes, alertando que os retornos deverão ser mais seletivos diante de incertezas fiscais e juros altos.",
+    "O nível de 182.000 pontos previsto para o fim de 2027 fica 10% abaixo dos 201.500 pontos projetados há três meses, indicando revisão para baixo nas expectativas.",
+    "Para o México, o índice S&P/BMV IPC deve subir 12% até 77.550 pontos no fim de 2027, 6,3% acima do recorde de 72.937 pontos registrado em 11 novembro e 0,4% abaixo dos 77.900 pontos previstos em agosto.",
+    "Jorge Gordillo, chefe de pesquisa da TRF Casa de Bolsa, afirma que, apesar do espaço para melhor avaliação, riscos à economia mexicana podem reduzir a atratividade das ações locais.",
+    "Até agora em 2026, o Ibovespa acumula alta de 2,3% no ano, enquanto o IPC mexicano registra valorização de 7,8%."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ibovespa-deve-ter-desempenho-positivo-em-2027-mas-com-retornos-seletivos-segundo-estrategistas-mlem/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/7b9a3eeab9b3.webp"
   },
   {
    "titulo": "Taxas do Tesouro Direto despencam após aprovação de ajuste fiscal e sinalização de nova contenção de gastos",
    "topicos": [
-    "Nesta terça‑feira (24), as taxas dos títulos do Tesouro Direto caíram após a Câmara dos Deputados aprovar o pacote fiscal do governo por 353 a 128 votos, sinalizando contenção de gastos obrigatórios.",
-    "O Tesouro Prefixado 2029 registrou retorno de 14,87% ao ano às 11h33 (horário de Brasília), queda de 28 pontos‑base em relação ao fechamento anterior e 46 pontos‑base em relação à quinta‑feira (19), quando superava 15,33%.",
-    "O Tesouro Prefixado 2032 recuou para 15,22% ao ano, abaixo dos 15,48% do dia anterior e dos 15,60% observados antes do feriado.",
-    "Entre os títulos atrelados à inflação, o IPCA+ 2032 passou a pagar IPCA + 7,79% ao ano (antes 7,92%); o IPCA+ 2040 caiu para IPCA + 7,48% (antes 7,59%) e o IPCA+ 2050 também ficou em IPCA + 7,48%.",
-    "A manhã começou com a suspensão temporária da negociação dos títulos prefixados e indexados à inflação, mantendo disponível apenas o Tesouro Selic 2031; as operações foram retomadas pouco antes das 11h.",
-    "A melhora na percepção de risco refletiu‑se nos mercados: o dólar recuou 1,82%, cotado a R$ 5,819 às 11h34, enquanto o Ibovespa avançou 1,25%, alcançando 166,85 mil pontos."
+    "As taxas dos títulos do Tesouro Direto registraram forte queda nesta terça-feira (24), revertendo parte da alta recente. O movimento ocorreu após a aprovação de medidas de ajuste fiscal e o anúncio de novas regras para conter gastos públicos.",
+    "O Tesouro Prefixado 2029 caiu para 14,87% ao ano às 11h33, uma redução de 28 pontos-base ante a véspera e abaixo dos 15,33% registrados na quinta-feira (19). Já o Tesouro Prefixado 2032 recuou para 15,22% ao ano.",
+    "Nos papéis atrelados à inflação, o Tesouro IPCA+ 2032 caiu para IPCA mais 7,79% ao ano, enquanto o IPCA+ 2040 e o IPCA+ 2050 passaram a pagar IPCA mais 7,48% ao ano cada um.",
+    "Devido à forte oscilação, o Tesouro Nacional suspendeu temporariamente a negociação dos títulos prefixados e indexados à inflação nesta manhã, mantendo apenas o Tesouro Selic 2031, com retomada antes das 11h.",
+    "A volatilidade foi motivada pela aprovação do pacote fiscal na Câmara dos Deputados por 353 votos a 128, que reduz limites de despesas e corta benefícios tributários, além da sinalização de uma PEC para frear gastos obrigatórios.",
+    "A melhora no cenário de risco impactou outros mercados na mesma manhã: o dólar recuou 1,82% e foi cotado a R$ 5,819 às 11h34, ao passo que o Ibovespa subiu 1,25%, atingindo 166,85 mil pontos."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/taxas-do-tesouro-direto-despencam-apos-aprovacao-de-ajuste-fiscal-mlim/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/24fd487f9932.webp"
   },
   {
    "titulo": "Minha semana usando o Muse, a grande aposta da Meta na corrida de IA: 'Útil, mas atrapalhado'",
    "topicos": [
-    "A Meta lançou o agente de IA chamado Muse no Reino Unido em 24/11, sem data prevista para o Brasil, prometendo executar tarefas como buscar contas de luz mais baratas ou organizar calendários escolares.",
-    "A empresa destinará grande parte dos US$ 145 bilhões que pretende gastar em 2024 ao desenvolvimento de IA, visando que o Muse se torne ao IA o que o WhatsApp foi para mensagens, alcançando bilhões de usuários.",
-    "Muse está disponível apenas para maiores de 18 anos e funciona mediante permissões individuais para cada ação, podendo ser configurado para maior autonomia, mas exigindo aprovação do usuário para compras ou envios.",
-    "O regulador britânico ICO destacou que a Meta deve garantir transparência e controle sobre o uso de dados pessoais pelo Muse, alertando consumidores sobre possíveis erros e riscos de autonomia excessiva.",
-    "O agente tem acesso limitado a aplicativos; não integra WhatsApp (exceto chat próprio), não conseguiu reservar passagens de trem pelo app mais barato e foi bloqueado pela Amazon no marketplace por questões de segurança de dados.",
-    "Empresas britânicas como Marks & Spencer, Debenhams Group, Currys, Sainsbury's e Ocado já colaboram com a Meta no teste do Muse, enquanto o ICO recomenda cautela ao usar agentes de IA."
+    "O Muse, agente de IA da Meta, foi lançado no Reino Unido nesta terça‑feira (24/11) e está disponível para qualquer pessoa com 18 anos ou mais; ainda não há data prevista para o Brasil.",
+    "A Meta destinará parte dos US$ 145 bilhões que pretende gastar em 2024 ao desenvolvimento de IA, reforçando a aposta na tecnologia dos agentes como o Muse.",
+    "O Muse não só responde perguntas, mas executa tarefas como buscar opções de conta de luz mais barata ou organizar calendários, exigindo permissão do usuário para cada ação e podendo continuar buscas após o app ser fechado.",
+    "O Information Commissioner’s Office (ICO) do Reino Unido ressaltou que a Meta deve garantir que os usuários compreendam e controlem como seus dados pessoais são usados pelo Muse, aconselhando cautela ao usar agentes de IA.",
+    "Grandes varejistas britânicos – Marks & Spencer, Debenhams Group, Currys, Sainsbury’s e Ocado – trabalham com a Meta, enquanto a Amazon bloqueou o Muse em seu marketplace por preocupações de segurança de dados.",
+    "Durante a semana de teste, a autora precisou conectar o Muse ao e‑mail, calendário e mensagens de texto, sentindo desconforto com o acesso; o agente não conseguiu reservar passagens de trem nem acessar o WhatsApp, exigindo que a própria usuária concluísse essas tarefas."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cvze7l7465zgo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6e0e00536d19.webp"
   },
   {
    "titulo": "Dólar cai até 2% após notícia sobre PEC para conter despesas obrigatórias",
    "topicos": [
-    "Na terça‑feira (24), o dólar à vista recuou mais de 2%, atingindo a mínima de R$ 5,8015, e às 11h10 estava cotado em R$ 5,836 (compra) e R$ 5,837 (venda), queda de 1,52% no dia.",
-    "A queda ocorreu após o presidente Luiz Inácio Lula da Silva autorizar a equipe econômica a encaminhar ao Congresso uma PEC que limitará despesas obrigatórias, como saúde, educação e emendas parlamentares.",
-    "Na noite de segunda‑feira, a Câmara dos Deputados aprovou a proposta de ajuste fiscal que permite um superávit primário de 0,5% do PIB em 2027, texto que segue agora para sanção presidencial.",
-    "Profissionais da Reuters atribuíram a virada do dólar à notícia da PEC; ao mesmo tempo, as taxas dos DIs (Depósitos Interfinanceiros) também caíram.",
-    "O ministro da Fazenda, Dario Durigan, afirmou que o projeto aprovado é apenas o “primeiro passo” e que o governo busca resultado fiscal positivo entre 1,5% e 2,0% do PIB ao final do quarto mandato.",
-    "Às 11h30, o Banco Central realizou leilão regular de rolagem de swap cambial, oferecendo 75.000 contratos com vencimento em 4 de janeiro."
+    "O dólar à vista recuou mais de 2% na terça‑feira (24), atingindo a mínima de R$ 5,8015; às 11h10 estava cotado em R$ 5,837 na venda, queda de 1,52% em relação ao início do pregão.",
+    "A queda ocorreu após o presidente Luiz Inácio Lula da Silva autorizar a equipe econômica a encaminhar ao Congresso uma proposta de emenda à Constituição (PEC) que visa limitar as despesas obrigatórias do governo, como saúde, educação e emendas parlamentares.",
+    "Na noite de segunda‑feira, a Câmara dos Deputados aprovou o ajuste fiscal que permite um superávit primário de 0,5 % do PIB em 2027; o texto segue agora para sanção presidencial.",
+    "O ministro da Fazenda, Dario Durigan, afirmou que o projeto aprovado é apenas o “primeiro passo” e que o governo pretende alcançar resultado fiscal positivo entre 1,5 % e 2,0 % do PIB ao final do quarto mandato.",
+    "O recuo do dólar coincidiu com a queda das taxas dos Depósitos Interfinanceiros (DIs) e com a desvalorização do índice do dólar (USDX), que caiu 0,37 % para 103,910 às 10h27.",
+    "Às 11h30, o Banco Central realizou leilão regular de rolagem de swap cambial, oferecendo 75 000 contratos com vencimento em 4 de janeiro.",
+    "Apesar da queda frente ao real, o dólar permanecia em alta frente a outras moedas emergentes, como rand sul-africano, peso mexicano, chileno e colombiano."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-24112026/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/3ceb7889adfc.webp"
   },
   {
    "titulo": "Dois homens são presos após invasão à casa de campo do príncipe William e de Kate",
    "topicos": [
-    "Dois homens foram presos sob suspeita de roubo e invasão de propriedade em uma tentativa de arrombamento na casa de campo do príncipe William e da princesa Kate Middleton.",
-    "O incidente ocorreu na residência localizada na fazenda da família real em Sandringham, no condado de Norfolk, no leste da Inglaterra.",
-    "A Polícia de Norfolk informou que agentes foram acionados na noite de segunda-feira (23) após uma denúncia de atividade suspeita, sendo a prisão divulgada na terça-feira (24).",
-    "A residência invadida foi Anmer Hall, uma casa de 10 quartos presenteada pela rainha Elizabeth II ao casal em 2011, que estava desocupada no momento da ocorrência."
+    "Dois homens foram detidos na terça‑feira (24) sob suspeita de roubo e invasão após tentativa de arrombamento na casa de campo de William e Kate, localizada em Sandringham, condado de Norfolk, no leste da Inglaterra.",
+    "A polícia recebeu a denúncia na noite de segunda‑feira (23) e constatou que a residência, Anmer Hall, de 10 quartos, estava vazia no momento da tentativa de invasão.",
+    "Anmer Hall foi presente da rainha Elizabeth II ao casal como presente de casamento em 2011 e costuma ser usada para férias e estadias curtas, enquanto a residência principal da família real fica no Castelo de Windsor.",
+    "Um porta‑voz do príncipe William informou que a família não comenta questões de segurança, mantendo a política de silêncio sobre o incidente.",
+    "Na mesma data, William realizou visita ao primeiro‑ministro Andy Burnham no número 10 de Downing Street, um encontro menos frequente entre a família real e o governo britânico.",
+    "O texto relembra visitas históricas ao 10 de Downing Street: a rainha Elizabeth II jantou com Winston Churchill em 1955, participou de reunião de gabinete em 2012, e a princesa Diana esteve lá em 1989; Charles III também visitou várias vezes quando ainda era príncipe de Gales."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/duas-pessoas-sao-presas-apos-invasao-na-casa-de-campo-do-principe-william-diz-policia-britanica.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/61f9e23e7977.webp"
   },
   {
    "titulo": "Nova ferramenta do Open Finance automatizará repasses entre bancos",
    "topicos": [
-    "A Iniciador lançou nesta terça‑feira, 24, o Iniciador Actions, solução que permite a integração de infraestruturas transacionais de diferentes bancos para criar serviços financeiros personalizados.",
-    "A ferramenta viabiliza transferências recorrentes entre contas próprias, reposição automática de saldo, proteção contra uso de cheque especial, concentração de valores dispersos e arredondamento de compras, tudo via Pix entre instituições, sem custódia dos recursos pela Iniciador.",
-    "Com apoio de assistentes de Inteligência Artificial, bancos e fintechs podem desenvolver novas aplicações em uma tarde, enquanto o desenvolvimento tradicional leva de seis meses a um ano.",
-    "O Open Finance brasileiro conta quase 290 milhões de contas conectadas, frente a 22 milhões em 2022, indicando forte expansão desde seu lançamento em 2021, substituindo o Open Banking.",
-    "As automações exigem autorização prévia do cliente no app do banco, são limitadas a contas de mesma titularidade, podem ser canceladas a qualquer momento e, para transferências a terceiros, requerem validação biométrica.",
-    "Fundada em 2021, a Iniciador é autorizada pelo Banco Central como Iniciadora de Transação de Pagamento (ITP) e participa da Associação dos Iniciadores de Transação de Pagamentos, representando o setor nas reuniões com o regulador."
+    "A Iniciador lançou nesta terça‑feira, 24, o Iniciador Actions, solução que permite a integração da infraestrutura transacional de diferentes bancos para criar serviços financeiros personalizados, inclusive com apoio de IA, visando simplificar a tecnologia do Open Finance.",
+    "A ferramenta possibilita transferências recorrentes entre contas de mesma titularidade, reposição automática de saldo ao cair abaixo de limite definido, proteção contra uso de cheque especial usando recursos de outra instituição, concentração de valores dispersos e arredondamento de compras para reservas.",
+    "Com o Iniciador Actions, bancos e fintechs podem desenvolver novas aplicações em até uma tarde, enquanto hoje um banco tradicional leva de seis meses a um ano; a redução de tempo ocorre porque elimina a necessidade de reconstruir a estrutura tecnológica a cada novo serviço.",
+    "Segundo Gustavo Bresler, cofundador e CPO da Iniciador, o Open Finance já conta com quase 290 milhões de contas conectadas, frente a 22 milhões em 2022, indicando expansão acelerada da infraestrutura que permite o compartilhamento de dados financeiros com consentimento do usuário.",
+    "As automações dependem de autorização prévia do cliente feita no aplicativo do banco, são restritas a contas de mesma titularidade e podem ser canceladas a qualquer momento; transferências para terceiros exigem validação biométrica no dispositivo do usuário.",
+    "A Iniciador, fundada em 2021 e autorizada pelo Banco Central como Iniciadora de Transação de Pagamento (ITP), transmite ordens de pagamento sem manter custódia dos recursos, permitindo que o valor saia diretamente da conta de origem para o destino indicado."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/24/11/2026/tecnologia/nova-ferramenta-do-open-finance-automatizara-repasses-entre-bancos/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/85be58b715d7.webp"
   },
   {
    "titulo": "Governo Trump negocia produção de drones militares com fabricantes automotivas, diz jornal",
    "topicos": [
-    "O Pentágono negocia com a General Motors (GM), a Ford e outras fabricantes automotivas a produção em larga escala de drones militares, conforme revelado nesta terça-feira (24) pelo jornal 'The Wall Street Journal'.",
-    "Pelo acordo em discussão, as montadoras fornecerão componentes como motores, atuadores, sensores e sistemas de lidar para empresas fabricantes de drones.",
-    "A GM analisa a fabricação de motores para aeronaves não tripuladas e já conversa com a RTX e a L3Harris, além de ter fornecido carcaças para mísseis Patriot da Lockheed Martin no início deste ano.",
-    "Autoridades de Defesa dos Estados Unidos também se reuniram com executivos da Ford e da fabricante canadense de autopeças Magna International, entre outras empresas do setor industrial.",
-    "A iniciativa busca atender ao aumento nos gastos com defesa determinado pelo governo Trump, impulsionado por conflitos globais e pela guerra contra o Irã, que já dura mais de nove meses e gerou escassez de equipamentos militares.",
-    "Até o momento da última atualização da reportagem, nenhuma das montadoras mencionadas havia se pronunciado sobre as negociações em curso."
+    "O Pentágono está negociando com a General Motors (GM), Ford e outras montadoras para produção em larga escala de drones militares, conforme informou o Wall Street Journal na terça‑feira, 24 de abril.",
+    "As empresas seriam responsáveis por fornecer componentes como atuadores, motores, sensores, sistemas de lidar e outros itens para os fabricantes de drones.",
+    "A GM avalia fabricar motores para drones e, no início do ano, já entregou peças de carcaça para os mísseis do sistema de defesa antiaérea Patriot da Lockheed Martin.",
+    "A Ford, a canadense Magna International e outras companhias industriais, inclusive fora do setor automotivo, participaram de reuniões com autoridades de defesa dos EUA.",
+    "A GM também estaria em tratativas com a RTX e a L3Harris para acordos semelhantes de fornecimento de peças militares.",
+    "O movimento ocorre enquanto a guerra dos EUA contra o Irã, com mais de nove meses de duração, eleva a demanda por drones e mísseis, levando o governo Trump a buscar ampliar a produção militar."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/governo-trump-drones-militares-fabricantes-automotivas-diz-jornal.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/713460f5b59d.webp"
   },
   {
    "titulo": "Por dentro do poder do Talebã: o que a BBC viu no Afeganistão",
    "topicos": [
-    "A BBC obteve acesso raro a líderes talibãs e produziu um documentário que revela a transição do grupo de insurgência para governo, cinco anos após retomar o poder no Afeganistão.",
-    "Os líderes talibãs, que viveram na clandestinidade por anos, reconquistaram o controle do país em agosto de 2021, após um longo conflito e a retirada das forças dos Estados Unidos.",
-    "O filme traz entrevistas com o porta‑voz Zabihullah Mujahid, o ex‑planejador de ataques suicidas Habibullah Badr e o ex‑governador provincial Abdullah Sarhadi, hoje alto comandante militar.",
-    "Nas entrevistas, eles relembram ações passadas, como o ataque a bomba à TV Tolo e a destruição das estátuas de Buda de Bamiyan, ocorridas quando estavam no poder no início dos anos 2000.",
-    "O documentário contrapõe a rotina dos líderes talibãs ao impacto imediato de suas políticas sobre a população, destacando restrições às mulheres, como o caso de uma mulher que tenta discutir um divórcio com um governador provincial.",
-    "São mostradas adolescentes afegãs trabalhando como tecelãs de tapetes por causa da proibição de frequentar escolas, além de ativistas feministas que se organizam e protestam em segredo."
+    "A BBC obteve acesso raro a líderes talibãs e produziu um documentário que revela a transição do grupo de insurgente a governo, cinco anos após retomar o poder em agosto de 2021.",
+    "Os dirigentes, que antes atuavam na clandestinidade, reassumiram o controle do Afeganistão logo depois da retirada das forças dos Estados Unidos.",
+    "O filme da BBC Eye traz entrevistas com o porta‑voz Zabihullah Mujahid, o ex‑planejador de ataques suicidas Habibullah Badr e o ex‑governador Abdullah Sarhadi, hoje alto comandante militar.",
+    "Nas conversas, eles relembram ações anteriores, como o ataque à Tolo TV e a destruição das estátuas de Buda de Bamiyan, ocorridas no início dos anos 2000.",
+    "O documentário contrapõe a rotina dos líderes talibãs ao impacto imediato de suas políticas, destacando restrições a mulheres, como o caso de uma disputa de divórcio perante um governador provincial.",
+    "Mostra ainda adolescentes afegãs trabalhando como tecelãs de tapetes por proibirem a escola e ativistas feministas que se organizam secretamente para protestar."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/watch/c39w9gx21zxgo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e5037cce959d.webp"
   },
   {
    "titulo": "País do Bitcoin? O que aconteceu em El Salvador",
    "topicos": [
-    "Há cinco anos, o presidente de El Salvador, Nayib Bukele, anunciou a intenção de tornar o país o primeiro do mundo a adotar o bitcoin como moeda oficial.",
-    "A proposta provocou reações variadas entre cidadãos e empresas salvadorenhas, que foram analisadas no vídeo da BBC News Brasil.",
-    "Projetos associados incluíam a criação da \"Bitcoin City\", destinada a atrair investimentos, e os \"títulos vulcão\", títulos de dívida vinculados ao bitcoin.",
-    "O governo alterou a Lei Bitcoin depois de firmar um acordo com o Fundo Monetário Internacional (FMI), ajustando as normas da criptomoeda no país.",
-    "O relato completo está em vídeo, apresentado pelo repórter André Biernath, da BBC News Brasil, gravado em Londres."
+    "Há cinco anos, o presidente de El Salvador, Nayib Bukele, propôs transformar o país na primeira nação do mundo a adotar o bitcoin como moeda oficial.",
+    "Um vídeo produzido pela BBC News Brasil detalha as promessas da iniciativa, além de mostrar a reação de cidadãos e empresas locais.",
+    "A produção também aborda o destino de projetos associados, como a Bitcoin City e os títulos vulcão, idealizados pelo governo salvadorenho.",
+    "O governo de El Salvador acabou alterando a Lei Bitcoin após firmar um acordo com o FMI, segundo explica o material apresentado pelo repórter André Biernath."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/watch/cvj6lrw45973o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/d1af142fbebf.webp"
   },
   {
    "titulo": "O premiado diretor de fotografia brasileiro por trás da nova série de 'Harry Potter': 'A expectativa dos fãs não me afeta'",
    "topicos": [
-    "Adriano Goldman, diretor de fotografia brasileiro de 60 anos com sete indicações ao Emmy e passagens por séries como The Crown e Star Wars: Andor, assumiu a direção de fotografia da nova série de Harry Potter da HBO, seu primeiro projeto de fantasia.",
-    "A adaptação de \"Harry Potter e a Pedra Filosofal\" estreia na HBO e no streaming HBO Max em 25 de dezembro, com a segunda temporada – \"A Câmara Secreta\" – já garantida.",
-    "Goldman é o único brasileiro na equipe principal e trabalha diretamente com o diretor Mark Mylod, conhecido por O Menu e episódios de Succession, na definição da identidade visual da série.",
-    "A maior parte da produção (cerca de 80 % a 90 %) foi construída em cenários físicos nos estúdios da Warner Bros., ao noroeste de Londres, usando efeitos práticos como chamas reais para iluminação.",
-    "Para criar contraste entre o mundo real e o universo mágico, a iluminação usa tons quentes na Hogwarts e cores frias no início da trama; ao menos três partidas de quadribol foram filmadas, exigindo integração de figurino, maquiagem, efeitos especiais e visuais.",
-    "Os livros de Rowling já venderam mais de 450 milhões de exemplares e foram traduzidos para mais de 70 idiomas; nas redes, fãs já criticam escolhas de elenco e estética, mas Goldman afirma que avaliará a recepção após a entrega da primeira temporada."
+    "O diretor de fotografia brasileiro Adriano Goldman, de 60 anos, foi contratado pela HBO para a nova série de \"Harry Potter\", que estreia em 25 de dezembro de 2024 no canal e no streaming HBO Max.",
+    "Goldman, com sete indicações ao Emmy e experiência em séries como The Crown e Star Wars: Andor, será o único brasileiro na equipe principal, trabalhando ao lado do diretor Mark Mylod na definição da identidade visual da adaptação da primeira temporada, \"Harry Potter e a Pedra Filosofal\".",
+    "A produção já tem a segunda temporada, \"A Câmara Secreta\", garantida; a série adapta a obra de J.K. Rowling, cujos livros venderam mais de 450 milhões de exemplares e foram traduzidos para mais de 70 idiomas.",
+    "Quase 80 % a 90 % da série foi construída em cenários físicos nos estúdios da Warner Bros., ao noroeste de Londres, com iluminação real de chamas e uso de recursos práticos para criar contraste entre o mundo dos trouxas e o de Hogwarts.",
+    "A primeira temporada inclui pelo menos três partidas de quadribol, sendo uma delas de grande escala, exigindo coordenação entre figurino, maquiagem, efeitos especiais e visuais.",
+    "Nas redes sociais, a escolha de Paapa Essiedu como Severus Snape, John Lithgow como Dumbledore e Nick Frost como Hagrid gerou críticas e até manifestações racistas, refletindo a expectativa e o debate dos fãs antes da estreia."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/ck3rgnqx82pro?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/75711b33e0e0.webp"
   },
   {
    "titulo": "Voo de aviões militares russos causa alerta na Coreia do Sul; Rússia alega manobra programada",
    "topicos": [
-    "Na terça‑feira (24), a agência Yonhap informou que cinco bombardeiros estratégicos russos (Tu‑160) entraram na Zona de Identificação de Defesa Aérea da Coreia do Sul (KADIZ) sobre o Mar do Leste, inicialmente confundidos com aeronaves norte‑coreanas.",
-    "Os aviões russos se aproximaram da ilha de Ulleungdo, na costa leste sul‑coreana, e foram percebidos como um possível sinal de incursão no espaço aéreo territorial do país.",
-    "O Ministério do Interior sul‑coreano emitiu um alerta preventivo aos moradores de Ulleungdo, orientando‑os a buscar abrigo; o aviso foi cancelado cinco minutos depois.",
-    "O Exército sul‑coreano afirmou que o espaço aéreo nacional não foi violado, mas que um avião russo chegou ao limite do espaço aéreo, mobilizando caças para escoltar as aeronaves durante o incidente.",
-    "O Ministério da Defesa da Coreia do Sul anunciou que convocará o representante de defesa da Rússia em Seul como forma de repúdio ao sobrevoo.",
-    "A Rússia declarou que o voo dos Tu‑160 foi programado, durou cerca de 10 horas sobre o Mar do Japão e segue rotineiramente as leis internacionais, contestando a unilateralidade da KADIZ.",
-    "A KADIZ não constitui espaço aéreo soberano; embora se espere que aeronaves militares se identifiquem ao entrar, não há obrigação legal de notificação prévia."
+    "Na terça‑feira (24), a agência Yonhap corrigiu informação e informou que cinco bombardeiros estratégicos russos (Tu‑160) entraram na Zona de Identificação de Defesa Aérea da Coreia do Sul (KADIZ) sobre o Mar do Leste, próximo à ilha de Ulleungdo.",
+    "O capitão Jang Do‑young, porta‑voz das Forças Armadas sul‑coreanas, descreveu a aproximação como um possível sinal de incursão no espaço aéreo territorial sul‑coreano, embora o Exército tenha afirmado que o espaço aéreo não foi violado.",
+    "O Ministério do Interior sul‑coreano emitiu um alerta preventivo aos moradores de Ulleungdo, orientando‑os a buscar abrigo; o aviso foi suspenso cinco minutos depois.",
+    "O Ministério da Defesa sul‑coreano mobilizou caças para escoltar as aeronaves russas durante o incidente e anunciou que convocará o representante de defesa da Rússia em Seul como forma de repúdio.",
+    "A Defesa russa declarou que o voo dos Tu‑160 foi programado, durou cerca de 10 horas e seguiu sobre o Mar do Japão, afirmando que tais sobrevoos são rotineiros e respeitam o direito internacional.",
+    "Agências russas acusam a Coreia do Sul de ter criado unilateralmente a KADIZ, enquanto a Rússia sustenta que a zona não constitui espaço aéreo soberano e que aeronaves estrangeiras devem apenas se identificar ao entrar."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/bombardeiros-russos-coreia-do-sul.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/269713620a87.webp"
   },
   {
    "titulo": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva (PT) abriu documentos da gestão Bolsonaro (PL) e revisou decisões de sigilo, mas ainda nega acesso a informações sob a justificativa de proteção de dados pessoais, segurança presidencial e sigilo profissional de advogados públicos.",
-    "Gregory Michener, professor da FGV, afirma que a transparência do governo Lula ainda está abaixo dos níveis anteriores a Bolsonaro, citando regressões como o sigilo dos gastos do cartão presidencial e a diminuição de dados do Sistema S (Sesc, Senai).",
-    "A Lei de Acesso à Informação (LAI), sancionada em 2011 por Dilma Rousseff e vigente desde 2012, permite pedidos sem justificativa; o sigilo só é admitido em casos excepcionais como dados pessoais, segurança do Estado ou outras leis específicas.",
-    "Entre janeiro e outubro de 2026, 9,1% dos pedidos de informação foram negados integralmente, aumento de 7,9% em 2025, sendo a maior taxa desde 2014 (11,7% sob Dilma), enquanto durante Bolsonaro (2019‑2022) variou entre 7,1% e 8,2%.",
-    "O governo explicou que a alta taxa de negativas concentra‑se em poucos órgãos e solicitantes; um único requerente recebeu 1.116 negativas do Banco do Brasil no período Jan‑Out 2026, contra 713 em 2025.",
-    "Ao excluir o solicitante com mais negativas, a taxa de recusa de 2026 cairia para 8%, equiparando‑se à de 2019 sob Bolsonaro e à de 2024 no segundo ano de Lula, indicando que a média geral pode ser distorcida por casos extremos."
+    "O governo do presidente Luiz Inácio Lula da Silva abriu arquivos e reviu decisões de sigilo da gestão de Jair Bolsonaro, mas manteve restrições de acesso a informações e gastos do próprio mandato.",
+    "Pesquisadores apontam que a transparência pública atual ficou abaixo dos padrões pré-Bolsonaro e de gestões anteriores, como a de Dilma Rousseff, citando o uso contínuo de sigilos e restrições.",
+    "Entre janeiro e outubro de 2026, 9,1% dos pedidos respondidos pela Lei de Acesso à Informação (LAI) foram negados integralmente, a maior taxa desde 2014, quando atingiu 11,7% no governo Dilma.",
+    "O governo federal justificou que o aumento das negativas se concentra em órgãos específicos, como o Banco do Brasil, que registrou 1.116 recusas a um único solicitante no período de 2026.",
+    "Houve alta nas recusas sob a alegação de \"decisão ainda em curso\", que passaram de 1.191 de janeiro a outubro de 2025 para 1.405 no mesmo período de 2026, representando um crescimento de 18%.",
+    "Especialistas apontam retrocessos como a redução da transparência no Sistema S por decreto de 2023, a retirada temporária de milhões de contratos de consulta pública em 2024 e a manutenção de práticas do orçamento secreto."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6a2d1540479b.webp"
   }
  ]
 }
