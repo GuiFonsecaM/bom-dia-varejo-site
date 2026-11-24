@@ -2,6 +2,291 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-24",
+   "n": [
+    {
+     "t": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "A Câmara dos Deputados aprovou em 23 de março de 2026 um projeto de ajuste fiscal enviado pelo governo do presidente Lula, com potencial de gerar uma economia…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/24/entenda-projeto-de-ajuste-fiscal-de-ate-r-56-bilhoes-para-governo-lula-aprovado-pela-camara.ghtml"
+    },
+    {
+     "t": "Câmara aprova projeto de ajuste fiscal que prevê economia de até R$ 56 bilhões para governo Lula; proposta segue para sanção",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "A Câmara dos Deputados aprovou em 23 de dezembro o projeto de ajuste fiscal para cumprir a meta orçamentária de 2027, com placar de 353 votos a favor, 128…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/23/camara-aprova-projeto-de-ajuste-fiscal.ghtml"
+    },
+    {
+     "t": "Dólar a R$ 6: o que explica a disparada da moeda e o que pode frear novas altas?",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O dólar americano voltou a se aproximar de R$ 6 no Brasil, após registrar alta de quase 19% em pouco mais de um mês, encerrando cotado a R$ 5,9262 nesta…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-a-r-6-o-que-explica-a-disparada-da-moeda-e-o-que-pode-frear-novas-altas.ghtml"
+    },
+    {
+     "t": "“Menos é mais”: a revisão do sortimento pode gerar milhões de reais",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Líderes e especialistas do varejo e das indústrias de bens de consumo apontam que nos próximos anos será imprescindível maior eficiência operacional,…",
+     "l": "https://mercadoeconsumo.com.br/24/11/2026/artigos/menos-e-mais-a-revisao-do-sortimento-pode-gerar-milhoes-de-reais/"
+    },
+    {
+     "t": "Miss Make entra no e-commerce e amplia alcance para além das 63 lojas",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Miss Make, rede goiana de maquiagem com 63 lojas espalhadas pelo País, lançou sua loja virtual, permitindo atender consumidores de cidades onde ainda não há…",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/ecommerce/miss-make-entra-no-e-commerce-e-amplia-alcance-para-alem-das-63-lojas/"
+    },
+    {
+     "t": "'50 Best' divulga ranking ampliado dos melhores restaurantes da América Latina; Brasil emplaca 6",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O ranking gastronômico \"50 Best\" divulgou na segunda-feira (23) a lista ampliada, do 51º ao 100º colocado, dos melhores restaurantes da América Latina.",
+     "l": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/23/50-best-divulga-ranking-ampliado-dos-melhores-restaurantes-da-america-latina-brasil-emplaca-6.ghtml"
+    },
+    {
+     "t": "Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O presidente da Câmara, Hugo Motta, defendeu nesta segunda-feira (23) que o governo federal adote novas medidas econômicas ainda em 2026 para buscar um…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/24/apos-camara-aprovar-ajuste-de-lula-hugo-motta-defende-novas-medidas-fiscais-ainda-em-2026.ghtml"
+    },
+    {
+     "t": "Câmara aprova texto-base do projeto de ajuste fiscal",
+     "c": "Política",
+     "f": "Agência Brasil Política",
+     "r": "A Câmara dos Deputados aprovou, na noite desta segunda-feira (23), o texto-base de um projeto de lei complementar sobre ajuste fiscal nas contas públicas para…",
+     "l": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-texto-base-do-projeto-de-ajuste-fiscal"
+    },
+    {
+     "t": "Câmara aprova urgência para votação do projeto de ajuste fiscal",
+     "c": "Política",
+     "f": "Agência Brasil Política",
+     "r": "Em 23 de novembro, a Câmara dos Deputados aprovou o requerimento de urgência para o PLP 299/26 com 318 votos favoráveis, 135 contra e seis abstenções,…",
+     "l": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal"
+    },
+    {
+     "t": "Melhor Bocado aposta em franquias e e-commerce para ampliar atuação no B2B e B2C",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A fabricante de donuts Melhor Bocado planeja expandir sua atuação no setor alimentício ampliando o atendimento B2B para pequenos comerciantes e avançando no…",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/noticias-varejo/melhor-bocado-aposta-em-franquias-e-e-commerce-para-ampliar-atuacao-no-b2b-e-b2c/"
+    },
+    {
+     "t": "Alles Alimentos entra no foodservice com marca própria e 20 produtos",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Alles Alimentos lançou a marca Fortena com 20 produtos voltados ao mercado de foodservice, atendendo restaurantes, lanchonetes e cozinhas industriais para…",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/foodservice/alles-alimentos-entra-no-foodservice-com-marca-propria-e-20-produtos/"
+    },
+    {
+     "t": "LISTA: veja os 10 carros de até R$ 100 mil com os maiores porta-malas",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "O portal g1 divulgou uma lista com 10 modelos de carros vendidos no Brasil que custam até R$ 100 mil e oferecem os maiores porta-malas para viagens e uso…",
+     "l": "https://g1.globo.com/carros/noticia/2026/11/24/lista-veja-os-10-carros-de-ate-r-100-mil-com-os-maiores-porta-malas.ghtml"
+    },
+    {
+     "t": "Bolsa e dólar: veja os destaques da agenda econômica desta terça-feira (24)",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "A agenda econômica desta terça-feira (24) conta com a divulgação de apenas dois indicadores para avaliar o ritmo da atividade no Brasil e no exterior.",
+     "l": "https://www.moneytimes.com.br/bolsa-e-dolar-veja-os-destaques-da-agenda-economica-desta-terca-feira-mlem/"
+    },
+    {
+     "t": "Como a C&A usa a Ace para testar um novo modelo de negócio e abrir frentes de inovação",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A C&A transformou a Ace, marca de moda esportiva criada nos anos 1980, em uma unidade de negócios independente, com equipes próprias de produto, marketing e…",
+     "l": "https://mercadoeconsumo.com.br/24/11/2026/noticias-varejo/como-a-ca-usa-a-ace-para-testar-um-novo-modelo-de-negocio-e-abrir-frentes-de-inovacao/"
+    },
+    {
+     "t": "Ornare leva loja de 700 m² à Madison Avenue e amplia presença no mercado americano",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Ornare abrirá uma loja de 700 m² na Madison Avenue, em Nova York, prevista para o primeiro trimestre de 2027, ampliando sua presença no mercado americano.",
+     "l": "https://mercadoeconsumo.com.br/24/11/2026/noticias-varejo/ornare-leva-loja-de-700-m%c2%b2-a-madison-avenue-e-amplia-presenca-no-mercado-americano/"
+    },
+    {
+     "t": "Motta vê ajuste fiscal como essencial para avançar com investimentos em 2027",
+     "c": "Política",
+     "f": "Agência Câmara",
+     "r": "Hugo Motta, presidente da Câmara dos Deputados (Republicanos‑PB), declarou que o ajuste fiscal previsto no Projeto de Lei Complementar 299/26 é essencial para…",
+     "l": "https://www.camara.leg.br/noticias/1322184-motta-ve-ajuste-fiscal-como-essencial-para-avancar-com-investimentos-em-2027"
+    },
+    {
+     "t": "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel",
+     "c": "Política",
+     "f": "Agência Brasil Política",
+     "r": "A deputada estadual Monica Seixas (PSOL-SP) teve a entrada na Cisjordânia negada pelo governo de Israel após desembarcar no Aeroporto Internacional de…",
+     "l": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/deputada-de-sp-tem-entrada-na-cisjordania-negada-por-governo-de-israel"
+    },
+    {
+     "t": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "Investidores em Wall Street voltaram a comprar ações após uma sexta-feira marcada por fortes perdas nos setores de tecnologia e inteligência artificial.",
+     "l": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24112026/"
+    },
+    {
+     "t": "De olho no Lula 4, Centrão garante vitória do ajuste fiscal, mas governo precisa dar um segundo passo",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Na segunda-feira (23), a Câmara dos Deputados aprovou o ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva por um placar de 353 votos favoráveis…",
+     "l": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/de-olho-no-lula-4-centrao-garante-vitoria-do-ajuste-fiscal-mas-governo-precisa-dar-um-segundo-passo.ghtml"
+    },
+    {
+     "t": "A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Jensen Huang reassumiu o cargo de CEO da Nvidia após um breve afastamento motivado pela admissão de um caso amoroso com uma mulher identificada como espiã…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/24/a-intervencao-de-trump-que-levou-jensen-huang-de-volta-ao-comando-da-nvidia.ghtml"
+    },
+    {
+     "t": "Carro-bomba deixa 20 feridos na Colômbia às vésperas dos dez anos do acordo de paz",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Um carro-bomba explodiu na segunda-feira, 23 de novembro de 2026, nas proximidades da sede do governo do departamento de Meta, em Villavicencio, no centro da…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/24/carro-bomba-deixa-20-feridos-na-colombia-as-vesperas-dos-dez-anos-do-acordo-de-paz.ghtml"
+    },
+    {
+     "t": "Mini-índice (WINZ26): o que pode mudar se o WINZ26 perder os 165.345 pontos?",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "Os contratos futuros de mini-índice com vencimento em dezembro fecharam a última sessão com baixa de 0,81%, marcando 166.250 pontos, com oscilação entre a…",
+     "l": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-24112026/"
+    },
+    {
+     "t": "EUA impõem restrições à Megaspeed, empresa ligada à crise da Nvidia",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "O Departamento de Comércio dos Estados Unidos incluiu a Megaspeed, de Cingapura, e suas subsidiárias na Tailândia e na Malásia na lista de restrições…",
+     "l": "https://www.poder360.com.br/poder-internacional/eua-impoem-restricoes-a-megaspeed-empresa-ligada-a-crise-da-nvidia/"
+    },
+    {
+     "t": "Portaria abre crédito suplementar de R$ 2,2 bilhões para Petrobras",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "O Ministério da Gestão e da Inovação em Serviços Públicos autorizou um crédito suplementar de R$ 2,2 bilhões no Orçamento de Investimento da União para a…",
+     "l": "https://www.poder360.com.br/poder-governo/portaria-abre-credito-suplementar-de-r-22-bilhoes-para-petrobras/"
+    },
+    {
+     "t": "A cidade real que adotou nome da ficção e virou destino de conto de fadas",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A histórica vila de Furong, no interior da China, possui mais de 2 mil anos de existência e abriga o povo Tujia, que manteve suas tradições vivas devido ao…",
+     "l": "https://g1.globo.com/fantastico/noticia/2026/11/24/a-cidade-real-que-adotou-nome-da-ficcao-e-virou-destino-de-conto-de-fadas.ghtml"
+    },
+    {
+     "t": "Black Friday: saiba como identificar sites e anúncios falsos para não cair em golpes; VÍDEO",
+     "c": "Varejo",
+     "f": "g1 Economia",
+     "r": "Golpistas utilizam táticas de urgência, como contagens regressivas de 30 segundos e avisos de últimas unidades, para pressionar consumidores a comprarem…",
+     "l": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/24/black-friday-saiba-como-identificar-sites-e-anuncios-falsos-para-nao-cair-em-golpes-video.ghtml"
+    },
+    {
+     "t": "A queda de braço entre governo e mercado financeiro - O Assunto #1851",
+     "c": "Política",
+     "f": "g1 Economia",
+     "r": "Em transmissão ao vivo realizada no último sábado (21), o presidente Lula afirmou ser o governante que mais realizou superávit primário e criticou o sistema…",
+     "l": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/24/a-queda-de-braco-entre-governo-e-mercado-financeiro-o-assunto-1851.ghtml"
+    },
+    {
+     "t": "Da Alemanha à costa da África: os sinais de que a guerra na Ucrânia está se expandindo no mundo",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O presidente ucraniano Volodimir Zelensky afirmou na segunda-feira (23) que a Ucrânia realizou ataques no domingo (22) com sete drones navais contra duas…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/24/da-alemanha-a-costa-da-africa-os-sinais-de-que-a-guerra-na-ucrania-esta-se-expandindo-no-mundo.ghtml"
+    },
+    {
+     "t": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Petrobras adquiriu 42% da Neomille, terceira maior produtora de etanol de milho do Brasil, por R$ 2,8 bilhões, marcando seu retorno ao mercado de etanol.",
+     "l": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml"
+    },
+    {
+     "t": "Petrobras prevê investir US$ 122 bilhões entre 2027 e 2031, alta de 11,9% em relação ao plano anterior",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "A Petrobras aprovou, em 23 de março, um novo plano de negócios que prevê US$ 122 bi (cerca de R$ 723 bi) de investimentos entre 2027 e 2031, 11,93 % acima dos…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml"
+    },
+    {
+     "t": "Braskem anuncia acordo preliminar com credores sobre plano de reestruturação de dívidas",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Na noite de segunda-feira (23), a Braskem divulgou ao mercado que firmou um acordo preliminar com credores para reestruturar suas dívidas.",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/24/braskem-anuncia-acordo-preliminar-com-credores-sobre-plano-de-reestruturacao.ghtml"
+    },
+    {
+     "t": "Violência doméstica matou cinco mulheres por hora em 2025, afirma ONU",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Um relatório divulgado pela ONU nesta terça-feira (24) aponta que mais de 47 mil mulheres e meninas foram mortas por parceiros ou familiares no mundo em 2025.",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/24/violencia-familiar-matou-cinco-mulheres-por-hora-em-2025-afirma-onu.ghtml"
+    },
+    {
+     "t": "A cantora iraniana que levou 74 chicotadas por se apresentar sem véu no YouTube",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A cantora Parastoo Ahmadi, de 29 anos, três músicos e um produtor receberam 74 chibatadas na cidade de Qom, no Irã, na segunda-feira (23/11).",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/24/a-cantora-iraniana-que-levou-74-chicotadas-por-se-apresentar-sem-veu-no-youtube.ghtml"
+    },
+    {
+     "t": "Aprovação do pacote fiscal e dividendos da Petrobras movimentam bolsa; Ibovespa em dólar cai nesta terça-feira (24)",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "Na noite de 23/02, a Câmara dos Deputados aprovou o projeto de ajuste fiscal que prevê redução de despesas para alcançar superávit primário de cerca de…",
+     "l": "https://www.moneytimes.com.br/aprovacao-do-pacote-fiscal-e-plano-da-petrobras-movimentam-bolsa-ibovespa-em-dolar-cai-nesta-terca-feira-24-rens/"
+    },
+    {
+     "t": "Gisèle Pelicot denuncia uso comercial de fotos de nudez suas: 'Humilhada novamente'",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Gisèle Pelicot, francesa de 73 anos, denunciou o uso comercial de fotos suas de nudez para promover um livro sobre controle coercitivo, classificando o ato…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/24/gisele-pelicot-denuncia-uso-comercial-fotos-nua-humilhada-novamente.ghtml"
+    },
+    {
+     "t": "'Hoje me vejo novamente humilhada, exposta e ferida': Gisèle Pelicot denuncia divulgação de fotos dela nua para a imprensa",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Gisèle Pelicot, de 73 anos, denunciou a divulgação de fotos suas nua enviadas à imprensa para promover um livro sobre controle coercitivo na França.",
+     "l": "https://www.bbc.com/portuguese/articles/cmn4kqel07jyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Por que o RJ não sabe quantas crianças são mortas pela polícia",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Ágatha Félix, 8 anos, foi atingida por tiro de fuzil dentro de uma Kombi no Complexo do Alemão em 2019; dois anos depois, Ana Clara Gomes Machado, 5 anos,…",
+     "l": "https://www.bbc.com/portuguese/articles/cx24e9z27q30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Família gaúcha cria IA que 'degusta' vinhos e ajuda a desenvolver novas receitas",
+     "c": "Varejo",
+     "f": "g1 Agronegócios",
+     "r": "A família Hilgert, da cidade de Três de Maio, no Rio Grande do Sul, criou um algoritmo de inteligência artificial para sugerir novas misturas de vinhos e…",
+     "l": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/24/familia-gaucha-cria-ia-que-degusta-vinhos-e-ajuda-a-desenvolver-novas-receitas.ghtml"
+    },
+    {
+     "t": "Com flagship na Paulista, Ypê entra no mercado de lavanderias",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Ypê inaugurou sua primeira flagship da Lavanderia Tixan Max na Avenida Paulista, número 1.337, em frente à estação de metrô Trianon-Masp, em São Paulo.",
+     "l": "https://mercadoeconsumo.com.br/24/11/2026/servicos/com-flagship-na-paulista-ype-entra-no-mercado-de-lavanderias/"
+    },
+    {
+     "t": "Fim da escala 6×1: conheça as regras de compensação",
+     "c": "Economia",
+     "f": "Mercado & Consumo",
+     "r": "O Ministério do Trabalho publicou em 23 de dezembro uma portaria com as normas para o encerramento da escala de trabalho 6x1, cuja primeira etapa começa a…",
+     "l": "https://mercadoeconsumo.com.br/23/11/2026/noticias/fim-da-escala-6x1-conheca-as-regras-de-compensacao/"
+    }
+   ]
+  },
+  {
    "data": "2026-11-23",
    "n": [
     {
