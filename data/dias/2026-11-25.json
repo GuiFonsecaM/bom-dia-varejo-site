@@ -1163,541 +1163,621 @@
   {
    "titulo": "Bolsas dos EUA despencam com novo tarifaço de Trump e temores sobre investimentos em IA",
    "topicos": [
-    "As bolsas de Nova York despencaram nesta quarta-feira (25) devido a uma nova rodada de tarifas comerciais de Donald Trump e temores sobre investimentos em inteligência artificial. Por volta das 13h20, o índice Nasdaq caía 4,22%, o S&P 500 recuava 2,84% e o Dow Jones perdia 1,49%.",
-    "A queda foi liderada por ações de tecnologia e semicondutores. A Nvidia despencou 8,6%, a Dell caiu 5,4%, a Alphabet perdeu 5%, a Amazon recuou 4,9%, a Microsoft caiu 3,2% e a Apple perdeu 1,4%, enquanto a estreante Anthropic recuou 8,2%.",
-    "O governo dos EUA propôs novas tarifas contra 14 parceiros comerciais, com aplicação prevista para janeiro de 2027. O objetivo declarado é combater o excesso de capacidade industrial e forçar países à mesa de negociação, embora ainda haja espaço para exceções e acordos.",
-    "O Brasil foi incluído na proposta de tarifas, que prevê modificar taxas de 25% impostas em julho e aplicar 10% sobre aeronaves acabadas, afetando a Embraer. Washington também propôs taxar açúcar bruto e refinado acima das cotas, citando divergências comerciais e o sistema PIX.",
-    "O índice de preços de gastos com consumo pessoal (PCE) subiu 3,8% em 12 meses até outubro e avançou 0,3% no mês. Já o Produto Interno Bruto (PIB) dos Estados Unidos cresceu 4,3% no terceiro trimestre, superando a expectativa de 3,5%.",
-    "A incerteza tarifária alimenta o receio de custos maiores de importação e inflação persistente, elevando a probabilidade de juros altos nos EUA. Analistas projetam taxas acima de 4,25% a 4,5% para o próximo ano, com previsões de alta em dezembro e mais duas altas em 2027."
+    "As bolsas de Nova York despencaram nesta quarta-feira (25) devido a um tarifaço anunciado pelo governo de Donald Trump e à forte venda de ações ligadas à inteligência artificial. Por volta das 13h20, o índice Nasdaq caía 4,22%, o S&P 500 recuava 2,84% e o Dow Jones perdia 1,49%.",
+    "A forte queda no setor tecnológico foi liderada pela Nvidia, cujos papéis recuaram 8,6%. Outras gigantes também registraram baixas expressivas no pregão: Alphabet caiu 5%, Amazon perdeu 4,9%, Microsoft recuou 3,2%, Apple teve baixa de 1,4%, Dell caiu 5,4% e a estreante Anthropic recuou 8,2%.",
+    "O governo dos Estados Unidos propôs novas tarifas sobre produtos de 14 parceiros comerciais, incluindo o Brasil, citando o combate ao excesso de capacidade industrial. A proposta para o Brasil inclui uma taxa de 10% sobre aeronaves acabadas e novas tarifas sobre açúcar bruto e refinado acima das cotas.",
+    "As medidas comerciais propostas não estão em vigor e têm aplicação prevista para janeiro de 2027, havendo espaço para negociações entre os países. A estratégia de Trump busca pressionar parceiros comerciais para novos acordos, mas eleva incertezas sobre inflação e juros.",
+    "Analistas apontam que o aumento dos custos de importação pode pressionar os preços e manter os juros americanos elevados por mais tempo. A projeção da Suno Research aponta uma alta de juros em dezembro e mais duas em 2027, para um nível acima de 4,25% a 4,5% ao ano.",
+    "A queda nas ações de IA reflete dúvidas sobre a sustentabilidade dos investimentos bilionários e a conversão em retornos financeiros. O índice PCE subiu 3,8% em 12 meses até outubro, enquanto a economia dos EUA cresceu 4,3% no terceiro trimestre, acima da expectativa de 3,5%."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0fc0e3421dbc.webp"
   },
   {
    "titulo": "Atacado e atacarejo alcançam maior NPS da série em novembro",
    "topicos": [
-    "O setor de atacado e atacarejo alcançou em novembro de 2026 o seu melhor desempenho histórico no índice “O Cliente Recomenda”, medido pela SoluCX em parceria com a Mercado&Consumo.",
-    "O NPS médio móvel de 12 meses atingiu 69,6 pontos em novembro, registrando um avanço de 0,6 ponto frente aos 69 pontos observados no mês de outubro.",
-    "A trajetória de recuperação teve início no segundo trimestre de 2026, após o indicador registrar o seu menor patamar do período em abril, com 67,5 pontos.",
-    "Na comparação com o piso de abril, o índice do setor acumulou alta de 2,1 pontos em novembro, enquanto o crescimento em relação a dezembro de 2025 foi de um ponto.",
-    "O indicador começou a série histórica em dezembro de 2025 com 68,6 pontos, passando por recuos consecutivos até o mínimo de abril e retomando o crescimento consistente no segundo semestre.",
-    "O índice utiliza uma média móvel de 12 meses com base nas avaliações de consumidores para monitorar a reputação e a experiência com as marcas pesquisadas."
+    "Em novembro de 2026, o atacado e o atacarejo alcançaram o maior NPS da série histórica do índice “O Cliente Recomenda”, medido pela SoluCX em parceria com a Mercado&Consumo.",
+    "O NPS médio móvel de 12 meses atingiu 69,6 pontos em novembro, registrando um avanço de 0,6 ponto na comparação com outubro, mês em que o indicador marcou 69 pontos.",
+    "A trajetória de recuperação do setor começou no segundo trimestre, após o índice registrar o seu menor patamar do período em abril, com 67,5 pontos.",
+    "Na comparação com o resultado de abril, o indicador do setor de atacado e atacarejo apresentou uma alta de 2,1 pontos em novembro.",
+    "Frente a dezembro de 2025, quando o setor iniciou a série com 68,6 pontos, o crescimento acumulado foi de um ponto.",
+    "O indicador “O Cliente Recomenda” emprega uma média móvel de 12 meses para minimizar variações decorrentes de amostras menores e baseia-se em avaliações de consumidores."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/estudos/atacado-e-atacarejo-alcancam-maior-nps-da-serie-em-novembro/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b18a801f7486.webp"
   },
   {
    "titulo": "JBS prevê retomada das exportações de frango à União Europeia em dezembro após suspensão",
    "topicos": [
-    "As exportações brasileiras de carne de frango para a União Europeia devem ser retomadas em dezembro, conforme projeção divulgada nesta quarta-feira por um executivo da JBS.",
-    "A suspensão anterior ocorreu após exigências do bloco europeu por garantias de que substâncias antimicrobianas proibidas na UE não fossem utilizadas na produção nacional.",
-    "O executivo atribuiu a previsão favorável ao resultado positivo de uma missão técnica europeia que avaliou o sistema produtivo do Brasil.",
-    "No caso da carne bovina, a retomada das compras pela UE deve demorar mais tempo devido ao ciclo produtivo do boi ser mais longo que o do frango.",
-    "Em outubro, o impacto da suspensão no frango foi limitado porque o setor redirecionou os embarques e obteve alta de 2,3% no volume exportado comparado ao mesmo mês de 2025.",
-    "As Filipinas, principal destino da carne suína do Brasil, impuseram neste mês uma restrição temporária para proteger produtores locais, sem prazo estabelecido para o retorno das vendas."
+    "As exportações brasileiras de carne de frango para a União Europeia devem ser restabelecidas em dezembro, após um período de suspensão motivado por dúvidas sobre o uso de antimicrobianos.",
+    "A paralisação ocorreu porque o bloco europeu exigiu garantias de que substâncias proibidas na região não fossem utilizadas na produção animal do Brasil, afetando os setores bovino e avícola.",
+    "Segundo Gilberto Tomazoni, executivo da JBS, uma recente missão técnica europeia ao país teve resultado positivo, pavimentando o caminho para a liberação das vendas.",
+    "A retomada do frango será mais rápida que a da carne bovina devido ao ciclo de produção avícola ser mais curto, facilitando a comprovação das exigências sanitárias.",
+    "Em outubro, o impacto da suspensão nas exportações totais de frango foi limitado, pois o setor redirecionou cargas e obteve alta de 2,3% no volume exportado ante o mesmo período de 2025.",
+    "A JBS também aguarda a normalização dos embarques de carne suína para as Filipinas, principal destino asiático do produto brasileiro que aplicou restrições temporárias neste mês para proteger produtores locais."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/jbs-exportacao-frango-uniao-europeia.ghtml",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/518aa151945a.webp"
   },
   {
    "titulo": "Zenaide critica juros altos e defende limite para cobranças dos bancos",
    "topicos": [
-    "Em 25/11/2026, no plenário do Senado, a senadora Zenaide Maia (PSD‑RN) apresentou a PEC 79/2019, proposta de emenda constitucional que fixa um teto de três vezes a taxa Selic para juros cobrados por bancos e instituições financeiras.",
-    "A parlamentar apontou que cartões de crédito e cheque especial chegam a cobrar juros de até 420% ao ano, o que, segundo ela, gera endividamento massivo das famílias brasileiras.",
-    "Zenaide ressaltou que a taxa Selic está em 13,75% ao ano, e que juros elevados encarecem o crédito, reduzem investimentos e prejudicam a geração de empregos.",
-    "A proposta não altera a política monetária, não retira atribuições do Banco Central nem interfere na taxa Selic; seu objetivo é apenas limitar o excesso cobrado dos consumidores.",
-    "A senadora também defendeu maior transparência sobre o custo da dívida pública e sobre a remuneração dos recursos que os bancos mantêm no Banco Central.",
-    "Caso aprovada, a emenda estabelecerá um limite legal de três vezes a Selic para todas as operações de crédito, visando proteger o orçamento familiar e estimular o crescimento econômico."
+    "A senadora Zenaide Maia (PSD-RN) criticou, em pronunciamento no Plenário nesta quarta-feira (25), o patamar elevado dos juros cobrados por bancos e instituições financeiras no país.",
+    "A parlamentar defendeu a aprovação da PEC 79/2019, de sua autoria, que propõe fixar um teto de três vezes a taxa Selic para as operações de crédito.",
+    "Segundo Zenaide, a ausência de limites resulta em taxas abusivas que chegam a 420% ao ano no cartão de crédito e no cheque especial, sufocando as famílias brasileiras.",
+    "A senadora apontou que a taxa Selic em 13,75% ao ano encarece o crédito, desestimula investimentos e atrapalha a criação de postos de trabalho.",
+    "O texto da proposta não interfere na política monetária, não retira competências do Banco Central e nem altera a Selic, focando apenas no excesso cobrado da população."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/zenaide-critica-juros-altos-e-defende-limite-para-cobrancas-dos-bancos",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/f0006f68a64f.webp"
   },
   {
    "titulo": "Fim de ano: distribuidoras de energia oferecem descontos e parcelamento para renegociar dívidas",
    "topicos": [
-    "Distribuidoras de energia elétrica de todo o país lançaram campanhas de fim de ano com descontos, redução de valores e parcelamentos para clientes renegociarem faturas em atraso.",
-    "A Enel atende São Paulo, Rio de Janeiro e Ceará para débitos vencidos há mais de 60 dias, permitindo até 12 vezes com 30% de entrada ou sete vezes com 10% até 31 de dezembro.",
-    "A Neoenergia oferece até 100% de desconto em encargos para dívidas com mais de um ano em São Paulo, Mato Grosso do Sul, Bahia, Pernambuco, Rio Grande do Norte e Distrito Federal, com parcelamento em até 24 vezes.",
-    "O Grupo Energisa realiza a campanha Negocia Energisa até 31 de dezembro para clientes com ao menos uma fatura vencida em 11 estados, oferecendo descontos de até 98% e parcelamento em até 36 vezes sem juros.",
-    "O Grupo Equatorial atende clientes residenciais, rurais e da Tarifa Social no Maranhão, Pará, Piauí, Alagoas, Rio Grande do Sul, Amapá e Goiás com faturas em atraso há mais de 180 ou 90 dias.",
-    "A Equatorial oferece parcelamento em até 24 vezes no cartão de crédito com isenção total de encargos ou em até 36 vezes com 30% de desconto nos encargos para dívidas com mais de um ano."
+    "Distribuidoras de energia elétrica de várias regiões do país iniciaram campanhas de fim de ano para renegociação de contas em atraso, com prazos que se estendem até 31 de dezembro.",
+    "A Enel atende clientes de São Paulo, Rio de Janeiro e Ceará com faturas vencidas há mais de 60 dias, permitindo parcelar em até 12 vezes com 30% de entrada ou em até 7 vezes com 10% de entrada.",
+    "A Neoenergia atende São Paulo, Mato Grosso do Sul, Bahia, Pernambuco, Rio Grande do Norte e Distrito Federal, oferecendo até 100% de desconto nos encargos para débitos com mais de um ano e parcelamento em até 24 vezes.",
+    "O Grupo Energisa mantém até 31 de dezembro a campanha Negocia Energisa para clientes com ao menos uma fatura vencida em 11 estados, oferecendo descontos de até 98% e parcelamento em até 36 vezes sem juros.",
+    "O Grupo Equatorial atende consumidores residenciais, rurais e da Tarifa Social em 7 estados, exigindo atraso superior a 180 dias ou 90 dias para a Tarifa Social, com parcelamento que chega a 36 vezes e isenção total de encargos."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/fim-de-ano-distribuidoras-de-energia-oferecem-descontos-e-parcelamento-para-renegociar-dividas.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a985df730e95.webp"
   },
   {
    "titulo": "Supermercados atingem maior NPS em 12 meses, aponta índice O Cliente Recomenda",
    "topicos": [
-    "O setor de supermercados brasileiro registrou NPS médio móvel de 12 meses de 65,6 pontos em novembro, segundo o índice \"O Cliente Recomenda\", da SoluCX com a Mercado&Consumo.",
-    "O resultado de novembro representa uma alta de 0,4 ponto em relação a outubro (65,2 pontos) e marca o patamar mais alto da série divulgada desde dezembro de 2025.",
-    "Entre junho e novembro, período de retomada após instabilidades no primeiro semestre, o indicador acumulou um crescimento de 1,2 ponto.",
-    "O índice utiliza uma média móvel de 12 meses com base em avaliações de consumidores para monitorar a experiência com marcas e ampliar a transparência de reputação."
+    "O setor brasileiro de supermercados registrou NPS médio móvel de 12 meses de 65,6 pontos em novembro, segundo o índice \"O Cliente Recomenda\", da SoluCX com a Mercado&Consumo.",
+    "O resultado de novembro representa uma alta de 0,4 ponto sobre outubro (65,2 pontos) e marca o patamar mais alto da série divulgada desde dezembro de 2025.",
+    "Entre junho e novembro, o indicador acumulou um crescimento de 1,2 ponto, impulsionado pela retomada iniciada em julho (64,8 pontos) após o piso de 64,4 pontos registrado em junho.",
+    "O índice utiliza uma média móvel de 12 meses baseada em avaliações de consumidores com experiência nas marcas pesquisadas para minimizar oscilações de amostras menores."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/estudos/supermercados-atingem-maior-nps-em-12-meses-aponta-indice-o-cliente-recomenda/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/51542883d434.webp"
   },
   {
    "titulo": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial'",
    "topicos": [
-    "O governo dos Estados Unidos propôs na quarta-feira (25) novas tarifas de importação de 15% a 35% sobre produtos de 14 parceiros comerciais, visando combater o excesso de capacidade industrial gerado por subsídios estatais.",
-    "A medida afeta 14 economias, incluindo China, União Europeia, Japão e Índia, enquanto México e Noruega ficaram temporariamente de fora por terem análises ainda inconclusivas.",
-    "Para a China, a proposta prevê uma tarifa geral de até 20%, além de taxas de até 10% para determinados itens e isenções para outros, considerando acordo de 30 de outubro de 2025.",
-    "As tarifas propostas ainda não estão em vigor e passarão por consulta pública com prazo até 5 de janeiro de 2027, seguida por audiências marcadas para 25 de janeiro antes da decisão final.",
-    "O plano prevê a dedução de cobranças anteriores da Seção 301 e de tarifas básicas de importação para alguns locais, além de exceções específicas para produtos de todos os países envolvidos.",
-    "Acordos comerciais futuros podem reduzir as alíquotas para 20% no Vietnã, 17% na Índia e 10% em Singapura, conforme as regras anunciadas pelo Escritório do Representante Comercial dos EUA."
+    "O governo dos Estados Unidos propôs nesta quarta-feira (25) novas taxas de importação sobre produtos de 14 parceiros comerciais, visando combater o excesso de capacidade industrial gerado por subsídios estatais e apoio financeiro no exterior.",
+    "O anúncio foi realizado por Jamieson Greer, chefe do Escritório do Representante Comercial dos Estados Unidos (USTR), com base na Seção 301 da Lei de Comércio de 1974 e em investigações iniciadas em 11 de março de 2026.",
+    "As alíquotas sugeridas variam de 15% a 35% conforme o país, abrangendo mercados como China, União Europeia, Japão e Índia, mas ainda não estão em vigor e passarão por consulta pública até 5 de janeiro de 2027.",
+    "Para a China, a proposta estipula uma tarifa geral de até 20%, com taxas menores de até 10% em itens específicos, além de considerar o pacto firmado entre Donald Trump e Xi Jinping em 30 de outubro de 2025.",
+    "México e Noruega foram excluídos da lista inicial de taxação porque a análise do USTR sobre ambos os territórios ainda não foi finalizada, segundo o órgão americano.",
+    "O processo investigativo envolveu 16 economias, escutou cerca de 140 testemunhas e registrou 1.070 comentários, culminando na inclusão de 14 parceiros comerciais na proposta de tributação.",
+    "As novas taxas preveem deduções de cobranças prévias da Seção 301 e tarifas básicas de importação para determinados locais, enquanto Vietnã, Índia e Singapura podem ter reduções caso fechem acordos comerciais."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-novas-tarifas-sobre-14-parceiros-comerciais-para-combater-excesso-de-capacidade-industrial.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e8e75a5328b9.webp"
   },
   {
    "titulo": "Luiz Trabuco: quem é o executivo do Bradesco que está entre os cotados para assumir Ministério da Fazenda",
    "topicos": [
-    "O nome de Luiz Carlos Trabuco ganhou força nesta quarta-feira (25) como cotado para o Ministério da Fazenda, após se reunir fora da agenda com o presidente Lula (PT) na segunda-feira (23), em Brasília.",
-    "Aos 75 anos, Trabuco possui uma trajetória de mais de quatro décadas no Bradesco, onde ingressou como escriturário aos 17 anos e atualmente atua como presidente do Conselho de Administração.",
-    "Em 2023, como membro do Conselhão, o executivo criticou a taxa de juros de 13,65% aplicada na época sob a presidência de Roberto Campos Neto no Banco Central, classificando o custo de capital como proibitivo.",
-    "O executivo já havia sido sondado para a pasta em 2014 pela então presidente Dilma Rousseff, quando declinou do convite e apadrinhou a indicação de Joaquim Levy para o cargo.",
-    "A circulação de seu nome ocorre em meio à pressão do mercado por ajustes fiscais e expectativas sobre a política econômica, cenário em que o dólar subiu para perto de R$ 6.",
-    "Graduado em Filosofia pela FESPSP e com passagens pela presidência da Febraban, Trabuco também assumiu neste mês a presidência do Conselho Superior do Movimento Brasil Competitivo (MBC)."
+    "O nome de Luiz Carlos Trabuco ganhou força na quarta-feira (25) como cotado para assumir o Ministério da Fazenda, após reunir-se fora da agenda com o presidente Lula (PT) na segunda-feira (23), em Brasília.",
+    "Trabuco, que tem 75 anos e mais de quatro décadas de trajetória no Bradesco, preside atualmente o Conselho de Administração do banco e é próximo de Lula, integrando o Conselhão desde 2023.",
+    "Em 2014, Trabuco foi sondado para o ministério pela então presidente Dilma Rousseff, mas declinou, tendo apadrinhado na ocasião a indicação de Joaquim Levy para a pasta.",
+    "Graduado em Filosofia e pós-graduado pela FESPSP, o executivo iniciou sua carreira no Bradesco aos 17 anos como escriturário e comandou a compra do HSBC Brasil em 2015.",
+    "Os rumores sobre o cargo ocorrem em meio à pressão do mercado por ajuste fiscal e expectativas sobre o comando econômico, cenário em que o dólar subiu para perto de R$ 6."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/25/luiz-trabuco-quem-e-o-executivo-cotado-para-ser-ministro-da-fazenda.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/01f27b44a6e4.webp"
   },
   {
    "titulo": "Ouro fecha em queda com perspectiva de alta dos juros nos EUA após PCE",
    "topicos": [
-    "O ouro encerrou o pregão desta quarta-feira (25) em queda na Comex, divisão de metais da bolsa de Nova York (Nymex), estendendo as perdas observadas na véspera.",
-    "O contrato do ouro para dezembro registrou retração de 0,73%, fechando cotado a US$ 3.535,80 por onça-troy, após recuar mais de 2% durante a sessão.",
-    "A prata para o mesmo mês também fechou em baixa, recuando 1,77% e encerrando cotada a US$ 40,058 por onça-troy.",
-    "O movimento de baixa foi impulsionado pelas expectativas de aperto monetário pelo Federal Reserve (Fed), o banco central norte-americano, após a divulgação de dados do PCE.",
-    "O índice de preços de gastos com consumo pessoal (PCE) avançou 3,8% na comparação anual, mantendo-se distante da meta de 2% perseguida pelo Fed, e subiu 0,3% em outubro ante setembro.",
-    "O banco ING avalia que a inflação persistente sela uma alta de 25 pontos-base nos juros pelo Fed na reunião marcada para o dia 9 de dezembro, cenário já precificado pelo mercado."
+    "O ouro encerrou em baixa nesta quarta-feira (25) na bolsa de Nova York (Nymex), pressionado pelas expectativas de aperto monetário pelo Federal Reserve (Fed), o banco central dos Estados Unidos.",
+    "O contrato do ouro para dezembro registrou queda de 0,73%, fechando a US$ 3.535,80 por onça-troy, enquanto a prata para o mesmo mês recuou 1,77%, a US$ 40,058 por onça-troy.",
+    "O índice de preços de gastos com consumo pessoal (PCE) avançou 3,8% na comparação anual e subiu 0,3% em outubro ante setembro, ficando longe da meta de 2% do Fed.",
+    "Especialistas avaliam que a persistência inflacionária quase sela uma alta de 25 pontos-base nos juros pelo Fed na reunião agendada para 9 de dezembro."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ouro-fecha-em-queda-com-perspectiva-de-alta-dos-juros-nos-eua-apos-pce-davs/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/d84cd42e65ed.webp"
   },
   {
    "titulo": "Tarifaço: açúcar brasileiro pode ter nova taxa para entrar nos EUA; veja o que pode mudar",
    "topicos": [
-    "O governo dos Estados Unidos propôs uma nova tarifa sobre o açúcar bruto e refinado importado que ultrapasse as cotas estabelecidas pelo país. A medida foi anunciada pelo representante comercial americano, Jamieson Greer, nesta quarta-feira, e afetará todos os países exportadores sujeitos à regra.",
-    "O objetivo da taxação adicional é impedir que exportadores usem terceiros países para enviar açúcar brasileiro aos EUA, driblando cobranças. A medida visa equilibrar as condições para empresas e trabalhadores americanos e pressionar o Brasil.",
-    "Atualmente, a cota anual para o Brasil é de 100 mil toneladas, com imposto de 25%. Vendas que superam esse limite pagam 37,5%, somando a taxa de 25% a outros 12,5% de negociações comerciais.",
-    "Pela proposta, a cobrança de 25% sobre o excedente da cota seria substituída por uma taxa fixa em dólares por quilograma, mantendo os 12,5% adicionais. A União da Indústria de Cana-de-Açúcar e Bioenergia (Unica) afirmou que ainda analisa os impactos.",
-    "Entre janeiro e outubro de 2026, os EUA foram o 22º destino do setor sucroalcooleiro brasileiro, movimentando cerca de US$ 147 milhões (mais de R$ 863 milhões). Em volume, os americanos compraram 235,2 mil toneladas de um total de 24,9 milhões exportadas pelo Brasil."
+    "O governo dos Estados Unidos propôs a criação de uma nova tarifa sobre o açúcar bruto e refinado importado que ultrapasse as cotas estabelecidas pelo país.",
+    "A medida foi anunciada nesta quarta-feira pelo representante comercial americano, Jamieson Greer, e valerá para todos os países exportadores sujeitos à regra.",
+    "O objetivo da taxação é barrar manobras em que exportadores usam terceiros países para enviar açúcar do Brasil aos EUA e burlar cobranças.",
+    "Atualmente, a cota anual permitida para o Brasil é de 100 mil toneladas, com tributação de 25% para volumes dentro do limite.",
+    "As vendas que excedem a cota pagam atualmente uma taxa de 37,5%, que soma os 25% adicionais e 12,5% de negociações comerciais.",
+    "Se a proposta entrar em vigor, a alíquota de 25% sobre o excedente da cota será trocada por uma cobrança em dólares por quilo comercializado.",
+    "Entre janeiro e outubro de 2026, as exportações do setor sucroalcooleiro para os EUA somaram US$ 147 milhões (mais de R$ 863 milhões)."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/eua-querem-mudar-taxacao-sobre-acucar-brasileiro-veja-como-pode-ficar.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8c1a06b4391a.webp"
   },
   {
    "titulo": "Trump amplia ofensiva comercial e propõe novas tarifas contra Brasil, China e outros parceiros",
    "topicos": [
-    "O governo dos Estados Unidos propôs ampliar tarifas contra o Brasil, a China e outros parceiros comerciais em duas frentes distintas.",
-    "Para o Brasil, Washington quer rever exceções do tarifaço de julho, aplicando uma alíquota adicional de 10% sobre aviões e novas cobranças sobre o açúcar bruto e refinado, sem valores divulgados.",
-    "As medidas contra parceiros como China, Vietnã, Índia e União Europeia decorrem de uma investigação de oito meses sobre excesso de capacidade industrial, com tarifas propostas de até 35%.",
-    "A lista de 14 países taxados inclui Vietnã (até 35%), Índia (até 25%), China e Singapura (até 20%), além de Bangladesh, Camboja, Indonésia, Malásia, Tailândia, União Europeia, Japão, Coreia do Sul, Suíça e Taiwan.",
-    "As novas tarifas são propostas e ainda não estão valendo; interessados podem enviar comentários sobre o caso do Brasil até 30 de dezembro de 2026 e participar da audiência pública em 14 de janeiro de 2027.",
-    "Para a investigação industrial, os comentários por escrito podem ser enviados até 5 de janeiro de 2027, com audiências públicas marcadas para começar em 25 de janeiro de 2027."
+    "O governo dos Estados Unidos propôs novas tarifas comerciais que afetam o Brasil, a China e outros 13 parceiros internacionais, conforme anúncio recente do Escritório do Representante Comercial dos EUA (USTR).",
+    "No caso brasileiro, a proposta busca rever exceções do tarifaço de julho e prevê uma alíquota adicional de 10% sobre aviões prontos, além de cobranças específicas sobre o açúcar bruto e refinado que ainda não tiveram valores divulgados.",
+    "A mudança nas regras para aeronaves pode impactar diretamente a Embraer, visto que os aviões acabados representam o quarto principal produto exportado pelo Brasil para o mercado americano.",
+    "Para combater o excesso de capacidade industrial, os EUA propuseram tarifas para 14 dos 16 parceiros investigados, incluindo até 35% para o Vietnã, até 25% para a Índia, até 20% para China e Singapura, e 15% para a União Europeia.",
+    "As medidas anunciadas ainda não estão em vigor e consistem em propostas sujeitas a alterações, pois o governo americano abriu prazos para consultas públicas, envio de comentários por escrito e realização de audiências.",
+    "Para as mudanças envolvendo o Brasil, os interessados devem enviar pedidos de participação em audiência até 7 de dezembro de 2026, comentários por escrito até 30 de dezembro de 2026, e a audiência ocorrerá em 14 de janeiro de 2027.",
+    "Em relação às tarifas por excesso de capacidade industrial, o envio de comentários por escrito vai até 5 de janeiro de 2027 e as audiências públicas começam em 25 de janeiro de 2027, antes de qualquer decisão final do governo."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8d13adece131.webp"
   },
   {
    "titulo": "CRA aprova destinar verba de fundo federal para saneamento no campo",
    "topicos": [
-    "A Comissão de Agricultura (CRA) aprovou por unanimidade, nesta quarta-feira (25), o substitutivo ao PL 1.087/2024 que direciona verbas federais para saneamento básico em zonas rurais.",
-    "O texto altera a Lei 14.947, de 2024, permitindo que até 3% dos recursos anuais do Orçamento da União destinados ao FIIS financiem esses projetos no campo.",
-    "Terão prioridade a agricultura familiar, as propriedades de até quatro módulos fiscais, e os povos e comunidades tradicionais, cujas iniciativas devem integrar o Plano Nacional de Saneamento Básico.",
-    "A proposta substitui a diretriz inicial que previa o uso do FAT e estabelece que o percentual de 3% passa a ser um limite máximo, sem obrigação de aplicação integral.",
-    "Os projetos precisam ser aprovados pelo comitê gestor do fundo, e o Ministério das Cidades poderá executar as ações de forma direta ou por meio de convênios.",
-    "Emendas parlamentares direcionadas ao FIIS deverão priorizar o saneamento rural, conforme o texto que segue para a Câmara dos Deputados, caso não haja recurso para o Plenário.",
-    "Dados do IBGE de 2023 apontam que a água em rede geral atendia 93% dos domicílios urbanos e 32,3% dos rurais, enquanto o esgotamento sanitário alcançava 78% nas cidades e 9,6% no campo."
+    "A Comissão de Agricultura aprovou em 25/11/2026 o substitutivo ao PL 1.087/2024, que direciona verbas federais para saneamento básico em zonas rurais.",
+    "O texto altera a Lei 14.947, de 2024, permitindo que até 3% dos recursos anuais do Orçamento da União destinados ao FIIS financiem essas obras no campo.",
+    "Terão prioridade a agricultura familiar, propriedades de até quatro módulos fiscais e povos e comunidades tradicionais, integrando o Plano Nacional de Saneamento Básico.",
+    "Dados do IBGE de 2023 apontam que apenas 32,3% dos domicílios rurais tinham água de rede geral (ante 93% urbanos) e 9,6% contavam com esgotamento (ante 78%).",
+    "O projeto inicial previa recursos do FAT, mas a proposta mudou para o FIIS, transformando o percentual mínimo em um limite máximo de 3% sem obrigatoriedade de aplicação.",
+    "A proposta segue para a Câmara dos Deputados caso não haja recurso para votação no Plenário, após aprovação unânime e em decisão terminativa na comissão."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-destinar-verba-de-fundo-federal-para-saneamento-no-campo",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/95384b5699d6.webp"
   },
   {
    "titulo": "Moraes rejeita pedido sobre custeio de R$ 324 mi em penduricalhos",
    "topicos": [
-    "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, rejeitou nesta quarta-feira (25.nov.2026) um pedido da Advocacia Geral da União sobre o custeio de R$ 324 milhões em penduricalhos do Ministério Público da União.",
-    "Moraes entendeu que a definição sobre a abertura de crédito extra para o ano de 2027 é competência do governo federal e do Congresso Nacional, julgando o pleito prejudicado por ser alheio à ação direta de inconstitucionalidade.",
-    "O impasse orçamentário surgiu após decisão do STF que retomou o benefício do quinquênio, o qual concede um acréscimo de 5% a cada 5 anos de carreira, respeitando o limite de 35% e sendo pago acima do teto constitucional de R$ 43.366,19.",
-    "Em 25 de março, o plenário da Corte autorizou o pagamento de benefícios a juízes e membros do Ministério Público em até 70% acima do teto do funcionalismo, com vigência iniciada em abril de 2026.",
-    "No dia 6 de novembro, a AGU requereu orientações do STF sobre a execução do pagamento devido à falta de dotação orçamentária e pediu providências orçamentárias para cumprir as obrigações."
+    "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, rejeitou em 25 de novembro de 2026 um pedido da Advocacia Geral da União sobre o custeio de R$ 324 milhões em penduricalhos.",
+    "A AGU pedia que o STF indicasse como financiar os pagamentos adicionais do Ministério Público da União e determinasse providências orçamentárias devido à insuficiência de verbas.",
+    "Moraes entendeu que a definição sobre a abertura de crédito extra para 2027 é competência exclusiva do governo federal e do Congresso Nacional, considerando o tema estranho à ação.",
+    "O impasse decorre da retomada do benefício do quinquênio pelo STF, que concede 5% de acréscimo salarial a cada 5 anos na carreira, até o limite de 35%.",
+    "Esses adicionais são pagos acima do teto constitucional do funcionalismo público, fixado atualmente em R$ 43.366,19.",
+    "Em 25 de março, o plenário autorizou o pagamento de benefícios a juízes e integrantes do MPU em até 70% além do teto, com as regras valendo desde abril de 2026.",
+    "O Conselho Federal de Justiça havia solicitado anteriormente um crédito extra de R$ 208,9 milhões para 2027, mas desistiu do pedido em 10 de novembro."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-justica/moraes-rejeita-pedido-sobre-custeio-de-r-324-mi-em-penduricalhos/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/6405df2b544e.webp"
   },
   {
    "titulo": "Dólar cai 1,58% a R$ 5,817 com leilões do BC e ajuste fiscal",
    "topicos": [
     "O dólar comercial recuou 1,58% nesta quarta-feira (25.nov.2026) e fechou cotado a R$ 5,817, registrando a terceira sessão consecutiva de baixa no mercado brasileiro.",
-    "Durante o pregão, a moeda norte-americana oscilou entre a máxima de R$ 5,970 e a mínima de R$ 5,805, com uma variação de R$ 0,165 entre os extremos às 17h.",
-    "O Banco Central vendeu US$ 2 bilhões em leilões de linha pela manhã, operação que oferece dólares com compromisso de recompra para ampliar temporariamente a oferta.",
-    "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou que o governo discute medidas para fortalecer as contas públicas preservando gastos sociais, sem PEC pronta.",
-    "Investidores repercutiram a reunião entre o presidente Lula e Luiz Carlos Trabuco, presidente do conselho do Bradesco, no Palácio da Alvorada na segunda-feira (23.nov).",
-    "Nos Estados Unidos, o PIB do terceiro trimestre de 2026 cresceu 4,3% em taxa anualizada, superando a estimativa inicial de 3,4%, enquanto o índice PCE de inflação subiu 0,3% em outubro e 3,8% em 12 meses."
+    "Durante o pregão do dia 25 de novembro, a divisa norte-americana oscilou entre a máxima de R$ 5,970 e a mínima de R$ 5,805, com uma amplitude de R$ 0,165 na cotação de venda às 17h.",
+    "O Banco Central realizou leilões de linha pela manhã, vendendo US$ 2 bilhões com compromisso de recompra futura para ampliar a oferta da moeda e aliviar a taxa de câmbio.",
+    "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou em 25 de novembro que o governo discute medidas para fortalecer as contas públicas, priorizando a preservação de gastos sociais sob orientação do presidente Lula.",
+    "O mercado avaliou a possibilidade de Luiz Carlos Trabuco, presidente do conselho de administração do Bradesco, assumir o Ministério da Fazenda no próximo mandato, após reunião com Lula no Palácio da Alvorada em 23 de novembro.",
+    "Nos Estados Unidos, o PIB do terceiro trimestre de 2026 cresceu 4,3% em taxa anualizada (acima da estimativa inicial de 3,4%) e o índice de inflação PCE avançou 0,3% em outubro, acumulando alta de 3,8% em 12 meses."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/dolar-cai-158-a-r-5817-com-leiloes-do-bc-e-ajuste-fiscal/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/c1fc4c6fe3d6.webp"
   },
   {
    "titulo": "S&P Global coloca ratings ‘AA’ da Nvidia em observação negativa por riscos de governança",
    "topicos": [
-    "A S&P Global Ratings colocou nesta quarta-feira, 25, os ratings de crédito de emissor e da dívida sênior da Nvidia, ambos em 'AA', sob observação negativa para possível rebaixamento.",
-    "A agência citou o aumento dos riscos de gestão e governança corporativa, podendo rebaixar as notas nos próximos 90 dias se identificar falhas persistentes.",
-    "A S&P apontou preocupações com a independência do conselho, falta de planejamento sucessório e dependência excessiva do CEO Jensen Huang após recentes acontecimentos.",
-    "A avaliação de gestão e governança da fabricante de chips foi revisada de 'positiva' para 'neutra', e a S&P planeja se reunir com executivos e conselheiros.",
-    "Jensen Huang retornou imediatamente aos cargos de presidente, CEO e membro do conselho na última segunda-feira, após aprovação unânime do colegiado.",
-    "Um comitê independente foi criado para investigar o envolvimento do CEO com uma operação de inteligência estrangeira, com auxílio de assessoria jurídica externa."
+    "Em 25, a S&P Global Ratings colocou os ratings de crédito da Nvidia (emissor e dívida sênior sem garantia, ambos ‘AA’) em observação negativa (CreditWatch), podendo rebaixá‑los nos próximos 90 dias se persistirem deficiências de governança.",
+    "A medida reflete episódios recentes envolvendo o CEO Jensen Huang, sua saída e retorno, além de dúvidas sobre possíveis violações de controles de exportação e sobre a independência e eficácia do conselho de administração.",
+    "A agência reclassificou sua avaliação de gestão e governança da Nvidia de ‘positiva’ para ‘neutral’ e pretende reunir‑se com conselheiros e executivos para discutir medidas corretivas.",
+    "A S&P destacou a ausência de planejamento sucessório e a dependência excessiva de Huang, afirmando que a saída e a posterior recondução do CEO não responderam suficientemente às questões de supervisão do conselho.",
+    "Um eventual rebaixamento seria limitado a um grau, salvo que investigações ou novas divulgações indiquem prejuízos à reputação ou às perspectivas de negócios; a posição competitiva e o perfil financeiro da empresa permanecem inalterados.",
+    "Na semana anterior, a Moody’s reduziu a perspectiva dos ratings da Nvidia de ‘positiva’ para ‘estável’ após a saída de Huang; a Nvidia anunciou sua reintegração imediata como presidente, CEO e membro do conselho, aprovada por unanimidade após consultas ao governo dos EUA."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/economia/sp-global-coloca-ratings-aa-da-nvidia-em-observacao-negativa-por-riscos-de-governanca/",
-   "categoria": "Mundo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/9dc0002e00c5.webp"
   },
   {
    "titulo": "Ouro fecha em queda com perspectiva de alta nos juros do Fed com inflação persistente",
    "topicos": [
-    "O ouro fechou em queda na quarta‑feira, 25, recuando 0,73% e sendo negociado a US$ 3.535,80 por onça‑troy; a prata também caiu 1,77%, cotada a US$ 40,058 por onça‑troy.",
-    "A desvalorização foi impulsionada pela expectativa de novos aumentos nos juros dos EUA, após o núcleo do índice de preços de gastos com consumo (PCE) registrar alta de 3,3% em outubro, acima da projeção de 3,2% dos analistas da FactSet.",
-    "O banco ING afirmou que a persistência inflacionária “praticamente sela” um ajuste de 25 pontos‑base nos juros do Federal Reserve na reunião de 9 de dezembro, cenário desfavorável ao ouro, que não rende.",
-    "A ferramenta FedWatch, do CME Group, mostrava cerca de 95% de chance de elevação de 25 pb nos juros na reunião de dezembro, com apenas 5% de probabilidade de manutenção da taxa.",
-    "Mesmo com a fraqueza do dólar limitando as perdas, a Sucden Financial manteve postura cautelosa, indicando que os preços dos metais preciosos devem permanecer em patamares mais baixos.",
-    "O ING ainda apontou que a queda nos preços das commodities e o ritmo moderado de crescimento salarial nos EUA podem aliviar as pressões inflacionárias em 2027, reduzindo a necessidade de aperto monetário agressivo, embora persista a preocupação com a retomada da ofensiva tarifária de Donald Trump."
+    "Na quarta-feira, 25, o ouro encerrou em baixa na Comex, divisão de metais da bolsa de Nova York (Nymex), com o contrato para dezembro recuando 0,73% e fechando cotado a US$ 3.535,80 por onça-troy.",
+    "A prata para o mesmo mês também registrou queda, recuando 1,77% e encerrando a sessão negociada a US$ 40,058 por onça-troy na bolsa neoyorquina.",
+    "O núcleo do índice de preços de gastos com consumo (PCE) dos Estados Unidos subiu 3,3% em outubro na base anual, superando a projeção de 3,2% dos analistas da FactSet.",
+    "A inflação persistente nos EUA e o temor de novas tarifas por Washington pressionaram o ouro, embora a desvalorização do dólar tenha contido perdas mais intensas.",
+    "O banco ING avalia que a inflação contínua praticamente garante um aumento de 25 pontos-base nos juros pelo Federal Reserve na reunião marcada para 9 de dezembro.",
+    "A ferramenta FedWatch, do CME Group, indicava por volta das 15h30 (de Brasília) uma probabilidade de cerca de 95% para essa alta de 25 pb, com 5% de chance de manutenção."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/ouro-fecha-em-queda-com-perspectiva-de-alta-nos-juros-do-fed-com-inflacao-persistente/",
-   "categoria": "Economia"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/08e51d55b7e1.webp"
   },
   {
    "titulo": "Menor Preço Brasil: como usar o app para encontrar ofertas de Black Friday?",
    "topicos": [
-    "A Black Friday está marcada para esta sexta-feira (27), período em que consumidores buscam o preço ideal para os produtos desejados utilizando ferramentas de comparação.",
-    "O aplicativo Menor Preço Brasil, criado pela Receita Estadual da Secretaria da Fazenda do Rio Grande do Sul, permite pesquisar valores praticados em estabelecimentos que emitem Nota Fiscal.",
-    "A plataforma atualiza as informações em tempo real por meio de consultas a Notas Fiscais Eletrônicas e de Consumidor Eletrônicas a cada venda a varejo realizada.",
-    "O download do aplicativo é gratuito e está disponível para os sistemas operacionais iOS e Android.",
-    "Para usar, o usuário deve baixar o app, informar a descrição, marca ou código de barras do produto, permitindo que a ferramenta use a localização para achar os menores preços próximos.",
-    "Além do Rio Grande do Sul, a plataforma pode ser utilizada nos estados do Acre, Alagoas, Distrito Federal, Espírito Santo, Pará, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima, Santa Catarina, Sergipe e Tocantins."
+    "O aplicativo Menor Preço Brasil, criado pela Receita Estadual da Secretaria da Fazenda do Rio Grande do Sul, ajuda consumidores a encontrarem ofertas para a Black Friday desta sexta-feira (27).",
+    "A ferramenta utiliza dados de Notas Fiscais Eletrônicas e de Consumidor Eletrônicas, atualizados em tempo real a cada venda a varejo realizada pelos estabelecimentos cadastrados.",
+    "O download do aplicativo é gratuito e pode ser feito em celulares com sistemas operacionais iOS e Android.",
+    "Para realizar a busca, o usuário deve informar a descrição, a marca ou o código de barras do produto desejado, permitindo que o app utilize a geolocalização para achar os menores preços próximos.",
+    "Após a consulta da lista de preços e locais, o consumidor pode escolher o estabelecimento e seguir a rota indicada para chegar até o comércio.",
+    "A plataforma está disponível no Rio Grande do Sul e em mais 14 unidades federativas: Acre, Alagoas, Distrito Federal, Espírito Santo, Pará, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima, Santa Catarina, Sergipe e Tocantins."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/consumo/menor-preco-brasil-como-usar-black-friday/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/ca1b23263d6d.webp"
   },
   {
    "titulo": "USP diz que Haddad voltará a dar aulas na pós-graduação em Ciência Política em 2027",
    "topicos": [
-    "O ex-ministro da Fazenda Fernando Haddad retomará suas atividades docentes na Universidade de São Paulo em 2027, conforme confirmação da instituição divulgada ao g1.",
-    "Ele atuará na pós-graduação em Ciência Política, ministrando a disciplina intitulada Acumulação primitiva, capitalismo super industrial e classes sociais.",
-    "Haddad estava licenciado da USP em razão de sua atuação no governo federal sob a gestão do presidente Luiz Inácio Lula da Silva.",
-    "Em reunião realizada no Palácio do Planalto na terça-feira (24), o ex-ministro comunicou ao presidente que não assumirá funções na próxima gestão.",
-    "Durante o encontro, Lula sondou Haddad para chefiar uma nova secretaria de investimentos, mas o ex-ministro recusou por desejar retornar à academia e à família.",
-    "Entre as motivações para a decisão estão a vontade de passar mais tempo em São Paulo, sua cidade natal, e o encerramento de missões públicas difíceis."
+    "O ex-ministro da Fazenda Fernando Haddad retomará suas atividades docentes na Universidade de São Paulo no ano de 2027.",
+    "A instituição confirmou que ele foi credenciado para ministrar a disciplina de pós-graduação em Ciência Política intitulada Acumulação primitiva, capitalismo super industrial e classes sociais.",
+    "Haddad estava licenciado da USP em razão de sua atuação no governo liderado pelo presidente Luiz Inácio Lula da Silva.",
+    "Em reunião realizada na terça-feira (24) no Palácio do Planalto, o ex-ministro comunicou a Lula que recusou o convite para assumir um cargo na próxima gestão.",
+    "O ex-ministro manifestou o desejo de retornar à rotina acadêmica, passar mais tempo com sua família e residir em sua cidade natal, São Paulo.",
+    "Em meio à movimentação política, o nome de Luiz Carlos Trabuco ganhou força para assumir o Ministério da Fazenda, após reuniões com o presidente Lula."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/25/usp-haddad-pos-graduacao-2027.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/c00a1b74b887.webp"
   },
   {
    "titulo": "Paim volta a defender mudança na contribuição previdenciária das empresas",
    "topicos": [
-    "Em pronunciamento no Plenário nesta quarta-feira (25), o senador Paulo Paim (PT-RS) defendeu a mudança na contribuição previdenciária das empresas prevista na PEC 1/2026.",
-    "A proposta, apresentada pelo senador Laércio Oliveira (PP-SE), estabelece que a contribuição patronal seja calculada sobre a receita ou o faturamento, com alíquota máxima de 1,4%.",
-    "Paim destacou que já havia apresentado um projeto com essa mesma diretriz em 2004 (PLS 166/2004) e explicou que a reforma tributária exigiu a criação de uma PEC para efetivar a medida.",
-    "Durante o discurso, o parlamentar mencionou a proximidade do encerramento de seus 40 anos de atuação no Congresso Nacional e agradeceu aos colegas e servidores.",
-    "Sua última participação no Senado está prevista para o dia 10 de dezembro, data em que se celebra o Dia Internacional dos Direitos Humanos, marcando o fim de seus mandatos sem deixar a política."
+    "O senador Paulo Paim (PT-RS) defendeu, em pronunciamento no Plenário nesta quarta-feira (25), a alteração na contribuição previdenciária empresarial prevista na PEC 1/2026.",
+    "A proposta, apresentada pelo senador Laércio Oliveira (PP-SE), estabelece que a cobrança patronal incida sobre a receita ou faturamento, com teto de 1,4%, substituindo o cálculo sobre a folha salarial.",
+    "Paim destacou que já havia sugerido medida semelhante em 2004 por meio do PLS 166/2004, mas pontuou que a reforma tributária exigiu o formato de emenda constitucional.",
+    "O parlamentar mencionou a proximidade do encerramento de sua trajetória de 40 anos no Congresso Nacional e afirmou que sua última participação como senador deve ocorrer em 10 de dezembro."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/paim-volta-a-defender-mudanca-na-contribuicao-previdenciaria-das-empresas",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/7a7525d21b2b.webp"
   },
   {
    "titulo": "Moraes rejeita pedido para STF indicar como devem ser custeados R$ 324 milhões em 'penduricalhos' no MPU",
    "topicos": [
-    "O ministro Alexandre de Moraes, do STF, rejeitou um pedido para que a Suprema Corte indique como devem ser financiadas despesas extras estimadas em R$ 324 milhões no MPU.",
-    "Moraes pontuou que resolver impasses orçamentários não é função do Supremo, cabendo ao governo e ao Congresso viabilizar os recursos necessários.",
-    "A solicitação foi apresentada ao STF pela AGU, que pediu esclarecimentos sobre a exigência de autorização judicial para abrir um crédito adicional para o MPU.",
-    "A AGU argumentou que o limite de despesas primárias do MPU estava esgotado e que o orçamento de 2026 não comportaria os custos sem comprometer a instituição.",
-    "O impacto financeiro decorre da Parcela de Valorização por Tempo de Antiguidade na Carreira (PVTAC), benefício validado pelo STF em março de 2024."
+    "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, rejeitou um pedido para que a Corte indique como custear despesas extras estimadas em R$ 324 milhões no Ministério Público da União.",
+    "Moraes pontuou que o STF não deve resolver impasses orçamentários, cabendo ao governo e ao Congresso viabilizar os recursos por meio de medidas administrativas e legislativas.",
+    "A solicitação foi feita pela Advocacia-Geral da União, que pediu orientações sobre a necessidade de autorização judicial para abrir um crédito adicional para o MPU.",
+    "A AGU argumentou que o limite de gastos primários da instituição estava esgotado e que o orçamento de 2026 ficaria comprometido sem uma solução para as obrigações extras.",
+    "O impacto financeiro decorre da Parcela de Valorização por Tempo de Antiguidade na Carreira, benefício validado pelo STF em março deste ano para magistratura e Ministério Público.",
+    "O pagamento da parcela foi autorizado de forma imediata pelo STF, abrangendo inclusive aposentados e pensionistas, até que o Congresso aprove uma lei nacional sobre os penduricalhos."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/25/moraes-rejeita-pedido-para-stf-indicar-como-devem-ser-custeados-r-324-milhoes-em-penduricalhos-no-mpu.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/acbf712c454c.webp"
   },
   {
    "titulo": "Embraer e Alada assinam acordo para expandir vendas de aeronaves militares",
    "topicos": [
-    "A Embraer e a Empresa de Projetos Aeroespaciais do Brasil (Alada) firmaram um acordo-quadro nesta quarta-feira, 25, para expandir as vendas dos aviões KC-390 Millennium e A-29 Super Tucano.",
-    "A parceria comercial utiliza o modelo de contratação governo a governo (G2G) e visa explorar novas oportunidades de negócios em mercados da América Latina e da África.",
-    "O entendimento atual consolida a cooperação iniciada anteriormente por meio de um Memorando de Entendimento assinado em abril deste ano.",
-    "Segundo a Embraer Defesa & Segurança, o arranjo facilita o acesso de nações estrangeiras ao portfólio de defesa da fabricante por meio de acordos diplomáticos e institucionais.",
-    "O modelo KC-390 Millennium é uma aeronave multimissão que já foi escolhida pelas forças aéreas de Portugal, da Hungria e da Coreia do Sul.",
-    "O A-29 Super Tucano é voltado para missões de treinamento, vigilância, combate a atividades ilícitas e operação em ambientes austeros com infraestrutura limitada."
+    "Em 25 de 2024, a Embraer e a Alada (Empresa de Projetos Aeroespaciais do Brasil) assinaram um acordo‑quadro para ampliar as vendas dos aviões militares KC‑390 Millennium e A‑29 Super Tucano por meio de contratos governo a governo.",
+    "O acordo estabelece diretrizes para buscar novas oportunidades de negócios na América Latina e na África, dando continuidade ao Memorando de Entendimento firmado entre as partes em abril de 2024.",
+    "Fabio Caparica, vice‑presidente de Contratos da Embraer Defesa & Segurança, afirmou que o pacto facilita o acesso de países ao portfólio da Embraer que utilizam o modelo G2G, promovendo cooperação internacional.",
+    "Sergio Roberto de Almeida, presidente da Alada, destacou que o documento representa um marco para o modelo G2G no Brasil, criando condições para futuras oportunidades relacionadas ao KC‑390 e ao A‑29.",
+    "O KC‑390 Millennium já foi escolhido por forças aéreas de Portugal, Hungria e Coreia do Sul, sendo uma aeronave multimissão capaz de operar em diferentes cenários.",
+    "O A‑29 Super Tucano é indicado para treinamento, vigilância e combate a ilícitos, operando em ambientes austeros e pistas com infraestrutura limitada, oferecendo alta confiabilidade e baixos custos operacionais."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/economia/embraer-e-alada-assinam-acordo-para-expandir-vendas-de-aeronaves-militares/",
-   "categoria": "Varejo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/09f05aadb205.webp"
   },
   {
    "titulo": "EUA estendem até março tarifas reduzidas para carros do México e Canadá",
    "topicos": [
-    "O Departamento de Comércio dos Estados Unidos adiou de 1º de dezembro de 2026 para 1º de março de 2027 o vencimento das autorizações para tarifas reduzidas em carros do México e Canadá.",
-    "A prorrogação contempla veículos que se qualificam ao tratamento preferencial estabelecido pelo acordo comercial USMCA entre os três países norte-americanos.",
-    "O prazo para os importadores entregarem nova documentação passou de 30 de setembro para 30 de dezembro deste ano, conforme documento oficial.",
-    "As próximas autorizações emitidas pelo governo dos EUA serão válidas para automóveis importados até o encerramento de fevereiro de 2028.",
-    "A extensão ocorreu devido à necessidade de mais tempo para analisar e processar os pedidos, frente ao volume de solicitações e à capacidade de atendimento.",
-    "Em março de 2025, o presidente norte-americano Donald Trump aplicou uma taxa de 25% sobre certos carros e autopeças via Seção 232 da Lei de Expansão Comercial."
+    "O Departamento de Comércio dos Estados Unidos adiou de 1 de dezembro de 2026 para 1 de março de 2027 a validade das autorizações de tarifas reduzidas para carros do México e do Canadá.",
+    "A prorrogação contempla veículos importados que possuem tratamento preferencial conforme o acordo comercial USMCA firmado entre os três países envolvidos.",
+    "O prazo para os importadores entregarem uma nova documentação foi estendido de 30 de setembro para 30 de dezembro deste ano, conforme documento oficial.",
+    "As novas autorizações que forem emitidas passarão a valer para automóveis importados até o encerramento do mês de fevereiro de 2028 nos Estados Unidos.",
+    "O governo norte-americano motivou a extensão pela exigência de mais tempo para processar os pedidos devido ao volume e à capacidade operacional."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/economia/eua-estendem-ate-marco-tarifas-reduzidas-para-carros-do-mexico-e-canada/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/03e68a34847a.webp"
   },
   {
    "titulo": "Embraer reage a possível tarifa de 10% dos EUA e defende isenção: 'vigente desde a década de 1980'",
    "topicos": [
-    "A Embraer declarou nesta quarta-feira (25) que analisa um relatório do governo dos EUA que sugere uma tarifa de 10% na importação de aeronaves acabadas do Brasil.",
-    "A companhia brasileira defende a permanência do regime de tarifa zero para o setor aeroespacial global, que está em vigor desde a década de 1980.",
-    "A fabricante possui mais de 45 anos de investimentos nos EUA, acumulando US$ 3,5 bilhões em ativos, instalações industriais e mais de 2.500 empregados locais.",
-    "O governo americano alega que a proposta visa pressionar o Brasil a alterar práticas comerciais, mas a tarifa ainda não vale e passa por consulta pública.",
-    "Após o anúncio, as ações da Embraer recuaram cerca de 7%, chegando a cair 9,2% no pregão de quarta-feira (25) com mínima de R$ 97,61."
+    "A Embraer está analisando um relatório do governo dos EUA que prevê a possibilidade de aplicar tarifa de 10% sobre a importação de aeronaves acabadas produzidas no Brasil; a medida ainda está em fase de consulta pública e depende de decisão final.",
+    "A empresa defende a manutenção do regime de tarifa zero, vigente desde a década de 1980, e destaca sua presença nos EUA há mais de 45 anos, com instalações industriais, US$ 3,5 bilhões em ativos e mais de 2.500 funcionários espalhados pelo país.",
+    "A Embraer afirma que seus investimentos geram benefícios econômicos bilaterais, incluindo um superávit comercial de US$ 8 bilhões para a economia americana nos próximos cinco anos.",
+    "Segundo o Escritório do Representante de Comércio dos EUA (USTR), aviões prontos ocupam a quarta posição entre os produtos mais exportados pelo Brasil para o mercado americano.",
+    "As ações da Embraer caíram cerca de 7% após o anúncio; no pregão da quarta‑feira (25) recuaram até 9,2%, atingindo mínima de R$ 97,61, e às 15h40 estavam 4% em baixa, embora ainda acumulem valorização superior a 16% no ano.",
+    "Analistas alertam que a tarifa poderia reduzir margens de lucro, encarecer as aeronaves e afetar futuras encomendas, mas parte desse custo poderia ser repassada às companhias aéreas americanas.",
+    "O governo dos EUA justifica a possível tarifa como forma de pressionar o Brasil a rever práticas comerciais que considera prejudiciais aos interesses americanos."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-embraer-tarifa.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/9bcc7c8051d1.webp"
   },
   {
    "titulo": "EUA deixam de lado proposta de acordos comerciais com Rússia para tentar encerrar guerra na Ucrânia, diz jornal",
    "topicos": [
-    "Os EUA abandonaram discretamente propostas de acordos comerciais com a Rússia que visavam incentivar Moscou a encerrar a guerra na Ucrânia, após a Rússia demonstrar pouco interesse, conforme informou a Reuters em 25 de março, citando o Financial Times.",
-    "Steve Witkoff e Jared Kushner, enviados do presidente Donald Trump, comunicaram a autoridades europeias que parcerias entre empresas americanas e russas deixaram de ser foco da estratégia americana para pressionar a Rússia.",
-    "As negociações incluíam possíveis investimentos dos EUA nos setores de energia e aviação, como projetos petrolíferos russos e produção de titânio, mas o governo de Vladimir Putin esfriou o interesse nas iniciativas.",
-    "Autoridades russas mantiveram exigências de que a Ucrânia ceda territórios e aceite outras concessões consideradas inaceitáveis por Kiev, deixando claro que não estavam dispostas a avançar nas propostas comerciais.",
-    "Em outubro, Kushner e outras autoridades americanas discutiram a participação de um investidor dos EUA nos gasodutos Nord Stream, que antes da invasão transportavam gás russo para a Alemanha, além de investimentos em petróleo e titânio.",
-    "Também em outubro, o governo Trump suspendeu temporariamente sanções americanas sobre combustíveis russos depois que a Rússia concordou em fornecer diesel ao mercado internacional para tentar reduzir os preços dos combustíveis."
+    "O governo dos Estados Unidos abandonou discretamente propostas de acordos comerciais com a Rússia que visavam incentivar o fim da guerra na Ucrânia, segundo o jornal Financial Times e a agência Reuters nesta quarta-feira (25).",
+    "Os enviados de Donald Trump, Steve Witkoff e Jared Kushner, comunicaram a autoridades europeias que as parcerias entre empresas americanas e russas saíram do foco da estratégia dos EUA.",
+    "As negociações envolveram discussões em outubro entre autoridades dos dois países sobre investimentos em projetos petrolíferos, produção de titânio e possível participação em gasodutos Nord Stream.",
+    "A iniciativa perdeu força porque Moscou demonstrou desinteresse e manteve exigências de paz, como a cessão de territórios pela Ucrânia e outras concessões consideradas inaceitáveis por Kiev.",
+    "Em outubro, a administração Trump suspendeu temporariamente sanções sobre combustíveis russos após Moscou concordar em fornecer diesel para mercados internacionais e tentar baixar preços."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-deixam-de-lado-proposta-de-acordos-comerciais-com-russia-para-tentar-encerrar-guerra-na-ucrania-diz-jornal.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/73915a7ccd98.webp"
   },
   {
    "titulo": "Rating em alerta: S&P ameaça rebaixar nota de crédito da Nvidia após crise envolvendo Jensen Huang",
    "topicos": [
-    "A S&P Global Ratings colocou em observação para possível rebaixamento os ratings de crédito de emissor e da dívida sênior sem garantia da Nvidia, ambos em “AA”, dois dias após a volta de Jensen Huang ao comando.",
-    "Anunciada nesta quarta-feira (25), a medida decorre de apreensões sobre a supervisão da diretoria na conduta executiva e de suspeitas de possíveis infrações aos controles de exportação.",
-    "A agência estipulou um prazo de 90 dias para reavaliar as classificações se constatar que as falhas de governança continuam presentes na fabricante de chips.",
-    "O fundador Jensen Huang havia saído da chefia em 12 de novembro devido a boatos de relações extraconjugais, retornando por unanimidade pelo conselho 11 dias depois, em 23 de novembro.",
-    "A Nvidia manteve aberta uma investigação independente para apurar o suposto envolvimento do executivo com operação de inteligência estrangeira, enquanto Colette Kress segue como CFO.",
-    "A S&P modificou a nota de gestão e governança de “positiva” para “neutra”, citando a carência de planejamento sucessório e a forte dependência da empresa em relação a Huang.",
-    "Na semana anterior, a Moody’s já havia baixado de “positiva” para “estável” a perspectiva das notas da empresa em decorrência da saída inicial do dirigente."
+    "Dois dias após o retorno de Jensen Huang ao comando da Nvidia, a S&P Global Ratings colocou em observação para possível rebaixamento os ratings de crédito de emissor e da dívida sênior sem garantia da companhia, ambos classificados como “AA”.",
+    "Anunciada nesta quarta-feira (25), a medida decorre de apreensões quanto à supervisão do conselho administrativo sobre o comportamento dos dirigentes e de dúvidas a respeito de possíveis infrações aos controles de exportação.",
+    "A S&P determinou um prazo de 90 dias para avaliar se o rebaixamento das notas será efetivado, caso constate a continuidade das falhas de governança na fabricante de chips.",
+    "Jensen Huang havia deixado o cargo em 12 de novembro devido a notícias de relacionamentos extraconjugais, incluindo uma subordinada, e suspeitas não comprovadas de ligação de uma ex-parceira com serviços de inteligência chineses.",
+    "O conselho reconduziu Huang ao posto por unanimidade em 23 de novembro, enquanto a empresa manteve aberta uma investigação independente para apurar se ele foi alvo de uma operação de inteligência estrangeira.",
+    "A agência de classificação alterou a avaliação de gestão e governança da companhia de “positiva” para “neutra”, apontando ainda deficiência no planejamento de sucessão e forte dependência da empresa em relação ao CEO."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/rating-em-alerta-sp-ameaca-rebaixar-nota-de-credito-da-nvidia-apos-crise-envolvendo-jensen-huang-miql/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bb31636e5c28.webp"
   },
   {
    "titulo": "Áudio: Fim do trabalho intermitente recebe parecer contrário na CDH",
    "topicos": [
-    "A Comissão de Direitos Humanos (CDH) emitiu nesta quarta-feira (25) um parecer contrpario ao projeto que visa encerrar o contrato de trabalho intermitente, originado pela reforma trabalhista de 2017 por meio do PLS 253/2017.",
-    "A proposta de extinção da modalidade foi redigida pelo senador Paulo Paim (PT-RS) e recebeu recomendação desfavorável à sua aprovação pelo relator da matéria, senador Sargento Reginauro (PSDB-CE).",
-    "O modelo de trabalho intermitente possibilita que o funcionário preste serviços em turnos alternados, de acordo com a necessidade da empresa, recebendo remuneração proporcional às horas efetivamente exercidas.",
-    "Apesar da rejeição na CDH, o trâmite da proposta continua e o texto passará por novas análises na Comissão de Assuntos Econômicos (CAE) e na Comissão de Constituição e Justiça (CCJ).",
-    "A palavra final sobre o projeto caberá à Comissão de Assuntos Sociais (CAS), órgão responsável pela decisão definitiva a respeito da continuidade ou fim dessa modalidade de contrato."
+    "Em 25/11/2026, a Comissão de Direitos Humanos (CDH) aprovou parecer contrário ao projeto que pretende acabar com o contrato de trabalho intermitente, criado pela reforma trabalhista de 2017 (PLS 253/2017).",
+    "O relator do parecer foi o senador Sargento Reginauro (PSDB-CE), que recomendou a rejeição da proposta apresentada pelo senador Paulo Paim (PT-RS).",
+    "O trabalho intermitente permite ao empregado prestar serviços em períodos alternados, conforme a demanda do empregador, recebendo apenas pelas horas efetivamente trabalhadas.",
+    "A decisão da CDH não encerra a tramitação; o projeto seguirá para análise da Comissão de Assuntos Econômicos (CAE) e da Comissão de Constituição e Justiça (CCJ).",
+    "A deliberação final sobre a proposta caberá à Comissão de Assuntos Sociais (CAS), que decidirá se o projeto será mantido ou alterado.",
+    "O parecer foi divulgado às 17h44, na mesma data da votação, sem indicar prazo para as próximas etapas."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/fim-do-trabalho-intermitente-recebe-parecer-contrario-na-cdh",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "sem_imagem": true
   },
   {
    "titulo": "Subcomissão Yanomami aprova relatório que propõe plano decenal de proteção",
    "topicos": [
-    "A Subcomissão Permanente dos Povos Indígenas Yanomami, vinculada à CDH, aprovou nesta quarta-feira (25) um relatório com propostas voltadas à proteção e ao atendimento da etnia.",
-    "O documento foi apresentado pela presidente do colegiado, senadora Damares Alves (Republicanos-DF), após diligência realizada em outubro no município de São Gabriel da Cachoeira (AM).",
-    "As visitas técnicas e a audiência pública ocorreram, respectivamente, nos dias 28 e 30 de outubro, com o propósito de fiscalizar a saúde e a segurança territorial indígena.",
-    "A principal recomendação do texto é a criação de um plano decenal de proteção para substituir medidas emergenciais por políticas públicas de longo prazo integradas ao PPA e ao orçamento.",
-    "O relatório aponta melhorias na saúde, como queda em óbitos por malária e desnutrição, mas relata carência de remédios, problemas logísticos e a permanência do garimpo ilegal."
+    "A Subcomissão Permanente dos Povos Indígenas Yanomami, ligada à Comissão de Direitos Humanos (CDH), aprovou um relatório de diligência na quarta-feira (25). O texto foi apresentado pela presidente do colegiado, senadora Damares Alves (Republicanos-DF).",
+    "A investigação ocorreu em outubro, com visitas técnicas em 28 de outubro e audiência pública em 30 de outubro, realizadas no município de São Gabriel da Cachoeira (AM).",
+    "O principal objetivo foi fiscalizar políticas públicas, checar o atendimento à saúde dos indígenas e averiguar a segurança territorial na região.",
+    "O documento aponta progressos na saúde, com mais equipes e queda nos óbitos por malária e desnutrição grave, mas relata escassez de remédios, problemas logísticos e insegurança alimentar.",
+    "A principal recomendação é criar um plano decenal de proteção aos ianomâmis para substituir ações emergenciais por políticas públicas de longo prazo, integradas ao Plano Plurianual e ao orçamento.",
+    "O relatório relata a continuidade do garimpo ilegal e aponta pedidos de melhorias em educação, proteção de mulheres e crianças, documentação civil e atendimento intercultural."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/subcomissao-yanomami-aprova-relatorio-que-propoe-plano-decenal-de-protecao",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/c29ce845868d.webp"
   },
   {
    "titulo": "A influenciadora que ficou 2 meses internada em clínica psiquiátrica por um erro: 'Fui rotulada como psicótica por ser mulher'",
    "topicos": [
-    "A influenciadora Sabrina Bahsoon, conhecida mundialmente como Tube Girl e de 26 anos, ficou dois meses internada compulsoriamente em uma ala psiquiátrica após apresentar sintomas que foram inicialmente rotulados como um episódio psicótico.",
-    "Os primeiros sintomas surgiram em março, em Londres, levando a internações após crises de agitação e comportamentos violentos, período em que recebeu tratamento com medicamentos antipsicóticos que a deixaram catatônica.",
-    "A verdadeira causa foi descoberta após a insistência de sua família e de um amigo neurologista em exames adicionais, revelando que ela sofria de encefalite anti-receptor NMDA, uma doença autoimune rara desencadeada por tumores nos ovários.",
-    "Em junho, a criadora de conteúdo passou por uma cirurgia para a remoção dos tumores, procedimento que gerou uma mudança drástica e positiva em seu comportamento, permitindo que ela iniciasse sua recuperação na Malásia.",
-    "O hospital responsável pelo primeiro atendimento pediu desculpas pela experiência da paciente, admitiu falhas na avaliação inicial e abriu uma investigação sobre os cuidados prestados, enquanto Bahsoon defende a realização de exames padrão para sintomas psiquiátricos."
+    "A influenciadora Sabrina Bahsoon, conhecida como Tube Girl e de 26 anos, foi internada compulsoriamente em uma ala psiquiátrica em Londres após apresentar sintomas como gritos, choro, comportamento violento e alucinações em março deste ano.",
+    "Inicialmente, os médicos atribuíram o quadro a estresse e falta de sono, mas a família insistiu em exames adicionais após ela ser tratada com medicamentos antipsicóticos por dois meses.",
+    "Dois meses após o início da internação, foi descoberto que ela sofria de encefalite anti-receptor NMDA, uma doença autoimune rara causada por tumores ovarianos que provocam sintomas psiquiátricos.",
+    "Bahsoon passou por uma cirurgia para a remoção dos tumores em junho, o que provocou uma mudança drástica em seu comportamento, permitindo que ela retornasse à Malásia para se recuperar e fazer terapia.",
+    "O Imperial College Healthcare NHS Trust pediu desculpas pela experiência da influenciadora, informou que abriu uma investigação sobre os cuidados recebidos e admitiu que falhas ocorreram na avaliação inicial.",
+    "Especialistas apontam que a encefalite afeta principalmente jovens e mulheres, sendo estimada em cerca de 6 mil casos por ano no Reino Unido pela organização Encephalitis International."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/ck879j789y1zo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6b9317b4fc24.webp"
   },
   {
    "titulo": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
    "topicos": [
-    "A escritora canadense Naomi Klein, professora de justiça climática na Universidade da Colúmbia Britânica, afirmou em entrevista que a coexistência com bilionários não é mais viável para a sociedade.",
-    "Entre as obras de Klein destacam-se 'Sem Logo' (1999, Editora Record) e 'A Doutrina do Choque' (2008, Editora Nova Fronteira), que abordam a exploração do trabalho e o lucro sobre crises coletivas.",
-    "O livro mais recente de Klein, escrito com Astra Taylor, chama-se 'Fascismo do Fim dos Tempos e a Luta pela Vida no Mundo' e será lançado no Brasil em 2027 pela editora Carambaia.",
-    "Klein alerta que a corrida entre empresas de tecnologia pelo domínio da inteligência artificial concentra riqueza, mas a eventual ruptura dessa bolha superará a crise financeira de 2008 em gravidade.",
-    "A autora cita o empresário Peter Thiel como fundador da empresa de armas autônomas Anduril, avaliada em US$ 60 bilhões, e aponta o envolvimento de figuras como Elon Musk em cortes de gastos públicos federais.",
-    "Segundo Klein, o fascismo surge em momentos de crise para canalizar a raiva pública contra bodes expiatórios vulneráveis, em vez de questionar as falhas estruturais do sistema capitalista."
+    "A escritora e professora canadense Naomi Klein criticou a concentração de riqueza e afirmou que a sociedade não pode mais coexistir com bilionários, argumentando que o capitalismo falhou em atender às necessidades básicas da humanidade.",
+    "Entre as obras de Klein destacam-se 'Sem Logo', de 1999, que investigou o custo humano de marcas globais, e 'A Doutrina do Choque', de 2008, que aponta como agentes de mercado lucram com a desorientação pública após desastres.",
+    "Seu livro mais recente, escrito com Astra Taylor, aborda o que chamam de 'Fascismo do Fim dos Tempos' e será lançado no Brasil em 2027 pela editora Carambaia.",
+    "Klein alertou que a disputa global entre empresas de tecnologia pelo predomínio da inteligência artificial está enriquecendo bilionários e que o estouro dessa bolha poderá ser pior do que a crise financeira de 2008.",
+    "A autora citou o empresário Peter Thiel, fundador de empresas como a Palantir e da Anduril (avaliada em US$ 60 bilhões), criticando seu ceticismo em relação à democracia e sua forte ligação com o sistema de defesa dos Estados Unidos.",
+    "Ela também mencionou Elon Musk, destacando sua atuação como chefe do departamento DOGE criado pelo governo Trump em 2025, o qual promoveu cortes profundos de gastos públicos e afetou órgãos como a agência USAID."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/c60md8pz90pko?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/2e1d801b02a1.webp"
   },
   {
    "titulo": "Dólar fecha com queda de 1,5%, a R$ 5,82, com especulações sobre ministro da Fazenda",
    "topicos": [
-    "O dólar à vista encerrou a sessão de quarta-feira com recuo de 1,53%, cotado a R$ 5,8179, acumulando alta de 5,99% no ano. A cotação máxima intradia foi de R$ 5,9734 às 9h01 e a mínima de R$ 5,8049 às 15h00.",
-    "O dólar futuro para dezembro na B3 (DOLX26) cedia 1,52% às 17h03, negociado a R$ 5,8200. No comércio, a compra e a venda fecharam cotadas a R$ 5,817.",
-    "A queda da moeda ocorreu na contramão do exterior devido à expectativa de novas medidas fiscais e especulações de que o banqueiro Luiz Carlos Trabuco assumiria o Ministério da Fazenda.",
-    "O Banco Central injetou US$ 2 bilhões no mercado por meio de um leilão de linha com compromisso de recompra, dando liquidez e atendendo à demanda sazonal de fim de ano para remessas.",
-    "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou que não há uma PEC pronta sobre despesas obrigatórias, mas que a equipe econômica debate medidas para cumprir metas fiscais.",
-    "O BC realizou a venda de 75.000 contratos de swap cambial para rolagem de janeiro e informou um fluxo cambial total negativo de US$ 2,301 bilhões em novembro até o dia 19."
+    "O dólar à vista encerrou a quarta-feira com queda de 1,53%, cotado a R$ 5,8179, na contramão do exterior. No acumulado do ano, a moeda registra alta de 5,99%.",
+    "O dólar futuro para dezembro na B3 caiu 1,52%, fechando a R$ 5,8200 às 17h03. Durante o dia, a cotação oscilou entre a máxima de R$ 5,9734 e a mínima de R$ 5,8049.",
+    "O Banco Central injetou US$ 2 bilhões no mercado por meio de leilão de linha para dar liquidez, atender à demanda de fim de ano e conter o ímpeto comprador.",
+    "O mercado reagiu a expectativas sobre a área fiscal e especulações de que o banqueiro Luiz Carlos Trabuco possa assumir o Ministério da Fazenda no quarto mandato de Lula.",
+    "O ministro do Planejamento, Bruno Moretti, afirmou que o governo ainda não tem pronta uma PEC sobre despesas obrigatórias, mas que a equipe econômica discute medidas fiscais.",
+    "O Banco Central vendeu 75.000 contratos de swap cambial para rolagem de janeiro e informou um fluxo cambial negativo de US$ 2,301 bilhões em novembro até o dia 19."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25112026/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/6a16ee069ef1.webp"
   },
   {
    "titulo": "'Meio milhão de mortos': vazamento de dados revela números impressionantes de soldados russos que perderam a vida na guerra na Ucrânia",
    "topicos": [
     "Dados vazados da agência de estatísticas russa Rosstat, analisados pela BBC, indicam que pelo menos 490.334 soldados russos morreram desde o início da guerra na Ucrânia, em 2022.",
-    "A análise teve acesso a mais de 11 milhões de registros de óbitos entre 2021 e setembro de 2026, obtidos após um ataque cibernético reivindicado pelos grupos Cyber Partisans BY e Silent Crow.",
-    "O porta-voz do Kremlin, Dmitry Peskov, declarou em 25/11 que apenas o Ministério da Defesa pode divulgar dados sobre baixas, enquanto a pasta permanece sem informar o volume de vítimas desde a invasão.",
-    "Especialistas estimam que a lista oficial paralela da BBC, com 290.012 mortes apuradas, representa de 45% a 55% do total real, que pode variar entre 527.295 e 644.471 óbitos.",
-    "O levantamento aponta que 65% dos russos entre 18 e 24 anos mortos em 2025 combatiam na guerra, taxa que foi de 59% na faixa etária de 25 a 34 anos.",
-    "Homens de regiões mais pobres a leste da Sibéria, como Tuva, Buriátia e Krai de Zabaykalsky, têm entre 20 e 25 vezes mais chances de morrer no conflito do que moradores de Moscou e São Petersburgo."
+    "O acesso aos mais de 11 milhões de registros de óbitos entre 2021 e setembro de 2026 ocorreu após um ataque cibernético realizado pelos grupos Cyber Partisans BY e Silent Crow.",
+    "Especialistas militares estimam que o total real de vítimas fatais da Rússia no conflito varie entre 527.295 e 644.471 soldados mortos.",
+    "O levantamento aponta que seis em cada dez russos, ou 65%, com idade entre 18 e 24 anos mortos em 2025 estavam combatendo na guerra, índice que foi de 59% na faixa de 25 a 34 anos.",
+    "Homens de regiões mais pobres a leste da Sibéria, como Tuva, Buriátia e Krai de Zabaykalsky, têm entre 20 e 25 vezes mais chances de morrer na guerra do que moradores de Moscou e São Petersburgo.",
+    "O porta-voz do Kremlin, Dmitry Peskov, declarou em pronunciamento em 25 de novembro que apenas o Ministério da Defesa pode divulgar números de baixas e que outros dados devem ser desconsiderados."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/ckdd1zq7r56no?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/95b01a5e858d.webp"
   },
   {
    "titulo": "Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito; veja VÍDEO",
    "topicos": [
-    "Pelo menos 30 pessoas morreram e 15 se feriram após o tombamento e incêndio de um caminhão-tanque que transportava derivados de petróleo no Egito.",
-    "O acidente ocorreu nesta quarta-feira (25) em uma via expressa que atravessa a região metropolitana do Cairo e liga as províncias de Gizé e Qalyubia.",
-    "Nove pessoas sofreram queimaduras severas, uma teve intoxicação por inalação de fumaça, e todas as vítimas feridas foram hospitalizadas.",
-    "O Ministério da Saúde egípcio mobilizou 23 ambulâncias e veículos de emergência, enquanto o ministro Khaled Abdel Ghaffar ordenou o reforço no atendimento dos hospitais da região.",
-    "A Defesa Civil controlou as chamas, a polícia interditou a rodovia com desvios de trânsito, e as autoridades locais ainda investigam a causa exata do sinistro."
+    "Pelo menos 30 pessoas morreram no Egito nesta quarta-feira (25) após o tombamento e incêndio de um caminhão-tanque que transportava derivados de petróleo em uma via expressa.",
+    "O Ministério da Saúde egípcio informou que 15 pessoas ficaram feridas no total, sendo nove com queimaduras severas e uma com intoxicação por fumaça; todas foram hospitalizadas.",
+    "O acidente ocorreu na Rodovia Circular, na região de Al-Warraq, província de Gizé, que atravessa a região metropolitana do Cairo e se conecta com Qalyubia.",
+    "Para o resgate e atendimento, foram mobilizadas 23 ambulâncias e veículos de emergência, e o ministro Khaled Abdel Ghaffar determinou o reforço nos hospitais locais.",
+    "Equipes da Defesa Civil controlaram as chamas, enquanto forças de segurança e agentes de trânsito interditaram a rodovia e organizaram desvios na região.",
+    "As causas do incêndio ainda não foram divulgadas pelas autoridades, em um país onde acidentes rodoviários são frequentes devido à velocidade e estradas ruins."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/25/caminhao-tanque-pega-fogo-e-deixa-ao-emnos-21-mortos-no-egito.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/db3844bb6db3.webp"
   },
   {
    "titulo": "IBGE: coleta seletiva avança e atinge 2.675 municípios brasileiros",
    "topicos": [
-    "A coleta seletiva avançou no Brasil e está presente em 2.675 municípios, o que representa 48,1% das cidades que prestam serviços de limpeza urbana e manejo de resíduos, conforme dados do IBGE divulgados nesta quarta-feira, 25.",
-    "Em comparação com 2008, quando o sistema existia em 994 cidades ou 17,9% do total, houve expansão do serviço, cujo objetivo é separar materiais recicláveis para reaproveitamento por catadores e indústrias.",
-    "O Sul lidera com 74,5% dos municípios adotando a prática, seguido por Sudeste (54%), Centro-Oeste (38,8%), Nordeste (33,4%) e Norte (24,7%), região com o menor índice.",
-    "O processamento de resíduos secos foi reportado por 52,3% das cidades, enquanto o de orgânicos ficou em 9,7%, e a logística reversa foi realizada diretamente em 46,6% dos municípios.",
-    "Lixões ainda persistem em 28,9% das localidades brasileiras, chegando a 69,2% no Norte, enquanto 1.236 municípios (22,2%) relataram a presença de entidades de catadores de recicláveis.",
-    "Em 2024, 5.561 municípios (99,8% do total) informaram possuir serviços de limpeza urbana, mantendo a estabilidade de quase universalização observada desde o ano 2000.",
-    "Os serviços de drenagem e manejo de águas pluviais saltaram de 78,6% em 2000 para 94,5% em 2008 e atingiram 97,4% em 2024, totalizando 5.424 municípios no período."
+    "A coleta seletiva avançou no Brasil e alcançou 2.675 municípios, o que representa 48,1% das cidades que informaram oferecer serviços de limpeza urbana e manejo de resíduos sólidos em 2024.",
+    "O dado foi divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) na quarta-feira, 25, por meio da Pesquisa Nacional de Saneamento Básico.",
+    "Em 2008, o sistema de separação de recicláveis estava presente em apenas 994 municípios, o equivalente a 17,9% do total na época.",
+    "Por regiões, o Sul registrou o maior percentual de municípios com coleta seletiva (74,5%), seguido por Sudeste (54%), Centro-Oeste (38,8%), Nordeste (33,4%) e Norte (24,7%).",
+    "Áreas de lixões ainda persistem em 28,9% dos municípios brasileiros, sendo que na região Norte esse indicador atinge 69,2%, segundo a pesquisa do IBGE.",
+    "O processamento de resíduos secos foi reportado por 52,3% das cidades, enquanto o de resíduos orgânicos alcançou apenas 9,7%, e a logística reversa foi feita diretamente em 46,6% dos municípios.",
+    "Os serviços de limpeza urbana e manejo de resíduos sólidos atingiram 5.561 municípios em 2024 (99,8% do total), enquanto a drenagem e manejo de águas pluviais chegou a 5.424 cidades (97,4%)."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/sustentabilidade/ibge-coleta-seletiva-avanca-e-atinge-2-675-municipios-brasileiros/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/ed06558d99f9.webp"
   },
   {
    "titulo": "Crise na Colômbia: dois policiais morrem em emboscada de homens armados no norte do país",
    "topicos": [
-    "Dois policiais militares faleceram e quatro ficaram feridos em decorrência de uma emboscada perpetrada por criminosos armados com fuzis no norte do estado de Cauca, na Colômbia.",
-    "A agressão contra a patrulha da Polícia Nacional aconteceu na localidade de Tres Esquinas, na estrada que liga os municípios de Padilla e Puerto Tejada.",
-    "Os agentes faziam a escolta de funcionários de uma companhia privada que se deslocavam para uma escola rural com o intuito de montar um parque infantil para crianças camponesas.",
-    "Dois dos policiais feridos precisaram ser transferidos para a clínica Valle del Lili, situada na cidade de Cali, enquanto equipes de investigação foram mobilizadas pelas autoridades locais.",
-    "A região norte de Cauca é marcada pela presença de dissidentes das Farc, organização guerrilheira criada em 1964 cujo acordo de paz assinado em 2016 foi rejeitado por parte de seus ex-integrantes.",
-    "Nos primeiros nove meses de 2026, registraram-se 323 ataques com drones explosivos por facções armadas, alta de 95,8% ante 2025, conforme dados da Fundação Ideas para la Paz (FIP).",
-    "O Ministério da Defesa da Colômbia apontou que o total de membros de grupos ilegais subiu de 15.120 em dezembro de 2022 para 28.802 em julho de 2026, registrando um crescimento de cerca de 90%."
+    "Dois policiais faleceram e outros quatro sofreram ferimentos em decorrência de uma emboscada realizada por homens armados no norte do estado de Cauca, na Colômbia.",
+    "A agressão contra a patrulha da Polícia Nacional aconteceu na região de Tres Esquinas, situada na rodovia que liga os municípios de Padilla e Puerto Tejada.",
+    "Os agentes vitimados foram identificados como Kevin David Torres e Bayron Jesús Riascos Murillo, e os criminosos utilizaram fuzis na ação.",
+    "No instante do ataque, a patrulha fazia a escolta de funcionários privados que se dirigiam a uma escola rural para instalar um parque infantil para crianças camponesas.",
+    "Dois dos quatro policiais feridos no episódio foram encaminhados para atendimento na clínica Valle del Lili, localizada na cidade de Cali.",
+    "O norte de Cauca é conhecido por ser uma área de atuação de dissidentes das Farc, organização guerrilheira que assinou um acordo de paz em 2016.",
+    "O presidente Abelardo de la Espriella encerrou negociações de paz anteriores e intensificou o enfrentamento militar, realizando 11 bombardeios desde o início de seu governo."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/25/crise-na-colombia-dois-policiais-morrem-em-emboscada-de-homens-armados-no-norte-do-pais.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a9f098029638.webp"
   },
   {
    "titulo": "'Pago R$ 2 mil por mês para outra pessoa cuidar das burocracias do meu dia a dia — e vale a pena'",
    "topicos": [
-    "Maxine Dillion, de 44 anos, moradora de Nottinghamshire, na Inglaterra, gasta cerca de R$ 1,9 mil (250 libras) por cinco horas mensais com a Life Laundry.",
-    "Criada em 2025 na Inglaterra por Alicia Papachristou e Jane Forbes, a Life Laundry atende 25 clientes e gerencia tarefas administrativas e rotineiras.",
-    "Amanda Sims Nichols, de 45 anos, de Austin, nos Estados Unidos, paga cerca de R$ 13,3 mil (US$ 2,25 mil) por 25 horas mensais para a Queen of To Do.",
-    "Fundada em 2011 por Kate Ginsberg, a norte-americana Queen of To Do possui atualmente mais de 50 usuários ativos e registrou alta na procura após a pandemia.",
-    "Anna Allington, de 51 anos, que enfrenta um câncer, paga cerca de R$ 9,3 mil (1,2 mil libras) por 40 horas mensais à empresa britânica Vi-Va.",
-    "As empresas de assistência pessoal relatam crescimento na demanda pelo serviço, impulsionado pela rotina acelerada e pela sobrecarga de tarefas diárias."
+    "Maxine Dillion, 44, mora em Nottinghamshire (Inglaterra) e contratou a Life Laundry, criada em 2025 por Alicia Papachristou e Jane Forbes, para cuidar de tarefas administrativas, pagando £250 (cerca de R$ 1,9 mil) por cinco horas de serviço ao mês.",
+    "Dillion tem renda de aproximadamente £2,7 mil (R$ 20,9 mil) mensais; apesar de reduzir o saldo disponível, ela avalia o gasto como investimento que diminui sua carga mental.",
+    "Amanda Sims Nichols, 45, consultora de negócios em Austin (Texas), paga US$ 2.250 (R$ 13,3 mil) por 25 horas mensais à empresa Queen of To Do, fundada em 2011 por Kate Ginsberg, após mudar de casa e ficar longe da rede familiar.",
+    "A Queen of To Do já conta com mais de 50 usuários ativos, enquanto a Life Laundry tem 25 clientes; ambas afirmam que a demanda por assistentes pessoais cresceu significativamente desde a pandemia.",
+    "Os serviços incluem gestão remota de seguros, e‑mails escolares, assinaturas online e, no caso da Life Laundry, visita presencial mensal a Nottinghamshire para tarefas que exigem presença física.",
+    "A psicóloga britânica Jess Baker explica que contratar um assistente pessoal, quando possível financeiramente, reduz a sobrecarga cognitiva, embora ainda seja considerado um luxo para quem pode arcar com o custo."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cmy86gpl512eo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8015bb6c68f5.webp"
   },
   {
    "titulo": "Anvisa suspende venda de temperos das marcas Terra Rica e Mercatto",
    "topicos": [
-    "A Anvisa proibiu nesta quarta-feira, 25, a comercialização, distribuição e propaganda de 94 produtos alimentícios das marcas Terra Rica e Mercatto.",
-    "A medida foi oficializada por meio da Resolução 4.621/2026, publicada no Diário Oficial da União, e atinge a empresa Terra Rica Empacotadora e Distribuidora Ltda.",
-    "O veto abrange especiarias, ervas desidratadas, condimentos e temperos devido a irregularidades na rotulagem sobre ingredientes alergênicos e glúten.",
-    "A inspeção sanitária também apontou a ausência de um Programa de Controle de Alergênicos na empresa, comprometendo a segurança de celíacos e alérgicos.",
-    "A determinação de recolhimento vale para lotes fabricados entre maio de 2024 e maio de 2026, incluindo diversos itens das duas marcas mencionadas."
+    "A Anvisa proibiu a comercialização, distribuição e propaganda de 94 produtos alimentícios das marcas Terra Rica e Mercatto, da empresa Terra Rica Empacotadora e Distribuidora Ltda.",
+    "A medida foi publicada no Diário Oficial da União nesta quarta-feira, 25, por meio da Resolução 4.621/2026.",
+    "A inspeção sanitária identificou falhas na rotulagem, como a ausência ou inadequação de declarações sobre ingredientes alergênicos e glúten, além da falta de um Programa de Controle de Alergênicos.",
+    "A proibição abrange especiarias, ervas desidratadas, condimentos e temperos, colocando em risco a segurança de celíacos e alérgicos.",
+    "A determinação afeta itens com lotes fabricados entre maio de 2024 e maio de 2026, cujos produtos serão recolhidos."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/economia/anvisa-suspende-venda-temperos-terra-rica-mercatto/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/08abf7aad217.webp"
   },
   {
    "titulo": "Novo Ceuta? Cerca de 2 mil migrantes chegam a uma ilha espanhola das Canárias em um único dia",
    "topicos": [
-    "Na terça‑feira (24/11/2026), cerca de 2 000 migrantes chegaram à ilha de El Hierro, nas Canárias, conforme dados do Salvamento Marítimo divulgados pela AFP em 25/11, estabelecendo recorde de chegadas em um único dia nas ilhas.",
-    "O número supera o recorde anterior de 1 580 pessoas que desembarcaram em El Hierro, Gran Canária e Tenerife em 14 de novembro, e os migrantes foram resgatados no cais de La Restinga em embarcações precárias.",
-    "Entre os resgatados estavam cidadãos de ao menos sete países africanos – Gâmbia, Senegal, Guiné, Guiné‑Bissau, Burkina Faso, Mauritânia e Mali – além de um refugiado iemenita.",
-    "O presidente regional das Canárias, Fernando Clavijo, denunciou pressão migratória sem precedentes e pediu reunião urgente com a presidente da Comissão Europeia, Ursula von der Leyen, para obter resposta imediata da UE.",
-    "Entre 1 e 15 de novembro, 11 037 migrantes chegaram ao arquipélago; desde o início de 2026, o total de chegadas irregulares é de 24 364, contra 14 690 no mesmo período de 2025, segundo o Ministério do Interior.",
-    "Autoridades de El Hierro declararam \"emergência social\" no início de novembro, numa ilha com quase 12 000 habitantes, enquanto o primeiro‑ministro Pedro Sánchez afirmou que conversa com Senegal e Gâmbia para reforçar controles na origem e reduzir o fluxo."
+    "Aproximadamente 2 mil migrantes chegaram na terça-feira (24) à ilha espanhola de El Hierro, nas Canárias, marcando um recorde diário de desembarques na região.",
+    "O fluxo superou a marca anterior de 1.580 pessoas registrada em 14 de novembro nas ilhas El Hierro, Gran Canaria e Tenerife.",
+    "Os resgatados no cais de La Restinga incluem cidadãos de Gâmbia, Senegal, Guiné, Guiné-Bissau, Burkina Faso, Mauritânia, Mali e um refugiado do Iêmen.",
+    "O presidente regional Fernando Clavijo afirmou que as Canárias enfrentam pressão sem precedentes e pediu reunião urgente à União Europeia por resposta imediata.",
+    "Entre 1º e 15 de novembro, 11.037 pessoas chegaram ao arquipélago, elevando o total de entradas irregulares para 24.364 no acumulado do ano, frente a 14.690 em 2025.",
+    "El Hierro, ilha com quase 12 mil habitantes, declarou emergência social no início de novembro devido ao aumento expressivo de embarcações precárias."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/25/cerca-de-2000-migrantes-chegam-a-uma-ilha-das-canarias-em-um-unico-dia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5f354440dd7c.webp"
   },
   {
    "titulo": "Anvisa manda apreender medicamentos falsificados para tratar câncer",
    "topicos": [
-    "A Anvisa ordenou a apreensão de quatro lotes de remédios oncológicos irregulares, após alerta da Janssen-Cilag Farmacêutica publicado no Diário Oficial da União nesta quarta-feira, 25.",
-    "Foram alvos os lotes QAS3E15, com validade até 12/26, e QHS5U06, com validade até 7/27, do medicamento Darzalex, destinados à Turquia e com divergências de embalagem e erros de digitação.",
-    "O lote 2154044 do Imbruvica 140 mg, com 90 cápsulas por frasco, fabricado em 10/2024 e válido até 9/2027, era voltado à China e possui uma apresentação sem registro na Anvisa.",
-    "O lote 06A02V do Imbruvica 140mg foi classificado como falsificado por não ter sido fabricado pela empresa, gerando alto risco sanitário por falta de garantia de qualidade.",
-    "A medida também determinou a apreensão do lote falsificado 039228 da toxina botulínica Dysport, cuja fabricante Beaufour Ipsen Farmacêutica relatou desconhecer a existência.",
-    "A Anvisa proibiu a fabricação, venda, importação, distribuição, uso e propaganda de itens da marca GMP/Growth Muscle Pharma comercializados na internet sem registro.",
-    "A proibição de substâncias da GMP inclui 16 produtos citados, como Winstrol, Oxandrolona, Hemogenin e Durateston, aplicando-se a qualquer pessoa ou veículo que os promova."
+    "A Anvisa determinou a apreensão de quatro lotes de remédios contra o câncer considerados irregulares pela fabricante Janssen-Cilag Farmacêutica, conforme resolução publicada no Diário Oficial da União nesta quarta-feira, 25.",
+    "Foram alvos os lotes QAS3E15, com validade até 12/26, e QHS5U06, com validade até 7/27, do produto Darzalex comercializados na Turquia e com divergências de embalagem em relação ao Brasil.",
+    "O lote 2154044 do Imbruvica 140 mg, com 90 cápsulas por frasco, fabricação em 10/2024 e validade até 9/2027, era destinado à China e possui uma apresentação sem registro na Anvisa.",
+    "O lote 06A02V de Imbruvica 140mg foi classificado como falsificado por não ter sido fabricado pela empresa, gerando alto risco sanitário por falta de garantia de qualidade e eficácia.",
+    "A agência ordenou a apreensão do lote falsificado 039228 do produto Dysport, de toxina botulínica, cuja fabricante Beaufour Ipsen Farmacêutica informou desconhecer.",
+    "A resolução proibiu a fabricação, venda, importação, distribuição e uso de substâncias controladas da marca GMP/Growth Muscle Pharma comercializadas na internet sem registro na Anvisa.",
+    "A medida de fiscalização vale para qualquer pessoa física, jurídica ou veículo de comunicação que divulgue, exponha à venda, distribua ou utilize os itens irregulares."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/economia/anvisa-manda-apreender-medicamentos-falsificados-para-tratar-cancer/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/52e38cc55b33.webp"
   },
   {
    "titulo": "Aneel rejeita 32 recursos e mantém R$ 146,3 mi de multas por apagão de 2023",
    "topicos": [
-    "A diretoria da Aneel rejeitou 32 recursos de agentes de geração renovável e manteve multas aplicadas devido ao apagão de agosto de 2023, que afetou várias regiões do Brasil.",
-    "Do total original de R$ 155,5 milhões em penalidades, R$ 146,3 milhões foram mantidos, enquanto outros dois pedidos de recursos foram parcialmente acolhidos com redução das sanções.",
-    "Empresas do setor recorreram das autuações com o objetivo de cancelar ou diminuir os valores cobrados pela agência reguladora após a interrupção no fornecimento de energia.",
-    "A maioria dos julgamentos ocorreu por unanimidade, embora em oito processos tenha ocorrido alteração em relação aos votos iniciais do ex-diretor e relator original Fernando Mosna.",
-    "Mosna havia proposto reduções que, somadas, ultrapassariam R$ 20 milhões, mas os processos passaram por pedidos de vista do diretor Willamy Frota.",
-    "Willamy Frota votou pela manutenção das penalidades originais ao retomar a análise, e a maioria da diretoria acompanhou seu entendimento, rejeitando as propostas de abatimento."
+    "A diretoria da Aneel rejeitou 32 recursos de geradores de energia renovável e manteve R$ 146,3 milhões em multas aplicadas devido ao apagão de agosto de 2023, que afetou várias regiões do Brasil.",
+    "Do montante original de R$ 155,5 milhões em penalidades, apenas dois pedidos foram parcialmente acolhidos com a redução das punições.",
+    "As empresas autuadas tentavam cancelar ou diminuir os valores cobrados, mas a maioria dos julgamentos na agência reguladora foi concluída por unanimidade.",
+    "Em oito processos, o entendimento inicial do ex-relator Fernando Mosna previa reduções superiores a R$ 20 milhões, mas os votos foram vencidos.",
+    "O diretor Willamy Frota pediu vista dos processos e votou pela manutenção das penalidades originais, sendo acompanhado pela maioria da diretoria da Aneel."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/25/11/2026/economia/aneel-rejeita-32-recursos-e-mantem-r-1463-mi-de-multas-por-apagao-de-2023/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/8b63cb9d36ec.webp"
   }
  ]
 }
