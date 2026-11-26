@@ -538,514 +538,588 @@
   {
    "titulo": "Preço dos alimentos: o que ficou mais caro e o que barateou na prévia da inflação de novembro",
    "topicos": [
-    "O IPCA-15, considerado a inflação oficial do país, registrou alta de 0,22% na prévia de novembro de 2026, conforme dados divulgados pelo IBGE nesta quinta-feira (26).",
-    "A coleta de preços do índice ocorreu entre 15 de outubro a 16 de novembro de 2026, sendo comparada ao período anterior de 116 de setembro a 14 de outubro de 2026.",
-    "O grupo Alimentação e Bebidas exerceu o principal impacto positivo no indicador do mês, apresentando uma elevação de 1,51%.",
-    "A categoria de alimentação no domicílio acelerou para 2,02% de alta, impulsionada principalmente por disparadas no tomate (38,92%) e na cebola (17,43%).",
-    "Outros itens que pesaram no bolso foram as carnes (3,65%), o arroz (3,38%), o pimentão (12,87%) e o mamão (9,77%).",
-    "Em contrapartida, houve recuos expressivos em hortaliças e frutas, liderados pelo pepino (-15,40%), abobrinha (-13,39%), manga (-8,10%) e melão (-6,76%).",
-    "A alimentação fora de casa desacelerou o ritmo de alta de 0,56% em outubro para 0,28% em novembro, com arrefecimento tanto nos lanches quanto nas refeições."
+    "A prévia da inflação oficial do país, o IPCA-15, teve alta de 0,22% em outubro, conforme dados divulgados pelo IBGE nesta quinta-feira (26).",
+    "O levantamento de novembro considerou os preços coletados de 15 de outubro a 16 de novembro de 2026, comparando com o período anterior de 116 de setembro a 14 de outubro de 2026.",
+    "O grupo de Alimentação e Bebidas gerou o maior impacto no indicador do mês, registrando um crescimento de 1,51%.",
+    "A alimentação no domicílio impulsionou o grupo com avanço de 2,02%, superando a alta de 1,01% registrada no mês anterior.",
+    "Entre os principais aumentos do período destacam-se o tomate com 38,92%, a cebola com 17,43%, as carnes com 3,65% e o arroz com 3,38%.",
+    "Por outro lado, as maiores reduções de preços foram lideradas pelo pepino (-15,40%), pela abobrinha (-13,39%), pela manga (-8,10%) e pelo melão (-6,76%).",
+    "A alimentação fora de domicílio desacelerou de 0,56% em outubro para 0,28% em novembro, com o lanche indo a 0,33% e a refeição a 0,21%."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-novembro.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/284537286b04.webp"
   },
   {
    "titulo": "IPCA-15: prévia da inflação sobe 0,22% em novembro, puxada por alimentos",
    "topicos": [
-    "A prévia da inflação oficial, medida pelo IPCA-15, registrou alta de 0,22% em novembro, desacelerando em relação aos 0,32% de outubro e ficando abaixo da expectativa de 0,34% do mercado.",
-    "No acumulado do ano, o indicador apresenta alta de 4,38%. Em 12 meses, o índice atingiu 4,64%, superando os 4,62% registrados no período imediatamente anterior.",
-    "O grupo de Alimentação e bebidas liderou as altas com avanço de 1,51% e impacto de 0,33 ponto percentual, impulsionado pela alimentação no domicílio, que subiu 2,02%.",
-    "Os maiores aumentos no domicílio foram do tomate com 38,92%, cebola com 17,43%, carnes com 3,65% e arroz com 3,38%. Por outro lado, caíram batata-inglesa (-2,33%) e leite longa vida (-1,84%).",
-    "O grupo Transportes registrou a maior queda do mês, de -0,71%, puxado pela retração de 9,57% nas passagens aéreas e de 0,95% nos combustíveis, com baixa de 1,23% na gasolina.",
-    "O grupo Habitação caiu 0,14% com a redução de 0,85% na energia elétrica residencial, mantida a bandeira verde sem cobrança adicional. Houve reajustes tarifários de 7,02% em Goiânia e 0,92% em Brasília em 22 de outubro, e de 1,98% em São Paulo em 23 de outubro."
+    "A prévia da inflação oficial, o IPCA-15, registrou alta de 0,22% em novembro, desacelerando em relação a outubro, quando avançou 0,32%, ficando abaixo da expectativa de 0,34% da Reuters.",
+    "No acumulado, o IPCA-15 apresenta alta de 4,38% no ano e de 4,64% nos últimos 12 meses, superando o índice de 4,62% dos 12 meses imediatamente anteriores.",
+    "O principal motor da alta em novembro foi o grupo Alimentação e bebidas, que subiu 1,51% e causou um impacto de 0,33 ponto percentual no índice geral, acelerando ante outubro.",
+    "A alimentação no domicílio saltou 2,02%, impulsionada por altas expressivas no tomate (38,92%), cebola (17,43%), carnes (3,65%) e arroz (3,38%).",
+    "Em contrapartida, os preços da batata-inglesa caíram 2,33% e os do leite longa vida recuaram 1,84% no período analisado.",
+    "O grupo Transportes registrou a maior queda mensal, de -0,71%, influenciado pelas reduções nas passagens aéreas (-9,57%) e nos combustíveis (-0,95%), com destaque para a gasolina (-1,23%).",
+    "O grupo Habitação caiu 0,14%, puxado pela retração de 0,85% na energia elétrica residencial, mantendo a bandeira tarifária verde sem cobrança adicional."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/ipca-15-previa-da-inflacao-novembro.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/2ea662a7fa7a.webp"
   },
   {
    "titulo": "Ibovespa dispara e dólar cai abaixo de R$ 5,80, de olho em nomes para a Fazenda e política fiscal",
    "topicos": [
-    "Na quinta‑feira (26), o Ibovespa subiu 4,14% e chegou a 173.594 pontos às 11h20, enquanto o dólar recuou 1,63%, cotado a R$ 5,7221.",
-    "Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, foi citado como possível nome para o Ministério da Fazenda após reunião com Lula em Brasília na segunda‑feira (23) e ganhou força nos cotados na quarta‑feira (25).",
-    "O IPCA‑15, prévia da inflação oficial, registrou alta de 0,22% em novembro, desacelerando em relação ao aumento de 0,32% observado em outubro, o que pode influenciar as expectativas sobre a taxa Selic.",
-    "Os Estados Unidos anunciaram nova rodada de tarifas: 10% de imposto adicional sobre aeronaves brasileiras e aumento da tributação sobre açúcar importado do Brasil, visando conter o que o USTR chama de “excesso estrutural de capacidade industrial”.",
-    "O governo preparou texto de PEC com medidas de ajuste econômico; o projeto de lei aprovado na Câmara pode gerar economia de até R$ 56 bilhões já no próximo ano, reforçando a “potência fiscal” para cumprir a meta de resultado primário de 2027.",
-    "A Câmara dos Deputados aprovou o ajuste nas contas públicas na última segunda‑feira; a proposta segue para sanção presidencial e deve ser concluída antes do recesso parlamentar, que começa em 23 de dezembro, com ao menos oito projetos em tramitação.",
-    "Nos acumulados, o dólar recuou 1,98% na semana, mas subiu 6,84% no mês e 5,98% no ano; o Ibovespa avançou 0,19% na semana, recuou 0,74% no mês e acumulou alta de 3,45% no ano."
+    "Nesta quinta-feira (26), por volta das 12h, o Ibovespa disparava 3,95% aos 173.261 pontos, enquanto o dólar recuava 1,51% a R$ 5,7286.",
+    "A alta foi impulsionada pela possível indicação de Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, para o Ministério da Fazenda.",
+    "O IPCA-15 subiu 0,22% em novembro, desacelerando em relação à alta de 0,32% de outubro, trazendo novos sinais sobre a prévia da inflação oficial.",
+    "O governo de Donald Trump propôs uma tarifa adicional de 10% sobre aeronaves brasileiras e maior tributação sobre o açúcar exportado do Brasil.",
+    "O governo federal prepara uma nova PEC de ajuste fiscal e corre para aprovar pelo menos oito projetos no Congresso antes do recesso de 23 de dezembro.",
+    "Um projeto aprovado pela Câmara na última segunda-feira reúne medidas para gerar uma economia de até R$ 56 bilhões nas contas públicas em 2027."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/dolar-ibovespa.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/d35dc2140198.webp"
   },
   {
    "titulo": "Tarifaço: China, Brasil e União Europeia criticam nova rodada de tarifas proposta pelos EUA",
    "topicos": [
-    "O governo dos Estados Unidos apresentou na quarta-feira (25) uma nova rodada de tarifas comerciais que atinge 14 países, incluindo Brasil, China, Índia, Coreia do Sul, Vietnã, Indonésia, Bangladesh, Camboja, Japão e Singapura.",
-    "As novas alíquotas propostas incluem 20% para a China, 25% para a Índia (com redução possível para 17% via acordo), 18% para Bangladesh, Camboja e Indonésia, e 20% para o Vietnã, condicionado a pacto comercial.",
-    "O governo brasileiro classificou a proposta como inaceitável e acusou os EUA de pressionarem o país em relação ao Pix e comércio digital, alertando que poderá adotar medidas de reciprocidade e recorrer à OMC.",
-    "As medidas ainda não estão em vigor. Empresas e interessados têm prazo até 5 de janeiro de 2027 para manifestações na consulta pública, e as audiências estão marcadas para começar em 25 de janeiro de 2027.",
-    "Washington justificou as tarifas com base na Seção 301 da Lei de Comércio de 1974, alegando que o excesso de capacidade produtiva estrangeira e subsídios prejudicam a competitividade das empresas dos EUA.",
-    "A União Europeia cobrou que os EUA respeitem o teto tarifário de 15% estabelecido em acordo comercial anterior, enquanto a China alertou que a sobretaxa pode subir para 40% e prometeu defender seus interesses."
+    "O governo dos Estados Unidos apresentou na quarta-feira (25) uma proposta de novas tarifas comerciais que afetam 14 países, incluindo China, Brasil, Índia, Suíça, Coreia do Sul, Indonésia e Vietnã.",
+    "As alíquotas propostas incluem 20% para a China, que podem subir para 40% se a trégua for rompida; 25% para a Índia, com chance de redução para 17%; 18% para Bangladesh, Camboja e Indonésia; e 20% para o Vietnã.",
+    "Washington justifica a medida com base no excesso de capacidade produtiva global e em incentivos financeiros governamentais, amparado pela Seção 301 da Lei de Comércio de 1974, após uma investigação de oito meses.",
+    "O governo brasileiro classificou a proposta como inaceitável e acusou os EUA de tentativa de coerção sobre o Pix e comércio digital, não descartando medidas de reciprocidade ou acionamento da OMC.",
+    "A União Europeia cobrou que as novas medidas respeitem o teto de 15% estipulado no acordo comercial do ano passado, somando novas cobranças e tarifas já existentes sobre produtos europeus.",
+    "As medidas ainda não estão em vigor. Há um prazo de consulta pública até 5 de janeiro de 2027 e audiências previstas para começar em 25 de janeiro para que empresas e interessados se manifestem."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/china-brasil-e-uniao-europeia-reagem-a-novas-tarifas-anunciadas-por-trump.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/542fccb5189a.webp"
   },
   {
    "titulo": "Macron diz que carne brasileira é 'dopada' e comemora bloqueio da UE ao produto",
    "topicos": [
-    "O presidente da França, Emmanuel Macron, chamou a carne brasileira de \"dopada\" e comemorou a suspensão das importações de produtos de origem animal do Brasil pela União Europeia, em vigor desde 3 de setembro.",
-    "A declaração ocorreu na quarta-feira (25), em reunião no Palácio do Eliseu com o setor agrícola francês, onde Macron atribuiu o bloqueio à pressão política da França contra o acordo União Europeia-Mercosul.",
-    "A UE suspendeu as compras alegando que os controles brasileiros sobre o uso de antimicrobianos na pecuária são insuficientes, embora a proibição não decorra de irregularidades reais na carne.",
-    "A Abiec e a ABPA repudiaram a fala de Macron, classificando-a como infundada e protecionista, e resgataram que uma missão técnica da UE atestou que o sistema brasileiro atende às exigências do bloco.",
-    "O Brasil é o único país do Mercosul atingido pela restrição, que afeta principalmente a exportação de carne bovina e de frango, enquanto Argentina, Paraguai e Uruguai seguem autorizados.",
-    "O Comitê Permanente de Plantas, Animais, Alimentos e Rações (PAFF) da UE deve discutir a possível retomada das exportações de carne de frango e mel do Brasil nos dias 7 e 8 de dezembro."
+    "Em discurso na quarta‑feira (25), durante reunião com representantes agrícolas no Palácio do Eliseu, o presidente francês Emmanuel Macron chamou a carne brasileira de \"dopada\" e celebrou a suspensão, em vigor desde 3 de setembro, das importações de produtos de origem animal do Brasil pela UE.",
+    "A UE justificou a proibição alegando que o Brasil não cumpre as normas blocais sobre uso de antimicrobianos na pecuária, especialmente a proibição de uso para crescimento e a restrição de antibióticos essenciais, embora não tenha apontado irregularidades específicas na carne.",
+    "A Associação Brasileira das Indústrias Exportadoras de Carnes (Abiec) classificou a fala de Macron como política e protecionista, enquanto a Associação Brasileira de Proteína Animal (ABPA) denunciou a acusação como infundada e sem base técnica.",
+    "Os cortes de carne bovina e de frango são os mais atingidos, sendo os principais produtos exportados ao bloco; a UE representa cerca de 5 % das exportações brasileiras de carne bovina, e apenas o Brasil foi excluído, enquanto Argentina, Paraguai e Uruguai continuam autorizados.",
+    "A medida chegou poucos dias após a entrada em vigor do acordo de livre comércio UE‑Mercosul, provisório desde maio, que enfrentou forte oposição de agricultores europeus temerosos da concorrência de produtos sul‑americanos mais baratos.",
+    "O G1 contatou o Ministério das Relações Exteriores, o MDIC e o Ministério da Agricultura, que ainda não se pronunciaram sobre a suspensão e as alegações de uso inadequado de antimicrobianos.",
+    "A decisão da UE sobre a retomada das exportações brasileiras de carne de frango e mel foi adiada para os dias 7 e 8 de dezembro; a análise prevista para 17 de dezembro pelo Comitê PAFF foi postergada após pedidos de esclarecimentos de vários países membros."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-comemora-veto-da-ue-ao-produto.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/601e8cbd2452.webp"
   },
   {
    "titulo": "Investimento estrangeiro atinge marca US$ 1,4 trilhão em 2025, quase metade do PIB, diz BC",
    "topicos": [
-    "O Banco Central divulgou nesta quinta-feira (26) que o investimento direto de estrangeiros em empresas no Brasil alcançou R$ 1,41 trilhão no encerramento de 2025.",
-    "O montante acumulado representou 49,3% do Produto Interno Bruto, estabelecendo um recorde na série histórica da autoridade monetária.",
-    "A alta foi impulsionada por ingressos líquidos de US$ 85 bilhões, um aumento total de US$ 275 bilhões no ano, além da desvalorização de cerca de 11% do dólar.",
-    "A categoria de participação no capital somou US$ 62,9 bilhões em 2025, superando os US$ 41,3 bilhões registrados no ano anterior.",
-    "Os Estados Unidos mantiveram a liderança entre os países investidores em 2025, considerando tanto o investidor imediato quanto o controlador final.",
-    "Os investimentos de brasileiros no exterior atingiram US$ 562 bilhões no fim de 2025, superando as reservas internacionais do país, que fecharam em US$ 358,2 bilhões."
+    "O Banco Central divulgou nesta quinta-feira (26) que o investimento direto de estrangeiros em empresas no Brasil alcançou a marca de R$ 1,41 trilhão ao término de 2025, de acordo com relatório anual da instituição.",
+    "O montante acumulado representou 49,3% do Produto Interno Bruto brasileiro, estabelecendo um recorde na série histórica informada pela autoridade monetária.",
+    "A alta nos investimentos estrangeiros foi impulsionada por um aumento de US$ 275 bilhões no ano, gerando ingressos líquidos de US$ 85 bilhões e contando com o auxílio da queda de cerca de 11% do dólar.",
+    "Os aportes voltados para compra ou ampliação de participação societária em companhias no país totalizaram US$ 62,9 bilhões em 2025, superando os US$ 41,3 bilhões registrados no ano anterior de 2024.",
+    "Os Estados Unidos mantiveram a liderança em 2025 no ranking de investimentos diretos no Brasil, superando a China tanto como investidor imediato quanto na condição de controlador final.",
+    "Os investimentos realizados por brasileiros no exterior totalizaram US$ 562 bilhões no encerramento de 2025, superando a marca das reservas internacionais do país, que fecharam o período em US$ 358,2 bilhões."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/89c4194b960e.webp"
   },
   {
    "titulo": "“Não vamos ser sufocados”, diz CEO do iFood sobre competição predatória",
    "topicos": [
-    "O CEO do iFood, Diego Barreto, afirmou que a empresa tem total capacidade de resistir à concorrência pautada em subsídios e preços predatórios. A companhia perdeu cerca de 5 pontos porcentuais de participação de mercado no último 1,5 ano, mas ainda detém cerca de 80% do setor no Brasil.",
-    "As vendas na plataforma alcançaram o recorde de R$ 88,1 bilhões entre abril e setembro, representando uma alta de 25% na comparação anual, impulsionadas pelo ano fiscal de 2027 da controladora Prosus. A prioridade da empresa é manter o crescimento das vendas acima de 20% no período.",
-    "O iFood desembolsou cerca de R$ 15,6 bilhões em seis meses, o que corresponde a 65% dos R$ 24 bilhões em investimentos previstos até março de 2027. O montante total planejado é 41% superior ao do exercício anterior, com a empresa atuando no contraciclo.",
-    "A disputa contra rivais chineses como 99Food e Keeta chegou à Justiça, com um processo aberto pelo iFood em São Paulo no início deste mês contra a Keeta por preços predatórios e quebra de exclusividade. O Cade também analisa as alegações, enquanto a Prosus estima que os concorrentes consomem US$ 150 milhões por mês.",
-    "As novas categorias do marketplace, lideradas por supermercados e farmácias, movimentaram R$ 7,1 bilhões no semestre, alta de 53%. Esse portfólio, que inclui pets, bebidas, conveniência e serviços financeiros, já responde por mais de 40% da receita da companhia.",
-    "O iFood Pago movimentou R$ 39 bilhões em pagamentos no semestre, com alta de 76%, receita de R$ 1,6 bilhão e Ebitda de R$ 264 milhões. A empresa prevê aportar mais R$ 1 bilhão em um Fidc entre abril e maio de 2027, estruturando uma carteira de crédito adicional de R$ 3 bilhões.",
-    "A companhia anunciou em outubro a aquisição da Caju no setor de benefícios corporativos por cerca de R$ 1 bilhão, na maior compra de sua história. A controladora Prosus também sinalizou disposição para abrir mão de rentabilidade no curto prazo para fortalecer os negócios."
+    "O CEO do iFood, Diego Barreto, afirmou que a empresa tem total capacidade de resistir a uma guerra milionária de subsídios promovida por concorrentes estrangeiros no setor de delivery.",
+    "A companhia desembolsou R$ 15,6 bilhões em seis meses, o que representa 65% dos R$ 24 bilhões em investimentos previstos até março de 2027 pela controladora Prosus.",
+    "Entre abril e setembro, que marcam o primeiro semestre do ano fiscal de 2027, as vendas do iFood atingiram o recorde de R$ 88,1 bilhões, uma alta de 25% na comparação anual.",
+    "O iFood detém cerca de 80% do mercado brasileiro de aplicativos de entrega e perdeu cerca de 5 pontos percentuais de participação nos últimos 1,5 ano.",
+    "No início do mês, o iFood processou a concorrente Keeta na Justiça em São Paulo, acusando-a de preços predatórios e de incentivar restaurantes a quebrar exclusividades.",
+    "Novas categorias como supermercados, farmácias, pets e bebidas já respondem por mais de 40% da receita, com vendas de R$ 7,1 bilhões no semestre e alta anual de 53%.",
+    "O iFood prevê aportar mais R$ 1 bilhão de recursos próprios em um Fidc entre abril e maio de 2027 para ampliar a carteira de crédito do braço financeiro iFood Pago."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/foodservice/nao-vamos-ser-sufocados-diz-ceo-do-ifood-sobre-competicao-predatoria/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/c62578b483b2.webp"
   },
   {
    "titulo": "IPCA-15 surpreende até os mais otimistas do mercado, mas inflação pode superar 6% no início de 2027",
    "topicos": [
-    "Na quinta‑feira (26), o IBGE divulgou o IPCA‑15 de novembro, que registrou alta de 0,22% no mês, abaixo da mediana de projeções do mercado (0,36%) e do piso estimado (0,27%) segundo o Broadcast.",
-    "O índice acumulado em 12 meses subiu de 4,62% para 4,64%, permanecendo acima do teto da meta de 4,5%; a inflação anual (jan‑dez) ficou em 4,38%.",
-    "O grupo Transportes apresentou deflação de 0,71% em novembro, impulsionada pela queda de 9,57% nas passagens aéreas e 1,23% na gasolina, enquanto Alimentação e Bebidas avançou 1,51%, com tomate +38,9%, cebola +17,4%, carnes +3,7% e arroz +3,4%.",
-    "A média dos núcleos de inflação subiu 0,15% contra expectativa de 0,29%; o núcleo de serviços, medido por média móvel de três meses, recuou de 6,3% em outubro para 5,9% em novembro, ainda em patamar elevado.",
-    "Economistas como Leonardo Costa (ASA) e Felipe Rodrigo de Oliveira (MAG) consideram o resultado “benigno”, mas Roberto Padovani (Banco BV) alerta que a inflação ainda ronda 4% nos núcleos e 5,5% nos serviços, distante da meta de 3%.",
-    "O ASA aponta cinco vetores de pressão para os próximos meses – fim da escala 6×1, implementação da Contribuição sobre Bens e Serviços (CBS), término dos subsídios aos combustíveis, repasse da desvalorização cambial e efeitos do El Niño – e projeta que o IPCA‑12m ultrapasse 6% no início de 2027.",
-    "Apesar da surpresa positiva, o Copom deve manter a taxa Selic em 13,75% ao ano; analistas da MAG e do Banco BV acreditam que o resultado não altera significativamente o balanço de riscos do Banco Central nem indica flexibilização monetária iminente."
+    "O IPCA-15 de novembro registrou alta de 0,22%, surpreendendo positivamente o mercado nesta quinta-feira (26) ao ficar abaixo da mediana das projeções, que era de 0,36%, e do piso das estimativas, de 0,27%.",
+    "O indicador acumulado em 12 meses passou de 4,62% para 4,64%, ficando acima do teto da meta de inflação de 4,5%, enquanto a alta acumulada no ano atingiu 4,38%.",
+    "O grupo de Transportes teve deflação de 0,71% puxada pela queda de 9,57% nas passagens aéreas e de 1,23% na gasolina, e a média dos núcleos avançou 0,15% contra a expectativa de 0,29%.",
+    "Em contrapartida, o grupo de Alimentação e Bebidas subiu 1,51%, impulsionado pelos aumentos expressivos do tomate (38,9%), cebola (17,4%), carnes (3,7%) e arroz (3,4%).",
+    "O Banco ASA projeta que o IPCA acumulado em 12 meses supere a marca de 6% no início de 2027 devido a vetores como o fim da escala 6x1, novos tributos, fim de subsídios, câmbio e El Niño.",
+    "Apesar da surpresa benigna, o resultado não deve alterar os rumos da taxa Selic mantida em 13,75% ao ano pelo Copom, pois a convergência à meta de 3% segue lenta e a inflação rodando perto de 4%."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ipca-15-surpreende-ate-os-mais-otimistas-do-mercado-mas-inflacao-pode-superar-6-no-inicio-de-2027-jcav/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/77b43a795b19.webp"
   },
   {
    "titulo": "PACC11: mesmo com surpresa do IPCA-15, títulos indexados à inflação seguem interessantes",
    "topicos": [
-    "Os títulos indexados à inflação de prazo mais curto mantêm uma combinação atrativa para investimentos, apesar da recente surpresa positiva registrada pelo IPCA-15.",
-    "A desaceleração inflacionária recente mitiga o risco de novos aumentos na taxa de juros, ao mesmo tempo em que os ganhos reais permanecem elevados.",
-    "O fundo PACC11 destaca-se por assegurar um carrego expressivo e oferecer proteção caso a inflação volte a registrar altas inesperadas.",
-    "A menor duração do fundo reduz a sensibilidade às oscilações dos juros longos, resultando em volatilidade inferior em comparação a estratégias de vencimentos distantes.",
-    "A estrutura do ETF proporciona eficiência tributária por meio do reinvestimento automático, eliminando a necessidade de gestão individual desses fluxos pelo investidor.",
-    "A recomendação de compra do ativo é mantida para unir taxas reais atrativas, proteção contra a inflação, menor duration e eficiência no processo de reinvestimento."
+    "Os títulos indexados à inflação de prazo mais curto continuam atrativos após a recente surpresa positiva com o IPCA-15.",
+    "A desaceleração inflacionária ajuda a diminuir o risco de novas elevações nos juros, mantendo taxas reais em patamares vantajosos para o mercado.",
+    "O fundo PACC11 permite obter um carrego elevado e garante proteção caso a inflação volte a subir inesperadamente.",
+    "O fundo apresenta menor sensibilidade aos juros longos e volatilidade reduzida em comparação a estratégias de vencimentos distantes, devido à duration mais curta.",
+    "A estrutura do ETF oferece eficiência tributária por meio do reinvestimento automático dos recursos, eliminando a gestão individual dos fluxos pelo investidor."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/pacc11-mesmo-com-surpresa-do-ipca-15-titulos-indexados-a-inflacao-seguem-interessantes/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/fbe6b4f84c22.webp"
   },
   {
    "titulo": "Alckmin critica tarifa de 10% dos EUA sobre aviões brasileiros e chama medida de 'completamente descabida'",
    "topicos": [
-    "O vice-presidente Geraldo Alckmin classificou como completamente descabida a proposta dos Estados Unidos de aplicar uma tarifa de 10% sobre o setor aeronáutico, destacando a ausência global de taxas nessa área estratégica.",
-    "A medida americana ameaça a isenção que beneficiava a Embraer e outros exportadores mundiais, sendo que aeronaves antes eram poupadas da sobretaxa de 25% aplicada a parte das vendas brasileiras.",
-    "O representante comercial americano, Jamieson Greer, afirmou que a iniciativa visa pressionar o Brasil a mudar práticas comerciais, regras do Pix, comércio digital e acordos preferenciais após mais de um ano de negociações sem avanços.",
-    "As novas tarifas ainda não estão em vigor e o governo dos EUA abriu uma consulta pública agendada para janeiro de 2027 para coletar manifestações antes de tomar uma decisão final.",
-    "O governo brasileiro considerou a proposta inaceitável, recusou-se a ceder às ameaças e avalia recorrer à Organização Mundial do Comércio (OMC) ou adotar medidas de reciprocidade caso as taxas sejam aplicadas.",
-    "Na terça-feira (24), o Brasil solicitou à OMC a abertura de um painel para contestar a legalidade de sobretaxas de 25% e 12,5% dos EUA, mas a abertura foi bloqueada pelos americanos neste momento.",
-    "Governos de China, Japão, União Europeia, Singapura e Malásia também protestaram e contestaram as justificativas americanas relacionadas ao excesso de capacidade industrial."
+    "O vice-presidente Geraldo Alckmin classificou como completamente descabida a proposta dos Estados Unidos de aplicar uma tarifa de 10% sobre o setor aeronáutico, destacando que não há cobrança similar no mundo para essa área.",
+    "A medida americana ameaça a isenção que beneficiava a Embraer, que até então estava poupada da sobretaxa de 25% aplicada pelos EUA a parte das exportações do Brasil e de outras nações.",
+    "Segundo o representante comercial americano Jamieson Greer, a proposta visa pressionar o Brasil a rever regras nacionais sobre o Pix, comércio digital, acordos comerciais e práticas regulatórias.",
+    "As mudanças tarifárias anunciadas pelo governo de Donald Trump ainda são propostas e não entraram em vigor, pois haverá uma consulta pública agendada para janeiro de 2027.",
+    "O governo brasileiro declarou que a proposta é inaceitável e não cederá a ameaças, buscando soluções negociadas, mas sem descartar medidas de reciprocidade e recursos na Organização Mundial do Comércio.",
+    "Na terça-feira (24), o Brasil solicitou à OMC a abertura de um painel para analisar a legalidade de sobretaxas de 25% e 12,5% impostas pelos EUA, mas o pedido foi inicialmente rejeitado pela oposição americana."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/alckimin-eua-tarias.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8a07a4b8196b.webp"
   },
   {
    "titulo": "Ibovespa salta mais de 3% e recupera os 172 mil pontos; 5 coisas para saber antes de investir hoje (26)",
    "topicos": [
-    "Na manhã de 25/11, o Ibovespa subiu 3,45% e chegou a 172.429,55 pontos, recuperando a marca dos 172 mil pontos; às 10h20 (horário de Brasília) o índice registrou alta de 3,45%.",
-    "O dólar à vista recuou 1,13% e cotou R$ 5,7513, enquanto o índice DXY, que mede o dólar frente a seis moedas fortes, avançou 0,08% para 103,7440 pontos.",
-    "O IPCA‑15 de novembro subiu 0,22% ao mês, abaixo da expectativa de 0,34%; em 12 meses acumulou 4,64%, ultrapassando a meta de 4,5%; o IPP subiu 0,98% em outubro, terceira alta consecutiva.",
-    "O presidente Luiz Inácio Lula da Silva retomou, em 25/11, discussões sobre uma PEC fiscal para conter despesas obrigatórias e avaliou a escolha de futuro ministro da Fazenda, com rumores sobre Luiz Carlos Trabuco, presidente do conselho do Bradesco.",
-    "O Banco Central divulgou que, em outubro, o déficit da conta corrente do Brasil foi de US$ 3,966 bilhões, menor que os US$ 5,100 bilhões de setembro e acima da mediana prevista de US$ 3,000 bilhões (faixa de US$ 1,800‑5,500 bilhões).",
-    "A entrada líquida de Investimento Direto no País (IDP) em outubro foi de US$ 9,086 bilhões, superando a mediana prevista de US$ 7,550 bilhões (faixa de US$ 3,000‑10,400 bilhões).",
-    "As bolsas e o mercado de títulos dos EUA permanecerão fechados em 26/11 devido ao feriado de Ação de Graças, o que pode reduzir a liquidez e tornar o Ibovespa mais sensível a novidades fiscais ou da equipe econômica; simultaneamente, o preço do petróleo subiu por tensões no Oriente Médio, incluindo ataques à infraestrutura saudita e interrupção no Estreito de Ormuz."
+    "O Ibovespa (IBOV) iniciou a sessão de 25/11 por volta das 10h20 (horário de Brasília) com alta de 3,45%, atingindo 172.429,55 pontos, recuperando a marca dos 172 mil pontos.",
+    "O dólar à vista recuou 1,13% frente ao real, cotado a R$ 5,7513, enquanto o índice DXY, que mede o dólar frente a seis moedas fortes, subiu 0,08% para 103,7440 pontos.",
+    "O IPCA‑15 de novembro subiu 0,22% ao mês, abaixo da expectativa de 0,34% e da alta de 0,32% registrada em outubro; em 12 meses, acumulou 4,64%, ultrapassando a meta de 4,5%.",
+    "O presidente Luiz Inácio Lula da Silva retomou, nesta quinta, discussões sobre uma PEC fiscal para conter despesas obrigatórias, com objetivo de levar a proposta ao Congresso ainda este ano; estão em análise alterações no Fundeb, no Fundo Constitucional do DF e nos pisos de saúde e educação, além da escolha de um futuro ministro da Fazenda, com rumores sobre Luiz Carlos Trabuco (Bradesco).",
+    "O Banco Central informou que, em outubro, a conta corrente registrou déficit de US$ 3,966 bilhões (melhor que os US$ 5,100 bilhões de setembro) e que a entrada líquida de Investimento Direto no País foi de US$ 9,086 bilhões, acima da mediana prevista de US$ 7,550 bilhões.",
+    "As bolsas e o mercado de títulos dos EUA permanecerão fechados nesta quinta‑feira (26/11) devido ao feriado de Ação de Graças, o que deve reduzir a liquidez e tornar o Ibovespa mais sensível a novidades fiscais ou à composição da equipe econômica.",
+    "Os preços do petróleo bruto subiram novamente, impulsionados por tensões no Oriente Médio, incluindo ataques à infraestrutura energética da Arábia Saudita e nova interrupção no Estreito de Ormuz, contrariando expectativas de excesso de oferta."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ibovespa-salta-mais-de-3-e-recupera-os-172-mil-pontos-com-impulso-do-ipca-15-5-coisas-para-saber-antes-de-investir-hoje-26-davs/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/d36cc3d84878.webp"
   },
   {
    "titulo": "Navio com 7 mil toneladas de óleo afunda em Ibiza e deixa 1 morto; Espanha tenta evitar 'maré negra'",
    "topicos": [
-    "Um navio com 7.000 toneladas de óleo diesel naufragou nesta quinta-feira (26) na costa de Ibiza, ilha da Espanha no Mar Mediterrâneo.",
-    "A embarcação Med Emre, de bandeira de Malta e quase 120 metros de comprimento, afundou pouco antes das 7h no horário local (4h em Brasília).",
-    "O acidente aconteceu a cerca de 56 km ao norte de Ibiza, entre Valência e Ibiza, enquanto a embarcação viajava de Algeciras para Barcelona.",
-    "O naufrágio causou a morte de um tripulante após o resgate, entre os 17 profissionais que integravam a tripulação do navio.",
-    "A embarcação transportava cerca de 66.000 barris de produtos refinados, correspondendo a 10% da carga do petroleiro Prestige, que afundou em 2002.",
-    "Autoridades espanholas adotam medidas preventivas e acionaram um plano marítimo para evitar uma maré negra na zona vulnerável das Ilhas Baleares.",
-    "A agência Salvamento Marítimo enviou uma embarcação e informou que, inicialmente, não foram detectados destroços, objetos flutuantes ou poluição."
+    "Um navio chamado Med Emre, com bandeira de Malta e quase 120 metros de comprimento, naufragou na costa de Ibiza, ilha da Espanha no Mar Mediterrâneo, em 26 de novembro de 2026.",
+    "A embarcação transportava 7.000 toneladas de óleo diesel, o equivalente a cerca de 66.000 barris de produtos refinados.",
+    "O acidente ocorreu pouco antes das 7h no horário local, sendo 4h no horário de Brasília, entre Valência e Ibiza, a aproximadamente 56 km ao norte de Ibiza, enquanto viajava de Algeciras para Barcelona.",
+    "O naufrágio causou a morte de um dos 17 tripulantes da embarcação após o resgate, e a causa do acidente ainda é desconhecida.",
+    "Autoridades espanholas iniciaram ações preventivas para conter o risco de uma maré negra, com a ativação de um plano marítimo pela Direção-Geral da Marinha Mercante para proteger uma zona vulnerável próxima às Ilhas Baleares.",
+    "Uma embarcação da agência Salvamento Marítimo verificou o local e informou que ainda não há registros de destroços, objetos flutuantes ou sinais de poluição."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/navio-com-oleo-afunda-perto-de-ibiza-na-espanha-e-deixa-morto-equipes-tenta-evitar-mare-negra.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/43242ce1788d.webp"
   },
   {
    "titulo": "Grupo Fictor: o que faz a empresa que tentou comprar o Banco Master e é investigada por fraude bilionária",
    "topicos": [
-    "A Polícia Civil e o Ministério Público de São Paulo realizaram, nesta quinta-feira (26), uma operação para investigar o Grupo Fictor por suspeitas de fraude financeira, lavagem de dinheiro e desvio de recursos de investidores.",
-    "A Justiça determinou o bloqueio de até R$ 4,3 bilhões em bens e ativos do conglomerado, valor equivalente às dívidas declaradas pelo grupo no processo de recuperação judicial.",
-    "O pedido de recuperação judicial envolve 43 empresas e foi apresentado em fevereiro, com o processamento autorizado em abril. Em junho, foi apresentado um plano de renegociação, cuja assembleia de credores deve ser retomada em 4 de dezembro.",
-    "A investigação apura uma captação fraudulenta superior a R$ 4 bilhões entre 2024 e 2025, realizada com promessa de rendimentos fixos e sem lastro em negócios reais.",
-    "Em novembro de 2025, a Fictor tentou comprar o Banco Master, de Daniel Vorcaro, anunciando um aporte de R$ 3 bilhões com investidores dos Emirados Árabes Unidos. A compra não foi concluída, pois o Banco Central decretou a liquidação extrajudicial do banco em 18 de novembro de 2025 devido a uma grave crise de liquidez."
+    "A Polícia Civil e o Ministério Público de São Paulo realizaram, nesta quinta-feira (26), uma operação contra o Grupo Fictor para apurar fraudes financeiras, lavagem de dinheiro e desvio de recursos de investidores.",
+    "A Justiça determinou o bloqueio de até R$ 4,3 bilhões em bens e ativos do conglomerado, valor equivalente às dívidas declaradas pelo grupo em processo de recuperação judicial.",
+    "O pedido de recuperação judicial envolve 43 empresas e foi apresentado em fevereiro de 2026, com o processamento autorizado em abril e uma assembleia de credores marcada para 4 de dezembro.",
+    "A investigação apura a captação fraudulenta de mais de R$ 4 bilhões entre 2024 e 2025, além de faturamento fictício, desvio de recursos, ocultação de patrimônio e lavagem de dinheiro.",
+    "Fundada em 2007 no setor de tecnologia, a Fictor diversificou seus negócios e hoje atua nos segmentos de alimentos, energia, infraestrutura e nos mercados imobiliário e financeiro.",
+    "Em novembro de 2025, o grupo anunciou a compra do Banco Master com um aporte de R$ 3 bilhões, mas a proposta foi suspensa e arquivada após o Banco Central decretar a liquidação do banco em 18 de novembro de 2025."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/fictor-master-fraude.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/e0be60a4fe08.webp"
   },
   {
    "titulo": "Desfile de balões gigantes em NY é adiado pela 1ª vez; paradas do Dia de Ação de Graças completam 100 anos com novidades",
    "topicos": [
-    "O famoso desfile de balões gigantes da rede Macy's em Nova York foi adiado para sábado (28), ocorrendo das 8h30 às 12h, devido à previsão de chuva forte na quinta-feira (26). A decisão inédita em 100 anos foi anunciada em um comunicado divulgado na quarta-feira (25) para priorizar a segurança de participantes e público.",
-    "O centenário desfile da Macy's em Nova York terá transmissão ao vivo pela rede NBC e contará com apresentações de artistas como Queen Latifah, Teddy Swims e Natasha Bedingfield. O evento exibirá 100 bonecos infláveis, incluindo estreias como o Mickey Aprendiz de Feiticeiro e a Hello Kitty.",
-    "O Natchitoches Christmas Festival, em Nova Orleans (Louisiana), ocorre entre 27 e 29 de novembro, integrando uma programação festiva que vai de 21 de novembro a 6 de janeiro. O evento natalino contará com a iluminação diária ao entardecer ao longo do Cane River Lake, usando mais de 300 mil luzes e 100 instalações decorativas.",
-    "Em Detroit, a America’s Thanksgiving Parade será realizada no dia 26, com início às 8h45 e um percurso de aproximadamente 4,8 km pela histórica Woodward Avenue. O cortejo contará com bandas marciais, celebridades como a Miss Michigan, ex-atletas, 33 carros alegóricos e cinco balões gigantes.",
-    "A Filadélfia sedia o desfile mais antigo dos EUA, a 6abc Dunkin’ Thanksgiving Day Parade, que chega à 107ª edição no dia 26, das 9h ao meio-dia, com transmissão nacional da ABC. O trajeto de cerca de 2,9 km inclui a 'Dunkin' Zone' na Benjamin Franklin Parkway, com distribuição gratuita de café e brindes.",
-    "A parada de Chicago acontece no dia 26, das 7h45 às 10h, na State Street, celebrando 92 anos de história com transmissão ao vivo pela CBS Chicago. O público poderá acompanhar balões gigantes, bandas marciais, carros alegóricos e apresentações de escolas e grupos culturais locais.",
-    "Em Houston (Texas), a H-E-B Thanksgiving Day Parade realiza sua 77ª edição no dia 26, a partir das 9h, no centro da cidade. A cantora Lizzo será a atração principal do evento, que reunirá apresentações de música country, mais de uma dúzia de carros alegóricos, cerca de 10 balões gigantes e bandas marciais."
+    "A rede de lojas Macy's adiou pela primeira vez em cem anos seu tradicional desfile de balões gigantes em Nova York, originalmente marcado para quinta-feira (26) e transferido para o sábado (28), das 8h30 às 12h, devido à previsão de chuva forte.",
+    "A decisão foi anunciada pela Macy's em comunicado na quarta-feira (25), priorizando a segurança de participantes e espectadores após consulta com parceiros e órgãos públicos da cidade norte-americana.",
+    "O centenário desfile da Macy's em Nova York contará com a transmissão ao vivo da emissora NBC, apresentações de artistas como Queen Latifah, Teddy Swims e Natasha Bedingfield, além de 100 bonecos infláveis, incluindo as novidades do Mickey Aprendiz de Feiticeiro e da Hello Kitty.",
+    "Em Nova Orleans, o Natchitoches Christmas Festival ocorre entre 27 e 29 de novembro, integrando uma programação de 21 de novembro a 6 de janeiro que inclui uma iluminação com mais de 300 mil luzes e 100 instalações decorativas no Cane River Lake.",
+    "O America’s Thanksgiving Parade, em Detroit, acontece no dia 26 a partir das 8h45, cobrindo cerca de 4,8 km na Woodward Avenue com 33 carros alegóricos, cinco balões gigantes, bandas marciais e celebridades locais.",
+    "A 6abc Dunkin’ Thanksgiving Day Parade, na Filadélfia, realiza sua 107ª edição no dia 26, das 9h ao meio-dia, com transmissão da ABC e um percurso de aproximadamente 2,9 km passando pela Benjamin Franklin Parkway."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/26/desfile-da-macys-em-ny-e-adiado-por-causa-de-chuva-paradas-tradicionais-do-dia-de-acao-de-gracas-nos-eua-completam-100-anos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5a67838dcff8.webp"
   },
   {
    "titulo": "Black Friday Sephora 2026: quais são as melhores ofertas?",
    "topicos": [
-    "A Black Friday 2026 ocorre nesta sexta-feira (27), reunindo promoções em cosméticos, perfumes e itens de beleza para reposição de estoque, presentes de Natal e kits de verão.",
-    "Na campanha Sephora Friday, a rede oferece 20% de desconto em todo o catálogo de produtos da loja, com exceção apenas dos itens da marca FRAN.",
-    "A Sephora também estipula que determinados produtos selecionados na promoção podem atingir descontos de até 80% off.",
-    "Pela primeira vez, os descontos continuam na Cyber Monday, realizada na segunda-feira (30 de novembro), com abatimentos de no mínimo 15% em marcas e produtos específicos.",
-    "Entre os destaques da Sephora estão o Blush Líquido Afterglow da Nars (de R$ 291 por R$ 232,80) e o Blush Stick Dior Backstage Rosy Glow (de R$ 410 por R$ 205).",
-    "Outras ofertas incluem o Óleo capilar Wella Professionals 100ml (de R$ 209 por R$ 117) e o Lip Gloss Bruna Tavares Coca-Cola (de R$ 70 por R$ 21)."
+    "A Black Friday 2026 ocorre nesta sexta-feira (27), reunindo promoções em cosméticos, perfumes e itens de beleza para reposição de estoques, presentes de Natal e kits de verão.",
+    "Na campanha Sephora Friday, a rede oferece 20% de desconto em todo o catálogo da loja, exceto para os produtos da marca FRAN.",
+    "Alguns itens selecionados na Sephora podem atingir descontos de até 80% durante o período promocional da Black Friday.",
+    "Pela primeira vez, a Cyber Monday estenderá os descontos para a segunda-feira seguinte, em 30 de novembro, com abatimentos de no mínimo 15% em uma seleção especial de marcas.",
+    "Entre os destaques promocionais divulgados estão o Blush Stick Dior Backstage Rosy Glow, que caiu de R$ 410,00 para R$ 205,00 (50% off), e o Lip Gloss Bruna Tavares Coca-Cola, de R$ 70 por R$ 21 (70% off)."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/consumo/black-friday-sephora-2026-ofertas/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/aee93466ddb4.webp"
   },
   {
    "titulo": "Embraer diz que novas tarifas de Trump podem encarecer passagens e pressionar inflação nos EUA",
    "topicos": [
-    "Em entrevista em Brasília, o presidente‑executivo da Embraer, Francisco Gomes Neto, disse que a proposta de novas tarifas dos EUA pegou a empresa de surpresa e que, se implementada, só teria efeito a partir de 2027.",
-    "A medida pretende aplicar uma sobretaxa de 25% sobre exportações brasileiras, que até agora isentava as aeronaves da Embraer, incluindo o modelo E175, o mais utilizado nos EUA.",
-    "Segundo o executivo, mais de 40% do E175 é fabricado nos Estados Unidos; a tarifa sobre esse avião encareceria as companhias aéreas e poderia ser repassada ao preço das passagens, impactando a inflação americana.",
-    "A proposta de tarifa não se limita ao Brasil; outros países exportadores também seriam alvos, segundo o representante comercial americano Jamieson Greer, que busca pressionar o Brasil a mudar práticas comerciais consideradas prejudiciais aos EUA.",
-    "O governo dos EUA afirma que a iniciativa surge após mais de um ano de negociações sem avanços suficientes, mas destaca que as alterações ainda são apenas propostas e não foram oficialmente adotadas.",
-    "Caso a tarifa seja efetivada, a Embraer, uma das maiores fabricantes de aviões do mundo e importante exportadora brasileira, poderia ver redução nas vendas para os EUA e aumento dos custos para as companhias aéreas que operam o E175."
+    "A proposta de tarifas dos Estados Unidos pegou a Embraer de surpresa, segundo declaração do presidente-executivo da fabricante, Francisco Gomes Neto, feita nesta quinta-feira (26) em Brasília.",
+    "O executivo afirmou que a medida não trará impactos para a empresa neste ano, com uma eventual implementação prevista para ocorrer somente em 2027.",
+    "O modelo E175, aeronave mais voada nos EUA que possui mais de 40% de componentes americanos, pode ficar mais caro devido à taxação, prejudicando as companhias aéreas.",
+    "O aumento no custo das aeronaves poderá encarecer o preço das passagens aéreas e gerar pressões sobre a inflação nos Estados Unidos, conforme avaliou o presidente-executivo.",
+    "A nova cobrança proposta pelo representante comercial americano, Jamieson Greer, não se restringe ao Brasil e também afetará outros países exportadores.",
+    "A medida ameaça derrubar a isenção que poupava as aeronaves da sobretaxa de 25% aplicada pelos americanos a uma parte das exportações brasileiras.",
+    "O governo dos Estados Unidos informou que a proposta foi apresentada após mais de um ano de negociações sem avanços suficientes, buscando pressionar o Brasil a rever práticas comerciais."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/embraer-aeronaves-eua.ghtml",
-   "categoria": "Economia"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/01a0686e213a.webp"
   },
   {
    "titulo": "Ao vivo: BC fala sobre medidas para combater o endividamento",
    "topicos": [
-    "O diretor de Regulação do Banco Central, Gilneu Vivan, detalha nesta quinta-feira (26.nov.2026), às 11h, um novo pacote de medidas para combater o endividamento de famílias e empresas.",
-    "Aprovadas na quarta-feira (25.nov) pelo BC e pelo Conselho Monetário Nacional, as normas impõem critérios mais rígidos para a liberação de empréstimos e financiamentos.",
-    "Os bancos e instituições financeiras precisarão aperfeiçoar a avaliação da capacidade de pagamento dos consumidores e o acompanhamento dos riscos de comprometimento de renda.",
-    "Clientes que utilizarem o rotativo do cartão de crédito ao deixar de pagar integralmente 3 ou mais faturas em meses diferentes dentro de um período de 6 meses terão seus limites reduzidos gradualmente.",
-    "A regulamentação assegura a preservação dos direitos dos consumidores caso suas dívidas de empréstimos e financiamentos sejam repassadas a fundos de investimento, securitizadoras ou empresas fora do Sistema Financeiro Nacional."
+    "O diretor de Regulação do Banco Central, Gilneu Vivan, apresentou nesta quinta-feira (26.nov.2026), às 11h, um pacote de medidas para combater o endividamento de famílias e empresas.",
+    "As normas foram aprovadas na quarta-feira (25.nov) pelo Banco Central e pelo Conselho Monetário Nacional, introduzindo critérios mais rigorosos na concessão de empréstimos e financiamentos.",
+    "Os bancos e instituições financeiras precisarão melhorar a avaliação sobre a capacidade de pagamento dos clientes e o acompanhamento dos riscos de comprometimento da renda.",
+    "Bancos deverão cortar de forma gradual os limites de cartões de crédito de consumidores que utilizam o rotativo com frequência, conforme as novas diretrizes estabelecidas.",
+    "A exigência de redução do limite do cartão se aplica a quem não pagar a fatura integralmente em 3 ou mais meses distintos ao longo de um período de 6 meses, financiando o saldo.",
+    "A resolução assegura a preservação dos direitos do consumidor caso suas dívidas de empréstimos ou financiamentos sejam repassadas a fundos, securitizadoras ou empresas de fora do Sistema Financeiro Nacional."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/ao-vivo-bc-fala-sobre-medidas-para-combater-o-endividamento/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/e482052125d4.webp"
   },
   {
    "titulo": "Ministério afasta risco de desabastecimento de etanol anidro em entressafra de cana-de-açúcar",
    "topicos": [
-    "O Ministério de Minas e Energia declarou, em nota divulgada nesta quinta-feira, 26, que o Brasil não corre risco de desabastecimento de etanol anidro na entressafra da cana-de-açúcar.",
-    "A avaliação foi divulgada após uma reunião de Monitoramento do abastecimento de Etanol realizada na quarta-feira, 25, que debateu a safra 2026/2027.",
-    "O estudo do ministério avaliou os estoques atuais, a produção projetada, eventuais importações, as expectativas de consumo e as regras de manutenção de estoques obrigatórios.",
-    "Os cálculos asseguram que há produto suficiente para atender a demanda nacional até que a moagem de cana-de-açúcar seja retomada, apesar da queda sazonal na oferta.",
-    "As projeções foram feitas considerando a proporção atual de 32% de etanol anidro misturado à gasolina, conhecida como E32.",
-    "Segundo a pasta, mesmo se houver uma eventual prorrogação desse percentual de 32%, o cenário permanece favorável e sem riscos para o abastecimento interno."
+    "O Ministério de Minas e Energia declarou, em nota divulgada nesta quinta-feira, 26, que não existe risco de falta de etanol anidro no Brasil durante a entressafra da cana-de-açúcar.",
+    "A avaliação positiva foi divulgada após uma reunião de Monitoramento do abastecimento de Etanol realizada na quarta-feira, 25.",
+    "O estudo do governo avaliou os estoques atuais, estimativas de produção, possíveis importações, consumo projetado e a exigência de manutenção de estoques obrigatórios.",
+    "As projeções foram feitas considerando o patamar atual de 32% de etanol anidro misturado na gasolina, conhecido como E32.",
+    "Segundo o ministério, mesmo que o porcentual de 32% seja prorrogado, o país conta com volume suficiente para suprir a demanda interna ao longo de todo o período."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/ministerio-afasta-risco-de-desabastecimento-de-etanol-anidro-em-entressafra-de-cana-de-acucar/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/c37f7193f220.webp"
   },
   {
    "titulo": "Áudio: Proposta garante à mulher que viaja sozinha assento ao lado de outra mulher",
    "topicos": [
-    "A Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC) está apta a votar o projeto de lei PL 719/2025, de autoria relatada em 26/11/2026.",
-    "A proposta assegura às mulheres que viajam sozinhas em transportes coletivos o direito de selecionar poltronas situadas ao lado de outras passageiras do sexo feminino.",
-    "A escolha do assento exclusivo deve ser realizada obrigatoriamente no momento em que a passageira efetuar a compra da passagem.",
-    "A medida tem como finalidade principal combater ocorrências de assédio e violência durante os deslocamentos, ampliando a segurança das mulheres.",
-    "O projeto em questão já passou por aprovação anterior na Comissão de Direitos Humanos (CDH) e avança para a nova etapa de análise."
+    "A Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC) está apta a votar o projeto de lei PL 719/2025.",
+    "A proposta assegura a mulheres viajando sozinhas o direito de selecionar assentos ao lado de outras passageiras no ato da compra da passagem de transportes coletivos.",
+    "O projeto, relatado em 26/11/2026, tem como meta evitar situações de violência e assédio nas viagens, ampliando a proteção das mulheres.",
+    "O texto legislativo já passou pela aprovação prévia da Comissão de Direitos Humanos (CDH)."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/proposta-garante-a-mulher-que-viaja-sozinha-assento-ao-lado-de-outra-mulher",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "sem_imagem": true
   },
   {
    "titulo": "EUA-Brasil: Amcham vê com preocupação possível ampliação de tarifas",
    "topicos": [
     "A Câmara Americana de Comércio no Brasil (Amcham Brasil) manifestou preocupação com a possível ampliação de tarifas dos Estados Unidos sobre produtos brasileiros, conforme divulgado nesta quarta-feira, 25.",
-    "O Escritório do Representante Comercial dos Estados Unidos (USTR) abriu uma consulta pública sobre a proposta da Seção 301, cujas medidas atuais já afetam aproximadamente um quarto das exportações do Brasil para o mercado americano.",
-    "A proposta inclui aumentar as tarifas sobre a importação de açúcar fora das cotas tarifárias e aplicar uma sobretaxa de 10% nas aeronaves brasileiras, que hoje são isentas.",
-    "Integrantes do governo Lula receberam o anúncio com surpresa e enxergam a medida como uma tentativa de pressão do governo do presidente Donald Trump para impor condições em negociações.",
-    "A Amcham, que representa cerca de 3.500 empresas, destacou que as restrições podem prejudicar a competitividade brasileira, encarecer custos e gerar incertezas para investimentos, informando que participará da consulta pública."
+    "O Escritório do Representante Comercial dos Estados Unidos (USTR) abriu uma consulta pública sobre medidas da Seção 301, cujas regras atuais já afetam aproximadamente um quarto das exportações do Brasil para o mercado americano.",
+    "A proposta americana prevê elevar tarifas sobre importações de açúcar fora das cotas e aplicar uma sobretaxa de 10% nas importações de aeronaves brasileiras que hoje são isentas.",
+    "Integrantes do governo Lula receberam o anúncio com surpresa, interpretando a nova rodada de tarifas como uma tentativa de pressão dos EUA para impor condições em negociações bilaterais, enquanto o governo brasileiro ainda não se manifestou oficialmente.",
+    "A Amcham, organização que congrega cerca de 3.500 empresas, advertiu que as medidas podem reduzir a competitividade brasileira, encarecer custos para consumidores e companhias dos EUA, prejudicar cadeias produtivas e gerar incertezas nos investimentos."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/economia/amcham-ve-preocupacao-possivel-ampliacao-tarifas-eua-brasil/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/51eeb0b06ddb.webp"
   },
   {
    "titulo": "Lula precisa negociar com aliados novas medidas fiscais antes de fazer convites para ministérios",
    "topicos": [
-    "Aliados do presidente Lula recomendam que as novas medidas fiscais sejam negociadas com os líderes dos partidos da base aliada e do Centrão antes de serem enviadas ao Congresso.",
-    "O objetivo da articulação prévia é viabilizar a aprovação do pacote ainda neste ano ou, no limite, durante uma convocação extraordinária do Legislativo marcada para janeiro.",
-    "Enquanto a primeira fase do ajuste fiscal teve caráter emergencial para assegurar o Orçamento da União de 2027, esta segunda etapa exigirá maior diálogo político antes da posse presidencial em janeiro.",
-    "Como estratégia para destravar o apoio parlamentar, assessores sugerem que o presidente agilize as conversas com siglas da Frente Ampla e do Centrão sobre cargos na Esplanada dos Ministérios do Lula 4.",
-    "Edinho Silva, presidente do PT, já conduziu a rodada inicial de entendimentos e relatou que todas as legendas consultadas demonstraram interesse em compor a gestão federal.",
-    "Na última quarta-feira (25), Lula debateu o tema com a equipe econômica no Palácio da Alvorada, mas o encontro terminou sem declarações públicas sobre os rumos da PEC prevista para a próxima semana.",
-    "O mercado financeiro reagiu positivamente com a repercussão de que Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, pode assumir o Ministério da Fazenda, gerando queda no dólar e alta na Bolsa."
+    "Aliados do presidente Lula recomendam que as novas medidas fiscais sejam discutidas com os líderes da base aliada e do Centrão antes de serem enviadas ao Congresso.",
+    "O objetivo dessa articulação prévia é assegurar a aprovação das propostas ainda em 2026 ou, no máximo, durante uma convocação extraordinária do Legislativo em janeiro.",
+    "Assessores sugerem que o presidente acelere as negociações com partidos da Frente Ampla e do Centrão sobre cargos na Esplanada dos Ministérios para facilitar o aval do Congresso.",
+    "Edinho Silva, presidente do PT, realizou a primeira rodada de diálogos, e os partidos demonstraram interesse em retornar ao governo Lula 4.",
+    "Na última quarta-feira (25), Lula reuniu a equipe econômica no Palácio da Alvorada para discutir a segunda fase do ajuste fiscal, cujas linhas da PEC serão enviadas ao Congresso na próxima semana.",
+    "O mercado financeiro reagiu positivamente com a possibilidade de Luiz Carlos Trabuco, presidente do Conselho do Bradesco, assumir o Ministério da Fazenda, gerando queda no dólar e alta na Bolsa."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/26/lula-precisa-negociar-com-aliados-novas-medidas-fiscais-antes-de-fazer-convites-para-ministerios.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/83f6157f6516.webp"
   },
   {
    "titulo": "Ministro de Israel ameaça deslocar 1 milhão de palestinos em Gaza caso Hamas não entregue armas",
    "topicos": [
-    "O ministro da Defesa de Israel, Israel Katz, ameaçou nesta quinta-feira (26) deslocar forçosamente mais 1 milhão de palestinos em Gaza caso o Hamas não entregue as armas.",
-    "A exigência faz parte do plano de paz mediado pelos EUA e assinado em 2025, que prevê a desmilitarização do grupo e o acordo de cessar-fogo em vigor desde outubro de 2025.",
-    "Caso o Hamas recuse o desarmamento voluntário, o Exército israelense promete iniciar a operação Carruagens de Gideão II, com novas evacuações para o sul e limpeza territorial.",
-    "O Hamas condiciona a entrega de armas à retirada total das tropas de Israel, que atualmente controlam cerca de 70% do território de Gaza.",
-    "De acordo com o texto, o conflito travado entre 2023 e 2025 já soma mais de 70 mil mortos, incluindo 10 vítimas fatais em um bombardeio ocorrido nesta quinta-feira (26).",
-    "O cenário político israelense passa por transição após eleições em outubro de 2025, onde o partido de Benjamin Netanyahu foi derrotado pelo de Gadi Eisenkot, que tenta formar coalizão."
+    "O ministro da Defesa de Israel, Israel Katz, ameaçou nesta quinta-feira (26) expulsar mais 1 milhão de palestinos da Faixa de Gaza caso o Hamas se recuse a entregar seu armamento.",
+    "A exigência baseia-se no plano de paz mediado pelos Estados Unidos e assinado em 2025, que prevê a desmilitarização do grupo terrorista.",
+    "Se o Hamas não cumprir o acordo voluntariamente, o Exército israelense promete destruir a facção na fase seguinte da operação Carruagens de Gideão II, com nova evacuação ao sul.",
+    "O Hamas condiciona a entrega de armas à retirada total das tropas de Israel, que atualmente ocupam cerca de 70% do território palestino.",
+    "De acordo com o texto, o deslocamento forçado da população em Gaza pode ser enquadrado como crime de guerra e contra a humanidade.",
+    "O cessar-fogo vigente desde outubro de 2025 tem sido marcado por bombardeios israelenses frequentes, incluindo um ataque nesta quinta-feira (26) que resultou em 10 mortes, elevando o total de óbitos no conflito para mais de 70 mil.",
+    "O cenário político de Israel passa por transição após as eleições de outubro, com a derrota do partido de Benjamin Netanyahu para a legenda de Gadi Eisenkot, ex-chefe do Exército."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/ministro-de-israel-ameaca-deslocar-1-milhao-de-palestinos-em-gaza-caso-hamas-nao-entregue-armas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/009d0f1b561b.webp"
   },
   {
    "titulo": "Brasil critica possível novo tarifaço dos EUA e diz que não cederá à ameaça",
    "topicos": [
-    "O governo dos Estados Unidos recomendou, nesta quarta-feira, 25, a imposição de novas tarifas à importação de aeronaves e açúcar fabricados no Brasil.",
-    "A proposta foi divulgada pelo Representante de Comércio dos EUA, Jamieson Greer, que propôs uma nova alíquota de 10% sobre aeronaves prontas sob a justificativa de que o Brasil mantém práticas comerciais prejudiciais.",
-    "A Secretaria de Comunicação Social da Presidência da República (Secom) apontou que a medida busca forçar o Brasil a mudar regras internas sobre o Pix, comércio digital e acordos.",
-    "Em nota oficial, a Secom classificou a decisão unilateral como uma ameaça inaceitável durante as negociações bilaterais e afirmou que o país não cederá às pressões.",
-    "O governo brasileiro relembrou que, em 21 de agosto, os presidentes Lula e Trump acordaram a criação de um grupo de trabalho comercial, cujo envio de termos de referência foi cobrado de Greer sem retorno.",
-    "O governo federal declarou que buscará uma solução negociada, mas que poderá recorrer à Organização Mundial do Comércio (OMC) e adotar medidas de reciprocidade contra os norte-americanos."
+    "O governo dos Estados Unidos anunciou, nesta quarta-feira, 25, a recomendação de novas tarifas de importação sobre açúcar e aeronaves produzidas no Brasil, incluindo uma alíquota de 10% sobre aviões prontos.",
+    "A proposta foi anunciada pelo Representante de Comércio dos EUA (USTR), Jamieson Greer, sob o argumento de que o Brasil não corrigiu práticas comerciais consideradas irracionais e prejudiciais.",
+    "A Secretaria de Comunicação Social da Presidência (Secom) afirmou que a medida é uma pressão dos EUA para forçar o Brasil a mudar regras regulatórias nacionais do Pix e do comércio digital.",
+    "Em nota oficial, o governo brasileiro classificou a decisão unilateral como uma ação inaceitável durante o processo negociador bilateral e declarou que não cederá a esse tipo de ameaça.",
+    "O Brasil relembrou que os presidentes Lula e Trump firmaram um acordo em 21 de agosto para criar um grupo de trabalho comercial, mas que Washington ainda não enviou os termos de referência prometidos.",
+    "O governo federal reiterou o objetivo de buscar uma solução negociada, mas informou que poderá adotar medidas de reciprocidade e acionar a Organização Mundial do Comércio (OMC) contra as tarifas."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/economia/brasil-critica-possivel-novo-tarifaco-dos-eua-e-diz-que-nao-cedera-a-ameaca/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a22df648184c.webp"
   },
   {
    "titulo": "Aliados defendem Alckmin no Ministério da Segurança Pública",
    "topicos": [
-    "Aliados do governo defendem o nome do vice-presidente Geraldo Alckmin para assumir o comando do futuro Ministério da Segurança Pública.",
-    "A criação da nova pasta ministerial é uma promessa de campanha do presidente Luiz Inácio Lula da Silva com foco no combate ao crime organizado.",
-    "O Ministério da Segurança Pública tem previsão para ser formalmente criado e implementado a partir de 2027, no quarto mandato de Lula.",
-    "Entre os atributos considerados favoráveis a Alckmin para o cargo está a sua experiência anterior como governador do estado de São Paulo.",
-    "O vice-presidente administrou o estado paulista em dois períodos distintos: entre 2001 e 2006, e posteriormente de 2011 até 2018.",
-    "Antes do período eleitoral deste ano, Alckmin atuou à frente do Ministério do Desenvolvimento, Indústria, Comércio e Serviços."
+    "Aliados do governo defendem o nome do vice-presidente Geraldo Alckmin para assumir o futuro Ministério da Segurança Pública, pasta que deve ser criada em 2027 durante um possível quarto mandato do presidente Lula.",
+    "A criação do novo ministério foi uma promessa de campanha de Lula com o objetivo principal de combater o crime organizado, tornando-se atualmente o hiperfoco e a principal prioridade do governo nas articulações.",
+    "Entre os atributos apontados a favor de Alckmin para o cargo está a sua experiência prévia como chefe do Executivo paulista, tendo governado o estado de São Paulo entre 2001 e 2006 e, posteriormente, de 2011 a 2018.",
+    "Antes da campanha eleitoral deste ano, Geraldo Alckmin esteve à frente do Ministério do Desenvolvimento, Indústria, Comércio e Serviços."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/26/alckmin-seguranca-publica.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/cb6cb88a2a5b.webp"
   },
   {
    "titulo": "Cancelada votação do parecer sobre mudanças no Código de Trânsito",
    "topicos": [
-    "A comissão da Câmara dos Deputados que analisa modificações no Código de Trânsito Brasileiro cancelou a reunião marcada para a próxima terça-feira (1º).",
-    "O encontro serviria para debater e votar o parecer do relator, deputado Aureo Ribeiro (Solidariedade-RJ), sobre o Projeto de Lei 8085/14 e outras 270 propostas conjuntas.",
-    "A votação já havia sido adiada anteriormente devido à ausência de consenso entre os parlamentares, e a comissão ainda não definiu uma nova data para o encontro."
+    "A comissão especial da Câmara dos Deputados cancelou a reunião marcada para a próxima terça-feira (1º), onde discutiria e votaria o parecer sobre as mudanças no Código de Trânsito Brasileiro.",
+    "O colegiado analisa o Projeto de Lei 8085/14 junto com outras 270 propostas que tramitam em conjunto, mas até o momento não foi definida uma nova data para a realização da votação.",
+    "O relator da matéria, deputado Aureo Ribeiro (Solidariedade-RJ), apresentou modificações recentes em seu relatório anterior com o objetivo de buscar a aprovação de um texto consensual.",
+    "A análise do parecer sofreu adiamentos anteriores devido à ausência de consenso entre os parlamentares envolvidos nas discussões legislativas.",
+    "As propostas em avaliação abrangem temas como formação de condutores, segurança viária, exames médicos, psicológicos e toxicológicos, limites de velocidade e radares móveis.",
+    "O escopo da comissão também inclui a regulamentação do sistema de pedágio livre (free flow) e normas para a circulação de veículos de mobilidade elétrica leve, a exemplo de patinetes e bicicletas elétricas."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1323183-cancelada-votacao-do-parecer-sobre-mudancas-no-codigo-de-transito",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/d5db7ef7a0b7.webp"
   },
   {
    "titulo": "Bilynskyj diz que disputará presidência da Comissão da Mulher em 2027",
    "topicos": [
-    "O deputado federal Paulo Bilynskyj (PL-SP) anunciou na quarta-feira (25.nov.2026) que pretende disputar a presidência da Comissão de Defesa dos Direitos da Mulher da Câmara em 2027.",
-    "O anúncio ocorreu um dia após o congressista perder seu posto de titular e ser deslocado para a suplência do colegiado, que é liderado atualmente por Erika Hilton (Psol-SP).",
-    "Conforme o Regimento Interno da Câmara, apenas membros titulares podem concorrer à presidência das comissões, exigindo que Bilynskyj retorne à titularidade para viabilizar a candidatura.",
-    "A deputada Fernanda Melchionna (Psol-RS) ironizou a declaração do parlamentar comparando o lançamento da sua candidatura à autoproclamação como presidente da República.",
-    "Durante o encontro, Bilynskyj criticou a prevalência de pautas feministas sobre os interesses femininos e mencionou o projeto de lei que concede porte de armas a mulheres vítimas de violência doméstica."
+    "O deputado federal Paulo Bilynskyj (PL-SP) anunciou na quarta-feira, 25 de novembro de 2026, que pretende disputar a presidência da Comissão de Defesa dos Direitos da Mulher da Câmara em 2027.",
+    "O anúncio ocorreu um dia após o parlamentar perder o posto de titular e ser transferido para a suplência da comissão, atualmente liderada por Erika Hilton (Psol-SP).",
+    "Conforme o Regimento Interno da Câmara, apenas membros titulares podem concorrer à presidência dos colegiados, exigindo que Bilynskyj retorne à titularidade para viabilizar a candidatura.",
+    "Durante o anúncio, a deputada Fernanda Melchionna (Psol-RS) ironizou a intenção do congressista comparando-a a uma autoproclamação à presidência da República."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-congresso/bilynskyj-diz-que-disputara-presidencia-da-comissao-da-mulher-em-2027/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/01f5c58c4aae.webp"
   },
   {
    "titulo": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
    "topicos": [
-    "A Câmara dos Deputados aprovou nesta quinta-feira (26) o Projeto de Decreto Legislativo (PDL) 235/25, que valida a adesão brasileira ao tratado de cooperação jurídica com a Guiana firmado em 2022 para processos civis.",
-    "O texto do acordo, que agora segue para análise do Senado, abrange a colaboração mútua nas áreas civil, empresarial, trabalhista, administrativa e em reparações de danos decorrentes de processos penais.",
-    "A proposta estabelece regras para a comunicação de atos processuais, produção e transmissão de provas, medidas de urgência, devolução de ativos, proteção de testemunhas, audiências e troca de informações legais entre os países.",
-    "O tratado prevê exceções que desobrigam os governos de cooperarem caso haja incompatibilidade com a ordem pública e proíbe expressamente a revisão de mérito de decisões judiciais internas.",
-    "Segundo o relator, deputado Ricardo Ayres (Republicanos-TO), a medida tem o objetivo de conferir maior agilidade ao intercâmbio de informações e providências judiciais internacionais no âmbito cível."
+    "A Câmara dos Deputados aprovou, nesta quinta-feira (26), o Projeto de Decreto Legislativo (PDL) 235/25, que ratifica o tratado de cooperação jurídica em processos civis celebrado com a Guiana em 2022.",
+    "O texto da proposta, que agora segue para análise no Senado, estabelece compromissos mútuos de colaboração entre o Brasil e a Guiana em áreas como direito civil, empresarial, trabalhista e administrativo.",
+    "O acordo regulamenta procedimentos como a comunicação de atos processuais, transmissão de provas, medidas de urgência, proteção a testemunhas, repatriação de ativos e realização de audiências.",
+    "A matéria determina que os países podem recusar a ajuda caso a solicitação seja incompatível com a ordem pública, além de proibir expressamente a revisão do mérito de decisões judiciais internas.",
+    "Segundo o relator da proposta, deputado Ricardo Ayres (Republicanos-TO), a medida tem o objetivo de conferir maior agilidade ao intercâmbio de informações e providências judiciais internacionais."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/f0d6f4409a38.webp"
   },
   {
    "titulo": "Justiça decreta prisão de David, do Vasco, e Hayner, do Vila Nova",
    "topicos": [
-    "A Justiça do Espírito Santo determinou nesta quinta-feira (26.nov.2026) a prisão preventiva do atacante David (Vasco) e do lateral Hayner (Vila Nova). A ordem foi assinada pela juíza Cristina Eller Pimenta Bernardo, da 5ª Vara Criminal da Serra (ES).",
-    "Os atletas são suspeitos de oferecer dinheiro a testemunhas para que mudassem seus depoimentos em investigação da operação \"A Tropa\", que apura tráfico de drogas e organização criminosa no Estado.",
-    "A decisão baseou-se em mensagens no celular de David e depoimentos de 2 testemunhas dados em 6 de novembro. Em 29 de outubro, a juíza havia negado a prisão e imposto medidas cautelares, consideradas insuficientes após novos elementos.",
-    "Com o aditamento da denúncia pelo Ministério Público, David e Hayner passam a responder também por obstrução de investigação de organização criminosa. David já era réu por financiamento ao tráfico e participação em organização criminosa.",
-    "Policiais civis do Espírito Santo e do Rio de Janeiro foram ao CT do Vasco nesta quinta-feira (26.nov) para cumprir a ordem. Em Goiás, a ação tem apoio da Polícia Civil estadual; as defesas não foram localizadas para comentar."
+    "A Justiça do Espírito Santo determinou nesta 5ª feira (26.nov.2026) a prisão preventiva do atacante David (do Vasco) e do lateral Hayner (do Vila Nova).",
+    "A decisão da juíza Cristina Eller Pimenta Bernardo, da 5ª Vara Criminal da Serra (ES), ocorreu após suspeitas de que os atletas ofereceram dinheiro a testemunhas para mudarem depoimentos.",
+    "Os mandados foram cumpridos por policiais civis no Rio de Janeiro, no centro de treinamento do Vasco, e em Goiás, com apoio da polícia local.",
+    "A ordem de prisão baseou-se em mensagens no celular de David e em depoimentos de duas testemunhas prestados em 6 de novembro.",
+    "Em 29 de outubro, a juíza havia negado a prisão de David, aplicando medidas cautelares como entrega de passaporte e proibição de contato, consideradas insuficientes após novos elementos.",
+    "Com a denúncia aditada pelo Ministério Público, ambos passam a responder por obstrução de investigação de organização criminosa, além das acusações anteriores."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-sportsmkt/justica-decreta-prisao-de-david-do-vasco-e-hayner-do-vila-nova/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/f6982fcf4906.webp"
   },
   {
    "titulo": "Deputados iniciam sessão de votações desta quinta-feira; acompanhe",
    "topicos": [
-    "O Plenário da Câmara dos Deputados iniciou uma sessão de votações nesta quinta-feira (26), conforme anunciado pela Casa legislativa.",
-    "Durante a sessão deliberativa, os parlamentares começaram a analisar o projeto PDL 235/25, que trata de um acordo de cooperação jurídica entre o Brasil e a Guiana."
+    "O Plenário da Câmara dos Deputados iniciou uma sessão de votações nesta quinta-feira (26), conforme informou a Casa legislativa.",
+    "Durante a sessão deliberativa, os parlamentares começaram a analisar o projeto PDL 235/25.",
+    "A proposta em pauta trata especificamente de um acordo de cooperação jurídica estabelecido entre o Brasil e a Guiana."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1323085-deputados-iniciam-sessao-de-votacoes-desta-quinta-feira-acompanhe",
-   "categoria": "Política"
+   "categoria": "Política",
+   "erro_materia": "não achou o texto principal",
+   "detalhada": true,
+   "imagem": "img/2026/11/8140c983792c.webp"
   },
   {
    "titulo": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença",
    "topicos": [
-    "O Brasil registrou 1.499 casos de mpox este ano, o que representa um aumento de 39,44% em relação a 2025, quando houve 1.075 diagnósticos, segundo o Ministério da Saúde.",
-    "A cidade de São Paulo contabilizou 120 casos de mpox em novembro até terça-feira (24/11), ficando acima dos 81 registros de outubro e dos 22 de setembro.",
-    "O governo federal e especialistas apontam que o atual cenário está longe do surto de 2022, quando o país enfrentou 10.591 casos e 14 mortes, contra um óbito registrado neste ano.",
-    "Especialistas explicam que o aumento decorre de fatores como afrouxamento na percepção de risco, cadeias de transmissão mantidas, cobertura vacinal limitada e lesões discretas que dificultam o diagnóstico.",
-    "O Ministério da Saúde anunciou recentemente a aquisição de 25 mil doses de vacina, recomendada pela OMS para grupos de maior risco, como imunocomprometidos e homens que fazem sexo com homens.",
-    "O preço de referência de uma dose da vacina é de US$ 65, o equivalente a cerca de R$ 380, sendo exigidas duas doses por pessoa, com efetividade estimada entre 70% e 80%."
+    "O Ministério da Saúde registrou 1.499 casos de mpox no Brasil neste ano, o que representa um aumento de 39,44% em relação a 2025, quando houve 1.075 diagnósticos.",
+    "A cidade de São Paulo contabilizou 120 casos em novembro até terça-feira (24/11), ficando acima dos 81 registros de outubro e dos 22 de setembro.",
+    "Especialistas apontam que o cenário atual está distante do surto de 2022, quando o país contabilizou 10.591 casos e 14 mortes, enquanto em 2026 há um óbito registrado.",
+    "O Ministério da Saúde anunciou a compra de 25 mil doses de vacina, recomendada pela OMS para grupos de risco como imunocomprometidos e homens que fazem sexo com homens.",
+    "Cada dose da vacina tem preço de referência de US$ 65 (cerca de R$ 380), sendo necessárias duas doses por pessoa, com efetividade estimada entre 70% e 80%.",
+    "Fora da África, homens que fazem sexo com homens representam 92,8% dos diagnósticos e o contato sexual causou 96,3% dos casos entre setembro de 2025 e 2026."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cq70269ke8l4o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/d015e7e30184.webp"
   },
   {
    "titulo": "Dois italianos morrem em ataque de drones iraniano no Kuwait",
    "topicos": [
-    "Um ataque com drones iranianos atingiu instalações militares no Kuwait nesta quinta-feira, incluindo uma estação de monitoramento da defesa antiaérea onde havia um alvo estratégico.",
-    "O Ministério da Defesa do Kuwait informou que quatro pessoas ficaram feridas por destroços após a interceptação dos drones, sendo dois italianos, um kuwaitiano e um paquistanês.",
-    "Os governos da Itália e do Kuwait, além das agências Ansa e Reuters, confirmaram a morte dos dois cidadãos italianos que trabalhavam como técnicos da Rheinmetall Italia.",
-    "As vítimas fatais eram funcionários da empresa alemã Rheinmetall e estavam prestando serviços no Kuwait, conforme relatado pelo ministro das Relações Exteriores italiano, Antonio Tajani.",
-    "O governo da Itália iniciou uma investigação para esclarecer as circunstâncias das mortes, enquanto a primeira-ministra Giorgia Meloni manifestou condolências.",
-    "O episódio ocorre no contexto do conflito no Oriente Médio iniciado em fevereiro por Estados Unidos e Israel contra o Irã, que costuma bombardear países da região com bases americanas."
+    "O Ministério da Defesa do Kuwait informou que drones hostis de origem iraniana atacaram instalações militares no país, atingindo uma estação de monitoramento da defesa antiaérea.",
+    "O ataque deixou quatro feridos – dois cidadãos italianos, um cidadão kuwaitiano e um cidadão paquistanês – que foram atingidos por destroços após a intercepção dos drones pelas defesas aéreas.",
+    "Os dois italianos, técnicos da Rheinmetall Italia, morreram no local, conforme confirmaram os governos do Kuwait e da Itália, além das agências ANSA e Reuters.",
+    "O ministro das Relações Exteriores da Itália, Antonio Tajani, afirmou que a explosão ocorreu na estação onde os técnicos trabalhavam e que a Itália abriu investigação para apurar as circunstâncias do ataque.",
+    "A primeira‑ministra italiana, Giorgia Meloni, enviou condolências; o governo iraniano ainda não se pronunciou sobre o incidente.",
+    "O ataque ocorre no âmbito da guerra no Oriente Médio, iniciada pelos Estados Unidos e Israel contra o Irã em fevereiro, sem perspectiva de término, e segue a prática iraniana de bombardeios a países que abrigam bases americanas, embora este ataque tenha sido diferente dos anteriores."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/dois-italianos-morrem-ataque-ira-kuwait-diz-agencia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/1e5a46356a9e.webp"
   },
   {
    "titulo": "Milhares protestam no Paraguai contra violência contra mulher e prejuízos provocados por crise bancária",
    "topicos": [
-    "Milhares de pessoas protestaram no centro de Assunção, capital do Paraguai, nesta quarta-feira (26), para denunciar a violência de gênero e os reflexos da crise do Ueno Bank sobre as mulheres.",
-    "A manifestação foi organizada por entidades da Articulação Feminista do Paraguai e ocorreu na Praça Itália, marcando o Dia Internacional da Eliminação da Violência contra a Mulher.",
-    "Dados do Ministério Público apontam 24 feminicídios e 34 tentativas de feminicídio no país neste ano, além de 379 mulheres vítimas desse crime nos últimos dez anos.",
-    "Segundo estimativas da porta-voz Angie Prieto, cerca de 5 mil pessoas participaram do ato e mais de 1,3 milhão de mulheres sofreram impactos financeiros devido à quebra do banco.",
-    "O coletivo informou que mais de um terço dos cerca de 6 mil empregados demitidos de companhias do Grupo Vázquez, controlador da instituição, eram mulheres.",
-    "O Instituto Nacional de Estatística divulgou em maio que aproximadamente 40% das residências no Paraguai são chefiadas por mulheres, evidenciando a vulnerabilidade econômica.",
-    "O Banco Central do Paraguai informou que mais de 1,8 milhão de clientes afetados pelo Ueno Bank já obtiveram restituições que alcançam até US$ 18 mil."
+    "Milhares de pessoas realizaram um protesto no centro de Assunção, capital do Paraguai, na quarta-feira (26), para repudiar a violência de gênero e os reflexos da quebra do Ueno Bank.",
+    "A manifestação foi organizada por entidades da Articulação Feminista do Paraguai e ocorreu na Praça Itália durante a tarde, integrando o Dia Internacional da Eliminação da Violência contra a Mulher.",
+    "O Ministério Público paraguaio registrou 24 feminicídios e 34 tentativas de feminicídio no país em 2026, enquanto nos últimos dez anos houve 379 vítimas fatais desse tipo de crime.",
+    "Segundo a Articulação Feminista, a crise bancária afetou mais de 1,3 milhão de mulheres e mais de um terço dos cerca de 6 mil funcionários demitidos do Grupo Vázquez são mulheres.",
+    "O Instituto Nacional de Estatística informou em maio que cerca de 40% dos lares no Paraguai são chefiados por mulheres, evidenciando o cenário de vulnerabilidade econômica.",
+    "Mais de 1,8 milhão de clientes afetados pelo Ueno Bank já obtiveram restituições de até US$ 18 mil, conforme dados divulgados pelo Banco Central do Paraguai."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/milhares-protestam-no-paraguai-contra-violencia-contra-a-mulher-e-crise-do-ueno-bank.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/19dbfe4c321b.webp"
   },
   {
    "titulo": "Fictor é alvo do MP por suposta fraude bilionária; Justiça bloqueia R$ 4,3 bi dos investigados",
    "topicos": [
-    "Promotores de Justiça e policiais civis realizaram a Operação Dinheiro Fictício em 26 de fevereiro para desarticular um suposto esquema de fraude financeira atribuído ao Grupo Fictor.",
-    "A 3.ª Vara de Falências determinou o bloqueio de até R$ 4,3 bilhões em bens e ativos de 233 investigados, sendo 59 pessoas físicas e 174 jurídicas, cumprindo 12 mandados de busca e apreensão na capital paulista e em São Bernardo do Campo.",
-    "Entre 2024 e 2025, a investigação aponta que os administradores captaram mais de R$ 4 bilhões de investidores, principalmente pessoas físicas, com promessas de rendimentos fixos sem lastro em atividades produtivas reais.",
-    "O Ministério Público aponta que o grupo simulou um faturamento bilionário por meio de cartões de crédito corporativos e pulverizou os recursos entre contas pessoais, paraísos fiscais e empresas de fachada.",
-    "Em fevereiro, a Fictor Holding e a Fictor Invest entraram com pedido de recuperação judicial para mais de 13 mil credores com passivo superior a R$ 4,2 bilhões, processo posteriormente ampliado para 43 empresas, incluindo a Fictor Alimentos.",
-    "A operação mira cinco investigados principais, incluindo o controlador Rafael Ribeiro Leite de Góis, além de alvos ligados a empresas de passagem que movimentaram centenas de milhões de reais e operações suspeitas no exterior."
+    "Promotores de Justiça e policiais civis realizaram a Operação Dinheiro Fictício em 26 de fevereiro, cumprindo 12 mandados de busca e apreensão na capital paulista e em São Bernardo do Campo.",
+    "A 3.ª Vara de Falências e Recuperações Judiciais determinou o bloqueio de até R$ 4,3 bilhões em bens e ativos financeiros de 233 investigados, sendo 59 pessoas físicas e 174 jurídicas.",
+    "A investigação aponta que administradores do Grupo Fictor captaram mais de R$ 4 bilhões de investidores entre 2024 e 2025 com promessas de rendimentos fixos sem lastro, simulando investimentos no agronegócio.",
+    "Investigações identificaram pontos de contato entre o Grupo Fictor e estruturas da Operação Carbono Oculto, ofensiva contra o crime organizado deflagrada em 28 de agosto de 2025.",
+    "Em fevereiro, a Fictor Holding e a Fictor Invest pediram recuperação judicial para mais de 13 mil credores com um passivo superior a R$ 4,2 bilhões, processo depois ampliado para 43 empresas.",
+    "Entre os alvos da operação estão Rafael Ribeiro Leite de Góis, Luiz Phillippe Gomes Rubini, Rafael Paixão Ferreira Giuseppe, Davi Rufino Montenegro e Diego Sarmento de Oliveira."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/economia/fictor-e-alvo-do-mp-por-suposta-fraude-bilionaria-justica-bloqueia-r-43-bi-dos-investigados/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/55618353d677.webp"
   },
   {
    "titulo": "Menos sexo, mais pornografia: o que pesquisa revela sobre jovens britânicos",
    "topicos": [
-    "A quarta edição da Pesquisa Nacional sobre Atitudes e Estilos de Vida Sexuais (Natsal), publicada na revista The Lancet, ouviu 6.700 pessoas de 16 a 59 anos no Reino Unido entre 2022 e 2024.",
-    "Um terço dos jovens britânicos de 16 a 24 anos nunca teve relações sexuais, comparado a um quinto na pesquisa anterior realizada há 16 anos.",
-    "Entre 16 e 24 anos, 38% das mulheres e 28% dos homens afirmam nunca ter feito sexo, índices superiores aos registrados em 1990, 2000 e 2010.",
-    "Adultos com menos de 45 anos fazem sexo em média duas vezes por mês, enquanto em 1990 a frequência era de uma vez por semana.",
-    "Metade dos jovens de 16 a 24 anos trocou imagens íntimas pelo celular no último ano, e a pornografia é consumida por quase 90% dos rapazes e metade das moças dessa faixa etária.",
-    "O percentual de mulheres de 16 a 44 anos que afirmam não querer ter filhos dobrou na última década, saltando de 8% para 17%."
+    "A quarta edição da Pesquisa Nacional sobre Atitudes e Estilos de Vida Sexuais (Natsal) ouviu 6.700 pessoas de 16 a 59 anos no Reino Unido, entre 2022 e 2024, com resultados publicados na revista The Lancet.",
+    "Um terço dos jovens britânicos de 16 a 24 anos nunca teve relações sexuais, contra cerca de um quinto registrado há 16 anos; o grupo também relata esperar mais tempo antes da primeira experiência.",
+    "Entre adultos com menos de 45 anos, a frequência sexual caiu para uma média de duas vezes por mês, ante uma vez por semana em 1990.",
+    "Metade dos jovens de 16 a 24 anos enviou ou recebeu imagens íntimas pelo celular no último ano, e o consumo de pornografia abrange metade das mulheres jovens e quase nove em cada dez jovens homens.",
+    "O estudo apontou queda no uso da pílula anticoncepcional entre mulheres jovens, aumento nas relações sem proteção e duplicação na proporção de mulheres entre 16 e 44 anos que afirmam não querer filhos, de 8% para 17% na última década.",
+    "Os pesquisadores apontam fatores potenciais para essas mudanças, como menor consumo de álcool, mais jovens morando com os pais, impactos da pandemia de covid-19 e maior abertura nas discussões sobre consentimento."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cmzxvew7yl0qo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a2c7488d0a29.webp"
   },
   {
    "titulo": "720 mil militares mortos: custo humano da guerra de Putin na Ucrânia ameaça o futuro da Rússia",
    "topicos": [
-    "Uma investigação baseada em dados vazados da agência de estatísticas russa Rosstat aponta que cerca de 720 mil militares da Rússia morreram na guerra da Ucrânia, segundo portais independentes.",
-    "A contagem oficial divulgada pelo Ministério da Defesa russo era de 5.937 mortos até setembro de 2022, número que não é atualizado desde então pelo governo.",
-    "Os portais Meduza e Mediazona utilizaram 11,6 milhões de arquivos de óbitos obtidos por hackers e aplicaram modelos matemáticos para chegar à projeção de ao menos 720 mil mortes.",
-    "O impacto das perdas atinge de forma desigual áreas mais pobres da Rússia e minorias étnicas, que são atraídas por incentivos financeiros para ingressar no conflito.",
-    "O recrutamento militar envolveu a convocação de 300 mil reservistas, o uso de mercenários, a adesão de presidiários em troca de indultos e a presença de cerca de 7 mil estrangeiros.",
-    "Um estudo do jornal The Guardian indicou que 1.087 militares russos cometeram suicídio desde o início da guerra, a maioria utilizando armas de fogo.",
-    "O orçamento aprovado pela Duma prevê um aumento recorde de 27% nos gastos com defesa para 2027 e a criação de novos impostos para financiar o conflito."
+    "Uma estimativa recente aponta cerca de 720 mil militares russos mortos no conflito com a Ucrânia, ameaçando o futuro demográfico da Rússia. O levantamento foi produzido pelos sites independentes Meduza e Mediazona a partir de dados da agência federal de estatísticas Rosstat.",
+    "A guerra representa a quarta causa de morte mais comum na Rússia, registrando um óbito a cada quatro minutos. O Ministério da Defesa russo não atualiza os dados oficiais desde setembro de 2022, quando informou 5.937 mortes.",
+    "O vazamento de dados foi obtido por grupos hackers de Belarus e da Ucrânia, que invadiram o sistema da Rosstat e analisaram 11,6 milhões de arquivos de óbitos. Os registros indicavam cerca de 490 mil soldados mortos até o final de setembro, número que subiu para 720 mil por meio de projeções matemáticas.",
+    "As perdas atingem desproporcionalmente áreas mais pobres da Rússia e minorias étnicas, atraídas por incentivos financeiros do governo. O recrutamento também incluiu presidiários em troca de indultos, 300 mil reservistas, mercenários e cerca de 7 mil estrangeiros da Ásia Central.",
+    "Um estudo do jornal The Guardian baseado no mesmo vazamento apontou que 1.087 militares russos se suicidaram desde o início do conflito, principalmente em regiões de fronteira ou áreas ocupadas da Ucrânia, sendo a arma de fogo o método mais utilizado.",
+    "A projeção de 720 mil mortos supera em quatro vezes as baixas russas nas duas guerras da Chechênia e é 24 vezes maior do que as perdas soviéticas no Afeganistão na década de 1980. O Kremlin trata o conflito como uma operação especial e mantém o tema sob segredo de Estado.",
+    "O Orçamento aprovado pela Duma prevê um aumento recorde de 27% nos gastos com defesa para 2027 em comparação ao ano anterior, além de novos impostos para financiar o confronto. O presidente russo Vladimir Putin não demonstra intenção de encerrar os combates e exige mais concessões."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/26/720-mil-mortos-o-custo-humano-da-guerra-de-putin-na-ucrania-ameaca-o-futuro-da-russia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/87e45b95d9d4.webp"
   },
   {
    "titulo": "Kim Jong-un visita instalação de enriquecimento de urânio e promete construir mais armas nucleares; FOTOS",
    "topicos": [
-    "O líder norte-coreano, Kim Jong-un, visitou na quarta-feira (25) uma instalação de enriquecimento de urânio e um instituto de pesquisa nuclear, com registros divulgados na quinta-feira (26) pela agência estatal KCNA.",
-    "Durante a inspeção a duas fábricas de materiais nucleares e a uma base de equipamentos, o dirigente exigiu a aceleração e a expansão sistemática da produção de armas atômicas em múltiplos domínios.",
-    "A medida ocorre dias após o líder ignorar a oferta de encontro feita pelo presidente dos Estados Unidos, Donald Trump, durante sua viagem recente à Ásia.",
-    "Segundo especialistas, a exibição do arsenal visa demonstrar a evolução militar do regime e reafirmar a recusa definitiva a qualquer negociação para o desmantelamento nuclear.",
-    "Kim Jong-un declarou que o status de potência nuclear do país é inviolável e ameaçou tratar qualquer tentativa de contestação como uma declaração de guerra."
+    "O líder norte-coreano, Kim Jong-un, visitou uma instalação de enriquecimento de urânio e pesquisa nuclear na quarta-feira, 25.",
+    "A agência estatal KCNA divulgou fotos da inspeção nesta quinta-feira, 26, mostrando centrífugas e supostas ogivas nucleares.",
+    "Kim defendeu a aceleração e expansão sistemática da produção de armamentos atômicos em múltiplos domínios para responder a ameaças na região.",
+    "O dirigente declarou que o status de potência nuclear do país é inviolável e rejeitou negociações futuras sobre o desmantelamento de seu programa.",
+    "A visita ocorreu dias após o líder ignorar uma oferta de encontro feita pelo presidente dos Estados Unidos, Donald Trump, durante viagem à Ásia.",
+    "Kim acusou os EUA de incentivar aliados regionais a obterem submarinos nucleares e prometeu tratar contestações ao seu status atômico como guerra."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/kim-jong-un-visita-instalacao-enriquecimento-de-uranio-promete-construir-mais-armas-nucleares-fotos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8dae8842b20c.webp"
   },
   {
    "titulo": "CEO da Volkswagen no Brasil anuncia saída; chairman assume cargo interinamente",
    "topicos": [
-    "O presidente e CEO da Volkswagen do Brasil, Ciro Possobom, informou nesta quarta-feira, 25, que vai deixar a montadora automotiva após sete anos e meio de atuação na empresa.",
-    "O executivo explicou em carta enviada à imprensa que a saída motivada por razões pessoais e familiares ocorre ao final deste ano.",
-    "Alexander Seitz, chairman da Volkswagen para a América do Sul, assumirá a liderança da montadora no Brasil de forma interina a partir de 1º de janeiro.",
-    "Ciro Possobom entrou na companhia em 2019 como diretor financeiro, atuou também como diretor de operações e fez história ao ser o primeiro brasileiro no cargo de CEO da marca alemã no país."
+    "O presidente e CEO da Volkswagen do Brasil, Ciro Possobom, comunicou nesta quarta-feira, 25, que vai deixar a montadora automotiva.",
+    "O executivo justificou sua saída por motivos pessoais e familiares, após acumular sete anos e meio de atuação na companhia.",
+    "A trajetória de Possobom na montadora alemã teve início em 2019, quando ele assumiu a função de diretor financeiro.",
+    "Ele também atuou como diretor de operações e fez história ao se tornar o primeiro brasileiro a comandar a montadora no país.",
+    "A partir do dia 1º de janeiro, o cargo de CEO será ocupado de forma interina por Alexander Seitz, atual chairman da Volkswagen na América do Sul."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/gestao/ceo-da-volkswagen-no-brasil-anuncia-saida-chairman-assume-cargo-interinamente/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/123da27be647.webp"
   }
  ]
 }
