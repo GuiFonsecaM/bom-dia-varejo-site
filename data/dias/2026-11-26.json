@@ -4,474 +4,536 @@
   {
    "titulo": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
    "topicos": [
-    "A partir de 1 de julho de 2027, os bancos deverão reduzir gradualmente o limite de clientes que utilizam com frequência o crédito rotativo, medida aprovada em 25 de abril pelo Conselho Monetário Nacional (CMN), integrado pelos Ministérios da Fazenda, Planejamento e o Banco Central.",
-    "A regra se aplica a quem, nos seis meses anteriores, deixou de pagar integralmente a fatura em três ou mais meses diferentes e financiou o saldo restante via rotativo; os critérios devem constar no contrato e o consumidor será avisado antes da redução.",
-    "O limite reduzido deixa de valer quando o cliente pagar integralmente seis faturas consecutivas ou quitar toda a dívida do rotativo, e as instituições devem considerar todos os cartões e demais dívidas do cliente no sistema financeiro para identificar o uso frequente.",
-    "A norma estabelece que, se a dívida inicial for de R$ 100, o valor total com juros e encargos não pode ultrapassar R$ 200, limitando o custo máximo para o usuário do rotativo.",
-    "Dados do Banco Central mostram que, nos oito primeiros meses de 2026, as contratações no rotativo somaram R$ 311 bi, recorde comparado a R$ 266 bi no mesmo período de 2025; a parcial de 2026 já se aproxima dos R$ 403 bi registrados em todo 2025.",
-    "Em janeiro, 101 milhões de brasileiros usavam cartão de crédito, cerca de 40 milhões tinham dívida no rotativo, com inadimplência de 63,5 % e taxa de juros de 445 % ao ano em agosto 2026, enquanto a inadimplência média total do crédito bancário ficou em 5 % em setembro."
+    "A partir de 1º de julho de 2027, os bancos deverão diminuir gradualmente o limite de crédito dos clientes que usarem o rotativo com frequência, conforme decisão do Conselho Monetário Nacional aprovada em uma quarta-feira (25).",
+    "A redução afetará consumidores que não pagaram a fatura inteira em três ou mais meses distintos durante um período de seis meses e financiaram o saldo no rotativo, sendo avisados previamente e com critérios previstos em contrato.",
+    "Para suspender a limitação, o cliente precisará quitar totalmente a dívida do rotativo ou pagar o valor integral de seis faturas em sequência, considerando todos os cartões e débitos do consumidor no sistema financeiro.",
+    "O Banco Central registrou R$ 311 bilhões em contratações no rotativo nos oito primeiros meses de 2026, superando os R$ 266 bilhões do mesmo período de 2025, enquanto as concessões de 2026 já chegam perto do total de R$ 403 bilhões de todo o ano anterior.",
+    "Em janeiro, o país tinha 101 milhões de usuários de cartão de crédito, sendo que cerca de 40 milhões tinham dívidas no rotativo, modalidade que registrou inadimplência de 63,5% e taxa de juros de 445% ao ano em agosto.",
+    "O endividamento das famílias alcançou o patamar recorde de 50,1% da renda anual em agosto de 2026, enquanto a inadimplência média total das operações de crédito ficou em 5% em setembro, o maior patamar desde março de 2011."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/eb98f07fbb37.webp"
   },
   {
    "titulo": "Tarifaço de Trump: nova taxa sobre açúcar brasileiro deve ter impacto 'praticamente nulo', diz analista",
    "topicos": [
-    "O governo dos EUA propôs nova tarifa de 25% sobre açúcar bruto e refinado que ultrapassar a cota de 100 mil toneladas anuais para o Brasil, aplicável a todos os países exportadores sujeitos à medida.",
-    "Mariana Zechin, analista da Consultoria Agro do Itaú BBA, avalia que o impacto será \"praticamente nulo\" porque os EUA compram apenas cerca de 1% do volume exportado brasileiro até outubro deste ano.",
-    "Jamieson Greer, representante comercial americano, disse que a medida visa impedir que exportadores usem terceiros países para contornar a cobrança e pressionar por condições mais equilibradas para empresas e trabalhadores dos EUA.",
-    "O governo brasileiro, em nota do Palácio do Planalto, manifestou indignação, alegando negociação de boa‑fé há mais de um ano e acusando a tarifa de pressão sobre PIX, comércio digital, acordos preferenciais e outras políticas nacionais.",
-    "Segundo o Ministério da Agricultura, entre janeiro e outubro de 2026 os EUA foram 22º destino das exportações do complexo sucroalcooleiro, comprando US$ 147 milhões (≈ R$ 863 milhões) e 235,2 mil toneladas, enquanto a Índia lidera com US$ 714 milhões (≈ R$ 4 bilhões).",
-    "A cota de 100 mil toneladas corresponde a cerca de 9 % das cotas que os EUA liberam a outros países; o México é o principal fornecedor ao mercado americano, e ainda não há clareza sobre a aplicação da nova tarifa ao açúcar orgânico, onde o Brasil lidera as exportações.",
-    "Produtores do Nordeste, responsáveis pela maior parte da cota, já enfrentam a tarifa de 25 % anunciada em julho; nas safras 25/26 os EUA absorveram 6 % da produção de Alagoas, 5 % de Pernambuco, 9 % da Paraíba e 8 % do Rio Grande do Norte, mas a proposta não detalha se substituirá a cobrança dentro da cota."
+    "O governo dos EUA propôs uma nova tarifa sobre açúcar bruto e refinado que ultrapassar a cota estabelecida para o Brasil, que atualmente é de 100 mil toneladas por ano.",
+    "A analista Mariana Zechin, da Consultoria Agro do Itaú BBA, afirma que o efeito será \"praticamente nulo\", já que os EUA representam cerca de 1% do volume exportado pelo Brasil até outubro deste ano.",
+    "A tarifa de 25% anunciada em julho será aplicada a todos os países exportadores sujeitos à medida, inclusive ao volume dentro da cota, e, segundo o representante comercial americano Jamieson Greer, visa impedir o desvio do açúcar brasileiro por terceiros países.",
+    "O governo brasileiro, por meio de nota do Palácio do Planalto, manifestou indignação, alegando negociações de boa‑fé há mais de um ano e acusando a medida de pressão sobre questões como PIX, comércio digital e acordos preferenciais, qualificando a decisão unilateral do USTR como inaceitável.",
+    "Dados do Ministério da Agricultura mostram que, entre janeiro e outubro de 2026, os EUA ficaram em 22º lugar como destino das exportações do complexo sucroalcooleiro, comprando US$ 147 milhões (≈R$ 863 milhões) de 235,2 mil toneladas, de um total de 24,9 milhões de toneladas exportadas; a Índia lidera com US$ 714 milhões (≈R$ 4 bilhões).",
+    "No Nordeste, principal fornecedor da cota, os EUA absorveram cerca de 6% da produção de Alagoas, 5% de Pernambuco, 9% da Paraíba e 8% do Rio Grande do Norte na safra 25/26, e os produtores regionais pedem a manutenção da tarifa de 25% para a cota, embora a proposta americana não detalhe esse ponto."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/tarifaco-de-trump-nova-taxa-sobre-acucar-brasileiro-deve-ter-impacto-praticamente-nulo-diz-analista.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/d1b6dddb364b.webp"
   },
   {
    "titulo": "Em eleição espanhola, Lula inspira batalha digital da esquerda e recebe críticas da direita por suposta intervenção",
    "topicos": [
-    "A campanha eleitoral espanhola gerou repercussão internacional com vídeos no estilo anime envolvendo o primeiro-ministro Pedro Sánchez, do PSOE, e o líder oposicionista Alberto Núñez Feijóo, do PP.",
-    "As produções digitais na Espanha contaram com referências ao presidente brasileiro Luiz Inácio Lula da Silva e à sua estratégia de redes sociais na disputa geral marcada para 29 de novembro.",
-    "O deputado federal André Janones (Rede-MG) viajou a Madri em 16 de novembro e colaborou com a equipe de Sánchez, embora o governo espanhol e o PSOE neguem assessoria formal.",
-    "Pesquisas indicam que a coalizão de direita liderada pelo PP, junto ao Vox, pode alcançar 51,1% das intenções de voto e conquistar cerca de 187 das 350 cadeiras do Congresso.",
-    "Especialistas apontam limites para aplicar o modelo brasileiro na Espanha devido a diferenças como o tempo de tela dos eleitores, o parlamentarismo e o perfil mais moderado do eleitorado."
+    "A campanha eleitoral espanhola para as eleições gerais de 29 de novembro inspirou-se na estratégia digital e na vitória de Lula no Brasil, gerando vídeos em estilo anime e debates sobre interferência estrangeira.",
+    "O primeiro-ministro Pedro Sánchez, do PSOE, e Alberto Núñez Feijóo, líder do PP, utilizaram animações com inteligência artificial e redes sociais em Madri para tentar atrair o eleitorado jovem na disputa.",
+    "O deputado brasileiro André Janones viajou a Madri em 16 de novembro e colaborou com orientações para a equipe digital socialista, embora o governo espanhol e o próprio parlamentar tenham negado assessoria formal.",
+    "Especialistas apontam limites na aplicação do método brasileiro na Espanha devido a diferenças culturais e institucionais, como o tempo de uso da internet e o sistema de monarquia parlamentarista.",
+    "Pesquisas indicam a possibilidade de vitória de uma coalizão de direita formada por PP e Vox, que segundo o agregador do El País somariam 51,1% das intenções de voto contra 38,7% da esquerda."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/em-eleicao-espanhola-lula-inspira-batalha-digital-da-esquerda-e-recebe-criticas-da-direita-por-suposta-intervencao.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "sem_imagem": true
   },
   {
    "titulo": "Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
    "topicos": [
-    "A secretária de Agricultura dos EUA, Brooke Rollins, afirmou nesta quarta-feira (25) que o governo avalia tarifas extras contra o Brasil para proteger produtores locais de beterraba e cana.",
-    "O governo americano propôs uma nova tarifa sobre açúcar bruto e refinado que ultrapasse as cotas, atualmente fixadas em 100 mil toneladas por ano para o Brasil.",
-    "Entre janeiro e outubro de 2026, os EUA foram o 22º destino do setor sucroalcooleiro brasileiro, com compras de cerca de US$ 147 milhões (mais de R$ 863 milhões).",
-    "A tributação atual dentro da cota de 100 mil toneladas é de 25%. Vendas acima da cota pagam 37,5%, somando a taxa de 25% a outros 12,5% de acordos anteriores.",
-    "A proposta substitui a taxa de 25% no excedente da cota por uma cobrança em dólares por quilo, mantendo os 12,5% adicionais, visando conter o envio de açúcar brasileiro via terceiros países.",
-    "O Palácio do Planalto manifestou indignação, classificando a medida como ameaça unilateral para pressionar o Brasil a mudar regras internas como o Pix e o comércio digital.",
-    "As tarifas ainda não vigoram e passam por consulta pública. Inscrições para audiência vão até 7 de dezembro de 2026, comentários até 30 de dezembro de 2026 e a audiência ocorre em 14 de janeiro de 2027."
+    "Brooke Rollins, secretária de Agricultura dos EUA, anunciou nesta quarta‑feira (25 de novembro de 2026) que a administração Trump avalia tarifas adicionais ao Brasil para proteger agricultores americanos de beterraba e cana‑de‑açúcar contra importações excessivas.",
+    "A proposta incide sobre açúcar bruto e refinado que ultrapassar a cota anual de 100 000 toneladas para o Brasil; a taxa de 25 % sobre o excedente seria substituída por uma cobrança em dólares por quilograma, mantendo o adicional de 12,5 %.",
+    "Hoje, importações dentro da cota pagam 25 % de tarifa; volumes acima da cota têm tarifa de 37,5 % (25 % + 12,5 %). A nova medida aplicaria a cobrança por kg a todos os países que excederem suas cotas, não só ao Brasil.",
+    "Entre janeiro e outubro de 2026, os EUA representaram menos de 1 % das exportações brasileiras do complexo sucroalcooleiro, ocupando a 22ª posição com US$ 147 milhões (≈ R$ 863 milhões) e 235,2 mil toneladas, enquanto a Índia lidera com US$ 714 milhões (≈ R$ 4 bilhões).",
+    "O governo brasileiro, por meio do Palácio do Planalto, manifestou indignação, alegando negociações de boa‑fé há mais de um ano e classificando a tarifa como pressão sobre questões como o sistema de pagamentos PIX, comércio digital e acordos preferenciais.",
+    "Os EUA abriram consulta pública; interessados devem enviar pedido de inscrição e resumo do depoimento até 7 de dezembro 2026, comentários escritos até 30 de dezembro 2026, e a audiência pública está marcada para 14 de janeiro 2027.",
+    "Ainda não há data definida para a entrada em vigor das novas tarifas sobre açúcar e aeronaves; a efetivação dependerá dos resultados da consulta pública e da audiência programada."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a74067325f42.webp"
   },
   {
    "titulo": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
    "topicos": [
-    "O governo brasileiro divulgou nesta quarta‑feira (25) nota manifestando “indignação” com a proposta do USTR de impor novas tarifas sobre aeronaves e açúcar produzidos no Brasil.",
-    "A proposta americana, apresentada pelo representante comercial Jamieson Greer, altera a lista de exceções criada em julho, passando a cobrar 10 % de tarifa sobre aeronaves brasileiras prontas que antes eram isentas; o texto não especifica novo percentual para o açúcar.",
-    "Os EUA já aplicam duas tarifas sob a Seção 301: 25 % por supostas práticas desleais (PIX, etanol, propriedade intelectual, desmatamento) e 12,5 % por falhas no combate ao trabalho forçado em importações de vários países, inclusive o Brasil.",
-    "O Brasil afirma que negocia “de boa‑fé” há mais de um ano, que os EUA não enviaram a proposta prometida e que a nova recomendação visa pressionar mudanças em regulamentos como o sistema de pagamentos PIX e o comércio digital.",
-    "O governo brasileiro declarou que buscará solução negociada, sem descartar ações na OMC nem medidas de reciprocidade contra as tarifas que considera ilegais e injustas.",
-    "Em julho, o Brasil acionou a OMC com um “pedido de consulta” contra as tarifas de 25 % impostas pelos EUA; as consultas duram 60 dias, ao fim das quais pode ser instaurado um painel se não houver acordo.",
-    "Lula e Donald Trump conversaram por telefone em 21 de agosto, concordando criar um grupo de trabalho bilateral; ministros Mauro Vieira e Márcio Elias Rosa se reuniram virtualmente com o USTR em 31 de agosto para avançar nas negociações."
+    "O governo brasileiro divulgou uma nota de indignação nesta quarta-feira (25) contra a proposta do Escritório do Representante Comercial dos EUA (USTR) de taxar aeronaves e açúcar do Brasil.",
+    "Segundo o Planalto, os EUA recomendaram as tarifas sem enviar previamente uma proposta negociada e com o intuito de pressionar o Brasil a alterar regras nacionais como o PIX e o comércio digital.",
+    "A Casa Branca aplica taxações com base na Seção 301: um tarifaço de 25% devido a divergências econômicas e outro de 12,5% relacionado a falhas no combate ao trabalho forçado.",
+    "Com a alteração anunciada pelo representante comercial americano Jamieson Greer, aeronaves prontas, o que pode impactar a Embraer, passariam a pagar uma tarifa de 10% nos EUA.",
+    "O governo brasileiro afirmou que não cederá a ameaças, continuará buscando uma solução negociada, avaliará medidas de reciprocidade e manterá ações na Organização Mundial do Comércio (OMC).",
+    "Em julho, o Brasil já havia acionado a OMC com um pedido de consulta, etapa inicial que concede um prazo de 60 dias para uma tentativa de acordo bilateral antes de um eventual julgamento."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/d8011e60fc32.webp"
   },
   {
    "titulo": "Onde Investir repercute último Copom do ano e debate rumos da renda fixa em 2027",
    "topicos": [
-    "O Copom manteve a taxa Selic em 13,75% ao ano e o juro real brasileiro está em 9,49%, o maior do mundo, segundo levantamento da MoneYou e da Lev Intelligence.",
-    "O evento anual Onde Investir, promovido pelo InfoMoney, ocorrerá entre os dias 7 e 11 de dezembro com dez lives transmitidas no YouTube a partir das 18h30.",
-    "O painel de renda fixa acontecerá no dia 9 de dezembro, às 19h15, coincidente com a última reunião do Copom no ano, analisando ao vivo a decisão sobre os juros.",
-    "Participarão da discussão sobre renda fixa Mayara Rodrigues, analista da XP, e Rai Chicoli, estrategista-chefe da Monte Bravo, avaliando títulos públicos e crédito privado.",
-    "As inscrições gratuitas dão acesso a uma trilha preparatória liberada de 25 de novembro a 4 de dezembro, além de três materiais exclusivos sobre investimentos e economia."
+    "O Copom manteve a taxa Selic em 13,75% ao ano, o que recoloca a renda fixa no radar dos investidores para o próximo ano.",
+    "O evento \"Onde Investir 2027\", realizado pelo InfoMoney entre os dias 7 e 11 de dezembro, debaterá os rumos da economia e dos mercados financeiros.",
+    "Segundo levantamento da MoneYou e da Lev Intelligence, o juro real do Brasil está em 9,49%, figurando como o maior patamar globalmente.",
+    "O painel sobre renda fixa ocorrerá no dia 9 de dezembro, às 19h15, com a participação de Mayara Rodrigues e Rai Chicoli.",
+    "As inscrições gratuitas dão acesso a uma trilha preparatória entre 25 de novembro e 4 de dezembro, além de e-books e relatórios exclusivos.",
+    "As transmissões do evento serão realizadas no canal do InfoMoney no YouTube, sempre a partir das 18h30."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-2027-onde-investir-juros-altos/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/283e5657b438.webp"
   },
   {
    "titulo": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
    "topicos": [
-    "O presidente dos EUA, Donald Trump, reivindicou o mérito por convencer o conselho da Nvidia a trazer Jensen Huang de volta ao cargo de diretor-presidente, após o colegiado afirmar anteriormente que ele não retornaria.",
-    "A intervenção ocorreu devido ao peso da inteligência artificial na economia americana e ao temor de um estouro da bolha do setor com a queda das ações após a saída de Huang, que gerou perdas bilionárias.",
-    "O Financial Times estimou que o retorno de Huang adicionou até 15 milhões de dólares ao portfólio de Trump, que poderia ter 370 mil ações da Nvidia até 30 de setembro, gerando pedidos de investigação por democratas.",
-    "A Casa Branca declarou que o portfólio de Trump é gerenciado independentemente por instituições financeiras e que ele ou sua família não têm capacidade de influenciar as decisões de investimento.",
-    "A permanência de Huang no cargo ainda enfrenta incertezas devido a investigações do Congresso, processos judiciais, apuração de um escritório de advocacia e questionamentos sobre o fornecimento de chips à China."
+    "O presidente dos EUA, Donald Trump, reivindicou o mérito por convencer o conselho da Nvidia a trazer Jensen Huang de volta ao cargo de diretor-presidente após o executivo deixar a chefia da gigante dos chips.",
+    "A intervenção ocorreu devido ao peso da inteligência artificial na economia americana e à queda das ações da Nvidia, que ameaçava provocar um estouro na bolha do setor e volatilidade em contas de aposentadoria.",
+    "Estimativas do Financial Times apontam que o retorno de Huang acrescentou até 15 milhões de dólares ao portfólio de ações de Trump, que poderia deter 370 mil papéis da Nvidia até 30 de setembro.",
+    "A Casa Branca negou conflito de interesses e afirmou que o portfólio do presidente é gerido de forma independente por instituições financeiras, sem influência de Trump ou de sua família.",
+    "Apesar de frear a queda na bolsa, a recondução de Huang ainda enfrenta investigações do Congresso, apuração de um escritório de advocacia e fiscalização da Procuradoria-geral da Califórnia."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/dc33b3bfdbb5.webp"
   },
   {
    "titulo": "CMN anuncia medidas para conter o endividamento das famílias",
    "topicos": [
-    "O Conselho Monetário Nacional anunciou nesta quarta-feira (25) um conjunto de regras para conter o endividamento excessivo das famílias brasileiras. A iniciativa envolve os Ministérios da Fazenda e do Planejamento junto com o Banco Central.",
-    "Bancos emitentes de cartões deverão diminuir progressivamente o limite de crédito para quem não pagou o total de três ou mais faturas em meses distintos nos últimos seis meses, usando o rotativo.",
-    "A restrição do limite do cartão acaba quando o consumidor quitar toda a dívida do rotativo ou pagar integralmente seis faturas seguidas, com regras previstas em contrato e aviso prévio.",
-    "A contratação de empréstimos continuará podendo ser ofertada por telefone ou mensagens, mas a conclusão só será permitida em canais eletrônicos seguros da própria instituição ou atendimento presencial.",
-    "Bancos não poderão aumentar a exposição em operações sem garantia para clientes com dívidas em atraso há 90 dias ou mais, ou com indícios claros de inadimplência.",
-    "A maior parte das novas normas entrará em vigor em 1º de julho de 2027, enquanto a medida sobre negociação de direitos creditórios valerá em 1º de novembro do próximo ano."
+    "O Conselho Monetário Nacional anunciou nesta quarta-feira (25) novas regras para conter o endividamento das famílias brasileiras, envolvendo os Ministérios da Fazenda e do Planejamento e o Banco Central.",
+    "A maior parte das novas normas entra em vigor em 1º de julho de 2027, enquanto a medida sobre negociação de direitos creditórios valerá em 1º de novembro do ano que vem.",
+    "Bancos deverão reduzir gradualmente o limite do cartão de quem não pagar o valor total de três faturas ou mais nos últimos seis meses e usar o crédito rotativo.",
+    "A restrição do limite do cartão acaba quando o consumidor quitar toda a dívida do rotativo ou pagar o valor integral de seis faturas consecutivas.",
+    "A contratação de empréstimos continuará podendo ser ofertada por telefone ou mensagens, mas a conclusão precisará ocorrer em canais eletrônicos seguros da própria instituição, internet banking ou atendimento presencial.",
+    "Bancos estão proibidos de ampliar a exposição em crédito sem garantia para clientes com dívidas em atraso há 90 dias ou mais ou com risco de inadimplência.",
+    "Uma proposta de metodologia para calcular o Comprometimento Financeiro Individual de pessoas físicas ainda passará por consulta pública."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/25/cmn-anuncia-medidas-para-conter-o-endividamento-das-familias.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/5a9eb8fbd8ef.webp"
   },
   {
    "titulo": "CRA aprova ampliação do prazo de proteção de novas variedades de plantas",
    "topicos": [
-    "A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou, nesta quarta-feira (25), o PL 2.143/2025, que altera a Lei de Proteção de Cultivares e segue agora para votação no Plenário do Senado.",
-    "O projeto originou-se de uma proposta apresentada em 2018, passou por alterações na Câmara dos Deputados e recebeu parecer favorável do senador Luis Carlos Heinze (PP-RS) na CRA.",
-    "O prazo de proteção foi ampliado de 18 para 25 anos para videiras, árvores frutíferas, árvores florestais e árvores e plantas ornamentais.",
-    "A proteção para a cultura da cana-de-açúcar passa de 15 para 25 anos, enquanto o prazo para as demais culturas, como soja, milho, arroz, feijão e algodão, permanece em 15 anos.",
-    "A iniciativa busca incentivar investimentos em pesquisa e melhoramento genético, com foco em espécies que demandam mais tempo para desenvolvimento e exploração comercial.",
-    "O parecer do senador reintroduziu regras que restringem a reprodução não autorizada de sementes e mudas protegidas por produtores de flores e plantas ornamentais."
+    "A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou, nesta quarta-feira (25/11/2026), o PL 2.143/2025, que altera a Lei de Proteção de Cultivares e agora segue para votação no Plenário.",
+    "O projeto, originado em 2018 e modificado pela Câmara dos Deputados, teve parecer favorável do senador Luis Carlos Heinze (PP-RS) na CRA, acolhendo parcialmente as mudanças anteriores.",
+    "O prazo de proteção foi ampliado de 18 para 25 anos para videiras, árvores frutíferas, árvores florestais e árvores e plantas ornamentais, conforme o texto aprovado.",
+    "Para a cana-de-açúcar, a proposta estabelece o aumento do período de proteção de 15 para 25 anos, enquanto para culturas como soja, milho, arroz, feijão e algodão o prazo permanece em 15 anos.",
+    "O objetivo da medida é incentivar investimentos em pesquisa e melhoramento genético voltados a espécies que demandam mais tempo para desenvolvimento e exploração comercial.",
+    "O relator reintroduziu um dispositivo que limita as hipóteses em que produtores de flores e plantas ornamentais podem realizar a reprodução de sementes e mudas protegidas sem precisar de autorização."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-ampliacao-do-prazo-de-protecao-de-novas-variedades-de-plantas",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/abfcfd126e5f.webp"
   },
   {
    "titulo": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
    "topicos": [
-    "A Comissão Mista de Orçamento aprovou em 25 de novembro de 2026 o relatório da receita do Orçamento de 2027, adicionando R$ 37,1 bilhões à estimativa inicial enviada pelo Poder Executivo em agosto.",
-    "O deputado Neto Carletto ajustou a projeção de crescimento do PIB para 2027 de 2,5% para 1,8%, reduzindo a receita da Receita Federal em R$ 12 bilhões e elevando os royalties de petróleo em R$ 38,5 bilhões.",
-    "As receitas primárias do Orçamento de 2027 eram de R$ 3,4 trilhões, resultando em um ganho líquido de R$ 17,6 bilhões após a revisão e as transferências para estados e municípios.",
-    "Novas leis elevaram as receitas de custas judiciais de R$ 1,4 bilhão para R$ 4,7 bilhões, enquanto a proibição das apostas de quota fixa zerou a previsão de arrecadar R$ 6,7 bilhões com bets em 2027.",
-    "O Orçamento de 2027 implementará a Contribuição sobre Bens e Serviços em substituição ao PIS e Cofins e o Imposto Seletivo, mantendo a carga tributária conforme a reforma tributária.",
-    "O ministro Bruno Moretti anunciou que o corte de despesas de 2026 foi revisto para R$ 12,6 bilhões, com projeção de déficit de R$ 77 bilhões (0,56% do PIB) em 2026 e superávit de 0,1% do PIB em 2027."
+    "A Comissão Mista de Orçamento aprovou em 25 de novembro de 2026 o relatório da receita do Orçamento de 2027 (PLN 24/2026), com acréscimo de R$ 37,1 bilhões sobre o valor enviado em agosto pelo Executivo.",
+    "O relator, deputado Neto Carletto, reduziu a projeção de crescimento do PIB de 2,5% para 1,8% em 2027 e incorporou mudanças legais e revisões econômicas.",
+    "As receitas primárias previstas inicialmente eram de R$ 3,4 trilhões, e o ganho líquido após transferências para estados e municípios será de R$ 17,6 bilhões.",
+    "O Orçamento de 2027 será o primeiro com a nova Contribuição sobre Bens e Serviços, que substitui o PIS e a Cofins, além do Imposto Seletivo, mantendo a carga tributária.",
+    "O ministro do Planejamento e Orçamento, Bruno Moretti, anunciou em 25 de novembro que a contenção de despesas de 2026 foi revista para R$ 12,6 bilhões.",
+    "O governo prevê encerrar 2026 com déficit de R$ 77 bilhões (cerca de 0,56% do PIB) e projeta alcançar um superávit de 0,1% do PIB no encerramento de 2027."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/09ed4ac7cfee.webp"
   },
   {
    "titulo": "Alexa vira consultora de compras e ajuda o brasileiro que planeja a Black Friday",
    "topicos": [
-    "A Amazon está utilizando inteligência artificial generativa na Alexa para auxiliar consumidores na Black Friday, permitindo buscas por perguntas e recomendações personalizadas.",
-    "Lançada em outubro, a nova ferramenta substitui pesquisas por palavras-chave no site e app, permitindo conversar com a assistente, receber sugestões e adicionar itens ao carrinho.",
-    "Em dispositivos com Alexa Plus, a interação ocorre por voz e a assistente realiza a compra do início ao fim, enquanto nas demais versões o cliente finaliza o pagamento.",
-    "A tecnologia oferece comparativos de preços históricos por meio de gráficos que mostram a evolução dos valores de produtos ao longo de até um ano.",
-    "Segundo pesquisa da Amazon com 35 mil pessoas no Brasil, 41% pretendem gastar mais na Black Friday de 2026 em comparação com o ano anterior, focando em itens caros.",
-    "Para suportar a alta demanda, a empresa contratou 55 mil colaboradores, volume 50% superior ao anterior, além de 12 mil temporários exclusivos para o evento.",
-    "A pesquisa apontou o frete grátis como o principal fator na decisão de compra, superando o desconto e a velocidade de entrega."
+    "A Amazon integrou inteligência generativa à Alexa no site e app em outubro, permitindo que usuários busquem produtos por perguntas e coloquem itens no carrinho.",
+    "Em dispositivos com a nova Alexa Plus, a interação ocorre por voz e a assistente realiza a compra inteira, enquanto o pagamento e a conferência ficam com o cliente.",
+    "A tecnologia introduz gráficos de preços históricos que cobrem até um ano, exibindo o ponto mais barato, o mais caro e a trajetória do valor para evitar desconfianças.",
+    "Uma pesquisa da Amazon com 35 mil pessoas no Brasil apontou que 41% dos entrevistados pretendem gastar mais na Black Friday de 2026 comparado ao ano anterior.",
+    "O frete grátis foi o fator mais citado na decisão de compra, superando o desconto e a velocidade de entrega, conforme o levantamento da empresa.",
+    "Para suprir o salto na demanda, a varejista conta com 55 mil colaboradores, volume superior a 50% em relação ao ano passado, além de 12 mil temporários para a data.",
+    "A empresa manteve os cupons promocionais, incluindo vales de R$ 100 para compras de até R$ 500 e abatimentos percentuais em mercadorias de menor valor."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/ecommerce/alexa-vira-consultora-de-compras-e-ajuda-o-brasileiro-que-planeja-a-black-friday/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/77df9f92a7a9.webp"
   },
   {
    "titulo": "Lojas Avenida acelera expansão e fechará o ano com mais de 200 lojas",
    "topicos": [
-    "A Lojas Avenida anunciou um plano para ampliar sua rede em quatro estados brasileiros até o final de 2026, alcançando a marca de mais de 200 unidades em operação no país.",
-    "O projeto de crescimento abrange os estados da Bahia, Pernambuco, Mato Grosso e Goiás, com foco em atender consumidores das classes C e D com vestuário, calçados e artigos para o lar.",
-    "O Mato Grosso receberá a 33ª unidade e se tornará o estado com maior presença da marca, superando o Pará, que atualmente possui 32 lojas em funcionamento.",
-    "Goiás passará a contar com 26 unidades, a Bahia alcançará a 20ª loja e Pernambuco inaugurará a 15ª operação da rede varejista.",
-    "A expansão da companhia foi impulsionada pela chegada da sul-africana Pepkor, que entrou na operação em fevereiro de 2022.",
-    "Fundada em 1978 pelo empresário Ailton Caseli em Cuiabá em um espaço de 50 m², a empresa também atua no setor de serviços financeiros por meio do Cartão Avenida."
+    "A Lojas Avenida anunciou um plano de expansão para ampliar sua rede em quatro estados brasileiros até o término de 2026, ultrapassando a marca de 200 unidades em funcionamento no país.",
+    "O projeto de crescimento contempla as unidades federativas da Bahia, de Pernambuco, do Mato Grosso e de Goiás, com foco no público das classes C e D.",
+    "O estado do Mato Grosso receberá o maior volume de aberturas e assumirá a liderança na presença da rede com sua 33ª unidade, superando o Pará, que possui 32 lojas.",
+    "Goiás passará a contar com a 26ª unidade, a Bahia alcançará a 20ª loja e Pernambuco inaugurará a 15ª operação da rede varejista.",
+    "As novas lojas trarão o sortimento integral da marca, incluindo vestuário feminino, masculino e infantil, além de calçados e produtos voltados para o lar.",
+    "O crescimento da companhia recebeu forte impulso após a chegada da empresa sul-africana Pepkor ao negócio, ocorrida em fevereiro de 2022."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/noticias-varejo/lojas-avenida-preve-fechar-2026-em-expansao-no-brasil-com-quatro-novas-unidades/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9b6c031aaec5.webp"
   },
   {
    "titulo": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil",
    "topicos": [
-    "Nesta quarta‑feira (25), os Estados Unidos anunciaram nova proposta de tarifas contra o Brasil, prevendo 10% de tarifa adicional sobre aeronaves brasileiras prontas e aumento da tributação sobre o açúcar importado.",
-    "A medida integra a investigação comercial iniciada em julho de 2025 pelo Escritório do Representante Comercial dos EUA (USTR), que questiona políticas brasileiras de comércio digital e serviços de pagamentos eletrônicos, como o PIX.",
-    "O governo americano alega que o Banco Central, ao atuar simultaneamente como regulador e operador do PIX, cria condições de concorrência “injustificáveis e discriminatórias” que prejudicam empresas americanas de pagamentos.",
-    "Nos documentos divulgados, o PIX é chamado de “PICS” e descrito como serviço estatal que não cobra taxas de transação, supostamente conferindo vantagem sobre companhias privadas estrangeiras.",
-    "A proposta de 10% sobre aeronaves retira a isenção que o produto tinha da tarifa de 25% aplicada anteriormente a determinados bens brasileiros.",
-    "Quanto ao açúcar, os EUA propõem elevar a tarifa para importações que ultrapassem a cota estabelecida e aumentar a taxa geral para impedir que outros fornecedores preencham a lacuna deixada pelo Brasil.",
-    "O governo dos EUA afirma que o Brasil não avançou em resolver práticas comerciais que, segundo eles, afetam agricultores, trabalhadores, inovadores e exportadores americanos, usando as novas tarifas como pressão para mudar regulamentos do PIX e outras áreas."
+    "O governo dos Estados Unidos investiga políticas comerciais do Brasil, incluindo o PIX e serviços de pagamentos eletrônicos, sob alegação de práticas que prejudicam empresas americanas.",
+    "Anunciada em uma quarta-feira (25), a nova proposta do USTR prevê uma tarifa adicional de 10% sobre aeronaves brasileiras prontas e o aumento da tributação sobre o açúcar importado que supera uma cota.",
+    "A investigação, iniciada em julho de 2025, questiona o fato de o Banco Central atuar como regulador e operador do PIX, gerando vantagens frente a companhias privadas estrangeiras.",
+    "Representantes do governo Trump declararam que o objetivo não é extinguir o sistema brasileiro, mas contestar as condições de concorrência com o setor privado."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/25/brasil-protesta-contra-recomendacao-dos-eua-de-novas-tarifas-sobre-avioes-e-acucar.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/64e2fd25bf75.webp"
   },
   {
    "titulo": "Feriado nos EUA reduz liquidez do mercado em dia de inflação no Brasil; Ibovespa em dólar sobe nesta quinta (26)",
    "topicos": [
-    "Nesta quinta-feira (26), a liquidez dos mercados internacionais diminuiu devido ao feriado de Ação de Graças nos Estados Unidos, direcionando o foco para indicadores regionais.",
-    "No cenário externo, o apetite pelo risco melhorou com a expectativa de que as tarifas propostas pelos EUA sejam menos severas, ficando limitadas a 15% para produtos da União Europeia conforme acordo.",
-    "O mercado brasileiro acompanhou a divulgação do IPCA-15 de novembro, prévia da inflação oficial que tem projeção mediana de alta de 0,36% calculada por especialistas do Broadcast.",
-    "O mercado financeiro reagiu positivamente no dia anterior (25) à possível inclusão de Luiz Carlos Trabuco Cappi, presidente do conselho do Bradesco, na equipe econômica do governo federal.",
-    "O Ibovespa recuperou os 166 mil pontos e encerrou a sessão de quinta-feira (26) com alta de 1,58%, fechando aos 166.684,61 pontos.",
-    "O dólar registrou forte queda de 1,59% frente ao real nesta quinta-feira (26), encerrando o dia cotado a R$ 5,8168 e estendendo as perdas da véspera."
+    "Os mercados financeiros operam nesta quinta-feira (26) com menor liquidez internacional devido ao feriado de Ação de Graças nos Estados Unidos.",
+    "No cenário externo, o apetite pelo risco cresceu com a expectativa de tarifas dos EUA menos severas, limitadas a 15% para a União Europeia, e a ata do BCE.",
+    "No Brasil, o mercado aguarda a divulgação do IPCA-15 de novembro, cuja prévia da inflação oficial tem projeção de alta de 0,36% pelo Broadcast.",
+    "O mercado repercutiu a possibilidade de Luiz Carlos Trabuco Cappi, presidente do conselho do Bradesco, integrar a equipe econômica do governo federal.",
+    "O Ibovespa subiu 1,58% e recuperou os 166 mil pontos, fechando aos 166.684,61 pontos, impulsionado pela queda de 1,59% do dólar, cotado a R$ 5,8168."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/feriado-nos-eua-reduz-liquidez-do-mercado-em-dia-de-inflacao-ibovespa-em-dolar-sobe-nesta-quinta-feira-26-rens/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a471c4b57f6e.webp"
   },
   {
    "titulo": "Previdência privada: 3 erros que podem fazer você pagar mais Imposto de Renda",
    "topicos": [
-    "Investir em previdência privada exige planejamento tributário para evitar pagar mais Imposto de Renda, segundo relatório da analista Clara Sodré, da XP. O final do ano é o período ideal para avaliar novos aportes e prevenir escolhas desfavoráveis.",
-    "O primeiro erro é aplicar em PGBL sem usar o benefício fiscal, o que ocorre quando a declaração simplificada é mais vantajosa. No PGBL, o imposto incide sobre o total do resgate, exigindo o modelo completo e contribuição ao INSS para valer a pena.",
-    "O segundo erro é fazer aportes no PGBL acima do limite de dedução de 12% da renda bruta tributável anual. Para uma renda de R$ 120 mil por ano, por exemplo, o limite dedutível é de R$ 14,4 mil, desde que o investidor cumpra os requisitos.",
-    "Aportes em PGBL que superam o teto de dedução não geram benefício fiscal, mas serão tributados no resgate. Para valores maiores, a XP sugere combinar o PGBL até o limite e usar o VGBL para o excedente.",
-    "A partir de 1º de janeiro de 2026, aportes em VGBL que ultrapassarem R$ 600 mil anuais por CPF, somando todas as seguradoras, terão cobrança de 5% de Imposto sobre Operações Financeiras (IOF) sobre o valor excedente.",
-    "O terceiro erro é escolher entre a tabela progressiva e a regressiva sem avaliar o prazo do investimento. Conforme a Lei 14.803, de 2024, a escolha do regime tributário pode ser feita até o pedido do primeiro resgate ou do benefício."
+    "Investir em planos PGBL sem utilizar o modelo completo de declaração do Imposto de Renda é um erro que pode fazer o contribuinte pagar tributos no futuro sem ter recebido o benefício fiscal nos aportes. Para ter direito à dedução, a regra geral exige contribuir para o INSS ou regime próprio, com exceção de aposentados e pensionistas da previdência oficial.",
+    "Fazer aportes em PGBL acima do teto de 12% da renda bruta tributável anual gera tributação no resgate sem proporcionar vantagem fiscal adicional nos valores excedentes. Como exemplo citado com base em relatório da XP, uma pessoa com renda anual de R$ 120 mil pode deduzir até R$ 14,4 mil em contribuições elegíveis.",
+    "A partir de 1 de janeiro de 2026, aportes em VGBL que ultrapassarem R$ 600 mil no ano por CPF, somando todas as seguradoras, passam a ter cobrança de 5% de Imposto sobre Operações Financeiras sobre a quantia que exceder o limite estabelecido.",
+    "A escolha incorreta entre os regimes de tributação progressivo e regressivo, feita sem analisar o prazo do investimento e a expectativa de renda no resgate, pode elevar os custos com impostos na previdência privada.",
+    "Conforme estabelecido pela Lei 14.803 de 2024, a definição entre o regime progressivo e o regressivo pode ser feita até a data de obtenção do benefício ou do primeiro resgate, tornando-se uma escolha definitiva."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/minhas-financas/previdencia-privada-erros-imposto-de-renda/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0e7274f8e0b2.webp"
   },
   {
    "titulo": "Saiba quais ações estão na pauta do Congresso nesta 5ª feira",
    "topicos": [
-    "A Frente Parlamentar do Empreendedorismo e a Frente Parlamentar do Comércio e Serviços realizam uma reunião nesta 5ª feira (26.nov.2026) para discutir a implementação da reforma tributária.",
-    "O encontro, que integra a pauta do Congresso Nacional, conta com a participação do ministro da Fazenda, Dario Durigan.",
-    "A reunião está marcada para as 9h e ocorre nas dependências do Ministério da Fazenda."
+    "A implementação da reforma tributária é o principal tema da pauta do Congresso nesta 5ª feira (26.nov.2026).",
+    "A reunião ocorre às 9h, no Ministério da Fazenda, localizado na cidade onde a pasta atua.",
+    "Participam do encontro representantes da Frente Parlamentar do Empreendedorismo (FPE) e da Frente Parlamentar do Comércio e Serviços (FCS).",
+    "O grupo debate os detalhes da reforma tributária diretamente com o ministro da Fazenda, Dario Durigan."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-5a-feira-4/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a9ce63eee85d.webp"
   },
   {
    "titulo": "Tempo real: Ibovespa será testado pelo IPCA-15 em dia de feriado nos EUA; veja os destaques desta quinta-feira (26)",
    "topicos": [
-    "O fundo imobiliário Max Retail (MAXR11) fechou um novo contrato de locação em João Pessoa (PB) com aluguel mensal inicial de R$ 170 mil e prazo de 10 anos, com início em 1º de dezembro.",
-    "Ciro Possobom anunciou que deixará o cargo de presidente e CEO da Volkswagen do Brasil por motivos pessoais após sete anos e meio na empresa, sendo substituído interinamente por Alexander Seitz a partir de 1º de janeiro.",
-    "O Tribunal de Contas da União (TCU) decidiu por unanimidade afastar, na quarta-feira (25), multas à ex-presidente Dilma Rousseff e a ex-integrantes de sua equipe econômica referentes às pedaladas fiscais de 2014.",
-    "O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram na quarta-feira (25) novas regras com critérios mais rigorosos e maior transparência para conter o endividamento excessivo das famílias brasileiras."
+    "O fundo imobiliário Max Retail (MAXR11) fechou um novo contrato de locação em João Pessoa (PB) com aluguel mensal inicial de R$ 170 mil e prazo de 10 anos, com início em 1º de dezembro, podendo elevar a receita em 36%.",
+    "O fundo imobiliário Max Retail (MAXR11) fechou um novo contrato de locação em João Pessoa (PB) com aluguel mensal inicial de R$ 170 mil e prazo de 10 anos, com início em 1º de dezembro, podendo elevar a receita em 36%.",
+    "O Tribunal de Contas da União (TCU) decidiu por unanimidade, em sessão realizada nesta quarta-feira (25), afastar multas aplicadas à ex-presidente Dilma Rousseff e a ex-integrantes de sua equipe econômica referentes às pedaladas fiscais de 2014.",
+    "Ciro Possobom anunciou nesta quarta-feira (25) sua saída do cargo de presidente e CEO da Volkswagen do Brasil por motivos pessoais, após sete anos e meio na empresa. A partir de 1º de janeiro, o posto será ocupado interinamente por Alexander Seitz.",
+    "O Conselho Monetário Nacional (CMN) e o Banco Central (BC) aprovaram nesta quarta-feira (25) novas regras para conter o endividamento das famílias, estabelecendo critérios mais rígidos para empréstimos e maior proteção aos consumidores.",
+    "André Salcedo renunciou ao comando da divisão de transporte sobre trilhos da Motiva (MOTV3) nesta quarta-feira (25), pouco mais de um ano após assumir o cargo, e suas funções serão acumuladas por Eduardo Siqueira Moraes Camargo."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/tempo-real-26-11-2026-davs/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/808d7cb196ee.webp"
   },
   {
    "titulo": "Brasileiro tem prisão decretada no Paraguai por falsificar canetas emagrecedoras em condomínio de luxo",
    "topicos": [
-    "Na terça‑feira, 24, o Ministério Público e a polícia do Paraguai realizaram operação em um condomínio de luxo, o Paraná Country Club, em Hernandarias, na fronteira com Foz do Iguaçu (PR), e encontraram um laboratório clandestino de fabricação de canetas emagrecedoras falsas.",
-    "O imóvel era alugado por Gabriel Petri Lucas Lelis, brasileiro de 38 anos, que teve a prisão decretada no âmbito da investigação, mas não estava presente no local durante a operação.",
-    "Foram apreendidos caixas, frascos e rótulos das marcas TG, Tirzec e Lipoless, inclusive TG 15 com logotipo do laboratório Indufar, supostamente contendo tirzepatida; a composição exata será verificada em laboratório.",
-    "Entre os objetos apreendidos estavam uma espingarda semiautomática calibre 12 com 37 cartuchos, uma pistola Glock modelo 43 calibre 9 mm com nove cartuchos, cinco carregadores para espingarda calibre 12, três coletes à prova de balas, seis celulares e uma impressora 3D.",
-    "Também foram confiscados uma máquina de aplicação de etiquetas, equipamentos de informática, 32 folhas de cheques em branco, cartões de crédito de diferentes instituições, um passaporte, contrato de aluguel e documentos usados na embalagem dos produtos.",
-    "A investigação está sob responsabilidade da promotora Ysrael Villalba Ramírez, da Unidade Especializada de Combate a Crimes contra a Propriedade Intelectual, Contrabando, Lavagem de Dinheiro e Financiamento do Terrorismo de Alto Paraná, após denúncia dos laboratórios Indufar, Quimfa e Éticos."
+    "Um brasileiro de 38 anos teve a prisão decretada por suspeita de liderar um laboratório clandestino de falsificação de canetas emagrecedoras no Paraguai. A operação ocorreu na terça-feira (24) em uma residência de luxo no Paraná Country Club, condomínio situado em Hernandarias, na fronteira com Foz do Iguaçu (PR).",
+    "O investigado foi identificado pelo Ministério Público paraguaio como Gabriel Petri Lucas Lelis, locatário do imóvel que não foi localizado durante a ação policial. A investigação é conduzida pela promotora Ysrael Villalba Ramírez após denúncia de laboratórios farmacêuticos locais.",
+    "No local, as autoridades apreenderam produtos farmacêuticos, frascos, caixas e rótulos de marcas paraguaias de canetas emagrecedoras, como TG, Tirzec e Lipoless. A marca TG 15 exibia o nome do laboratório Indufar e indicava conter tirzepatida, princípio ativo para diabetes tipo 2 e obesidade.",
+    "A composição exata, a autenticidade e as substâncias presentes nos itens apreendidos ainda precisam ser confirmadas por meio de análises laboratoriais.",
+    "A operação também resultou na apreensão de um arsenal e diversos equipamentos, incluindo uma espingarda calibre 12 com 37 cartuchos, uma pistola Glock 9 mm com nove cartuchos, cinco carregadores de calibre 12 e três coletes à prova de balas.",
+    "Os agentes recolheram ainda seis celulares, uma impressora 3D, equipamentos de informática, uma etiquetadora, 32 folhas de cheques em branco, cartões de crédito, documentos, um passaporte e um contrato de aluguel em nome do brasileiro investigado."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/brasileiro-tem-prisao-decretada-no-paraguai-por-falsificar-canetas-emagrecedoras-em-condominio-de-luxo.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/acccbdcaeae8.webp"
   },
   {
    "titulo": "O varejo e a indústria precisam de tempo para pensar",
    "topicos": [
-    "Hugo Bethlem, CEO da indústria de alimentos Melhor Bocado com mais de três décadas de história e ex-executivo do varejo por mais de quatro décadas, assumiu a liderança da empresa nos últimos 90 dias.",
-    "O artigo aponta que o mês de novembro no varejo é marcado por um ritmo intenso de preparação para a Black Friday, proximidade do Natal e fechamento do orçamento anual.",
-    "A gestão de liderança exige cultivar tempo para refletir e se preparar antes que a pressão por velocidade de execução exija decisões imediatas e superficiais, conforme estudo de Timothy Quigley e Nele Dael publicado em outubro.",
-    "Mudanças em prazos de pagamento podem aliviar o caixa de uma rede varejista no curto prazo, mas comprometem a capacidade do fornecedor de abastecê-la corretamente.",
-    "A Inteligência Artificial pode ampliar a análise de dados no setor, exigindo que os líderes examinem criticamente os critérios e efeitos esperados das ferramentas de preço e sortimento."
+    "Hugo Bethlem, CEO da Melhor Bocado e com mais de quatro décadas no setor, escreveu um artigo em novembro debatendo a rotina de líderes no varejo e na indústria de alimentos.",
+    "O texto destaca que, nos últimos 90 dias atuando na indústria após anos no varejo, o autor percebeu que ambos os setores compartilham idênticos desafios operacionais.",
+    "A publicação cita um artigo de Timothy Quigley e Nele Dael lançado em outubro pelo site I by IMD, que aborda a importância de cultivar tempo para refletir antes de tomar decisões sob pressão.",
+    "O autor aponta que a pressa em aprovar promoções sem analisar margens pós-verbas, custos por canal e capacidade de abastecimento pode gerar prejuízos e sobrecarga humana nas lojas.",
+    "A inteligência artificial pode ampliar a capacidade analítica da gestão, mas o valor de seu uso depende dos critérios avaliados e do tempo dedicado à interpretação dos dados.",
+    "Investimentos de longo prazo como novas lojas, centros de distribuição, fábricas e aquisições exigem debates antecipados pelo conselho para testar premissas e cenários desfavoráveis."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/artigos/o-varejo-e-a-industria-precisam-de-tempo-para-pensar/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/f8116ab72b6b.webp"
   },
   {
    "titulo": "Okubo inaugura flagship no Iguatemi São Paulo e marca nova fase da joalheria",
    "topicos": [
-    "A tradicional joalheria Julio Okubo passou a se chamar apenas Okubo, em um processo de rebranding que comemora os 101 anos da família no Brasil e sinaliza uma nova etapa nos negócios.",
-    "A principal vitrine dessa nova fase é a flagship localizada no Shopping Iguatemi São Paulo, que apresenta um projeto arquitetônico exclusivo assinado pelo escritório Freg, de Renato Fregnani.",
-    "A nova identidade visual da marca foi criada em parceria com a agência Dragon Rouge e já foi implementada no e-commerce e em todas as unidades da rede.",
-    "A empresa é comandada atualmente por Maurício Okubo, representante da quarta geração da família, que conduz o negócio cujas tradições são cultivadas desde 1965 por Stella Okubo.",
-    "O rebranding resgata a história familiar que começou com a chegada de Rosa Okubo ao Brasil em 1925, conectando gerações sob o sobrenome Okubo.",
-    "A rede possui atualmente seis lojas físicas no Estado de São Paulo, situadas nos shoppings Iguatemi São Paulo, MorumbiShopping, Ibirapuera, Anália Franco, Pátio Paulista e Iguatemi Campinas, além de contar com um e-commerce próprio."
+    "A tradicional joalheria Julio Okubo passou a se chamar apenas Okubo, em um processo de rebranding que comemora os 101 anos da presença da família no Brasil e marca uma nova fase da empresa.",
+    "A principal vitrine dessa mudança é a nova flagship inaugurada no Shopping Iguatemi São Paulo, que traz um projeto arquitetônico exclusivo assinado pelo arquiteto Renato Fregnani, do escritório Freg.",
+    "A nova identidade visual, criada em parceria com a agência Dragon Rouge, foi implementada em todas as outras unidades da rede e também no e-commerce da marca.",
+    "A remodelação homenageia a história familiar desde a chegada de Rosa Okubo ao país em 1925, passando pela trajetória do fundador Julio Okubo e sendo atualmente liderada pelo CEO Maurício Okubo, da quarta geração.",
+    "A flagship estreou com o lançamento de três linhas inéditas: a O Collection, a Signature com pedras preciosas e a linha Amuletos, que inclui símbolos religiosos e o tsuru japonês.",
+    "O novo espaço também marca o lançamento de um livro-manifesto sobre a história da família e do ofício do fundador, detalhando os compromissos da empresa com pérolas, pessoas e planeta.",
+    "Atualmente, a rede possui seis lojas físicas localizadas no Estado de São Paulo — nos shoppings Iguatemi São Paulo, MorumbiShopping, Ibirapuera, Anália Franco, Pátio Paulista e Iguatemi Campinas — além de operar uma loja virtual."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/26/11/2026/noticias-varejo/okubo-inaugura-flagship-no-iguatemi-sao-paulo-e-marca-nova-fase-da-joalheria/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/fbec39d95f0d.webp"
   },
   {
    "titulo": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
    "topicos": [
-    "O concurso 3.091 da Mega-Sena pagará um prêmio estimado em R$ 75 milhões nesta quinta-feira (26), com sorteio marcado para as 21h em São Paulo.",
-    "As apostas individuais podem ser feitas até as 20h (horário de Brasília) nas lotéricas físicas, no site ou no aplicativo Loterias Caixa.",
-    "Os bolões digitais ficam disponíveis para compra até as 20h30, exclusivamente pelo portal Loterias Online e pelo aplicativo da instituição.",
-    "Para os jogos de domingo, as apostas simples podem ser feitas até as 22h de sábado, e os bolões eletrônicos até as 10h45 de domingo.",
-    "As apostas online podem ser pagas via PIX, cartão de crédito ou internet banking da Caixa, sendo obrigatório ter 18 anos ou mais.",
-    "O jogo simples de seis dezenas custa R$ 6 e tem probabilidade de vitória de 1 em 50.063.860, enquanto a aposta máxima de 20 dezenas custa R$ 232.560,00 com chance de 1 em 1.292."
+    "O concurso 3.091 da Mega-Sena vai sortear um prêmio estimado em R$ 75 milhões para quem acertar as seis dezenas, nesta quinta-feira (26), às 21h, em São Paulo.",
+    "As apostas individuais podem ser feitas até as 20h (horário de Brasília) em qualquer lotérica física do país, pelo site ou pelo aplicativo Loterias Caixa.",
+    "Os bolões digitais têm prazo de compra encerrando às 20h30, de forma exclusiva pelo portal Loterias Online e pelo aplicativo oficial da instituição.",
+    "A aposta simples com seis dezenas custa R$ 6 e apresenta uma probabilidade de vitória de 1 em 50.063.860, conforme dados informados pela Caixa.",
+    "A aposta máxima permitida com 20 dezenas custa R$ 232.560,00 e oferece uma probabilidade de acerto de 1 em 1.292.",
+    "Para participar dos jogos, é obrigatório ter idade igual ou superior a 18 anos, sendo aceitos pagamentos via Pix, cartão de crédito ou internet banking da Caixa."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/5a641bf5f37b.webp"
   },
   {
    "titulo": "Prestações de contas de candidatos mostram repasses do Fundo Eleitoral acima dos valores recebidos por partidos",
    "topicos": [
-    "Prestadores de contas das eleições de 2026 apresentaram divergências onde o total de repasses do Fundo Eleitoral declarados por candidatos superou os valores recebidos por seis partidos: PCdoB, Podemos, PP, PSD, Republicanos e União Brasil.",
-    "A maior divergência ocorreu no PP, que recebeu R$ 417,07 milhões do Fundo Eleitoral, mas teve R$ 422,13 milhões declarados pelos candidatos como repasses de diretórios, gerando uma diferença de R$ 5,06 milhões.",
-    "As diferenças nos outros cinco partidos foram: União Brasil (R$ 4,36 milhões de diferença), PSD (R$ 3,16 milhões), Podemos (R$ 1,79 milhão), Republicanos (R$ 220,5 mil) e PCdoB (R$ 128 mil), segundo dados extraídos do portal do TSE em 17 de novembro.",
-    "Especialistas apontam que as inconsistências dificultam o rastreamento do dinheiro e a fiscalização de cotas mínimas para mulheres e negros, embora nem toda falha configure irregularidade grave, podendo ser erros de preenchimento dos candidatos.",
-    "O levantamento também apontou que PL e PRTB ficaram abaixo do piso de 30% nas declarações de repasses do fundo para candidaturas femininas e de pessoas negras, cujas regras exigem proporções mínimas legais e constitucionais.",
-    "No PL, os valores declarados para mulheres somaram R$ 225,8 milhões (25,90%) e para pessoas pretas e pardas atingiram R$ 192,9 milhões (22,12%), de um total de R$ 871,8 milhões em repasses informados."
+    "Nas prestações de contas das eleições de 2026, seis partidos (PCdoB, Podemos, PP, PSD, Republicanos e União Brasil) declararam repasses do Fundo Eleitoral que superam o total recebido pelos diretórios, segundo levantamento do g1 baseado em dados do TSE extraídos em 17 de novembro, após o prazo final de entrega das contas.",
+    "O Partido Progressista (PP) apresentou a maior diferença: recebeu R$ 417,07 milhões do Fundo Eleitoral, mas os candidatos declararam R$ 422,13 milhões como repasses, resultando em um excesso de R$ 5,06 milhões; mesmo considerando apenas repasses do diretório nacional, o valor declarado ainda supera o recebido.",
+    "As demais divergências foram: União Brasil com R$ 4,36 milhões, PSD com R$ 3,16 milhões, Podemos com R$ 1,79 milhão, Republicanos com R$ 220,5 mil e PCdoB com R$ 128 mil a mais declarados pelos candidatos do que os partidos receberam.",
+    "Especialistas afirmam que tais diferenças não configuram irregularidade automática, mas dificultam o rastreamento da origem e destino dos recursos e comprometem a verificação das cotas mínimas obrigatórias para candidaturas de mulheres e pessoas negras.",
+    "O Fundo Eleitoral, proveniente do Tesouro Nacional, é repassado ao TSE, que distribui aos diretórios nacionais; estes podem transferir diretamente aos candidatos ou aos diretórios estaduais e municipais, devendo observar regras de cotas e critérios legais que favorecem partidos com maior representação no Congresso, enquanto siglas sem deputados ou senadores recebem no mínimo R$ 3,3 milhões.",
+    "O TSE informou que eventuais erros serão apurados no julgamento das contas; o PSD garantiu não ter repassado valor superior ao recebido e o Podemos prometeu analisar o caso, enquanto especialistas alertam que divergências graves podem levar à desaprovação das contas e à devolução dos recursos ao Tesouro Nacional."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/26/prestacoes-de-contas-de-candidatos.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/4fb97f6e0e29.webp"
   },
   {
    "titulo": "PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara",
    "topicos": [
-    "A Procuradoria-Geral da República denunciou ao Supremo Tribunal Federal o deputado Gustavo Gayer por suposta liderança em um esquema de desvio de verba da cota parlamentar.",
-    "O parlamentar, eleito senador em outubro para um mandato de oito anos com início em fevereiro de 2027, foi acusado de associação criminosa, peculato e uso de documento falso.",
-    "O ministro Alexandre de Moraes, relator do caso, abrirá prazo para a apresentação de defesas antes que a Primeira Turma do STF decida se os investigados se tornam réus.",
-    "A PGR apontou o desvio de R$ 24 mil entre março e maio de 2023 para pagar um secretário parlamentar de forma irregular, com emissão de notas falsas.",
-    "Entre fevereiro de 2023 e janeiro de 2025, houve desvios mensais de R$ 6.000,00 a R$ 6.500,00 para pagar um imóvel destinado a fins particulares.",
-    "Além do deputado, outras 24 pessoas, incluindo assessores e aliados, foram denunciadas pela Procuradoria-Geral da República no mesmo processo.",
-    "As investigações iniciaram com a análise do celular de um ex-assessor apreendido após os atos antidemocráticos de 8 de janeiro de 2023."
+    "A Procuradoria-Geral da República denunciou ao Supremo Tribunal Federal o deputado Gustavo Gayer como líder de um esquema de desvio de verba da cota parlamentar.",
+    "O parlamentar, eleito em outubro senador para um mandato de oito anos com início em fevereiro de 2027, foi acusado de associação criminosa, peculato e uso de documento falso.",
+    "Além do deputado, outras 24 pessoas, entre assessores e aliados, também foram denunciadas pela Procuradoria por participação no esquema.",
+    "O ministro Alexandre de Moraes, relator do caso, abrirá prazo para a apresentação de defesas antes de submeter o processo à julgamento na Primeira Turma do STF.",
+    "A investigação teve início com a análise de dados do celular de um ex-assessor de Gayer condenado pelos atos antidemocráticos de 8 de janeiro de 2023.",
+    "A acusação aponta o desvio de R$ 24 mil entre março e maio de 2023 para contratação irregular e apropriação de valores mensais entre R$ 6.000,00 e R$ 6.500,00 de fevereiro de 2023 a janeiro de 2025."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/25/pgr-denuncia-deputado-gustavo-gayer-ao-stf-por-esquema-de-desvio-de-cota-parlamentar-na-camara.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/2895e469ca2f.webp"
   },
   {
    "titulo": "CRA aprova projeto que diferencia aquicultura da pesca extrativa",
    "topicos": [
-    "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou, em 25 de novembro de 2026, o projeto de lei PL 4.162/2024, que diferencia a aquicultura da pesca extrativa.",
-    "O projeto altera a Lei 11.959, de 2009, para estabelecer regras próprias para a criação controlada de organismos aquáticos, reconhecendo a atividade como econômica e independente.",
-    "Os organismos mantidos em cultivo passam a ser considerados propriedade do aquicultor e a atividade fica equiparada à produção rural para acesso a crédito e seguro.",
-    "O texto dispensa empreendimentos de baixo impacto ou de pequeno e médio porte de licenciamento ambiental ou adota procedimentos simplificados, mantendo a fiscalização.",
-    "A proposta permite o cultivo comercial de espécies ornamentais ameaçadas, desde que cumpridas as condições legais, e autoriza a coleta de silvestres com permissão.",
-    "O projeto, originário da Câmara dos Deputados e apresentado pelo deputado Sergio Souza (MDB-PR), segue agora para análise do Plenário do Senado."
+    "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou, em 25 de novembro de 2026, o projeto de lei PL 4.162/2024, que separa a aquicultura da pesca extrativa e cria normas específicas para a criação controlada de organismos aquáticos.",
+    "Originado na Câmara dos Deputados e apresentado pelo deputado Sergio Souza (MDB-PR) em maio de 2026, o texto teve relatório do senador Jorge Seif (PL-SC) aprovado com duas emendas na CRA e segue agora para votação no Plenário do Senado.",
+    "A proposta altera a Lei 11.959, de 2009, determinando que os animais em cultivo pertencem ao aquicultor e estabelece diretrizes próprias para pesquisa, crédito, fiscalização e capacitação, equiparando os produtores aos rurais.",
+    "O texto inclui a aquicultura familiar e a criação para recomposição ambiental, além de dispensar empreendimentos de baixo impacto ou de pequeno e médio porte de licenciamento ambiental ou adotar ritos simplificados.",
+    "Apesar da dispensa de licenciamento para alguns portes, os responsáveis seguem sob fiscalização e monitoramento, devendo respeitar as regras de proteção de áreas de preservação permanente e as condições legais para espécies ameaçadas."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-projeto-que-diferencia-aquicultura-da-pesca-extrativa",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/61dbea12086c.webp"
   },
   {
    "titulo": "Em tempo de 13º, consumidores podem renegociar contas de luz com descontos de até 98%",
    "topicos": [
-    "As distribuidoras de energia do país lançaram campanhas de renegociação de dívidas aproveitando o período do décimo terceiro salário para ajudar consumidores a limparem o nome e começarem 2027 com menos débitos.",
-    "A Enel Brasil realiza campanha de 26 de novembro a 31 de dezembro para clientes de SP, RJ e CE com faturas vencidas há mais de 60 dias, oferecendo parcelamento em até 12 vezes com 30% de entrada ou em até 7 vezes com 10% de entrada.",
-    "A Neoenergia concede descontos de até 100% nos encargos para dívidas com mais de um ano e redução do valor principal, com pagamento à vista ou parcelamento em até 24 vezes, para clientes em SP, MS, DF, BA, PE e RN.",
-    "A Energisa promove até 31 de dezembro a campanha Negocia Energisa, com descontos de até 98% e parcelamento em até 36 vezes sem juros para quem tem pelo menos uma fatura vencida nos estados de AC, MT, MS, MG, PB, PR, RJ, RO, SP, SE e TO.",
-    "O Grupo Equatorial oferece parcelamento em até 24 vezes no cartão de crédito com isenção total de encargos ou em até 36 vezes com 30% de desconto nos encargos para débitos com mais de um ano em MA, PA, PI, AL, RS, AP e GO.",
-    "As regras da Equatorial exigem pelo menos uma fatura vencida há mais de 180 dias para o público geral, enquanto beneficiários da Tarifa Social precisam de atraso mínimo de 90 dias."
+    "As distribuidoras de energia do país lançaram campanhas de renegociação de dívidas aproveitando o pagamento do décimo terceiro salário para ajudar os consumidores a limparem o nome e começarem 2027 com menos débitos.",
+    "A Enel Brasil realiza ações entre 26 de novembro e 31 de dezembro para clientes de SP, RJ e CE com contas vencidas há mais de 60 dias, oferecendo parcelamento em até 12 vezes com 30% de entrada ou em até 7 vezes com 10% de entrada.",
+    "A Neoenergia concede até 100% de desconto em encargos para dívidas com mais de um ano e redução do valor principal, com pagamento à vista ou parcelado em até 24 vezes para clientes de SP, MS, DF, BA, PE e RN.",
+    "A Energisa promove até 31 de dezembro a campanha Negocia Energisa, com descontos que chegam a 98% e parcelamento sem juros em até 36 vezes para quem tem pelo menos uma fatura atrasada em 11 estados.",
+    "O Grupo Equatorial oferece parcelamento em até 24 vezes no cartão de crédito com isenção total de encargos, ou em até 36 vezes com 30% de desconto nos encargos para dívidas superiores a um ano.",
+    "Para participar da Equatorial, clientes residenciais e rurais precisam ter faturas vencidas há mais de 180 dias, enquanto beneficiários da Tarifa Social devem ter atrasos superiores a 90 dias em sete estados atendidos."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/minhas-financas/em-tempo-de-13o-consumidores-podem-renegociar-contas-de-luz-com-descontos-de-ate-98/",
-   "categoria": "Economia"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b3e126bbdb74.webp"
   },
   {
    "titulo": "Comissão debate formas de ampliar o alcance da rede de proteção à infância",
    "topicos": [
-    "A Comissão de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil da Câmara dos Deputados realiza audiência pública nesta quinta-feira (26).",
-    "O evento foi proposto pelo deputado Fernando Rodolfo (PRD-PE), coordenador do colegiado, e está agendado para as 9 horas no plenário 10.",
-    "A discussão tem como foco principal debater a expansão e a capilarização da rede de proteção à infância em território nacional.",
-    "O parlamentar ressalta que órgãos de atendimento direto, como Conselhos Tutelares, CREAS e delegacias especializadas, exigem boa estrutura e funcionamento.",
-    "O debate visa mapear vazios assistenciais decorrentes da falta de pessoal, de equipamentos e de integração com o sistema de Justiça em várias regiões do País.",
-    "A reunião reunirá autoridades e entidades nacionais para subsidiar novas propostas voltadas ao fortalecimento da rede de proteção."
+    "A Comissão de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil da Câmara dos Deputados promove audiência pública nesta quinta-feira (26) para debater a capilarização da rede de proteção à infância.",
+    "Marcado para as 9 horas no plenário 10, o encontro foi sugerido pelo deputado Fernando Rodolfo (PRD-PE), coordenador do colegiado.",
+    "O parlamentar aponta que a eficiência das políticas voltadas a menores de idade exige o bom funcionamento e a presença de órgãos de atendimento em todo o território nacional.",
+    "Segundo o deputado, entidades de proteção como Conselhos Tutelares, CREAS e delegacias especializadas sofrem com escassez de servidores, carência de equipamentos e falhas na integração com a Justiça.",
+    "A reunião vai juntar autoridades e entidades nacionais de várias regiões brasileiras para identificar lacunas assistenciais e embasar iniciativas que fortaleçam o sistema de atendimento."
    ],
    "fonte": "Agência Câmara",
    "link": "https://www.camara.leg.br/noticias/1322704-comissao-debate-formas-de-ampliar-o-alcance-da-rede-de-protecao-a-infancia",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/06d7a90febcf.webp"
   },
   {
    "titulo": "Polícia faz operação contra grupo que tentou comprar Master",
    "topicos": [
-    "A Polícia Civil de São Paulo e o Grupo de Atuação Especial de Persecução Patrimonial deflagraram nesta 5ª feira (26.nov.2026) a operação Dinheiro Fictício contra o grupo Fictor.",
-    "A investigação apura um esquema de captação fraudulenta de recursos superior a R$ 4 bilhões, simulação de faturamento e ocultação de patrimônio por meio de contratos sem lastro em operações reais realizados entre 2024 e 2025.",
-    "A Justiça determinou o bloqueio de até R$ 4,3 bilhões em bens e ativos de pessoas e empresas ligadas à Fictor, além do cumprimento de 12 mandados de busca e apreensão em São Paulo e São Bernardo do Campo.",
-    "Em 17 de novembro do ano passado, a Fictor Holding Financeira anunciou a intenção de comprar o Banco Master, de Daniel Vorcaro, e entrou com pedido de recuperação judicial em fevereiro com dívidas de R$ 4,3 bilhões.",
-    "O esquema prometia rendimentos fixos com supostos investimentos no agronegócio, sem registro na Comissão de Valores Mobiliários, enquanto o faturamento era simulado entre empresas do grupo e o dinheiro desviado para dirigentes e paraísos fiscais.",
-    "O Ministério Público aponta três empresários no núcleo de controle: Rafael Ribeiro Leite de Góis (mais de R$ 177 milhões recebidos), Luiz Phillippe Gomes Rubini (mais de R$ 90 milhões recebidos e R$ 65 milhões retirados antes da recuperação) e Rafael Paixão Ferreira Giuseppe (mais de R$ 53 milhões recebidos)."
+    "A Polícia Civil de São Paulo e o Grupo de Atuação Especial de Persecução Patrimonial realizaram nesta 5ª feira (26.nov.2026) a operação Dinheiro Fictício contra o grupo Fictor.",
+    "A investigação apura uma fraude superior a R$ 4 bilhões relacionada à captação de recursos de investidores com promessas de rendimentos fixos sem lastro comercial.",
+    "Em 17 de novembro do ano passado, a Fictor Holding Financeira havia anunciado a intenção de comprar o Banco Master, de Daniel Vorcaro, que foi preso no dia seguinte.",
+    "A Fictor pediu recuperação judicial em fevereiro com dívidas de R$ 4,3 bilhões, alegando agravamento da situação financeira após a tentativa de compra do banco.",
+    "A ação desta 5ª feira (26.nov) cumpriu 12 mandados de busca e apreensão em São Paulo e São Bernardo do Campo, além de ordenar o bloqueio de até R$ 4,3 bilhões em bens e ativos.",
+    "O esquema investigado simulava faturamento bilionário por meio de cartões corporativos, direcionando os recursos para contas pessoais dos dirigentes e paraísos fiscais."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-justica/policia-faz-operacao-contra-grupo-que-tentou-comprar-master/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/593269126f28.webp"
   },
   {
    "titulo": "Após ter navio de guerra atingido na costa da África, Rússia acusa Ucrânia de tentar expandir conflito",
    "topicos": [
-    "A Rússia acusou a Ucrânia de tentar expandir o conflito armado após ataques de drones atingirem três embarcações russas, incluindo um navio de guerra e dois de carga.",
-    "Foram alvos a corveta Merkury, avaliada em R$ 1 bilhão e atracada em Benghazi, na Líbia; o cargueiro MV Angara, a 6 km da costa líbia; e o navio-tanque Sparta II, no Golfo da Finlândia.",
-    "O presidente ucraniano, Volodymyr Zelensky, afirmou que todas as embarcações russas atingidas nos ataques coordenados afundaram, enquanto o governo de Putin não negou a destruição.",
-    "O Kremlin classificou as ações ucranianas no Mediterrâneo e no Báltico como atividades perigosas que buscam ampliar o alcance geográfico da guerra iniciada em fevereiro de 2022.",
-    "A manifestação do porta-voz Dmitry Peskov, nesta quinta-feira, ocorreu em resposta a um apelo conjunto do presidente dos EUA, Donald Trump, e do secretário-geral da Otan, Mark Rutte.",
-    "O governo russo declarou acreditar que a Ucrânia está disposta a continuar o conflito e menos inclinada a negociar a paz devido ao encorajamento de aliados europeus."
+    "A Rússia acusou a Ucrânia de tentar expandir o conflito geográfico após ataques de drones coordenados contra três embarcações russas, incluindo um navio de guerra e dois de carga.",
+    "Os alvos foram a corveta Merkury de R$ 1 bilhão em Benghazi na Líbia, o cargueiro MV Angara a 6 km da costa líbia e o navio-tanque Sparta II no Golfo da Finlândia.",
+    "O presidente ucraniano Volodymyr Zelensky afirmou que todos os navios russos atingidos afundaram, enquanto o governo de Vladimir Putin não negou a destruição das embarcações.",
+    "O porta-voz do Kremlin, Dmitry Peskov, classificou os ataques na costa da Líbia como muito perigosos e apontou atividades terroristas ucranianas no Mediterrâneo e no Báltico.",
+    "A declaração de Peskov ocorreu nesta quinta-feira como resposta a um pedido conjunto do presidente americano Donald Trump e do secretário-geral da Otan, Mark Rutte.",
+    "Segundo o Kremlin, a Ucrânia estaria disposta a continuar a guerra e menos inclinada a negociações de paz devido ao encorajamento de aliados europeus, em conflito travado desde fevereiro de 2022."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/26/russia-acusa-ucrania-tentar-expandir-guerra-ataques-africa-mar-baltico.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/847b772061f2.webp"
   },
   {
    "titulo": "Rival de Infantino promete mandato único se vencer eleição da Fifa",
    "topicos": [
-    "Em entrevista em Tóquio na quarta‑feira (25/11/2026), o japonês Kozo Tashima prometeu cumprir apenas um mandato de 4 anos caso seja eleito presidente da FIFA, destacando a intenção de mudar a governança e ampliar a transparência.",
-    "A eleição da FIFA ocorrerá em 18 de março de 2027, durante o 77º Congresso da entidade, em Rabat, Marrocos, para substituir Gianni Infantino, que lidera a organização desde 2016 e foi reeleito sem adversários em 2019 e 2023.",
-    "Tashima, presidente honorário da Associação Japonesa de Futebol e membro do Conselho da FIFA desde 2015, criticou decisões recentes, como a suspensão de 1 partida ao atacante norte‑americano Folarin Balogun após expulsão na Copa do Mundo de 2026, e o projeto abandonado de atrair investidores privados para competições da FIFA.",
-    "Além de Tashima e Infantino, o francês Philippe Diallo, presidente da Federação Francesa de Futebol, também se candidatou, contando com apoio da UEFA; Tashima afirmou que já conversou por telefone com Diallo e pretende discutir possíveis alianças na Europa.",
-    "A FIFA recebeu as três candidaturas em 19 de novembro; as inscrições foram enviadas à comissão eleitoral para análise de admissibilidade, com comunicação dos nomes admitidos às federações prevista até 18 de fevereiro de 2027.",
-    "O regulamento eleitoral estabelece que cada associação nacional apta a participar do Congresso tem direito a 1 voto secreto; se houver mais de 2 candidatos, a primeira votação requer apoio de 2/3 das associações presentes, e nas rodadas seguintes o menos votado é eliminado até restarem 2, vencendo quem obtiver mais de 50% dos votos válidos."
+    "Kozo Tashima, presidente honorário da Associação Japonesa de Futebol e membro do Conselho da FIFA desde 2015, declarou em 25 de nov. 2026, em entrevista em Tóquio, que cumprirá apenas um mandato de quatro anos se for eleito presidente da FIFA.",
+    "A eleição da FIFA ocorrerá em 18 de mar. 2027, durante o 77º Congresso da entidade, realizado em Rabat, Marrocos, para substituir Gianni Infantino, que dirige a organização desde 2016 e foi reeleito sem concorrentes em 2019 e 2023.",
+    "Tashima pretende usar o mandato para reformar a governança da FIFA, aumentar a transparência das decisões e rever casos como a permissão ao atacante norte‑americano Folarin Balogun de jogar após expulsão na Copa do Mundo de 2026, cuja pena de 1 partida foi suspensa pela Comissão Disciplinar.",
+    "Outro candidato é Philippe Diallo, presidente da Federação Francesa de Futebol, que conta com apoio da UEFA; Tashima já conversou por telefone com Diallo e planeja encontrá‑lo na Europa para discutir possíveis alianças que evitem a divisão de votos contra Infantino.",
+    "A FIFA recebeu as três candidaturas em 19 de nov. 2026; as inscrições foram enviadas à comissão eleitoral para análise de admissibilidade, e os nomes admitidos serão comunicados às federações até 18 de fev. 2027.",
+    "No processo eleitoral, cada associação nacional presente e apta a participar do Congresso tem direito a um voto secreto; se houver mais de dois candidatos, a primeira rodada exige apoio de 2/3 das associações presentes, e as rodadas subsequentes eliminam o menos votado até que reste um candidato com mais de 50% dos votos válidos."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-sportsmkt/rival-de-infantino-promete-mandato-unico-se-vencer-eleicao-da-fifa/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/c0dadcfb50be.webp"
   },
   {
    "titulo": "Rússia prende vice-comandante da Força Aeroespacial, diz jornal",
    "topicos": [
     "O general-coronel Yuriy Grekhov, vice-comandante da Força Aeroespacial da Rússia de 64 anos, foi preso em novembro de 2026, conforme noticiado pelo jornal Kommersant e pelo Moscow Times.",
-    "O pedido de detenção foi feito pelo Comitê de Investigação Militar, mas a acusação formal contra Grekhov ainda não foi divulgada.",
-    "Grekhov ocupava o segundo escalão das Forças Aeroespaciais russas e tinha a responsabilidade de gerenciar o armamento do setor, que engloba aviação, defesa antimíssil e forças espaciais.",
-    "A prisão acontece enquanto a guerra contra a Ucrânia aproxima-se de completar quatro anos sem perspectiva de término e registra uma nova escalada de conflitos nas últimas semanas.",
-    "Outros oficiais de alta patente do governo russo, como os ex-viceministros da Defesa Timur Ivanov e Ruslan Tsalikov, também foram alvos de prisões e condenações desde o início do conflito."
+    "O pedido de detenção foi feito pelo Comitê de Investigação Militar, mas a acusação formal contra o militar ainda não foi divulgada.",
+    "Grekhov ocupava o segundo escalão das Forças Aeroespaciais russas e tinha a responsabilidade de cuidar da área de armamento.",
+    "A prisão acontece em um contexto em que a guerra contra a Ucrânia está prestes a completar quatro anos, mantendo-se sem perspectiva de término e com recente escalada de conflitos.",
+    "Outros oficiais de alto escalão das Forças Armadas da Rússia, como os ex-viceministros da Defesa Timur Ivanov e Ruslan Tsalikov, também já foram presos ou condenados sob o governo de Vladimir Putin desde o início do conflito."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/russia-prende-vice-comandante-forca-aeroespacial-diz-jornal.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/7f0747520694.webp"
   },
   {
    "titulo": "Morre Andy Taylor: o guitarrista que ajudou a levar o Duran Duran ao topo do mundo",
    "topicos": [
     "Andy Taylor, guitarrista da banda britânica Duran Duran, morreu aos 65 anos na segunda-feira (23/11), vítima de câncer de próstata.",
-    "Nascido em North Tyneside, na Inglaterra, em 16 de fevereiro de 1961, o músico enfrentou o abandono da mãe aos 11 anos e a expulsão da escola na juventude.",
-    "No início da década de 1980, o grupo Duran Duran vendeu mais de 100 milhões de discos e dominou as paradas musicais no Reino Unido e nos Estados Unidos.",
-    "O sucesso global da banda veio acompanhado de exaustivas turnês internacionais, videoclipes arriscados e um estilo de vida marcado pelo uso excessivo de álcool e drogas.",
-    "Em junho de 1983, o grupo paramilitar IRA tentou plantar uma bomba para assassinar o príncipe Charles e a princesa Diana durante uma apresentação da banda em Londres.",
-    "Conflitos musicais internos e o desgaste físico e emocional com o estilo de vida levaram a divergências na banda e, após o evento Live Aid em 1985, o grupo entrou em longa separação."
+    "No início da década de 1980, o grupo vendeu mais de 100 milhões de discos e liderou as paradas musicais no Reino Unido e nos Estados Unidos.",
+    "A música 'Planet Earth' foi lançada em 21 de fevereiro de 1981, alcançando rapidamente o top 10 e garantindo uma aparição no programa Top of the Pops.",
+    "Seis meses após o lançamento de 'Planet Earth', o single 'Girls on Film' conquistou a quinta posição nas paradas de singles britânicas.",
+    "O sucesso global trouxe problemas pessoais para Taylor, incluindo exaustão, depressão e dependência química de álcool e cocaína durante as turnês."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cj4gn6e490z0o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/49a62c621e26.webp"
   },
   {
    "titulo": "O que revelam imagens do asteroide atingido deliberadamente pela Nasa para testar defesas da Terra",
    "topicos": [
-    "Em 2022, a Nasa chocou deliberadamente uma nave chamada Dart contra o asteroide Dimorphos, que mede cerca de 150 metros de largura e orbita o Didymos, de 730 metros. O objetivo foi testar a capacidade de defesa da Terra contra eventuais corpos celestes, já que o alvo não representava perigo ao planeta.",
-    "O impacto da espaçonave ocorreu a 22 mil quilômetros por hora e gerou um rastro de destroços de 10 mil km de extensão. A batida abriu uma cratera do tamanho de um estádio e alterou a dinâmica do asteroide, fazendo-o girar de forma caótica em torno do Didymos.",
-    "Antes da colisão, o Dimorphos levava 11 horas e 55 minutos para completar uma órbita, e esse tempo foi reduzido em cerca de 33 minutos após o impacto. Quatro anos depois, a espaçonave Hera, da Agência Espacial Europeia, chegou ao local para analisar os efeitos reais da colisão.",
-    "A missão Hera vai passar os próximos seis meses estudando o sistema de asteroides com imagens de alta resolução e dois satélites do tamanho de caixas de sapatos. A nave encontrou centenas de rochas ao redor dos corpos celestes variando de dezenas de centímetros a metros.",
-    "Uma nova missão chamada NEO Surveyor será lançada em 2027 para monitorar asteroides perigosos. Além disso, o asteroide Apophis, de cerca de 450 metros, passará a 32 mil km da Terra em 13 de abril de 2029 e receberá visitas das espaçonaves Osiris-Apex e Ramses."
+    "Em 2022, a Nasa colidiu propositalmente a espaçonave Dart contra o asteroide Dimorphos, a uma velocidade de 22 mil km por hora, para testar a defesa terrestre contra corpos celestes.",
+    "O impacto gerou um rastro de destroços de 10 mil km de extensão e abriu uma cratera do tamanho de um estádio, quase tão grande quanto o próprio Dimorphos.",
+    "O Dimorphos mede cerca de 150 metros de largura e orbita o Didymos, um asteroide maior com cerca de 730 metros de diâmetro e gravidade 40 mil vezes menor que a da Terra.",
+    "Antes do choque, o Dimorphos levava 11 horas e 55 minutos para dar uma volta no Didymos; após o impacto, esse tempo foi reduzido em cerca de 33 minutos.",
+    "Quatro anos depois, a espaçonave Hera, da Agência Espacial Europeia, iniciou uma análise de seis meses para examinar os efeitos da colisão e medir a massa de Dimorphos.",
+    "Uma nova missão ocorrerá em 2027 com o lançamento do telescópio espacial NEO Surveyor para monitorar asteroides potencialmente perigosos.",
+    "O asteroide Apophis, com 450 metros de comprimento, passará a 32 mil km da Terra em 13 de abril de 2029 e será investigado pelas missões Osiris-Apex e Ramses."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cmx29v1ekq9qo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0149cdc74e2d.webp"
   },
   {
    "titulo": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
    "topicos": [
-    "O presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, emitiram um comunicado conjunto após se reunirem na Flórida nesta quarta-feira.",
-    "Os líderes exigiram que a Rússia evite ações, intencionais ou não, que possam escalar a guerra na Ucrânia, além de defenderem uma solução pacífica rápida.",
-    "A reunião também abordou a guerra travada pelos Estados Unidos e por Israel contra o Irã, embora o comunicado não tenha trazido detalhes sobre esse tema.",
-    "Durante o encontro, Rutte e Trump conversaram sobre a necessidade de elevar os investimentos e os gastos com defesa tanto nos EUA quanto em toda a Otan.",
-    "A movimentação ocorre após Trump se reunir na Ásia na semana passada com o presidente russo, Vladimir Putin, e o líder chinês, Xi Jinping.",
-    "O recente encontro de Trump com Putin gerou críticas de adversários democratas americanos e de aliados europeus que buscam participar das negociações de paz."
+    "O presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, divulgaram um comunicado conjunto nesta quarta-feira exigindo que a Rússia evite ações que possam intensificar o conflito na Ucrânia.",
+    "A declaração ocorreu após uma reunião entre os líderes na Flórida, onde também debateram a guerra contra o Irã e a necessidade de buscar uma solução pacífica rápida para o caso ucraniano.",
+    "O encontro sucedeu reuniões na Ásia na semana passada em que o líder americano conversou com o presidente russo, Vladimir Putin, e o líder chinês, Xi Jinping, a quem chamou de amigos."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-e-chefe-da-otan-pedem-que-russia-evite-acoes-que-ampliem-guerra-na-ucrania.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/0f1cb00b61c4.webp"
   },
   {
    "titulo": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
    "topicos": [
-    "O governo da República Democrática do Congo divulgou nesta quinta-feira (26) que o surto de ebola no país ultrapassou a marca de 12 mil casos confirmados.",
-    "Foram contabilizadas 12.021 pessoas infectadas e 5.904 mortes decorrentes da doença, conforme os dados oficiais informados pela Reuters.",
-    "A epidemia começou em meados de maio na província de Ituri, no nordeste do território congolês, e já atingiu oito das 26 províncias do país.",
-    "A transmissão é causada pela espécie rara Bundibugyo do vírus ebola, para a qual não existem tratamentos ou vacinas com aprovação.",
-    "A disseminação rápida ocorreu devido a conflitos, sobrecarga nos serviços de saúde e atrasos na identificação dos diagnósticos, apontaram as autoridades.",
-    "Dados do início deste mês do Centro Africano de Controle e Prevenção de Doenças mostram que apenas 15% dos novos casos pertenciam a contatos já conhecidos.",
-    "Esta é a segunda maior e mais letal epidemia de ebola da história, ficando atrás apenas do surto na África Ocidental entre 2014 e 2016."
+    "O governo da República Democrática do Congo informou que o número de casos confirmados de ebola ultrapassou 12 mil, totalizando 12.021 infectados, com 5.904 óbitos registrados até 26 de novembro.",
+    "A epidemia, declarada em meados de maio na província de Ituri, no nordeste do país, já se espalhou por oito das 26 províncias congolesas.",
+    "O surto é causado pela espécie Bundibugyo do vírus ebola, considerada rara, e não há tratamentos ou vacinas aprovados especificamente para essa variante.",
+    "Autoridades apontam que a demora na identificação dos casos, os conflitos locais e a sobrecarga dos serviços de saúde aceleraram a disseminação da doença.",
+    "Dados do Africa CDC mostraram que apenas 15% dos novos casos são de pessoas já identificadas como contato conhecido, indicando cadeias de transmissão ainda não rastreadas.",
+    "Segundo a Reuters, análises de imagens de satélite sugerem que o número oficial de mortos pode estar subestimado em duas das áreas mais afetadas do Congo."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/surto-de-ebola-na-republica-democratica-do-congo-supera-12-mil-casos-e-deixa-quase-6-mil-mortos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/32b8aa50c778.webp"
   }
  ]
 }
