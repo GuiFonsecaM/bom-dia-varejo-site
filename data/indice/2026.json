@@ -2,6 +2,249 @@
  "ano": 2026,
  "dias": [
   {
+   "data": "2026-11-26",
+   "n": [
+    {
+     "t": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "A partir de 1 de julho de 2027, os bancos deverão reduzir gradualmente o limite de clientes que utilizam com frequência o crédito rotativo, medida aprovada em…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml"
+    },
+    {
+     "t": "Tarifaço de Trump: nova taxa sobre açúcar brasileiro deve ter impacto 'praticamente nulo', diz analista",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O governo dos EUA propôs nova tarifa de 25% sobre açúcar bruto e refinado que ultrapassar a cota de 100 mil toneladas anuais para o Brasil, aplicável a todos…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/tarifaco-de-trump-nova-taxa-sobre-acucar-brasileiro-deve-ter-impacto-praticamente-nulo-diz-analista.ghtml"
+    },
+    {
+     "t": "Em eleição espanhola, Lula inspira batalha digital da esquerda e recebe críticas da direita por suposta intervenção",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A campanha eleitoral espanhola gerou repercussão internacional com vídeos no estilo anime envolvendo o primeiro-ministro Pedro Sánchez, do PSOE, e o líder…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/26/em-eleicao-espanhola-lula-inspira-batalha-digital-da-esquerda-e-recebe-criticas-da-direita-por-suposta-intervencao.ghtml"
+    },
+    {
+     "t": "Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A secretária de Agricultura dos EUA, Brooke Rollins, afirmou nesta quarta-feira (25) que o governo avalia tarifas extras contra o Brasil para proteger…",
+     "l": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml"
+    },
+    {
+     "t": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "O governo brasileiro divulgou nesta quarta‑feira (25) nota manifestando “indignação” com a proposta do USTR de impor novas tarifas sobre aeronaves e açúcar…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml"
+    },
+    {
+     "t": "Onde Investir repercute último Copom do ano e debate rumos da renda fixa em 2027",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "O Copom manteve a taxa Selic em 13,75% ao ano e o juro real brasileiro está em 9,49%, o maior do mundo, segundo levantamento da MoneYou e da Lev Intelligence.",
+     "l": "https://www.infomoney.com.br/onde-investir/renda-fixa-2027-onde-investir-juros-altos/"
+    },
+    {
+     "t": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O presidente dos EUA, Donald Trump, reivindicou o mérito por convencer o conselho da Nvidia a trazer Jensen Huang de volta ao cargo de diretor-presidente,…",
+     "l": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml"
+    },
+    {
+     "t": "CMN anuncia medidas para conter o endividamento das famílias",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O Conselho Monetário Nacional anunciou nesta quarta-feira (25) um conjunto de regras para conter o endividamento excessivo das famílias brasileiras. A…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/25/cmn-anuncia-medidas-para-conter-o-endividamento-das-familias.ghtml"
+    },
+    {
+     "t": "CRA aprova ampliação do prazo de proteção de novas variedades de plantas",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou, nesta quarta-feira (25), o PL 2.143/2025, que altera a Lei de Proteção de Cultivares e…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-ampliacao-do-prazo-de-protecao-de-novas-variedades-de-plantas"
+    },
+    {
+     "t": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "A Comissão Mista de Orçamento aprovou em 25 de novembro de 2026 o relatório da receita do Orçamento de 2027, adicionando R$ 37,1 bilhões à estimativa inicial…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027"
+    },
+    {
+     "t": "Alexa vira consultora de compras e ajuda o brasileiro que planeja a Black Friday",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Amazon está utilizando inteligência artificial generativa na Alexa para auxiliar consumidores na Black Friday, permitindo buscas por perguntas e…",
+     "l": "https://mercadoeconsumo.com.br/26/11/2026/ecommerce/alexa-vira-consultora-de-compras-e-ajuda-o-brasileiro-que-planeja-a-black-friday/"
+    },
+    {
+     "t": "Lojas Avenida acelera expansão e fechará o ano com mais de 200 lojas",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A Lojas Avenida anunciou um plano para ampliar sua rede em quatro estados brasileiros até o final de 2026, alcançando a marca de mais de 200 unidades em…",
+     "l": "https://mercadoeconsumo.com.br/26/11/2026/noticias-varejo/lojas-avenida-preve-fechar-2026-em-expansao-no-brasil-com-quatro-novas-unidades/"
+    },
+    {
+     "t": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "Nesta quarta‑feira (25), os Estados Unidos anunciaram nova proposta de tarifas contra o Brasil, prevendo 10% de tarifa adicional sobre aeronaves brasileiras…",
+     "l": "https://g1.globo.com/economia/noticia/2026/11/25/brasil-protesta-contra-recomendacao-dos-eua-de-novas-tarifas-sobre-avioes-e-acucar.ghtml"
+    },
+    {
+     "t": "Feriado nos EUA reduz liquidez do mercado em dia de inflação no Brasil; Ibovespa em dólar sobe nesta quinta (26)",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "Nesta quinta-feira (26), a liquidez dos mercados internacionais diminuiu devido ao feriado de Ação de Graças nos Estados Unidos, direcionando o foco para…",
+     "l": "https://www.moneytimes.com.br/feriado-nos-eua-reduz-liquidez-do-mercado-em-dia-de-inflacao-ibovespa-em-dolar-sobe-nesta-quinta-feira-26-rens/"
+    },
+    {
+     "t": "Previdência privada: 3 erros que podem fazer você pagar mais Imposto de Renda",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "Investir em previdência privada exige planejamento tributário para evitar pagar mais Imposto de Renda, segundo relatório da analista Clara Sodré, da XP. O…",
+     "l": "https://www.infomoney.com.br/minhas-financas/previdencia-privada-erros-imposto-de-renda/"
+    },
+    {
+     "t": "Saiba quais ações estão na pauta do Congresso nesta 5ª feira",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A Frente Parlamentar do Empreendedorismo e a Frente Parlamentar do Comércio e Serviços realizam uma reunião nesta 5ª feira (26.nov.2026) para discutir a…",
+     "l": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-5a-feira-4/"
+    },
+    {
+     "t": "Tempo real: Ibovespa será testado pelo IPCA-15 em dia de feriado nos EUA; veja os destaques desta quinta-feira (26)",
+     "c": "Economia",
+     "f": "Money Times",
+     "r": "O fundo imobiliário Max Retail (MAXR11) fechou um novo contrato de locação em João Pessoa (PB) com aluguel mensal inicial de R$ 170 mil e prazo de 10 anos,…",
+     "l": "https://www.moneytimes.com.br/tempo-real-26-11-2026-davs/"
+    },
+    {
+     "t": "Brasileiro tem prisão decretada no Paraguai por falsificar canetas emagrecedoras em condomínio de luxo",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "Na terça‑feira, 24, o Ministério Público e a polícia do Paraguai realizaram operação em um condomínio de luxo, o Paraná Country Club, em Hernandarias, na…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/26/brasileiro-tem-prisao-decretada-no-paraguai-por-falsificar-canetas-emagrecedoras-em-condominio-de-luxo.ghtml"
+    },
+    {
+     "t": "O varejo e a indústria precisam de tempo para pensar",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "Hugo Bethlem, CEO da indústria de alimentos Melhor Bocado com mais de três décadas de história e ex-executivo do varejo por mais de quatro décadas, assumiu a…",
+     "l": "https://mercadoeconsumo.com.br/26/11/2026/artigos/o-varejo-e-a-industria-precisam-de-tempo-para-pensar/"
+    },
+    {
+     "t": "Okubo inaugura flagship no Iguatemi São Paulo e marca nova fase da joalheria",
+     "c": "Varejo",
+     "f": "Mercado & Consumo",
+     "r": "A tradicional joalheria Julio Okubo passou a se chamar apenas Okubo, em um processo de rebranding que comemora os 101 anos da família no Brasil e sinaliza uma…",
+     "l": "https://mercadoeconsumo.com.br/26/11/2026/noticias-varejo/okubo-inaugura-flagship-no-iguatemi-sao-paulo-e-marca-nova-fase-da-joalheria/"
+    },
+    {
+     "t": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
+     "c": "Economia",
+     "f": "g1 Economia",
+     "r": "O concurso 3.091 da Mega-Sena pagará um prêmio estimado em R$ 75 milhões nesta quinta-feira (26), com sorteio marcado para as 21h em São Paulo.",
+     "l": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml"
+    },
+    {
+     "t": "Prestações de contas de candidatos mostram repasses do Fundo Eleitoral acima dos valores recebidos por partidos",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "Prestadores de contas das eleições de 2026 apresentaram divergências onde o total de repasses do Fundo Eleitoral declarados por candidatos superou os valores…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/26/prestacoes-de-contas-de-candidatos.ghtml"
+    },
+    {
+     "t": "PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara",
+     "c": "Política",
+     "f": "g1 Política",
+     "r": "A Procuradoria-Geral da República denunciou ao Supremo Tribunal Federal o deputado Gustavo Gayer por suposta liderança em um esquema de desvio de verba da…",
+     "l": "https://g1.globo.com/politica/noticia/2026/11/25/pgr-denuncia-deputado-gustavo-gayer-ao-stf-por-esquema-de-desvio-de-cota-parlamentar-na-camara.ghtml"
+    },
+    {
+     "t": "CRA aprova projeto que diferencia aquicultura da pesca extrativa",
+     "c": "Política",
+     "f": "Agência Senado",
+     "r": "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou, em 25 de novembro de 2026, o projeto de lei PL 4.162/2024, que diferencia a aquicultura da pesca…",
+     "l": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-projeto-que-diferencia-aquicultura-da-pesca-extrativa"
+    },
+    {
+     "t": "Em tempo de 13º, consumidores podem renegociar contas de luz com descontos de até 98%",
+     "c": "Economia",
+     "f": "InfoMoney",
+     "r": "As distribuidoras de energia do país lançaram campanhas de renegociação de dívidas aproveitando o período do décimo terceiro salário para ajudar consumidores…",
+     "l": "https://www.infomoney.com.br/minhas-financas/em-tempo-de-13o-consumidores-podem-renegociar-contas-de-luz-com-descontos-de-ate-98/"
+    },
+    {
+     "t": "Comissão debate formas de ampliar o alcance da rede de proteção à infância",
+     "c": "Política",
+     "f": "Agência Câmara",
+     "r": "A Comissão de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil da Câmara dos Deputados realiza audiência pública nesta quinta-feira (26).",
+     "l": "https://www.camara.leg.br/noticias/1322704-comissao-debate-formas-de-ampliar-o-alcance-da-rede-de-protecao-a-infancia"
+    },
+    {
+     "t": "Polícia faz operação contra grupo que tentou comprar Master",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "A Polícia Civil de São Paulo e o Grupo de Atuação Especial de Persecução Patrimonial deflagraram nesta 5ª feira (26.nov.2026) a operação Dinheiro Fictício…",
+     "l": "https://www.poder360.com.br/poder-justica/policia-faz-operacao-contra-grupo-que-tentou-comprar-master/"
+    },
+    {
+     "t": "Após ter navio de guerra atingido na costa da África, Rússia acusa Ucrânia de tentar expandir conflito",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "A Rússia acusou a Ucrânia de tentar expandir o conflito armado após ataques de drones atingirem três embarcações russas, incluindo um navio de guerra e dois…",
+     "l": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/26/russia-acusa-ucrania-tentar-expandir-guerra-ataques-africa-mar-baltico.ghtml"
+    },
+    {
+     "t": "Rival de Infantino promete mandato único se vencer eleição da Fifa",
+     "c": "Política",
+     "f": "Poder360",
+     "r": "Em entrevista em Tóquio na quarta‑feira (25/11/2026), o japonês Kozo Tashima prometeu cumprir apenas um mandato de 4 anos caso seja eleito presidente da FIFA,…",
+     "l": "https://www.poder360.com.br/poder-sportsmkt/rival-de-infantino-promete-mandato-unico-se-vencer-eleicao-da-fifa/"
+    },
+    {
+     "t": "Rússia prende vice-comandante da Força Aeroespacial, diz jornal",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O general-coronel Yuriy Grekhov, vice-comandante da Força Aeroespacial da Rússia de 64 anos, foi preso em novembro de 2026, conforme noticiado pelo jornal…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/26/russia-prende-vice-comandante-forca-aeroespacial-diz-jornal.ghtml"
+    },
+    {
+     "t": "Morre Andy Taylor: o guitarrista que ajudou a levar o Duran Duran ao topo do mundo",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Andy Taylor, guitarrista da banda britânica Duran Duran, morreu aos 65 anos na segunda-feira (23/11), vítima de câncer de próstata.",
+     "l": "https://www.bbc.com/portuguese/articles/cj4gn6e490z0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "O que revelam imagens do asteroide atingido deliberadamente pela Nasa para testar defesas da Terra",
+     "c": "Mundo",
+     "f": "BBC News Brasil",
+     "r": "Em 2022, a Nasa chocou deliberadamente uma nave chamada Dart contra o asteroide Dimorphos, que mede cerca de 150 metros de largura e orbita o Didymos, de 730…",
+     "l": "https://www.bbc.com/portuguese/articles/cmx29v1ekq9qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "t": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, emitiram um comunicado conjunto após se reunirem na Flórida nesta…",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-e-chefe-da-otan-pedem-que-russia-evite-acoes-que-ampliem-guerra-na-ucrania.ghtml"
+    },
+    {
+     "t": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
+     "c": "Mundo",
+     "f": "g1 Mundo",
+     "r": "O governo da República Democrática do Congo divulgou nesta quinta-feira (26) que o surto de ebola no país ultrapassou a marca de 12 mil casos confirmados.",
+     "l": "https://g1.globo.com/mundo/noticia/2026/11/26/surto-de-ebola-na-republica-democratica-do-congo-supera-12-mil-casos-e-deixa-quase-6-mil-mortos.ghtml"
+    }
+   ]
+  },
+  {
    "data": "2026-11-25",
    "n": [
     {
