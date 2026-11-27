@@ -620,510 +620,584 @@
   {
    "titulo": "IBGE: moradia, alimentação e transporte concentram 66% dos gastos de consumo das famílias",
    "topicos": [
-    "A Pesquisa de Orçamentos Familiares (POF) 2024-2025, divulgada em 27 de dezembro pelo IBGE, aponta que moradia, alimentação e transporte concentram 66% das despesas de consumo das famílias brasileiras.",
-    "A despesa média mensal das famílias chegou a R$ 7.977,43, sendo que R$ 6.302,76 (79%) correspondem ao consumo de bens e serviços como alimentos, energia, combustíveis, medicamentos e educação.",
-    "A moradia lidera os gastos com 31,6%, seguida por alimentação (17,7%) e transporte (16,7%). Saúde e educação respondem por 12,1% e 8,9%, respectivamente.",
-    "O levantamento distingue despesas monetárias (pagamentos diretos de R$ 6.243,74 mensais ou 78,3%) e não monetárias (bens e serviços sem pagamento direto, somando R$ 1.733,69 ou 21,7%).",
-    "O rendimento médio mensal das famílias, somado a recursos como empréstimos e venda de bens, atingiu R$ 9.255,53, tendo o trabalho como principal fonte (58,9%).",
-    "A edição atual da pesquisa, divulgada pelo IBGE, abrangeu mais de 100 mil domicílios localizados em mais de 2 mil municípios e mais de 7 mil áreas geográficas do país."
+    "A Pesquisa de Orçamentos Familiares (POF) 2024-2025, divulgada em 27 de fevereiro pelo IBGE, aponta que moradia, alimentação e transporte concentram 66% das despesas de consumo das famílias brasileiras.",
+    "A despesa média mensal total das famílias brasileiras chegou a R$ 7.977,43, sendo que R$ 6.302,76 (79%) são destinados ao consumo de bens e serviços cotidianos.",
+    "A moradia lidera os gastos de consumo com 31,6%, seguida por alimentação com 17,7% e transporte com 16,7%. Saúde e educação representam, respectivamente, 12,1% e 8,9% dessas despesas.",
+    "O IBGE separa os gastos entre despesas monetárias, que somam R$ 6.243,74 por mês (78,3%), e despesas não monetárias, que equivalem a R$ 1.733,69 (21,7%) referentes a bens e serviços sem pagamento direto.",
+    "O rendimento médio mensal das famílias brasileiras, somado a recursos como empréstimos e vendas de bens, atingiu R$ 9.255,53, tendo o trabalho como principal fonte, com 58,9% do total.",
+    "A nova edição da pesquisa abrangeu mais de 100 mil domicílios em mais de 2 mil municípios e servirá de base para atualizar a cesta de produtos do IPCA, a inflação oficial do país."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/ibge-moradia-alimentacao-e-transporte-concentram-66percent-dos-gastos-de-consumo-das-familias.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/3d7be8fc204c.webp"
   },
   {
    "titulo": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda",
    "topicos": [
-    "Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, foi anunciado como o futuro ministro da Fazenda para o quarto e último mandato do presidente Luiz Inácio Lula da Silva, com gestão prevista entre 2027 e 2030.",
-    "O anúncio provocou reação imediata nos mercados financeiros: o dólar fechou em baixa a R$ 5,81 e, na sexta-feira (27), recuava 4,42% por volta das 10h, cotado a R$ 5,4900 (mínima de R$ 5,4795), enquanto o Ibovespa subia 0,11%, aos 176.996 pontos.",
-    "O principal desafio apontado para Trabuco é reequilibrar as contas públicas e apresentar um plano de ajuste fiscal até 2030, mantendo o arcabouço fiscal e buscando uma melhora de dois pontos do PIB nos próximos quatro anos.",
-    "O futuro ministro defende que a responsabilidade fiscal seja compartilhada entre o Executivo, o Congresso, a Justiça e o setor empresarial, exigindo diálogo entre a política fiscal e a monetária e cautela na criação de despesas permanentes.",
-    "Trabuco apoia a desindexação da economia para reorganizar as contas públicas, a flexibilidade do Orçamento, a correção de assimetrias tributárias com redução de subsídios e a melhoria do ambiente de negócios para atrair investimentos.",
-    "Sobre a política monetária, ele considera os juros altos a principal defesa contra a inflação, apoia o regime de metas e avaliou como acertada a redução da Selic em 0,25 ponto percentual, para 14,25% ao ano, decidida pelo Banco Central em junho."
+    "Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, foi anunciado como o futuro ministro da Fazenda para o quarto e último mandato do presidente Luiz Inácio Lula da Silva (PT).",
+    "A reação do mercado financeiro incluiu a alta da bolsa e forte queda do dólar, que encerrou a quinta-feira a R$ 5,81 e caiu para R$ 5,4900 na sexta-feira (27) por volta das 10h.",
+    "O principal desafio de Trabuco será reequilibrar as contas públicas e apresentar um plano crível de ajuste fiscal implementado até 2030, mantendo o arcabouço fiscal com melhora de dois pontos percentuais do PIB em quatro anos.",
+    "O futuro ministro defende que a responsabilidade fiscal seja compartilhada entre o Executivo, o Congresso, a Justiça e o setor empresarial, criticando a criação de despesas permanentes e privilégios sem fontes de recursos.",
+    "Trabuco defende a desindexação da economia para reduzir reajustes automáticos, maior flexibilidade no Orçamento e corte de subsídios, além de alertar que o controle de gastos não deve sacrificar investimentos sociais.",
+    "A transição da reforma tributária começou neste ano e deve ser concluída em 2033, enquanto Trabuco aponta a necessidade de melhorar o ambiente de negócios e reduzir o alto custo e a lentidão dos litígios."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/nova-reforma-da-previdencia-e-ajuste-fiscal-civico-conheca-as-posicoes-de-luiz-carlos-trabuco-futuro-ministro-da-fazenda.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/4f81660e5d21.webp"
   },
   {
    "titulo": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda",
    "topicos": [
-    "O governo do presidente Luiz Inácio Lula da Silva anunciou em 26 de dezembro que Luiz Carlos Trabuco, de 75 anos e presidente do Conselho de Administração do Bradesco, assumirá o Ministério da Fazenda no próximo ano.",
-    "Paulo Guedes comandou o superministério da Economia de 2019 a 2022, no governo Jair Bolsonaro, com foco em privatizações, corte de gastos, controle de juros do BNDES e criação do Auxílio Emergencial em 2020.",
-    "Henrique Meirelles liderou a Fazenda de maio de 2016 a abril de 2018, no governo Michel Temer, e foi responsável por instituir o teto de gastos que limitou as despesas federais à inflação por 20 anos.",
-    "Joaquim Levy chefiou a pasta durante quase todo o ano de 2015, sob Dilma Rousseff, aplicando um ajuste fiscal com bloqueio de orçamento, aumento de impostos e restrições a benefícios como o seguro-desemprego.",
-    "Marcílio Marques Moreira esteve à frente da política econômica de maio de 1991 a outubro de 1992, no governo Fernando Collor, focando no combate gradual à inflação com juros altos e na renegociação da dívida externa."
+    "O governo do presidente Luiz Inácio Lula da Silva anunciou em 26 de dezembro que Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, assumirá o Ministério da Fazenda no próximo ano.",
+    "Aos 75 anos, Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula e é conhecido por sua proximidade com o mercado financeiro, empresários e integrantes do governo.",
+    "Paulo Guedes comandou a economia de 2019 a 2022 no governo de Jair Bolsonaro, quando a Fazenda integrou o superministério da Economia, priorizando reformas liberais, privatizações e a criação do Auxílio Emergencial em 2020.",
+    "Henrique Meirelles liderou a Fazenda de maio de 2016 a abril de 2018 sob Michel Temer, instituindo o teto de gastos por 20 anos para limitar as despesas federais à inflação do ano anterior por meio de emenda constitucional de 2016.",
+    "Joaquim Levy chefiou a pasta durante quase todo o ano de 2015 no governo de Dilma Rousseff, implementando ajustes fiscais que elevaram tributos e endureceram regras de benefícios como seguro-desemprego, resultando em inflação de 10,67% e queda de 3,5% do PIB.",
+    "Marcílio Marques Moreira liderou a economia de maio de 1991 a outubro de 1992 no governo Fernando Collor, focando no combate gradual à inflação com aumento de juros e renegociando a dívida externa com o FMI e o Clube de Paris em 1992."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/893d2349560d.webp"
   },
   {
    "titulo": "Alvo do governo e do BC, uso do cartão de crédito rotativo se aproxima de R$ 400 bilhões em 2026 e bate recorde",
    "topicos": [
-    "As contratações do cartão de crédito rotativo somaram R$ 387 bilhões nos dez primeiros meses de 2026, aproximando-se do total de R$ 403 bilhões registrado em todo o ano passado, segundo dados do Banco Central.",
-    "O Conselho Monetário Nacional determinou que os bancos reduzam gradualmente o limite de crédito para clientes que utilizam frequentemente o rotativo, medida que poderá atingir até 20 milhões de pessoas a partir de julho de 2027.",
-    "No começo de 2026, o Brasil registrava 101 milhões de usuários de cartão de crédito e cerca de 40 milhões de inadimplentes nessa modalidade, com uma taxa de inadimplência de 63,5% e juros de 446% ao ano em outubro.",
-    "Uma regra estabelecida pelo Congresso e pelo governo em janeiro de 2024 limita a dívida total do rotativo, incluindo juros e encargos, ao valor original do débito, impedindo que ultrapasse o dobro da quantia inicial.",
-    "O presidente do Banco Central, Gabriel Galípolo, apontou em março que a população passou a usar o rotativo como parte da renda e destacou a necessidade de alternativas estruturais e arranjos de crédito mais saudáveis."
+    "As contratações do cartão de crédito rotativo somaram R$ 387 bilhões nos dez primeiros meses de 2026, conforme dados do Banco Central, aproximando-se do total de R$ 403 bilhões registrado em todo o ano passado.",
+    "Uma resolução do Conselho Monetário Nacional exigirá que os bancos reduzam gradualmente o limite de crédito para clientes que utilizam o rotativo com frequência, com impacto potencial sobre até 20 milhões de pessoas a partir de julho de 2027.",
+    "No início deste ano, o Brasil contabilizava 101 milhões de usuários de cartão de crédito, sendo que cerca de 40 milhões de cidadãos acumulavam dívidas específicas na modalidade rotativa.",
+    "A inadimplência no rotativo atingiu 63,5% no início do ano, enquanto a taxa de juros da modalidade alcançou 446% ao ano em outubro, configurando o maior custo do mercado financeiro.",
+    "Em janeiro de 2024, uma lei determinou que o valor acumulado de uma dívida no rotativo, somando juros e encargos, não pode superar o montante original do débito."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/alvo-do-governo-e-do-banco-central-uso-do-cartao-de-credito-rotativo-se-aproxima-de-r-400-bilhoes-em-2026-e-bate-recorde.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0e79c23aeca4.webp"
   },
   {
    "titulo": "O que MBRF e JBS sinalizam para o Natal e como isso pode afetar as ações",
    "topicos": [
-    "O Goldman Sachs manteve a recomendação de compra para MBRF e JBS após reuniões com executivos, apontando perspectivas positivas para as festas e o ano de 2027.",
-    "Para a MBRF, o banco fixou preço-alvo de R$ 23,50 para os próximos 12 meses, destacando a evolução da Sadia Halal, marcas e portfólio.",
-    "Analistas estimam avanço de dois dígitos nas vendas do quarto trimestre no Brasil, impulsionado pela migração de renda após restrições às apostas online.",
-    "As margens da carne bovina nos EUA devem atingir entre 3% e 4% em 2027, segundo projeções que indicam melhora operacional e redução de custos.",
-    "O Goldman Sachs fixou o preço-alvo da JBS em US$ 16,95 para as ações Classe A e R$ 97,90 para os BDRs, enquanto o JPMorgan estipulou US$ 17 para o fim de 2027.",
-    "A JBS projeta alta de 15% nas vendas de fim de ano no país e planeja reduzir a diferença de rentabilidade com ganhos de eficiência de 3 pontos percentuais."
+    "O Goldman Sachs manteve a recomendação de compra para MBRF e JBS após reuniões com executivos, apontando perspectivas favoráveis para a temporada de festas de final de ano e o desempenho operacional previsto para 2027.",
+    "Para a MBRF, o banco fixou o preço-alvo em R$ 23,50 para os próximos 12 meses, destacando avanços na Sadia Halal, na National Beef e nas marcas Sadia e Perdigão, além de citar riscos como alavancagem elevada.",
+    "No caso da JBS, o Goldman Sachs estabeleceu preço-alvo de US$ 16,95 para as ações Classe A e R$ 97,90 para os BDRs, enquanto o JPMorgan estipulou US$ 17 por ação para o término de 2027 e o Bradesco BBI indicou US$ 19.",
+    "O Bradesco BBI apontou 2027 como um ponto de inflexão para a JBS, com ações negociadas a 13,5 vezes o lucro projetado para o ano e 6.2 vezes considerando margens de meio de ciclo, mantendo a empresa como principal escolha de investimento.",
+    "As expectativas para o mercado brasileiro de consumo incluem um crescimento de dois dígitos nas vendas do quarto trimestre, impulsionado pelo direcionamento de renda familiar para bens essenciais após restrições às apostas on-line.",
+    "As margens da carne bovina nos Estados Unidos devem alcançar entre 3% e 4% em 2027, com avanço estimado de 1,5 a 2 pontos percentuais e busca da JBS por uma redução de diferença de rentabilidade de cerca de 3 pontos percentuais frente a concorrentes."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/mercados/o-que-mbrf-e-jbs-sinalizam-para-o-natal-e-como-isso-pode-afetar-as-acoes/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a1df6d4d5592.webp"
   },
   {
    "titulo": "Dólar despenca 3% e vai a R$ 5,47 com escolha de Trabuco para a Fazenda; Ibovespa dispara",
    "topicos": [
-    "Luiz Carlos Trabuco, presidente do conselho do Bradesco, aceitou o convite de Lula para comandar o Ministério da Fazenda a partir de 2027, em anúncio feito na quinta-feira (26).",
-    "A indicação de Trabuco foi bem recebida pelo mercado, provocando forte queda do dólar e alta de 1,64% no Ibovespa, que atingiu 179.701 pontos na sexta-feira (27).",
-    "A taxa de desemprego ficou em 5,1% no trimestre encerrado em outubro, igualando a mínima histórica e registrando 5,6 milhões de pessoas desocupadas, queda de 4,3%.",
-    "A Câmara dos Deputados aprovou um projeto de lei com medidas de ajuste fiscal para cumprir a meta de 2027, gerando uma economia de até R$ 56 bilhões no próximo ano.",
-    "O governo prepara uma PEC com novas medidas de ajuste e tenta aprovar ao menos oito propostas econômicas no Congresso antes do recesso parlamentar, previsto para 23 de dezembro."
+    "Luiz Carlos Trabuco, presidente do conselho do Bradesco, aceitou o convite do presidente Lula para comandar o Ministério da Fazenda a partir de 2027, sendo o primeiro ministro confirmado para o quarto mandato.",
+    "A indicação de Trabuco foi anunciada pelo Planalto na quinta-feira (26) após reunião no Palácio da Alvorada e foi bem recebida pelo mercado financeiro por sinalizar compromisso com o equilíbrio fiscal.",
+    "O dólar despencou 3,01% perto das 12h desta sexta-feira (27), cotado a R$ 5,5328, enquanto o Ibovespa subia 1,64% no mesmo horário, atingindo 179.701 pontos.",
+    "A taxa de desemprego ficou em 5,1% no trimestre encerrado em outubro, igualando a mínima histórica de dezembro de 2025, com 5,6 milhões de desocupados e queda de 4,3% ante o período anterior.",
+    "A Câmara dos Deputados aprovou na segunda-feira (23) um projeto de ajuste fiscal que pode gerar uma economia de até R$ 56 bilhões em 2027, aguardando sanção presidencial.",
+    "O governo tenta aprovar pelo menos oito propostas econômicas antes do recesso parlamentar, previsto para começar em 23 de dezembro, incluindo a MP das bets, a LDO e a LOA de 2027."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/dolar-ibovespa.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0eb2d356f545.webp"
   },
   {
    "titulo": "Banco Central terá mais condições de voltar a reduzir juros mais rapidamente com Trabuco na Fazenda",
    "topicos": [
-    "A escolha de Luiz Carlos Trabuco para assumir o Ministério da Fazenda no governo Lula 4 cria condições para que o Banco Central reduza a taxa de juros mais rapidamente.",
-    "Antes da confirmação de Trabuco, investidores projetavam que a taxa Selic seria mantida em 13,75% ao ano ao longo do primeiro semestre de 2027.",
-    "O mercado temia a indicação de um nome alinhado ao PT que pudesse pressionar o Banco Central por cortes de juros sem um ajuste fiscal considerado crível.",
-    "A chegada de Trabuco provocou uma forte queda no valor do dólar, o que atenua as pressões inflacionárias sobre a economia nacional.",
-    "O novo ministro deve assegurar a aprovação da segunda etapa do ajuste fiscal, garantindo maior previsibilidade e o controle gradual das contas públicas.",
-    "O Copom se reúne nos dias 8 e 9 de dezembro para o último encontro do ano, com expectativas de sinalização sobre a retomada do corte de juros."
+    "A escolha de Luiz Carlos Trabuco para o Ministério da Fazenda no governo Lula 4 abre caminho para que o Banco Central reduza a taxa de juros de forma mais ágil, segundo avaliação do mercado.",
+    "Anteriormente, a expectativa de economistas e investidores era de que a taxa Selic permanecesse em 13,75% ao ano durante ao menos o primeiro semestre de 2027.",
+    "A chegada de Trabuco ao cargo gerou um impacto positivo imediato com a forte queda do dólar, o que atenua as pressões inflacionárias sobre a economia.",
+    "O novo ministro tem a expectativa de assegurar a aprovação da segunda fase do ajuste fiscal, garantindo previsibilidade e o controle gradual das contas públicas.",
+    "A próxima reunião do Comitê de Política Monetária está marcada para os dias 8 e 9 de dezembro, contando com expectativas de cortes ou novas sinalizações para os juros."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/banco-central-tera-mais-condicoes-de-voltar-a-reduzir-juros-mais-rapidamente-com-trabuco-na-fazenda.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/0c94c4ee5266.webp"
   },
   {
    "titulo": "Com desemprego em 5,1%, renda em alta segura juros enquanto contratação esfria",
    "topicos": [
-    "- A taxa de desocupação no Brasil recuou para 5,1% no trimestre encerrado em outubro de 2026, igualando o menor patamar da série histórica iniciada em 2012, segundo dados da Pnad Contínua divulgados pelo IBGE.",
-    "- A população desocupada caiu para 5,6 milhões de pessoas, enquanto o contingente de ocupados ficou estável em 103,7 milhões, com alta de 1,1 milhão de vagas em 12 meses.",
-    "- O rendimento real habitual atingiu R$ 3.812, alta de 3,5% em um ano, elevando a massa salarial real para R$ 390,3 bilhões, um crescimento anual de 4,6%.",
-    "- Analistas apontam que a queda do desemprego oficial foi influenciada pela redução na oferta de trabalhadores e pela perda de ritmo nas novas contratações, com a taxa de participação caindo para 62,0%.",
-    "- O avanço contínuo dos salários sustenta o consumo das famílias e o setor de serviços, mas pressiona os custos e mantém o Banco Central em alerta, o que pode adiar cortes na taxa básica de juros (Selic).",
-    "- Projeções de mercado indicam que o desemprego deve encerrar 2026 em patamares baixos, na faixa de 5,0% a 5,5%, mas com acomodação gradual e taxas maiores em 2027 devido aos juros elevados e à desaceleração do PIB."
+    "- A taxa de desocupação no Brasil recuou para 5,1% no trimestre móvel encerrado em outubro de 2026, igualando o menor patamar da série histórica iniciada em 2012, segundo o IBGE.",
+    "- O contingente de ocupados ficou estável em 103,7 milhões de pessoas, enquanto a população desocupada caiu para 5,6 milhões e a taxa de participação recuou para 62,0%.",
+    "- O rendimento real habitual atingiu R$ 3.812, alta anual de 3,5%, elevando a massa salarial real para R$ 390,3 bilhões, um crescimento de 4,6% em 12 meses.",
+    "- Analistas apontam que a queda da taxa oficial refletiu a retração na oferta de trabalhadores e a perda de ritmo nas contratações, com sinais incipientes de afrouxamento gradual.",
+    "- O desemprego em patamares mínimos sustenta o consumo das famílias e a inflação de serviços, mas pressiona custos de produção e adia cortes na taxa básica de juros (Selic).",
+    "- Projeções indicam que o desemprego deve encerrar 2026 em patamares baixos, com taxas estimadas em 5,5% pela XP e C6 Bank, acomodando-se gradualmente ao longo de 2027."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/economia/taxa-de-desemprego-outubro-2026-ibge/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/8af7761874ba.webp"
   },
   {
    "titulo": "Trabuco no Ministério da Fazenda: como reagiram parlamentares da esquerda e da direita",
    "topicos": [
-    "O presidente Lula anunciou nesta quinta-feira (26) a escolha de Luiz Carlos Trabuco, executivo do Bradesco de 75 anos, para comandar o Ministério da Fazenda no quarto mandato presidencial.",
-    "A indicação do executivo gerou redivisão de opiniões na esquerda, com parlamentares do PT apoiando a decisão e outros, junto ao PSOL, criticando a entrega da economia a um banqueiro.",
-    "Políticos de direita e presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), elogiaram a experiência e a capacidade de diálogo de Trabuco.",
-    "Alguns parlamentares compararam a escolha à nomeação de Joaquim Levy no governo Dilma Rousseff em 2015, expressando preocupação com possíveis resistências internas e a orientação fiscal.",
-    "Parlamentares da oposição interpretaram o convite como um reconhecimento da urgência de conter os gastos públicos, reduzir a dívida e corrigir os rumos da política fiscal para 2027."
+    "O presidente Lula (PT) escolheu Luiz Carlos Trabuco, executivo do Bradesco de 75 anos, para comandar o Ministério da Fazenda no quarto mandato presidencial.",
+    "O anúncio do futuro ministro ocorreu nesta quinta-feira (26) e marca o primeiro nome confirmado da nova composição ministerial do governo federal.",
+    "A indicação foi elogiada por presidentes da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre, além de parlamentares governistas e da oposição.",
+    "Parlamentares da esquerda dividiram-se entre apoio à decisão e críticas severas à escolha de um banqueiro, com comparações ao caso de Joaquim Levy em 2015.",
+    "Políticos de direita viram na indicação um reconhecimento governamental sobre a urgência de corrigir a política fiscal, conter gastos e reduzir a dívida pública.",
+    "Alguns críticos questionaram o nível de autonomia que Trabuco terá para gerir a economia e se enfrentará forte resistência interna dentro do próprio PT."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/27/trabuco-no-ministerio-da-fazenda-repercussao-parlamentares.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/aecd8a61659f.webp"
   },
   {
    "titulo": "Contas do governo têm superávit de R$ 52 bilhões em outubro, melhor saldo para o mês em dez anos",
    "topicos": [
-    "As contas do governo federal fecharam outubro com um superávit primário de R$ 52,3 bilhões, o melhor desempenho para o mês desde 2016, segundo dados divulgados nesta sexta-feira (27) pelo Tesouro Nacional.",
-    "O superávit primário ocorre quando as receitas superam as despesas, desconsiderando os juros da dívida pública; em outubro de 2024, o saldo positivo havia sido de R$ 38,3 bilhões corrigidos pela inflação.",
-    "As receitas líquidas após transferências subiram 5,6% em setembro, alcançando R$ 253 bilhões, impulsionadas pelo crescimento econômico, alta do petróleo e aumentos de impostos.",
-    "As despesas recuaram 0,2% em outubro, somando R$ 201 bilhões, com reduções em gastos livres como saúde, sentenças judiciais, precatórios e apoio a estados e municípios.",
-    "No acumulado de janeiro a outubro, o governo registrou um déficit primário de R$ 37,9 bilhões, enquanto as receitas líquidas somaram R$ 2,13 trilhões e as despesas alcançaram R$ 2,17 trilhões.",
-    "Para o ano de 2026, a meta fiscal estabelece um saldo positivo de 0,25% do PIB (cerca de R$ 34,3 bilhões), com tolerância de 0,25 ponto percentual e previsão oficial de déficit de R$ 77 bilhões."
+    "As contas do governo federal registraram um superávit primário de R$ 52,3 bilhões em outubro, conforme dados divulgados pelo Tesouro Nacional nesta sexta-feira (27).",
+    "O resultado de outubro superou os R$ 38,3 bilhões positivos contabilizados no mesmo mês do ano passado e representou o melhor desempenho para o mês desde 2016.",
+    "As receitas líquidas totalizaram R$ 253 bilhões, registrando alta real de 5,6% em setembro, impulsionadas pela economia, aumento de impostos e alta do petróleo.",
+    "As despesas recuaram 0,2% em outubro, somando R$ 201 bilhões, com quedas em gastos livres de saúde, precatórios e repasses a estados e municípios.",
+    "No acumulado de dez meses, o governo registrou um déficit primário de R$ 37,9 bilhões, com receitas de R$ 2,13 trilhões e despesas de R$ 2,17 trilhões.",
+    "A meta fiscal para 2026 prevê saldo positivo de R$ 34,3 bilhões (0,25% do PIB), com tolerância que permite variação de saldo zero até superávit de R$ 68,6 bilhões."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/contas-do-governo-tem-superavit-de-r-52-bilhoes-em-outubro-melhor-saldo-para-o-mes-em-dez-anos.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/35d1614e5ba7.webp"
   },
   {
    "titulo": "PIX: Banco Central vai desenvolver regras para coibir envio de mensagens intimidatórias",
    "topicos": [
-    "O Banco Central anunciou nesta sexta-feira (27) o desenvolvimento de regras para barrar o envio de recados intimidatórios, violentos ou ofensivos por meio de transferências via PIX.",
-    "Os bancos deverão incluir funcionalidades opcionais em seus aplicativos para permitir que os usuários ocultem textos anexados às transações, conforme escolha individual de cada cliente.",
-    "O pacote de iniciativas divulgado pelo BC para os próximos anos inclui campanhas educativas, aprimoramento do PIX Automático e novas ferramentas para o PIX internacional.",
-    "Em 2027, a instituição planeja implantar um indicador de probabilidade de fraude calculado em tempo real para ajudar bancos a aprovarem ou rejeitarem operações, além de facilitar devoluções de valores pagos por engano."
+    "O Banco Central anunciou nesta sexta-feira (27) o desenvolvimento de regras para barrar o envio de mensagens intimidatórias, violentas ou ofensivas através do PIX.",
+    "Os aplicativos bancários ganharão funcionalidades opcionais, a critério do cliente, para ocultar mensagens anexadas às transferências, além de campanhas educativas.",
+    "Em 2027, o órgão focará no aprimoramento do PIX Automático, na segurança e na criação de um indicador de probabilidade de fraude calculado em tempo real para cada transação.",
+    "O pacote trará uma ferramenta para facilitar a devolução de valores enviados por engano e a futura implementação do PIX internacional.",
+    "O sistema completou 6 anos neste mês e possui mais de 1 bilhão de chaves cadastradas desde a sua criação em 2020.",
+    "Em outubro de 2026, as transações de pessoas físicas para empresas atingiram 45% do total, enquanto as operações entre empresas responderam por 52% do volume financeiro.",
+    "No ano passado, a ferramenta movimentou um recorde de R$ 35,36 trilhões em quase 80 bilhões de transações, com alta de 17,6% até outubro deste ano frente a 2025."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/pix-bc-vai-desenvolver-regras-para-coibir-envio-de-mensagens-intimidatorias.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/b516a067e2c4.webp"
   },
   {
    "titulo": "É #FAKE vídeo de balões de Dora Aventureira e agentes do ICE em desfile de Ação de Graças de Nova York; cena foi criada com IA",
    "topicos": [
-    "Circula nas redes sociais um vídeo falso que exibe balões de agentes do Serviço de Imigração e Controle de Alfândegas (ICE) perseguindo a personagem Dora Aventureira em um desfile de infláveis em Nova York.",
-    "As publicações falsas foram compartilhadas no X, Instagram, Facebook e TikTok na quinta-feira (26).",
-    "O conteúdo faz menção às detenções e expulsões de imigrantes realizadas pelo ICE no governo do presidente dos Estados Unidos, Donald Trump.",
-    "O evento citado é o desfile de Ação de Graças promovido pela rede de lojas Macy's, cujas paradas completam cem anos de existência neste ano.",
-    "A ferramenta HiveModeration indicou que há 91,8% de probabilidade de o material ter sido gerado por inteligência artificial, o que também é evidenciado por distorções visuais e letras borradas.",
-    "O tradicional desfile, originalmente marcado para o dia 26 de novembro, foi transferido para este sábado (28) devido à previsão de chuva forte na cidade."
+    "Circula nas redes sociais um vídeo falso que exibe balões de agentes do ICE perseguindo a personagem Dora Aventureira em um desfile em Nova York, nos Estados Unidos.",
+    "As publicações falsas foram compartilhadas no X, no Instagram, no Facebook e no TikTok na quinta-feira, 26, fazendo referência a deportações do governo de Donald Trump.",
+    "A cena não aconteceu e foi gerada por inteligência artificial, segundo análise da ferramenta HiveModeration, que apontou uma probabilidade de 91,8% de uso de IA.",
+    "O vídeo falso apresenta falhas típicas de produções sintéticas, como letras distorcidas e o logotipo da rede Macy's com uma estrela branca em vez de vermelha.",
+    "O tradicional desfile de Ação de Graças da rede Macy's em Nova York, que neste ano completa 100 anos, foi transferido do dia 26 para sábado, 28, devido à previsão de chuva forte."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/27/e-fake-video-de-baloes-de-dora-aventureira-e-agentes-do-ice-em-desfile-de-acao-de-gracas-de-nova-york-cena-foi-criada-com-ia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/a2df905210f4.webp"
   },
   {
    "titulo": "Frete grátis aparece em 33% dos pedidos na pré-Black Friday, aponta Nuvemshop",
    "topicos": [
-    "O frete grátis esteve presente em 33,2% dos pedidos de lojistas da Nuvemshop na pré-Black Friday, superando cupons (27,5%) e descontos diretos (20,1%). O levantamento aponta alta de 32% nos despachos com isenção de frete ante o mesmo período de 2025.",
-    "A análise considera as compras realizadas de 22 a 25 de novembro, período em que o volume total de pedidos expedidos cresceu 30,3% e o fluxo de produtos em trânsito avançou 25%.",
-    "Para viabilizar o frete grátis e evitar gargalos, os lojistas diversificaram as entregas, elevando o uso de transportadoras independentes e operadores alternativos em 6,95 pontos percentuais, alcançando 23,1% das encomendas.",
-    "O maior pico de processamento ocorreu na manhã de terça-feira (24), quando a infraestrutura do Nuvem Envio absorveu mais de 31% das ordens geradas em um intervalo de 60 minutos, sem registrar interrupções.",
-    "São Paulo concentrou 36,3% das rotas de entrega, seguido por Minas Gerais (10,7%), Rio de Janeiro (8,7%) e Paraná (5,6%). Os demais estados somaram 22,9% dos destinos finais das entregas."
+    "O frete grátis esteve presente em 33,2% dos pedidos de lojistas da Nuvemshop na pré-Black Friday, superando cupons (27,5%) e descontos diretos (20,1%). O levantamento aponta um crescimento de 32% nessa isenção em relação ao mesmo período de 2025.",
+    "A análise compreende o intervalo de 22 a 25 de novembro e registrou alta de 30,3% no volume total de pedidos e avanço de 25% nos produtos em trânsito no e-commerce.",
+    "Para viabilizar o frete isento, os lojistas diversificaram as entregas utilizando transportadoras independentes e operadores alternativos, que subiram 6,95 pontos percentuais e atingiram 23,1% das encomendas.",
+    "O maior pico de processamento ocorreu na manhã de terça-feira (24), quando o Nuvem Envio absorveu mais de 31% das ordens geradas em um intervalo de 60 minutos, sem registrar interrupções.",
+    "São Paulo concentrou 36,3% das rotas de entrega, seguido por Minas Gerais com 10,7%, Rio de Janeiro com 8,7% e Paraná com 5,6%, enquanto os demais estados representaram 22,9%."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/black-friday/frete-gratis-aparece-em-33-dos-pedidos-na-pre-black-friday-aponta-nuvemshop/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5c96bfb1df03.webp"
   },
   {
    "titulo": "IBGE: famílias brasileiras gastam R$ 1,6 bilhão por mês com jogos e apostas",
    "topicos": [
-    "As famílias brasileiras gastaram uma média de R$ 1,6 bilhão mensalmente com jogos e apostas entre 2024 e 2025, o equivalente a R$ 19 bilhões anuais.",
-    "O cálculo foi feito pelo g1 usando dados da Pesquisa de Orçamentos Familiares do IBGE, divulgada em 27 de novembro, abrangendo bets, apostas esportivas e loterias.",
-    "A despesa média mensal por domicílio nacionalmente foi de R$ 19,91, considerando inclusive famílias que informaram não ter feito esse tipo de gasto.",
-    "O Amapá registrou o maior gasto médio mensal por família no país, com R$ 100,16, enquanto o Rio Grande do Norte apresentou o menor, com R$ 8,17.",
-    "Entre 2017 e 2018, a média mensal anterior era de R$ 10,08 por família, subindo para R$ 19,91 no levantamento mais recente de 2024 e 2025.",
-    "Famílias com renda até dois salários mínimos (R$ 3.036) gastavam R$ 9,90 (0,4% do orçamento), e as com mais de 25 salários (R$ 37.950) gastavam R$ 34,94 (0,1%)."
+    "As famílias brasileiras destinaram uma média de R$ 1,6 bilhão mensais a jogos e apostas nos anos de 2024 e 2025, o que soma R$ 19 bilhões anualmente. O cálculo foi feito pelo g1 utilizando dados da Pesquisa de Orçamentos Familiares do IBGE, divulgada na sexta-feira (27).",
+    "A contagem abrange bets, apostas esportivas e loterias como a Mega-Sena, com um gasto médio de R$ 19,91 por mês entre as 79,6 milhões de famílias representadas. Entre 2017 e 2018, esse valor médio era de R$ 10,08 mensais.",
+    "O Amapá registrou o maior gasto mensal médio por família do país, alcançando R$ 100,16, seguido por Mato Grosso com R$ 53,50. As menores médias foram observadas no Rio Grande do Norte, com R$ 8,17, e no Piauí, com R$ 9,19.",
+    "Famílias com renda até dois salários mínimos (R$ 3.036) gastavam R$ 9,90 mensais, o que representava 0,4% de seu orçamento. Já aquelas que recebiam mais de 25 salários mínimos (R$ 37.950) desembolsavam R$ 34,94, correspondendo a 0,1% de suas despesas."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/ibge-pof-2024-2025-gastos-familias-brasileiras-jogos-apostas.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/94fd7a98ee7d.webp"
   },
   {
    "titulo": "Áudio: CMO aprova relatório preliminar do Orçamento de 2027",
    "topicos": [
-    "A Comissão Mista de Orçamento aprovou na quinta-feira, 26 de novembro de 2026, o relatório preliminar do Orçamento para 2027, identificado como PLN 24/2026.",
-    "O texto aprovado projeta um crescimento econômico de 2,46%, inflação de 3,6% e um salário mínimo fixado em R$ 1.741.",
-    "A proposta orçamentária também estima a obtenção de um superávit primário no valor de R$ 14,2 bilhões.",
-    "O senador e relator Eduardo Braga, do MDB-AM, assumiu o compromisso de adicionar verbas destinadas ao seguro rural no relatório geral.",
+    "A Comissão Mista de Orçamento aprovou, nesta quinta-feira (26), o relatório preliminar do Orçamento para 2027, apresentado por meio do PLN 24/2026.",
+    "O documento projeta uma alta de 2,46% para a economia, uma inflação de 3,6% e um salário mínimo fixado em R$ 1.741.",
+    "A proposta orçamentária também estima um superávit primário no patamar de R$ 14,2 bilhões.",
+    "O senador Eduardo Braga, relator da matéria pelo MDB-AM, assumiu o compromisso de inserir verbas destinadas ao seguro rural no relatório geral.",
     "A votação oficial da proposta do Orçamento está agendada para acontecer no dia 17 de dezembro."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cmo-aprova-relatorio-preliminar-do-orcamento-de-2027",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "sem_imagem": true
   },
   {
    "titulo": "Setores financeiro e produtivo elogiam experiência de Trabuco e veem 'sinal positivo' na escolha para a Fazenda; veja repercussão",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva anunciou na quinta-feira (26) a indicação de Luiz Carlos Trabuco para o comando do Ministério da Fazenda, marcando a transição do executivo do setor privado para a pasta pela primeira vez.",
-    "Trabuco iniciou sua trajetória profissional em 1969, aos 17 anos, atuando como escriturário no Bradesco, onde acumulou quase seis décadas de carreira até assumir a presidência executiva em 2009 e, em 2018, o Conselho de Administração.",
-    "A escolha foi elogiada por entidades dos setores financeiro e industrial, como Febraban, Anbima, Ancord e CNI, que destacaram sua experiência, capacidade de diálogo e a expectativa de foco no equilíbrio fiscal e controle da inflação.",
-    "O ex-ministro da Fazenda Henrique Meirelles, que esteve no cargo entre 2016 e 2018, avaliou positivamente a indicação, ponderando que o sucesso da gestão dependerá das medidas fiscais práticas adotadas.",
-    "No âmbito legislativo, os presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), manifestaram apoio à escolha e colocaram o Congresso à disposição para debater a agenda econômica.",
-    "A indicação gerou divergências na base governista: enquanto o vice-presidente Geraldo Alckmin aprovou a escolha, parlamentares como Lindbergh Farias (PT-RJ) compararam o momento à gestão de Joaquim Levy e deputados do PT e PCdoB externaram preocupação."
+    "O presidente Luiz Inácio Lula da Silva anunciou na quinta-feira (26) a indicação de Luiz Carlos Trabuco para o comando do Ministério da Fazenda, marcando a primeira vez que o executivo assumirá um cargo ministerial.",
+    "Com carreira iniciada em 1969 aos 17 anos como escriturário, Trabuco atuou por quase seis décadas no Bradesco, onde presidiu a seguradora e a presidência executiva, liderando atualmente o Conselho de Administração do banco desde 2018.",
+    "A indicação foi elogiada por entidades dos setores financeiro e industrial, como Febraban, Anbima, Ancord, CNI e Fiesp, que destacaram sua experiência, capacidade de diálogo e a busca pelo equilíbrio fiscal e sustentabilidade.",
+    "No Congresso, a escolha recebeu apoio dos presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), além do vice-presidente Geraldo Alckmin (PSB), que classificaram a decisão com otimismo.",
+    "Por outro lado, a nomeação gerou ressalvas e críticas entre parlamentares da base governista e da oposição, com comparações ao período de Joaquim Levy e preocupações quanto à autonomia sobre as contas públicas e os juros."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/setores-repercutem-trabuco.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/8821d173330c.webp"
   },
   {
    "titulo": "Senado argentino aprova suspensão de eleições primárias em manobra que favorece Milei",
    "topicos": [
-    "O Senado da Argentina aprovou na noite de quinta-feira (26) um projeto de lei que suspende as eleições primárias obrigatórias no país, em votação com 43 votos a favor e 29 contra.",
-    "A medida, que ainda precisa ser avaliada pela Câmara dos Deputados para virar lei, foi enviada pelo governo em abril e demonstra a capacidade do presidente Javier Milei de construir apoio no Congresso.",
-    "Além de suspender as primárias de 2027, o texto aprovado reduz o financiamento público dos partidos políticos e elimina o debate presidencial obrigatório antes das eleições gerais.",
-    "As primárias obrigatórias (PASO), criadas em 2009 e instituídas em 2011, ocorrem no mesmo dia para todas as siglas e exigem a participação de todos os eleitores aptos do país.",
-    "A suspensão pode beneficiar a tentativa de reeleição de Milei diante de uma recessão técnica estimada para o terceiro trimestre de 2026, alta do desemprego, inflação e queda na aprovação de mais de 40% em janeiro para a faixa de 35%.",
-    "Analistas avaliam que a mudança dificulta a união da oposição peronista, atualmente dividida, ao eliminar debates públicos internos, enquanto críticos classificam a reforma como regressiva e prejudicial à democracia."
+    "O Senado da Argentina aprovou na noite de quinta-feira (26) um projeto de lei que suspende as eleições primárias obrigatórias no país, em votação que registrou 43 votos a favor e 29 contra.",
+    "A proposta, enviada pela coalizão governista minoritária em abril, ainda precisa ser aprovada pela Câmara dos Deputados para virar lei, mas demonstrou a capacidade do presidente Javier Milei de construir apoio no Congresso.",
+    "Além de suspender as primárias de 2027, o texto aprovado reduz o financiamento público dos partidos políticos e elimina o debate presidencial obrigatório prévio às eleições gerais de outubro de 2027.",
+    "Criadas em 2009 e obrigatórias desde 2011 pelo Código Eleitoral para todos os eleitores e partidos, as primárias (conhecidas como Paso) ocorriam cerca de dois meses antes do pleito geral para definir candidaturas e funcionavam como um termômetro político.",
+    "A medida pode fortalecer a tentativa de reeleição de Javier Milei em meio a um cenário de desemprego em alta, inflação elevada frente a vizinhos e uma recessão técnica estimada para o terceiro trimestre de 2026.",
+    "Com a queda na taxa de aprovação do presidente de mais de 40% em janeiro para a faixa dos 35%, investidores avaliam que o fim da prévia elimina uma volatilidade financeira decorrente de testes antecipados do sentimento eleitoral."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/27/senado-da-argentina-aprova-suspensao-das-primarias-favorecendo-tentativa-de-reeleicao-de-milei.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5d67ef9c016d.webp"
   },
   {
    "titulo": "Abit vê indicação de Trabuco à Fazenda como sinal positivo",
    "topicos": [
-    "A Associação Brasileira da Indústria Têxtil e de Confecção (Abit) avaliou como positiva a indicação de Luiz Carlos Trabuco para o comando do Ministério da Fazenda.",
-    "Em nota oficial divulgada pela entidade, a associação destacou que a trajetória de Trabuco no setor financeiro e empresarial pode intensificar o diálogo entre o governo e a indústria.",
-    "A Abit definiu como prioridade o equilíbrio das contas públicas, apontando a medida como essencial para viabilizar a diminuição sustentável das taxas de juros no país.",
-    "A entidade têxtil também defendeu a ampliação do acesso ao crédito, a diminuição do custo Brasil e a busca por igualdade tributária e regulatória entre produtos nacionais e estrangeiros.",
-    "Conforme a associação, a implementação dessas pautas é indispensável para incentivar novos investimentos e a criação de postos de trabalho.",
-    "Por fim, a instituição manifestou apoio ao executivo e colocou-se à disposição da pasta para colaborar no desenvolvimento da economia nacional e da competitividade industrial."
+    "A Abit (Associação Brasileira da Indústria Têxtil e de Confecção) avaliou positivamente a indicação de Luiz Carlos Trabuco para o comando do Ministério da Fazenda.",
+    "A associação destacou que a vivência do executivo no setor financeiro e empresarial tem o potencial de intensificar o diálogo entre o governo federal e o setor produtivo.",
+    "A entidade definiu como prioridade o equilíbrio das contas públicas, apontando a medida como essencial para viabilizar uma queda sustentável das taxas de juros no país.",
+    "A pauta defendida inclui ainda a ampliação do acesso ao crédito, a diminuição do custo Brasil e a busca por igualdade tributária e regulatória para empresas nacionais frente às estrangeiras.",
+    "Segundo a associação têxtil, tais ações são indispensáveis para impulsionar novos investimentos e fomentar a criação de postos de trabalho.",
+    "Ao final, a entidade manifestou apoio a Trabuco e colocou-se à disposição da pasta ministerial para colaborar no fortalecimento da competitividade industrial e econômica."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/abit-ve-indicacao-de-trabuco-a-fazenda-como-sinal-positivo/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/adb4ade312cf.webp"
   },
   {
    "titulo": "Lei autoriza crédito de R$ 21,5 milhões para as Justiças Federal e do Trabalho",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva sancionou a Lei 15.554, publicada no Diário Oficial da União em 27 de novembro de 2026, que autoriza um crédito especial de R$ 21,5 milhões.",
-    "Os recursos são destinados à Justiça Federal e à Justiça do Trabalho para cobrir despesas com aposentadorias compulsórias de magistrados aplicadas como punição disciplinar.",
-    "A Justiça do Trabalho receberá R$ 15,9 milhões, correspondentes a 74% do montante, distribuídos entre 13 tribunais regionais que cobrem diversos estados e o Distrito Federal.",
-    "A Justiça Federal ficará com R$ 5,65 milhões, o equivalente a 26% dos recursos, voltados para unidades de primeiro grau e para os TRFs da 2ª e da 4ª Região.",
-    "O financiamento do crédito ocorre por meio do cancelamento e remanejamento de dotações de despesas primárias obrigatórias, sem alterar o total nem a meta fiscal."
+    "O presidente Luiz Inácio Lula da Silva sancionou a Lei 15.554, publicada no Diário Oficial da União em 27 de novembro de 2026, que autoriza um crédito especial de R$ 21,5 milhões para a Justiça Federal e a Justiça do Trabalho.",
+    "Os recursos serão destinados a cobrir despesas com aposentadorias compulsórias de magistrados, criando uma nova categoria de programação no orçamento para identificar especificamente esses pagamentos.",
+    "Do montante total, a Justiça do Trabalho receberá R$ 15,9 milhões, correspondentes a 74% dos recursos, distribuídos entre 13 tribunais regionais que abrangem diversos estados brasileiros.",
+    "A Justiça Federal ficará com R$ 5,65 milhões, que representam 26% do valor total, contemplando unidades de primeiro grau nacional e os Tribunais Regionais Federais da 2ª e da 4ª Região.",
+    "O crédito é financiado pelo cancelamento de dotações com o remanejamento de despesas primárias obrigatórias, sem alterar o montante total dessas despesas ou afetar a meta de resultado primário.",
+    "A medida decorre do PLN 8/2026 do Poder Executivo, relatado pelo deputado Gilmar Machado e aprovado pelo Congresso Nacional em 12 de novembro junto a outras nove propostas de reforço orçamentário."
    ],
    "fonte": "Agência Senado",
    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/lei-autoriza-credito-de-r-21-5-milhoes-para-as-justicas-federal-e-do-trabalho",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/1d0f2024353f.webp"
   },
   {
    "titulo": "Black Friday da Bolsa: ações brasileiras voltaram ao radar dos investidores",
    "topicos": [
-    "Ações brasileiras voltaram a atrair o interesse de investidores e estão no radar de compradores, em um momento que coincide com a Black Friday.",
-    "O mês de novembro registrou uma das piores retiradas mensais de capital estrangeiro da Bolsa em anos, impulsionada pelo resultado das eleições.",
-    "Apesar dos juros elevados, a mera indicação de uma política fiscal diligente pode proporcionar um alívio expressivo para o Ibovespa no curtíssimo prazo e atrair o retorno dos estrangeiros caso ocorra um ajuste fiscal convincente.",
-    "Nesta semana, a série Opções da Empiricus executou a venda parcial de uma call sobre o Ibovespa obtendo um lucro de 256%, enquanto outras calls registraram valorização acima de 500%."
+    "As ações negociadas na Bolsa brasileira voltaram a atrair o interesse dos investidores, período que coincide com a data da Black Friday.",
+    "O mês de novembro registrou uma das maiores retiradas mensais de capital estrangeiro da Bolsa brasileira em anos, movimento impulsionado pelo desfecho eleitoral.",
+    "Analistas avaliam que, apesar dos juros altos, um eventual compromisso com o ajuste fiscal pode provocar o retorno rápido do fluxo de capital externo para o Ibovespa.",
+    "A série de opções da Empiricus executou a venda parcial de uma call vinculada ao Ibovespa nesta semana, registrando um ganho de 256%.",
+    "Outras opções recomendadas pela mesma série acumulam taxas de valorização que superam o patamar de 500%."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/black-friday-da-bolsa-acoes-brasileiras-voltaram-ao-radar-dos-investidores-mlem/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/64d566c145ae.webp"
   },
   {
    "titulo": "Trabuco na Fazenda: dólar cai a R$ 5,53 e bolsa recupera perdas na abertura do pregão",
    "topicos": [
-    "O mercado financeiro reagiu com otimismo nesta sexta-feira, 27, à confirmação da nomeação de Trabuco para o comando do Ministério da Fazenda no governo Lula 4, anunciada na noite anterior.",
-    "Às 9h11, o dólar registrou queda de 3,70%, sendo cotado a R$ 5,5336, impulsionado pela expectativa de maior compromisso com o equilíbrio das contas públicas a partir de 2027.",
-    "Na quinta-feira, a indicação já havia gerado alta de 6,07% no Ibovespa, que fechou aos 176.799,84 pontos, enquanto a moeda americana encerrou próxima de R$ 5,74.",
-    "O cenário positivo foi reforçado pela divulgação do IPCA-15 de novembro, que subiu 0,22%, ficando abaixo das previsões do mercado e aliviando a pressão sobre os juros futuros.",
-    "A Bolsa brasileira manteve a recuperação na manhã de sexta-feira, 27, com o Ibovespa superando os 180 mil pontos e avançando 3,84% por volta das 10h10, atingindo 183.589 pontos.",
-    "O foco atual dos investidores recae sobre a habilidade da nova equipe econômica em controlar as despesas públicas, estabilizar a dívida e viabilizar a queda sustentável dos juros."
+    "O governo confirmou na noite de quinta-feira, 26, a nomeação de Trabuco para o comando do Ministério da Fazenda na gestão Lula 4, gerando otimismo no mercado nesta sexta-feira, 27.",
+    "Às 9h11 desta sexta-feira, o dólar registrou queda de 3,70%, sendo cotado a R$ 5,5336, após fechar próximo de R$ 5,74 no dia anterior.",
+    "Na quinta-feira, 26, o Ibovespa disparou 6,07% e encerrou o pregão aos 176.799,84 pontos impulsionado pelo anúncio da nova liderança econômica.",
+    "O IPCA-15 de novembro avançou 0,22%, ficando abaixo das projeções do mercado e ajudando a aliviar a pressão sobre as taxas de juros futuros.",
+    "A B3 ampliou a recuperação de perdas na abertura desta sexta-feira, 27, com o Ibovespa avançando 3,84% e superando os 180 mil pontos, atingindo 183.589 pontos às 10h10.",
+    "A reação positiva reflete a expectativa de investidores por uma política fiscal focada no equilíbrio das contas públicas e no controle de despesas a partir de 2027."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/mc-capital/dolar-abre-em-queda-cotado-a-r-553-apos-confirmacao-de-trabuco-na-fazenda/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a584fe66a038.webp"
   },
   {
    "titulo": "Taxa de desemprego fica em 5,1% no trimestre encerrado em outubro",
    "topicos": [
-    "A taxa de desemprego no Brasil ficou em 5,1% no trimestre encerrado em outubro deste ano, conforme dados da Pesquisa Nacional por Amostra de Domicílio Contínua divulgados pelo IBGE nesta sexta-feira, 27.",
-    "O patamar registrado em outubro iguala o menor nível da série estatística, que havia sido atingido em dezembro de 2025. No trimestre anterior, encerrado em julho, a taxa estava em 5,3%, e em outubro do ano passado havia sido de 5,4%.",
-    "A população desocupada reduziu-se para 5,6 milhões de pessoas no trimestre encerrado em outubro. Houve queda de 4,3%, o equivalente a 252 mil pessoas a menos frente a julho, e de 5,8%, representando 344 mil pessoas a menos em relação a outubro de 2025.",
-    "O total de pessoas ocupadas alcançou 103,7 milhões no período, configurando o maior patamar da série histórica iniciada em 2012. O contingente ficou estável na comparação trimestral e subiu 1,1%, com mais 1,1 milhão de pessoas, frente ao ano passado.",
-    "Entre as categorias de trabalho, o setor privado com carteira assinada somou 39,4 milhões de pessoas, sem carteira foram 13,7 milhões, por conta própria chegaram a 26,1 milhões e os trabalhadores domésticos totalizaram 5,5 milhões, todos com estabilidade.",
-    "O grupo de empregadores registrou 4,5 milhões de pessoas no trimestre encerrado em outubro. O resultado representou estabilidade em relação ao trimestre anterior e um crescimento de 6,5% na comparação com o mesmo período do ano passado."
+    "A taxa de desemprego no Brasil ficou em 5,1% no trimestre encerrado em outubro deste ano, conforme dados da Pnad Contínua divulgados pelo IBGE nesta sexta-feira, 27.",
+    "O patamar registrado em outubro iguala o menor nível da série histórica, que havia sido alcançado em dezembro de 2025.",
+    "No trimestre anterior, encerrado em julho, a taxa de desocupação havia sido de 5,3%, enquanto no mesmo período do ano passado ficou em 5,4%.",
+    "A população desocupada diminuiu para 5,6 milhões de pessoas, representando quedas de 4,3% na comparação trimestral e de 5,8% na anual.",
+    "O número de pessoas ocupadas alcançou 103,7 milhões, o maior patamar da série histórica iniciada em 2012, ficando estável ante o trimestre anterior e subindo 1,1% em um ano.",
+    "O setor privado com carteira assinada somou 39,4 milhões de trabalhadores, os sem carteira totalizaram 13,7 milhões, os por conta própria foram 26,1 milhões e os domésticos alcançaram 5,5 milhões.",
+    "O grupo de empregadores chegou a 4,5 milhões de pessoas, mantendo-se estável frente ao trimestre anterior e registrando alta de 6,5% na comparação anual."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/economia/taxa-de-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/3912dfba7c3f.webp"
   },
   {
    "titulo": "IBGE: planos de saúde custam R$ 528 por mês às famílias paulistas, 66% acima da média nacional",
    "topicos": [
-    "Entre 2024 e 2025, as famílias de São Paulo gastaram em média R$ 528,36 por mês com planos e seguros de saúde, segundo a Pesquisa de Orçamentos Familiares (POF) do IBGE. O valor superou em 66% a média brasileira, que ficou em R$ 318,05.",
-    "A despesa média mensal total das famílias paulistas com assistência à saúde chegou a R$ 1.001,99, representando 13,1% das despesas de consumo no estado e ficando acima da média nacional de R$ 765,71.",
-    "O gasto com planos de saúde em São Paulo aumenta conforme a renda, variando de R$ 73,05 para famílias com rendimento até R$ 3.036 até R$ 3.279,27 para aquelas com ganhos superiores a R$ 37.950.",
-    "Os medicamentos também pesam no orçamento de saúde em São Paulo, com despesa média mensal familiar de R$ 248,98, superando a média brasileira de R$ 214,92.",
-    "A despesa total média mensal familiar em São Paulo foi de R$ 9.933,63, enquanto o rendimento total e variação patrimonial médios mensais atingiram R$ 11.572,66 no estado.",
-    "A edição 2024-2025 da Pesquisa de Orçamentos Familiares foi realizada pelo IBGE para mapear os ganhos e gastos das famílias brasileiras, coletando informações entre novembro de 2024 e novembro de 2025."
+    "As famílias paulistas gastaram uma média de R$ 528,36 por mês com planos e seguros de saúde em 2024 e 2025, conforme dados da Pesquisa de Orçamentos Familiares divulgada pelo IBGE. Esse valor estadual supera em 66% a média nacional, que ficou estabelecida em R$ 318,05.",
+    "A despesa total média mensal das famílias de São Paulo com assistência à saúde alcançou R$ 1.001,99, o que significa que mais da metade desse montante é direcionada para planos ou seguros. No Brasil, o gasto médio mensal com saúde foi de R$ 765,71.",
+    "Em São Paulo, a assistência à saúde representou 13,1% das despesas de consumo das famílias, posicionando-se como o quarto maior gasto no estado. Os principais grupos de consumo foram habitação com R$ 2.552,49, transporte com R$ 1.287,98 e alimentação com R$ 1.219,86.",
+    "O levantamento do IBGE aponta que os gastos com planos de saúde aumentam conforme a faixa de renda familiar em São Paulo. As despesas variam desde R$ 73,05 para rendimentos até R$ 3.036 até R$ 3.279,27 para famílias com ganhos superiores a R$ 37.950.",
+    "Entre os demais custos com saúde no estado paulista, os medicamentos registraram média de R$ 248,98 mensais, enquanto consultas médicas somaram R$ 92,14. O valor gasto com remédios pelas famílias de São Paulo também superou a média nacional, que foi de R$ 214,92.",
+    "A despesa total média mensal familiar no estado de São Paulo atingiu R$ 9.933,63, enquanto o valor médio nacional ficou em R$ 7.977,43. O rendimento total e a variação patrimonial mensal em solo paulista chegaram a R$ 11.572,66, superando a média do país de R$ 9.255,53."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/27/ibge-planos-de-saude-custam-r-528-por-mes-as-familias-paulistas-66percent-acima-da-media-nacional.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a6b7c1fb92e4.webp"
   },
   {
    "titulo": "IBGE: Famílias mais pobres gastam mais da metade do orçamento com moradia e alimentação",
    "topicos": [
-    "A Pesquisa de Orçamentos Familiares 2024-2025, divulgada em sexta-feira (27) pelo IBGE, mostra que famílias que ganham até dois salários mínimos (R$ 3.036) destinam 57,1% de seus gastos a moradia (36,2%) e alimentação (20,9%).",
-    "Para famílias com renda superior a 25 salários mínimos (R$ 37.950), moradia e alimentação somam 27,2% do orçamento, sendo 19,1% e 8,1% respectivamente, sobrando 72,8% para outras finalidades, contra 42,9% dos mais pobres.",
-    "O gasto médio mensal com comida é de R$ 1.113 no Brasil. Famílias de até dois salários mínimos gastam R$ 525,46, enquanto as com mais de 25 salários gastam R$ 3.283,54, com os ricos gastando 15,7 vezes mais fora de casa.",
-    "Na saúde, medicamentos formam 45,2% dos gastos de famílias de até dois salários mínimos e 16,7% para os que ganham mais de 25 salários. Planos de saúde somam 63% dos gastos de saúde dos ricos e 20% dos pobres.",
-    "O transporte urbano pesa 2,5% no orçamento dos mais pobres, proporção cinco vezes maior do que os 0,5% dos mais ricos. A compra de veículos representa 7,1% das despesas dos ricos e 2% das dos mais pobres.",
-    "Entre as famílias de até dois salários mínimos, o trabalho caiu de 37,1% para 33,2% na composição de recursos entre 2017-2018 e 2024-2025, enquanto transferências como aposentadorias e benefícios sociais subiram de 26,9% para 32,7%."
+    "Divulgada nesta sexta-feira (27) pelo IBGE, a Pesquisa de Orçamentos Familiares 2024-2025 mostra que famílias brasileiras de menor renda gastam mais da metade do orçamento com moradia e alimentação.",
+    "Para lares com renda até dois salários mínimos (R$ 3.036), moradia e alimentação somam 57,1% dos gastos, enquanto para rendas acima de 25 salários (R$ 37.950) o total é de 27,2%.",
+    "A despesa média mensal com alimentação no país é de R$ 1.113. Famílias de menor renda gastam R$ 525,46 por mês com comida, contra R$ 3.283,54 das mais ricas.",
+    "Ricos gastam 15,7 vezes mais com alimentação fora de casa do que os mais pobres, destinando R$ 1.640,44 mensais a restaurantes e lanchonetes, frente a R$ 104,61 dos pobres.",
+    "Medicamentos respondem por 45,2% dos gastos de saúde das famílias até dois salários mínimos, ao passo que planos de saúde representam 63% das despesas de saúde dos mais ricos.",
+    "Nas famílias de até dois salários mínimos, a renda do trabalho caiu de 37,1% para 33,2% entre 2017-2018 e 2024-2025, enquanto transferências subiram de 26,9% para 32,7%."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/ibge-familias-mais-pobres-gastam-mais-da-metade-do-orcamento-com-moradia-e-alimentacao.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/452226f5eadd.webp"
   },
   {
    "titulo": "Zelensky critica 'estranha amizade' entre Trump e Putin em entrevista à BBC: 'Putin é um agressor e assassino'",
    "topicos": [
-    "Em entrevista à BBC, o presidente ucraniano Volodymyr Zelensky criticou o presidente dos EUA, Donald Trump, por chamar Vladimir Putin de \"amigo\", afirmando que Putin é \"agressor e assassino\" e comparando a amizade com Hitler na Segunda‑Guerra Mundial.",
-    "Na quinta‑feira (26/11), Trump publicou na Truth Social que, durante a cúpula com Putin na China na semana anterior, pediu à Rússia que cessasse toda agressão militar na Europa e declarou que um acordo de paz com a Ucrânia seria \"uma grande possibilidade\".",
-    "Zelensky denunciou atrasos na entrega de mísseis antibalísticos essenciais, dizendo que a escassez desses armamentos custa vidas de civis ucranianos e culpou a concentração de esforços dos EUA no Oriente Médio.",
-    "Forças armadas ucranianas afirmam conseguir destruir cerca de 70 % dos drones russos mais rápidos, percentual que vem aumentando, porém reconhecem que não têm interceptadores eficazes contra drones do tipo Shahed, que continuam a penetrar o território.",
-    "A última rodada de negociações de paz, mediada em Abu Dhabi no início deste mês, não trouxe avanços claros; Zelensky afirmou que quanto mais informações surgem, mais problemas aparecem nas tratativas.",
-    "Zelensky justificou a ofensiva que afundou o navio de guerra russo Merkury, ancorado no leste da Líbia, como alvo \"absolutamente legítimo\", apesar do alerta da primeira‑ministra italiana Giorgia Meloni sobre risco de expansão do conflito ao Mediterrâneo."
+    "Em entrevista à BBC, o presidente ucraniano Volodymyr Zelensky criticou o ex‑presidente dos EUA, Donald Trump, por chamar Vladimir Putin de \"meu amigo\", afirmando que Putin é \"agressor e assassino\" e comparando a amizade a uma relação com Adolf Hitler.",
+    "Zelensky acusou os Estados Unidos de atrasarem a entrega de mísseis antibalísticos essenciais, dizendo que a escassez desses armamentos \"custa vidas humanas\" e que os EUA têm concentrado esforços no Oriente Médio.",
+    "Segundo Zelensky, as Forças Armadas ucranianas já conseguem destruir cerca de 70 % dos drones russos mais rápidos, percentual que vem aumentando, porém os interceptadores não alcançam os drones tipo Shahed, permitindo maior penetração russa.",
+    "Na quinta‑feira (26/11), Trump publicou na Truth Social que, durante a cúpula com Putin na China na semana anterior, pediu à Rússia que cessasse toda agressão na Europa e afirmou que um acordo de paz com a Ucrânia era \"uma grande possibilidade\".",
+    "A última rodada de negociações de paz, mediada em Abu Dhabi no início deste mês, não trouxe avanços claros, e Zelensky declarou que \"quanto mais sabemos, mais problemas surgem\".",
+    "A primeira‑ministra da Itália, Giorgia Meloni, alertou que o ataque ucraniano que afundou o navio de guerra russo Merkury no leste da Líbia pode expandir o conflito ao Mediterrâneo; Zelensky considerou o alvo \"absolutamente legítimo\", reconhecendo os riscos."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/27/zelensky-critica-estranha-amizade-entre-trump-e-putin-em-entrevista-a-bbc-putin-e-um-agressor-e-assassino.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/775a424c294a.webp"
   },
   {
    "titulo": "Pix terá novas regras de segurança e melhorias em 2027",
    "topicos": [
     "O Banco Central anunciou novas funções e travas de segurança para o Pix planejadas para 2027, divulgadas nesta quinta-feira, 26, na 29ª Reunião Plenária do Fórum Pix.",
-    "Para conter ameaças e ofensas enviadas em transferências, o BC criará campanhas educativas e uma ferramenta de mascaramento opcional de textos nos aplicativos bancários.",
-    "O BC desenvolverá um indicador de probabilidade de fraude em tempo real para ajudar bancos e instituições a aprovar ou bloquear transferências suspeitas preventivamente.",
-    "O Pix Automático passará por melhorias para elevar a efetividade de pagamentos recorrentes de mensalidades e assinaturas, beneficiando empresas e consumidores.",
-    "Haverá uma nova ferramenta para simplificar a recuperação de valores enviados por engano pelo pagador, embora o funcionamento e o prazo específico não tenham sido detalhados."
+    "Para conter o envio de ameaças e ofensas em transferências, o BC criará campanhas, uma ferramenta para mascarar textos impróprios e a opção de uso pelo cliente.",
+    "O sistema ganhará um indicador de risco de fraude em tempo real, permitindo que os bancos avaliem e bloqueiem transações suspeitas preventivamente.",
+    "O Pix Automático para cobranças recorrentes será aprimorado para elevar a eficácia dos pagamentos e estimular novos modelos de negócio e cobrança.",
+    "Uma nova ferramenta simplificará a recuperação de valores transferidos por engano pelo próprio usuário, embora detalhes e prazos não tenham sido informados.",
+    "O BC prevê gestão mais ativa de chaves, critérios mínimos para bloqueios cautelares e ampliação de instrumentos de fiscalização das instituições.",
+    "Estudos avaliam a futura integração do Pix ao sistema europeu TIPS para facilitar pagamentos internacionais, e as novidades de 2027 dependem de implantação."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/meios-de-pagamento/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/234e6233688b.webp"
   },
   {
    "titulo": "Desemprego fica em 5,1% e iguala mínima histórica; rendimento bate recorde",
    "topicos": [
-    "A taxa de desemprego no Brasil ficou em 5,1% no trimestre encerrado em outubro, igualando a mínima histórica registrada em dezembro de 2025 na Pesquisa Nacional por Amostra de Domicílios Contínua, iniciada em 2012 pelo IBGE e divulgada nesta sexta-feira (27). O índice recuou frente aos 5,3% do trimestre anterior e aos 5,4% do mesmo período de 2025.",
-    "O país registrou 5,6 milhões de pessoas desocupadas até outubro, uma queda de 4,3% (252 mil pessoas) ante o trimestre de maio a julho e de 5,8% (344 mil pessoas) em um ano. A população ocupada alcançou o recorde de 103,7 milhões de pessoas, ficando estável no trimestre mas com alta de 1,1% em doze meses.",
-    "O rendimento real habitual de todos os trabalhos bateu recorde e chegou a R$ 3.812 no trimestre até outubro, registrando alta de 1% no trimestre e de 3,5% em um ano. A massa de rendimento também bateu recorde e atingiu R$ 390,3 bilhões, crescendo 1,4% no trimestre e 4,6% em um ano.",
-    "O nível de ocupação foi de 59%, enquanto a taxa de subutilização caiu para 12,7%, reunindo 14,5 milhões de pessoas subutilizadas. A população fora da força de trabalho chegou a 66,6 milhões, a desalentada somou 2,4 milhões e a taxa de informalidade ficou em 37,5%, representando 38,8 milhões de trabalhadores.",
-    "Entre as categorias de trabalho, o setor privado teve 39,4 milhões de empregados com carteira e 13,7 milhões sem carteira, enquanto os trabalhadores por conta própria somaram 26,1 milhões e os domésticos 5,5 milhões. O setor público cresceu 1,6% no trimestre e chegou a 13,2 milhões de pessoas, impulsionado por contratações na educação municipal.",
-    "O número de empregadores subiu 6,5% em um ano e alcançou 4,5 milhões, impulsionado exclusivamente pelos formalizados com CNPJ, que saltaram 10,3% (mais 347 mil), enquanto os sem CNPJ caíram 8,6%. O analista do IBGE aponta que o mercado se aproxima de um limite de mão de obra disponível, o que pode pressionar os salários para cima."
+    "A taxa de desemprego no Brasil ficou em 5,1% no trimestre encerrado em outubro, igualando a mínima histórica registrada em dezembro de 2025. O dado foi divulgado nesta sexta-feira (27) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), por meio da Pnad Contínua.",
+    "O país registrou 5,6 milhões de pessoas desocupadas no período, o que representa uma queda de 4,3% frente aos três meses anteriores. A população ocupada alcançou o recorde de 103,7 milhões de pessoas, com avanço de 1,1% em um ano.",
+    "O rendimento real habitual de todos os trabalhos bateu recorde e chegou a R$ 3.812 no trimestre até outubro, alta de 1% no trimestre e de 3,5% em um ano. A massa de rendimento também bateu recorde, somando R$ 390,3 bilhões.",
+    "O nível de ocupação atingiu 59% da população em idade de trabalhar, enquanto a taxa composta de subutilização caiu para 12,7%, reunindo 14,5 milhões de pessoas subutilizadas. A taxa de informalidade ficou em 37,5%, totalizando 38,8 milhões de trabalhadores informais.",
+    "O número de empregadores chegou a 4,5 milhões, impulsionado pelo crescimento de 10,3% nos empregadores com CNPJ, que somaram mais 347 mil formalizados. Entre os destaques setoriais, o setor público subiu 1,6% e chegou a 13,2 milhões de pessoas."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/27/desemprego-pnad-outubro.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/b7c780c184d7.webp"
   },
   {
    "titulo": "Trump declara apoio à decisão do Iraque de enviar de tropas para fora do país",
    "topicos": [
-    "O presidente dos Estados Unidos, Donald Trump, declarou em sua rede social Truth Social, nesta sexta-feira (27), apoio à decisão do Iraque de enviar tropas para fora do país e para as fronteiras internacionais.",
-    "A medida ocorre após a Suprema Corte do Iraque autorizar o envio de tropas na quarta-feira (25), permitindo atuação na região do Curdistão em meio a disputas pelo controle da extração de petróleo.",
-    "Na terça-feira (24), o primeiro-ministro iraquiano, Ali al-Zaidi, ordenou que autoridades federais assumissem o controle de passagens de fronteira geridas pelo Curdistão e que o Ministério do Petróleo gerenciasse campos nas províncias de Diyala, Kirkuk, Salahuddin e Nínive.",
-    "Em 2023, um tribunal arbitral determinou que a Turquia pagasse ao Iraque cerca de 1,5 bilhão de dólares por exportações não autorizadas ocorridas entre 2014 e 2018, após fluxo de 450 mil barris por dia ser suspenso.",
-    "Um acordo provisório para 2025 estabeleceu um valor temporário de US$ 16 por barril para cobrir custos de produtores, enquanto o volume enviado a Ceyhan atingiu média de cerca de 370.000 barris por dia em outubro.",
-    "O Iraque depende da venda de petróleo para mais de 90% de sua receita estatal, enquanto o governo curdo depende de repasses federais para pagar servidores, que enfrentaram atrasos durante paralisações e disputas."
+    "O presidente dos EUA, Donald Trump, apoiou nesta sexta-feira (27) a decisão do Iraque de enviar tropas para fora do país e consolidar o controle estatal.",
+    "A Suprema Corte do Iraque autorizou na quarta-feira (25) o envio de tropas às fronteiras internacionais e ao Curdistão, em meio a uma disputa de petróleo.",
+    "Na terça-feira (24), o primeiro-ministro Ali al-Zaidi determinou que autoridades federais assumissem o controle de passagens de fronteira e campos petrolíferos do Curdistão.",
+    "Em 2023, a Câmara de Comércio Internacional determinou que a Turquia pagasse cerca de 1,5 bilhão de dólares ao Iraque por exportações não autorizadas entre 2014 e 2018.",
+    "Um acordo provisório estabeleceu o valor temporário de 16 dólares por barril para produtores estrangeiros cobrirem custos enquanto aguardam análise independente.",
+    "O Iraque depende de mais de 90% da venda de petróleo para sua receita, enquanto o Curdistão depende de repasses federais para pagar salários do setor público."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/27/trump-declara-apoio-a-decisao-do-iraque-de-enviar-de-tropas-para-fora-do-pais.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bd99dd03568b.webp"
   },
   {
    "titulo": "Abrasca elogia Trabuco na Fazenda e defende agenda de previsibilidade",
    "topicos": [
-    "A Abrasca divulgou nota nesta quinta-feira, 26, elogiando a indicação de Luiz Carlos Trabuco Cappi para o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva.",
-    "O presidente executivo da Abrasca, Cátilo Cândido, destacou que Trabuco conhece o mercado de capitais e assume o cargo em um momento em que o país necessita de previsibilidade para crescer.",
-    "A entidade, que representa mais de 450 empresas, defendeu que regras claras e estáveis são fundamentais para que o setor privado planeje investimentos, gere empregos e renda.",
-    "Trabuco tem 75 anos, é formado em Filosofia pela USP, possui pós-graduação e iniciou sua trajetória profissional no Bradesco em 1969, aos 17 anos, como escriturário.",
-    "O novo ministro presidiu a executiva do Bradesco entre 2009 e 2018, atualmente comanda o Conselho de Administração do banco e integrou o Conselhão do governo."
+    "A Associação Brasileira das Companhias Abertas (Abrasca) divulgou nota nesta quinta-feira, 26, elogiando a indicação de Luiz Carlos Trabuco Cappi para o cargo de ministro da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva.",
+    "O presidente executivo da entidade, Cátilo Cândido, destacou que Trabuco conhece o mercado de capitais internamente e assume a pasta em um momento que exige previsibilidade e confiança para estimular os investimentos no país.",
+    "A Abrasca, que representa mais de 450 empresas, defendeu a consolidação de uma agenda voltada à segurança jurídica, regras estáveis, transparência nas decisões econômicas e equilíbrio fiscal para impulsionar o emprego e a renda.",
+    "Luiz Carlos Trabuco Cappi tem 75 anos, é formado em Filosofia pela USP com pós-graduação em Sociopsicologia pela FESPSP, e iniciou sua trajetória profissional no Bradesco em 1969, aos 17 anos, como escriturário.",
+    "O novo ministro exerceu a presidência executiva do Bradesco entre 2009 e 2018, atualmente comanda o Conselho de Administração da instituição e integrou anteriormente o Conselho de Administração da Abrasca e o Conselhão.",
+    "A transição ocorre em um contexto econômico marcado por apreensão sobre a evolução da dívida pública, o avanço das despesas obrigatórias e o desafio de equilibrar a responsabilidade fiscal com o crescimento do país."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/economia/abrasca-elogia-trabuco-na-fazenda-e-defende-agenda-de-previsibilidade/",
-   "categoria": "Política"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/a93c3459bbf3.webp"
   },
   {
    "titulo": "Tempestade no feriado de Ação de Graças deixa quase 1 milhão sem luz na costa leste dos EUA e cancela voos",
    "topicos": [
-    "Uma forte tempestade na costa leste dos Estados Unidos prejudicou o feriado de Ação de Graças em 27 de novembro de 2026, com rajadas de vento entre 80 e 112 km/h que derrubaram árvores e linhas de energia.",
-    "O pico de falta de energia atingiu 961 mil registros às 21h30 de quinta-feira, enquanto mais de 600 mil residências seguiam sem luz às 10h de sexta-feira, conforme o site PowerOutage.us.",
-    "Os estados mais afetados incluíram a Pensilvânia com mais de 150 mil interrupções, Nova Jersey com mais de 129 mil, Maryland com 90 mil, Virgínia com 85 mil, Missouri com 80 mil e Nova York com mais de 52 mil.",
-    "O setor aéreo registrou 454 cancelamentos de voos e 2.411 atrasos na quinta-feira, afetando principalmente os aeroportos das regiões de Washington e Nova York, onde o aeroporto LaGuardia registrou ventos de 90 km/h.",
-    "A ameaça da tempestade levou ao adiamento inédito da 100ª edição do tradicional desfile de Ação de Graças da Macy's, em Nova York, que estava previsto para quinta-feira.",
-    "Uma ressaca chamada maré rei afetou ambas as costas dos EUA com ondas de até 2,5 metros, alagando cidades como Sea Isle City e Asbury Park, em Nova Jérsei, e destruindo parte de um pier na Califórnia.",
-    "O presidente Donald Trump aprovou cerca de US$ 100 milhões, equivalentes a aproximadamente R$ 550 milhões, em ajuda federal à Flórida devido a tempestades e inundações."
+    "Uma forte tempestade na costa leste dos EUA no feriado de Ação de Graças, em 27 de novembro de 2026, deixou quase 1 milhão de casas sem luz e causou centenas de cancelamentos de voos. O pico de interrupções de energia atingiu 961 mil registros às 21h30 de quinta-feira, enquanto rajadas de vento chegaram a até 112 km/h.",
+    "O impacto no tráfego aéreo registrou 454 cancelamentos de voos e 2.411 atrasos na quinta-feira, segundo o FlightAware, afetando principalmente os aeroportos das regiões de Washington e Nova York. O aeroporto LaGuardia, em Nova York, registrou ventos de 90 km/h na tarde de quinta-feira.",
+    "As quedas de energia afetaram diversos estados, incluindo mais de 150 mil interrupções na Pensilvânia, mais de 129 mil em Nova Jersey, cerca de 90 mil em Maryland, 85 mil na Virgínia, 80 mil no Missouri e mais de 52 mil no estado de Nova York.",
+    "O Serviço Nacional de Meteorologia dos EUA registrou ou previu rajadas de 80 a 112 km/h em partes da Virgínia, Maryland, Delaware, Nova Jersey, Nova York e Nova Inglaterra, com ventos de 40 a 56 km/h esperados para sexta-feira.",
+    "A ameaça da tempestade levou à alteração da data da 100ª edição do desfile de Ação de Graças da Macy's, em Nova York, que estava previsto para quinta-feira. Foi a primeira vez na história que o evento teve a data modificada por condições meteorológicas.",
+    "O presidente Donald Trump aprovou cerca de US$ 100 milhões, equivalentes a aproximadamente R$ 550 milhões, em ajuda federal à Flórida devido a tempestades e inundações, valor que inclui recursos de um evento anterior.",
+    "Uma ressaca de grandes proporções chamada 'maré rei' atingiu as duas costas dos EUA desde quinta-feira com ondas de até 2,5 metros. Na Califórnia, o fenômeno provocou a queda de parte de um pier na praia de Pacifica e alagamentos atingiram cidades em Nova Jérsei."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/27/tempestade-feriado-dia-de-acao-de-gracas-eua-1-milhao-sem-luz-cancela-voos.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/6513f68ff4cc.webp"
   },
   {
    "titulo": "Superintendência do Cade aprova ato entre Itaú Unibanco, Bougainville Reflorestadora e Klabin",
    "topicos": [
-    "A Superintendência Geral do Cade aprovou sem restrições a operação entre Itaú Unibanco, Bougainville Reflorestadora e Klabin, conforme despacho publicado no Diário Oficial da União nesta sexta-feira, 27.",
+    "A Superintendência Geral do Cade aprovou, sem restrições, a operação entre Itaú Unibanco, Bougainville Reflorestadora e Klabin, conforme despacho publicado no Diário Oficial da União na sexta-feira, 27.",
     "O negócio consiste em um investimento do Itaú Unibanco na Bougainville Reflorestadora, empresa controlada pela Klabin, fazendo com que o banco passe a ter uma participação minoritária e sem controle.",
-    "Para o Itaú, o movimento é uma oportunidade de negócio como banco de investimento, enquanto a Klabin busca monetizar ativos, otimizar o retorno de capital e criar valor sustentável.",
-    "O Cade concluiu que a transação não gera sobreposições horizontais, visto que as únicas atividades florestais do Itaú no Paraná estão ligadas a sociedades da própria Klabin.",
-    "O Itaú Unibanco confirmou que passará a financiar imóveis pelo programa Minha Casa, Minha Vida, entrando em um setor liderado pela Caixa Econômica Federal.",
-    "A oferta habitacional do banco será direcionada a clientes elegíveis à Faixa 3, que possuem renda mensal entre R$ 5 mil e R$ 9,6 mil.",
-    "O banco também atenderá o grupo Pró-Cotista, linha ligada ao FGTS voltada a trabalhadores com renda de até R$ 12 mil, com contratações feitas de forma gradual e sujeitas à análise."
+    "Para a Klabin, a transação visa monetizar ativos e otimizar o retorno de capital, enquanto para o Itaú representa uma oportunidade de negócio no âmbito de banco de investimento.",
+    "O Cade concluiu que a operação não gera sobreposições horizontais, visto que as únicas atividades florestais do conglomerado do Itaú no Paraná são ligadas a empresas da própria Klabin.",
+    "O Itaú Unibanco confirmou que entrará no financiamento imobiliário do programa Minha Casa, Minha Vida, mercado liderado pela Caixa Econômica Federal.",
+    "A oferta do banco será direcionada a clientes elegíveis à Faixa 3, com renda mensal de R$ 5 mil a R$ 9,6 mil, e ao grupo Pró-Cotista do FGTS, para quem ganha até R$ 12 mil.",
+    "As contratações pelo banco privado ocorrerão de maneira gradual, dependendo de análise de elegibilidade e do cumprimento das normas estabelecidas pelo programa habitacional."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/economia/superintendencia-do-cade-aprova-ato-entre-itau-unibanco-bougainville-reflorestadora-e-klabin/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/91e1d60017ca.webp"
   },
   {
    "titulo": "Turismo estrangeiro movimentou R$ 53 bi na economia brasileira em 2026",
    "topicos": [
-    "Os turistas estrangeiros injetaram US$ 9,247 bilhões, o equivalente a R$ 53,8 bilhões, na economia brasileira nos dez primeiros meses de 2026, conforme dados do Ministério do Turismo divulgados em 26 de outubro.",
-    "A receita acumulada de janeiro a outubro representa um crescimento de 9,3% em relação aos US$ 8,456 bilhões, ou R$ 49,2 bilhões, registrados no mesmo intervalo do ano anterior.",
-    "Somente no mês de outubro, os visitantes internacionais deixaram US$ 867 milhões, cerca de R$ 5,052 bilhões, no país, superando em 2% os US$ 850 milhões contabilizados em outubro de 2025.",
-    "Entre janeiro e outubro, o Brasil recebeu 7.594.425 turistas estrangeiros, um aumento de 58,8% frente ao mesmo período de 2023, superando a meta anual de 7,5 milhões do Plano Nacional de Turismo 2024-2027.",
-    "Os voos domésticos alcançaram a marca de 85,7 milhões de passageiros nos dez primeiros meses de 2026, representando uma alta de 2,8% sobre os 83.339.480 passageiros do mesmo período de 2025.",
-    "O setor de turismo registrou o maior número de trabalhadores formais da história em setembro de 2026, atingindo 2.435.935 pessoas contratadas com carteira assinada, segundo o ministério."
+    "Entre janeiro e outubro de 2026, os gastos de turistas estrangeiros no Brasil alcançaram US$ 9,247 bilhões, o equivalente a R$ 53,8 bilhões, conforme dados divulgados em quinta-feira, 26, pelo Banco Central e Ministério do Turismo.",
+    "O montante acumulado nos dez primeiros meses representa um crescimento de 9,3% frente aos US$ 8,456 bilhões, ou R$ 49,2 bilhões, registrados no mesmo período do ano anterior.",
+    "No mês de outubro, os viajantes internacionais injetaram US$ 867 milhões, cerca de R$ 5,052 bilhões, na economia nacional, superando em 2% o valor de US$ 850 milhões obtido em outubro de 2025.",
+    "O Brasil recebeu 7.594.425 turistas estrangeiros de janeiro a outubro, alta de 58,8% sobre o mesmo intervalo de 2023, superando a meta anual de 7,5 milhões do Plano Nacional de Turismo 2024-2027.",
+    "O setor aéreo registrou 85,7 milhões de passageiros em voos domésticos de janeiro a outubro de 2026, alta de 2,8% em relação aos 83.339.480 passageiros contabilizados no mesmo período de 2025.",
+    "O turismo brasileiro atingiu um recorde histórico de formalização em setembro de 2026, contabilizando 2.435.935 trabalhadores com carteira assinada em todo o país."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/economia/turismo-estrangeiro-movimentou-r-53-bi-na-economia-brasileira-em-2026/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/5fd2caf28045.webp"
   },
   {
    "titulo": "Hackers invadem plataforma de dados da Força Aérea dos EUA, diz agência",
    "topicos": [
-    "Hackers invadiram a Cloud One, a principal plataforma de computação em nuvem da Força Aérea dos EUA, descoberta em 27 de setembro (sexta‑feira) durante trabalhos de atualização, segundo a Reuters com base em três fontes do governo.",
-    "A invasão pode expor dados táticos, de pessoal e logísticos; a Reuters não identificou os hackers, nem confirmou roubo de informações ou a extensão total do ataque.",
-    "A Cloud One, criada em 2017, centraliza as operações digitais do Pentágono usando recursos da Microsoft, Amazon, Oracle e Alphabet, sustentando dezenas de aplicações, entre elas o comando e controle de radares e o Sistema Integrado de Munições que rastreia bombas em mais de 200 instalações ao redor do mundo.",
-    "A SAIC foi a principal contratada da Cloud One até 2025, quando a Leidos assumiu o projeto; a Leidos encaminhou as perguntas à Força Aérea, que não comentou detalhes de segurança ou status operacional.",
-    "Com a descoberta, a migração de aplicações para a Cloud One foi suspensa, atualizações de sistemas bloqueadas e privilégios de administrador revogados para alguns usuários, impedindo correções diante de novas vulnerabilidades graves de software divulgadas.",
-    "Investigadores acionaram o Comando Cibernético das Forças Armadas para avaliar os danos; a vulnerabilidade explorada foi no “plano de controle”, que poderia permitir acesso ao status operacional de aeronaves ou à movimentação de peças, embora ainda não se saiba se foi usado.",
-    "O incidente ocorre na mesma semana de invasões à CIA e ao Escritório do Diretor de Inteligência e segue ao menos seis outros ataques recentes envolvendo FBI, Pentágono, DHS, agências de inteligência e o Tesouro, alimentando preocupação com o uso de IA para explorar fragilidades em nuvem."
+    "Hackers invadiram a plataforma Cloud One da Força Aérea dos EUA, descoberta durante atualização de sistema na sexta‑feira (27) e provocou interrupções gerais na nuvem.",
+    "A Reuters, com três fontes do governo, não identificou os invasores nem confirmou roubo de dados; a Força Aérea limitou‑se a dizer que não comenta detalhes de segurança.",
+    "A Cloud One, criada em 2017, centraliza operações digitais do Pentágono usando recursos da Microsoft, Amazon, Oracle e Alphabet, e hospeda sistemas de comando e controle e de rastreamento de munições em mais de 200 bases.",
+    "A SAIC foi a principal contratada até 2025, quando a Leidos assumiu o projeto; a SAIC não respondeu e a Leidos encaminhou perguntas à Força Aérea.",
+    "O Comando Cibernético das Forças Armadas foi acionado para avaliar os danos, mas ainda não se pronunciou publicamente.",
+    "A invasão suspendeu a migração de aplicações de retaguarda para a nuvem, bloqueou atualizações de softwares já em operação e revogou privilégios de administrador de alguns usuários.",
+    "Fontes indicam que os invasores exploraram vulnerabilidade no “control plane”, podendo teoricamente acessar status de aeronaves ou movimentação de peças, embora não se saiba se isso ocorreu; o ataque ocorre em meio a outras seis incidentes cibernéticos recentes envolvendo agências como FBI, Pentágono e Tesouro."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/27/hackers-invadem-plataforma-de-dados-da-forca-aerea-dos-eua-diz-agencia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/96d00650335b.webp"
   },
   {
    "titulo": "Venezuela revogará lei que previa até 30 anos de prisão para opositores",
    "topicos": [
-    "O presidente do Parlamento da Venezuela, Jorge Rodríguez, anunciou nesta quinta-feira (26) a revogação da Lei Orgânica Simón Bolívar contra o bloqueio.",
-    "A norma, em vigor desde o fim de 2024, determinava penas de até 30 anos de prisão e a proibição vitalícia de opositores em cargos públicos.",
-    "A revogação da legislação que impedia a atuação política de críticos do regime chavista decorre de um novo acordo entre o governo interino e a oposição.",
-    "A lei extinta havia sido proposta após a reeleição de Nicolás Maduro, posteriormente deposto, para punir quem promovesse sanções externas contra o país.",
-    "As sanções econômicas contra a Venezuela foram aplicadas majoritariamente por Estados Unidos, União Europeia e Canadá devido a violações de direitos humanos.",
-    "O presidente do Legislativo justificou a medida como parte de um momento específico superado pela diplomacia da paz da presidente interina, Delcy Rodríguez."
+    "O presidente do Parlamento da Venezuela, Jorge Rodríguez, anunciou nesta quinta-feira (26) a revogação de uma lei que previa penas de até 30 anos de prisão e inabilitação política perpétua para opositores.",
+    "A medida resulta de um pacto inédito entre o governo interino e a oposição venezuelana, conforme divulgado na sede do Legislativo.",
+    "A norma revogada, conhecida como Lei Orgânica Simón Bolívar contra o bloqueio, vigorava desde o final de 2024 e havia sido criada após a reeleição de Nicolás Maduro.",
+    "A legislação determinava a morte política daqueles considerados pelo governo como promotores de sanções econômicas estrangeiras contra o país, restrições estas lideradas por Estados Unidos, União Europeia e Canadá.",
+    "Jorge Rodríguez justificou a revogação afirmando que a norma atendeu a um contexto específico e que o cenário atual é solucionado por meio da diplomacia da paz da presidente interina Delcy Rodríguez."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/venezuela-revogara-lei-que-torna-opositores-inelegiveis-pelo-resto-da-vida-diz-chefe-do-parlamento.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/857375780610.webp"
   },
   {
    "titulo": "'Musa do Jihad': francesa que foi uma das vozes femininas do Estado Islâmico começa a ser julgada em Paris",
    "topicos": [
-    "A francesa Émilie König, de 41 anos, começou a ser julgada nesta quinta-feira (26) no tribunal antiterrorista de Paris por sua adesão ao grupo terrorista Estado Islâmico.",
-    "Conhecida como \"musa do jihad\", ela enfrenta um processo que pode resultar em até 30 anos de prisão e serve de teste para a Justiça avaliar a reabilitação de ex-integrantes.",
-    "König responde por associação criminosa com finalidade terrorista, após ter atuado na máquina de propaganda da organização na Síria e permanecido detida desde seu repatriamento em 2022.",
-    "Natural da Bretanha, ela foi uma das primeiras francesas a viajar para a Síria em 2012, atuando como recrutadora, intermediária e propagandista nas redes sociais.",
-    "Em 2014, tornou-se a primeira mulher na lista de sanções da ONU por terrorismo e, no ano seguinte, integrou a lista de sanções dos Estados Unidos.",
-    "A investigação apontou que ela enviou mensagens violentas, incluindo ameaças de atentados suicidas, e teve três filhos na Síria entre 2015 e 2017, após ter deixado dois filhos na França.",
-    "A defesa, liderada pelo advogado Emmanuel Daoud, argumenta que König rompeu com o extremismo, não apresenta riscos e busca demonstrar seu desengajamento da ideologia."
+    "Em 26 de novembro de 2026, Émilie König, de 41 anos, iniciou julgamento no tribunal antiterrorista de Paris por sua participação no Estado Islâmico na Síria.",
+    "König, uma das primeiras mulheres francesas a ir à Síria em 2012, é acusada de associação criminosa com finalidade terrorista, recrutamento e propaganda nas redes sociais; está presa desde seu repatriamento em 2022.",
+    "A acusação pede pena de até 30 anos de prisão, e o processo serve como teste para a Justiça francesa decidir como tratar cidadãos que retornam do ISIS.",
+    "Em 2014, tornou‑se a primeira mulher incluída na lista de sanções da ONU por terrorismo e, no ano seguinte, foi uma das duas primeiras mulheres na lista de sanções dos EUA, que alegaram que incentivou ataques a instituições francesas.",
+    "Entre as provas, há uma publicação de 2014 ameaçando a França com sangue e uma mensagem de 2017 à mãe, afirmando que cometeria atentado suicida contra os “inimigos de Alá” caso voltasse ao país.",
+    "A investigação revelou que ela deixou dois filhos na França, casou‑se com um militante de Nîmes que morreu em operações do ISIS, e teve três filhos na Síria entre 2015 e 2017, parte do projeto demográfico do grupo."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/musa-do-jihad-francesa-que-se-uniu-ao-estado-islamico-comeca-a-ser-julgada-em-paris.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8b9a8953aee7.webp"
   },
   {
    "titulo": "Em áudio | Como novos vírus criados por IA podem mudar a ciência (apesar de causarem preocupação)",
    "topicos": [
     "Pesquisadores americanos da Universidade Stanford usaram inteligência artificial para projetar genomas inteiros e criar 16 novos vírus funcionais e capazes de se replicar em laboratório.",
-    "Os novos vírus foram desenvolvidos para infectar apenas bactérias específicas e não oferecem qualquer ameaça aos seres humanos.",
-    "Os cientistas selecionaram 302 projetos gerados por IA e os sintetizaram em laboratório, constatando que 16 deles conseguiram eliminar a bactéria E. coli.",
-    "O avanço utiliza modelos chamados Evo1 e Evo2, treinados com códigos genéticos de vírus, bactérias, plantas e humanos para prever sequências biológicas.",
-    "A descoberta é vista como um marco na ciência e pode abrir caminho para novas terapias contra infecções bacterianas resistentes a antibióticos, embora traga alertas de segurança."
+    "Os novos micro-organismos foram desenvolvidos para infectar exclusivamente bactérias e não trazem riscos aos seres humanos, marcando um avanço inédito na ciência e na biologia computacional.",
+    "Para o projeto, foram empregados os modelos de inteligência artificial Evo1 e Evo2, treinados com códigos genéticos de vírus, bactérias, plantas e seres humanos para prever sequências biológicas."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/listen/cwvg20pgg394o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/075a0995bdb5.webp"
   },
   {
    "titulo": "Brasileiros foram atraídos para lutar pela Rússia e roubados pelos próprios recrutadores, relata NYT",
    "topicos": [
-    "Dezenas de brasileiros foram atraídos por recrutadores do mesmo país para integrar o Exército russo, conforme reportagem do jornal 'The New York Times' divulgada nesta quinta-feira (26).",
-    "Os aliciadores prometeram remunerações de US$ 50 mil, equivalentes a cerca de R$ 287 mil, até US$ 100 mil, correspondentes a R$ 574 mil, mas os valores foram roubados pelos intermediários.",
-    "As vítimas assinaram papéis em língua estrangeira que não compreendiam, dando aos recrutadores acesso e controle total sobre suas contas bancárias e remunerações.",
-    "O aliciamento ocorreu por meio de vídeos em plataformas como Instagram, TikTok e YouTube, que direcionavam os interessados para o aplicativo de mensagens Telegram.",
-    "Fernando Mazzo, de 45 anos, relatou que o golpe foi descoberto durante o treinamento em uma base perto de Moscou, ao compararem extratos bancários em aplicativos pelo celular.",
-    "Igor Pereira Santos, de 37 anos, recebeu US$ 25 mil, cerca de R$ 143,5 mil, valor que sumiu de sua conta, e acabou enviado para a frente de batalha semanas após a chegada, ficando gravemente ferido."
+    "Uma reportagem do \"The New York Times\" publicada na quinta-feira (26) revelou que dezenas de brasileiros foram atraídos por recrutadores do próprio país para integrar o Exército russo.",
+    "Os aliciadores prometeram remunerações entre US$ 50 mil e US$ 100 mil (cerca de R$ 287 mil a R$ 574 mil) e induziram as vítimas a assinarem contratos em russo que davam controle de suas contas bancárias aos intermediários.",
+    "A apuração baseou-se em depoimentos de nove recrutas e três familiares, além de documentos, fotos, vídeos, mensagens e extratos bancários analisados pela publicação americana.",
+    "O aliciamento utilizava vídeos em redes sociais como Instagram, TikTok e YouTube, direcionando os interessados para o aplicativo Telegram."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/brasileiros-foram-atraidos-para-lutar-pela-russia-e-roubados-pelos-proprios-recrutadores-relata-nyt.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/e3cd7d8c9e2e.webp"
   }
  ]
 }
