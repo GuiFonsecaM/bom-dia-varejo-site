@@ -288,10 +288,16 @@
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-congresso/comissao-aprova-regras-de-enfrentamento-ao-bullying/",
    "categoria": "Política",
-   "erro_materia": "TooManyRedirects: Exceeded 30 redirects.",
-   "erro_ia": "texto da matéria não encontrado",
-   "tentativas_ia": 1,
-   "imagem": "img/2026/11/21b8bd51fb23.webp"
+   "imagem": "img/2026/11/21b8bd51fb23.webp",
+   "topicos": [
+    "A Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara dos Deputados aprovou uma proposta que altera o Estatuto da Criança e do Adolescente para combater o bullying e o cyberbullying.",
+    "O texto do Projeto de Lei 928 de 2026, de autoria do deputado Daniel Agrobom (PSD-GO), recebeu parecer favorável com alterações de redação da relatora, deputada Laura Carneiro (PSD-RJ).",
+    "A matéria autoriza o uso de medidas não punitivas contra o agressor, como encaminhamento aos pais por termo de compromisso, acompanhamento psicológico ou familiar, supervisão do Conselho Tutelar e ações preventivas.",
+    "As medidas alternativas não excluem a possibilidade de investigação de infrações previstas em lei, caso seja necessário.",
+    "O projeto define que o Conselho Tutelar deve atuar na prevenção e no enfrentamento das agressões em conjunto com escolas, famílias e rede de proteção, além de garantir prioridade no atendimento psicológico ou psicossocial à vítima.",
+    "A proposta tramita em caráter conclusivo, segue para análise da Comissão de Constituição e Justiça e de Cidadania, e precisará passar pela Câmara e pelo Senado para virar lei."
+   ],
+   "detalhada": true
   },
   {
    "titulo": "Comissão aprova proposta de monitoramento bancário em investigações",
@@ -496,433 +502,497 @@
   {
    "titulo": "Coca-Cola aposta em Caravanas de Natal, árvore gigante e experiências para celebrar o fim de ano",
    "topicos": [
-    "A campanha de fim de ano de 2026 da Coca-Cola inclui as tradicionais Caravanas de Natal, que percorrem mais de 200 cidades brasileiras com caminhões iluminados até 23 de dezembro.",
-    "Em São Paulo, a marca instalou uma árvore de Natal no Parque Villa-Lobos com visitação aberta até 3 de janeiro de 2027 e pista de patinação no gelo de sexta a domingo, das 10h às 18h.",
-    "O filme publicitário da campanha, já veiculado no meio digital, estreia na televisão em 1º de dezembro, contando com a participação dos influenciadores Lucas Rangel e Maísa.",
-    "O projeto digital gratuito \"Meu Papel de Natal\", acessado por chatbot no WhatsApp, permite personalizar estampas com fotos e mensagens para download e impressão ilimitada.",
-    "Em parceria com o McDonald's, quatro unidades ganham decoração natalina e promoções: o Méqui 1000 em São Paulo, além das lojas de Ipanema (RJ), Sorocaba e Gramado.",
-    "A estratégia de fim de ano da marca também engloba colaborações com a Movida e a Coca-Cola Shoes para ampliar sua presença na temporada."
+    "A campanha de Natal de 2026 da Coca-Cola reúne experiências presenciais, ações com parceiros e ativações digitais para ampliar a presença da marca no fim de ano.",
+    "As tradicionais Caravanas de Natal com caminhões iluminados percorrem mais de 200 cidades brasileiras até o dia 23 de dezembro, com rotas disponíveis no site oficial.",
+    "A árvore de Natal no Parque Villa-Lobos, em São Paulo, fica aberta até 3 de janeiro de 2027, com pista de patinação de sexta a domingo, das 10h às 18h.",
+    "O filme publicitário de Natal da marca estreia na TV em 1º de dezembro, após lançamento nas plataformas digitais, com participação dos influenciadores Lucas Rangel e Maísa.",
+    "O projeto digital gratuito Meu Papel de Natal, acessado via WhatsApp, permite criar papéis de presente personalizados com fotos e novas mensagens pessoais para impressão.",
+    "Uma parceria com o McDonald's leva decoração natalina e ativações a quatro unidades: Méqui 1000 (SP), Ipanema (RJ), Sorocaba e Gramado, além de colaborações com Movida e Coca-Cola Shoes."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/28/11/2026/marcas/coca-cola-aposta-em-caravanas-de-natal-arvore-gigante-e-experiencias-para-celebrar-o-fim-de-ano/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/37ca8c437895.webp"
   },
   {
    "titulo": "Lojistas avaliam reduzir expediente, mas donas de shoppings ‘não querem papo’",
    "topicos": [
-    "Diante do fim da escala 6x1, lojistas avaliam reduzir o expediente ou fechar em dias de menor venda, estratégia inviável para o comércio de rua mas bloqueada em shoppings.",
-    "Nos centros de compras, o horário de funcionamento é fixado em contrato de locação e normas internas, gerando multas para quem descumprir as regras sem autonomia para alterar horários.",
-    "A Associação Brasileira dos Lojistas Satélites (Ablos) tenta negociar flexibilização com a Associação Brasileira de Shopping Centers (Abrasce) desde antes da votação da mudança, mas sem sucesso.",
-    "A Abrasce recusou pedidos de entrevista ou manifestação por escrito e enviou comunicados aos associados sinalizando que não há intenção de reduzir os horários de funcionamento.",
-    "Ablos sugere permitir ajustes baseados no comportamento do consumidor, como reduzir o expediente matinal de baixo fluxo ou tornar facultativa a abertura aos domingos e feriados.",
-    "Segundo Alfredo Cotait Neto, presidente da ACSP, alterações exigem aditivo contratual ou assembleia, e os shoppings devem manter as regras, obrigando lojistas a ajustar escalas ou contratar.",
-    "A nova jornada de trabalho passará a valer no dia 16 de dezembro, justamente durante o período de pico de vendas do Natal, segundo apontado pelo setor comercial."
+    "Com o fim da escala 6x1, lojistas de rua avaliam reduzir o expediente em dias de menor movimento ou fechar as portas, alternativa inviável para lojas em shopping centers.",
+    "Nos shoppings, o horário de funcionamento é determinado por contratos e normas, e lojistas que descumprem as regras ficam sujeitos à cobrança de multas.",
+    "A Associação Brasileira dos Lojistas Satélites relatou que as administradoras de shoppings, representadas pela Abrasce, recusam negociar a flexibilização dos horários.",
+    "A Ablos defende a abertura facultativa aos domingos e feriados e a redução do expediente pela manhã, período de fluxo extremamente baixo de consumidores.",
+    "Segundo Alfredo Cotait Neto, presidente da ACSP, alterar os horários exige modificar contratos de locação por aditivo ou assembleia em shoppings em condomínio.",
+    "A nova jornada de trabalho entra em vigor no dia 16 de dezembro, período que coincide com o pico de vendas das festas de Natal."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/lojistas-avaliam-reduzir-expediente-mas-donas-de-shoppings-nao-querem-papo-jcav/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/b8f583e1b00e.webp"
   },
   {
    "titulo": "Parque infantil escondia bunker subterrâneo com mais de 2 mil pés de maconha na Espanha",
    "topicos": [
-    "A Guarda Civil espanhola descobriu um bunker subterrâneo com mais de dois mil pés de maconha escondido sob um parque infantil em Las Gabias, na Espanha, em 17 de novembro.",
-    "A operação policial resultou na apreensão de 2.479 pés de maconha em três plantações, 22.970 euros em dinheiro, automóveis e uma arma de choque.",
-    "Cinco pessoas foram presas e outras três passaram a ser investigadas por suspeita de envolvimento com o esquema criminoso na província de Granada.",
-    "O bunker subterrâneo, com cerca de 180 metros quadrados e cinco metros de altura, contava com sistemas de iluminação, ventilação e climatização para o cultivo intensivo.",
-    "Os investigadores identificaram uma ligação clandestina de energia na torre elétrica do local, com carga equivalente ao consumo de cerca de cem residências.",
-    "Uma loja de equipamentos para cultivo de cannabis, avaliada em milhões de euros e pertencente ao principal suspeito, foi interditada pelas autoridades."
+    "A Guarda Civil espanhola descobriu um bunker subterrâneo com mais de 2 mil pés de maconha escondido sob um parque infantil em Las Gabias, em 17 de novembro, durante uma operação contra o narcotráfico.",
+    "A ação policial resultou na apreensão de 2.479 pés de maconha em três plantações, 22.970 euros em dinheiro, veículos como carros, vans e reboques, e uma arma de choque.",
+    "Cinco pessoas foram presas e outras três passaram a ser investigadas pela Guarda Civil na maior e mais sofisticada infraestrutura do tipo encontrada na província de Granada.",
+    "O acesso ao bunker de cerca de 180 metros quadrados e 5 metros de altura ficava sob grama artificial, um balanço e uma casinha de brinquedo, com entrada por portão hidráulico e rampa para veículos.",
+    "O local contava com sistemas de iluminação, ventilação e climatização, além de uma torre elétrica usada para furto de energia equivalente ao consumo de cem residências.",
+    "Uma loja de equipamentos para cultivo de cannabis, avaliada em milhões de euros e cujo dono seria o principal suspeito, foi interditada pelas autoridades na operação que durou mais de um ano."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/parque-infantil-escondia-bunker-maconha.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/9dfb5d9fd137.webp"
   },
   {
    "titulo": "Pizza Prime tem nova CEO; confira outras movimentações",
    "topicos": [
-    "A Pizza Prime promoveu Renata Ozório ao cargo de nova CEO da empresa, enquanto o fundador Gabriel Concon assumiu a posição de chairman e presidente do conselho. Renata está na marca há cinco anos, onde começou estruturando franquias e passou pelos cargos de head de Franquias e COO.",
-    "O Grupo Mirassol contratou Douglas Tacla como seu novo CEO, substituindo Celso Salgueiro Filho, que passou a integrar o Conselho de Administração. Tacla possui 42 anos de experiência profissional com passagens por empresas como Bunge, DHL, Kuehne+Nagel e Maersk.",
-    "O Market4u contratou Leandro Karam para liderar a área de customer success da rede de mercados autônomos. O executivo tem trajetória acadêmica ligada a instituições como PUCPR, Harvard, FGV e Unicamp.",
-    "O Grupo Superlógica anunciou Patrícia Batagello como sua nova diretora de Tecnologia, somando mais de 18 anos de experiência com passagens por empresas como Gupy, Natura, Creditas, Inmetrics e Itaú.",
-    "A agência Fbiz nomeou Leandro Lourenção como seu novo diretor-executivo de Criação, após uma carreira de mais de 25 anos com passagens por grandes agências publicitárias como Ogilvy, Talent e Africa.",
-    "A Absolar definiu Tiago Soares como seu novo diretor técnico-regulatório, trazendo uma bagagem de 20 anos no setor elétrico com passagens pela Abrate, Isa Energia e antiga Eletrobras."
+    "A Pizza Prime nomeou Renata Ozório como sua nova CEO, enquanto o fundador da marca, Gabriel Concon, assumiu o posto de chairman e presidente do primeiro Conselho da empresa.",
+    "Renata Ozório possui quase duas décadas de experiência corporativa, com passagens pelos setores farmacêutico, oncológico, estética e mídia, e está na Pizza Prime há cinco anos.",
+    "O Grupo Mirassol confirmou Douglas Tacla como seu novo CEO, substituindo Celso Salgueiro Filho, que passou a integrar o Conselho de Administração da empresa de transporte e logística.",
+    "Douglas Tacla acumula 42 anos de experiência com passagens por Bunge, DHL, Kuehne+Nagel e Maersk, além de possuir mestrado e doutorado pela Universidade de São Paulo (USP).",
+    "O Market4u contratou Leandro Karam para liderar a área de customer success, com uma trajetória que inclui passagens pela PUCPR, FGV e Harvard Macy Institute.",
+    "O Grupo Superlógica anunciou Patrícia Batagello como nova diretora de Tecnologia, após passagens da executiva por empresas como Gupy, Natura, Creditas e Itaú.",
+    "A Absolar nomeou Tiago Soares como diretor técnico-regulatório, contando com 20 anos de experiência no setor elétrico e passagens por Abrate, Isa Energia e Eletrobras."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/28/11/2026/gestao/pizza-prime-tem-nova-ceo-confira-outras-movimentacoes/",
-   "categoria": "Varejo"
+   "categoria": "Varejo",
+   "detalhada": true,
+   "imagem": "img/2026/11/623a62e84a4f.webp"
   },
   {
    "titulo": "Governo publica portaria que renova auxílio ao diesel",
    "topicos": [
-    "O Ministério da Fazenda publicou na noite de sexta-feira (27.nov.2026) uma portaria que estende por mais 30 dias a subvenção econômica ao óleo diesel para produtores e importadores no Brasil.",
-    "O valor do benefício é de R$ 2,12 por litro de combustível e a nova vigência tem início neste sábado (28.nov), data em que se encerra a medida provisória anterior.",
-    "A decisão do governo federal visa conter o avanço nos preços do diesel após o início da guerra no Irã e a volatilidade nos mercados internacionais de petróleo e combustíveis.",
-    "A medida busca mitigar os reflexos das oscilações externas nos custos de abastecimento interno, considerando que mais de 25% do consumo nacional de diesel depende de importações.",
-    "O subsídio total é formado por duas partes: uma primeira parcela de R$ 1,12 instituída por medida provisória em maio, e uma segunda parcela de R$ 1,00 adicionada em setembro devido ao agravamento externo."
+    "O Ministério da Fazenda publicou na noite de sexta-feira (27.nov.2026) uma portaria que estende por mais 30 dias a subvenção econômica ao óleo diesel no Brasil.",
+    "A medida garante um auxílio de 2,12 reais por litro do combustível destinado a produtores e importadores, com início da vigência neste sábado (28.nov).",
+    "A renovação ocorre justamente quando se encerra a validade da medida provisória que havia estabelecido parte do benefício para conter a alta dos preços.",
+    "O governo justificou que a manutenção do subsídio busca reduzir os impactos das oscilações e da volatilidade do petróleo no mercado internacional sobre o país.",
+    "Mais de 25% do consumo interno de diesel no Brasil depende de importações, o que aumenta a vulnerabilidade do mercado nacional às condições externas.",
+    "O benefício atual é formado por duas partes: a primeira, de R$ 1,12, instituída por medida provisória em maio, e a segunda, de R$ 1, adicionada em setembro."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/governo-publica-portaria-que-renova-auxilio-ao-diesel/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/80d4dad2ad3f.webp"
   },
   {
    "titulo": "Ataque aéreo a escola em Mianmar mata ao menos 30 pessoas, diz oposição",
    "topicos": [
-    "Um bombardeio aéreo realizado pelas Forças Armadas de Mianmar em uma escola e um mosteiro deixou pelo menos 30 mortos na região central de Magway, conforme relatos da oposição.",
-    "O ataque aconteceu na quinta-feira (26), por volta das 15h no horário local, no município de Sinbaungwe, em uma vila controlada por forças rebeldes.",
-    "O arsenal utilizado incluiu quatro bombas aéreas de 500 libras, 12 projéteis de artilharia e sete drones suicidas, segundo nota do governo de oposição.",
-    "Entre as vítimas fatais estão um bebê, várias crianças, mulheres e mais de 20 civis no total, além de nove combatentes rebeldes.",
-    "Canais pró-militares alegaram que o alvo foi uma formatura e reunião rebelde, mas o Exército e o governo não emitiram notas oficiais até a manhã de sábado (28).",
-    "O conflito civil no país, iniciado após o golpe militar de 2021, já soma cerca de 100 mil mortes e mais de 3,5 milhões de pessoas deslocadas."
+    "Um ataque aéreo das Forças Armadas de Mianmar em uma vila no município de Sinbaungwe, na região central de Magway, deixou pelo menos 30 mortos, conforme relato da oposição e de uma testemunha local.",
+    "A ofensiva militar aconteceu na quinta-feira (26), por volta das 15h, e atingiu uma escola e um mosteiro em uma área controlada por rebeldes.",
+    "O bombardeio utilizou quatro bombas aéreas de 500 libras, 12 projéteis de artilharia e sete drones suicidas, segundo um comunicado conjunto do Governo de Unidade Nacional e do governo interino de Magway.",
+    "Entre as vítimas fatais estão mais de 20 civis, incluindo mulheres, várias crianças e um bebê, além de nove combatentes rebeldes.",
+    "Canais pró-militares alegaram no Telegram que o alvo foi uma cerimônia de formatura e reunião rebelde, mas o Exército e o governo não emitiram notas oficiais até a manhã de sábado (28).",
+    "O conflito civil no país, iniciado após a tomada de poder pelos militares em 2021, já causou cerca de 100 mil mortes e o deslocamento de mais de 3,5 milhões de pessoas."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/ataque-aereo-a-escola-em-mianmar.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/265dd0080ac1.webp"
   },
   {
    "titulo": "Efeito Trabuco, dólar em queda e Vamos (VAMO3) dispara 33%: os destaques do Ibovespa na semana",
    "topicos": [
-    "O Ibovespa fechou a semana com alta de 6,1%, atingindo 176.573 pontos, impulsionado pela indicação de Luiz Carlos Trabuco para o Ministério da Fazenda no quarto mandato de Lula.",
-    "A indicação de Trabuco, confirmada na noite de quinta-feira (26) após ganhar força na quarta-feira (25), ajudou a reduzir a percepção de risco fiscal e derrubou os juros futuros.",
-    "O dólar registrou sua maior queda semanal frente ao real desde 2008, com recuo de 6,6%, enquanto o índice brasileiro em dólares avançou 13% conforme balanço da XP Investimentos.",
-    "O IPCA-15 de novembro subiu 0,22%, ficando abaixo das projeções da XP (0,37%) e do mercado (0,36%), com alívio disseminado em serviços, bens industriais e núcleos inflacionários.",
-    "Na bolsa, a Vamos (VAMO3) disparou 33,3% com a recuperação das locadoras, enquanto a Embraer (EMBJ3) caiu 7,5% devido à proposta dos EUA de taxar em 10% aeronaves brasileiras.",
-    "Até quarta-feira (25), o investidor estrangeiro retirou R$ 4,3 bilhões da bolsa brasileira na semana, elevando as saídas acumuladas no mês para R$ 8,8 bilhões."
+    "O Ibovespa fechou a semana com alta de 6,1%, alcançando 176.573 pontos, impulsionado pela indicação de Luiz Carlos Trabuco para o Ministério da Fazenda e pela inflação abaixo do esperado.",
+    "A indicação de Trabuco ganhou força na quarta-feira (25) e foi confirmada na noite de quinta-feira (26), gerando melhora na percepção de risco fiscal para o quarto mandato do governo.",
+    "O dólar teve sua maior queda semanal frente ao real desde 2008, recuando 6,6%, acompanhado pelo forte recuo dos juros futuros e por um desempenho do índice em dólares que avançou 13%.",
+    "O IPCA-15 de novembro subiu 0,22%, ficando abaixo da projeção da XP (0,37%) e do consenso do mercado (0,36%), com alívio disseminado em serviços, bens industriais e núcleos de inflação.",
+    "A ação da Vamos (VAMO3) disparou 33,3% e liderou os ganhos da bolsa com a recuperação das locadoras, enquanto a Embraer (EMBJ3) caiu 7,5% devido a uma proposta de tarifa dos EUA.",
+    "Investidores estrangeiros retiraram R$ 4,3 bilhões da bolsa brasileira até quarta-feira (25), elevando as saídas acumuladas no mês para R$ 8,8 bilhões."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/efeito-trabuco-dolar-em-queda-e-acao-disparando-33-os-destaques-do-ibovespa-na-semana-jcav/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/65a717d7aa50.webp"
   },
   {
    "titulo": "Sociedade do desperdício estimula indiferença aos impactos ambientais",
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-sustentavel/sociedade-do-desperdicio-estimula-indiferenca-aos-impactos-ambientais/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "erro_materia": "não achou o texto principal",
+   "erro_ia": "texto da matéria não encontrado",
+   "tentativas_ia": 1,
+   "imagem": "img/2026/11/69a0f737f036.webp"
   },
   {
    "titulo": "Governo prorroga subvenção ao diesel por mais 30 dias",
    "topicos": [
     "O governo prorrogou a subvenção ao diesel por mais 30 dias, conforme portaria assinada pelo ministro Dario Durigan nesta sexta-feira (37).",
-    "A medida mantém o valor do subsídio em R$ 2,12 para assegurar um preço mais baixo do combustível nos postos.",
-    "A nova determinação entra em vigor neste sábado (28), data em que se encerra a vigência da medida provisória que garantia parte do benefício.",
-    "De acordo com o documento oficial, a prorrogação foi motivada pela volatilidade nos preços internacionais do petróleo e dos combustíveis.",
-    "As ações governamentais para conter os preços, incluindo um subsídio à gasolina lançado no início do mês, ocorrem a menos de um mês da eleição presidencial e em um cenário de alta do petróleo no exterior."
+    "O valor do subsídio foi mantido em R$ 2,12 com o objetivo de assegurar um preço mais acessível para o combustível.",
+    "A prorrogação entra em vigor neste sábado (28), data em que expira a medida provisória que originou parte do benefício.",
+    "A decisão foi motivada pela instabilidade nas cotações internacionais do petróleo e dos derivados.",
+    "Essas ações governamentais para conter os preços dos combustíveis ocorrem a menos de um mês da eleição presidencial e diante da alta do petróleo no exterior."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/noticia/2026/11/28/governo-prorroga-subvencao-ao-diesel-por-mais-30-dias.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0857036f260a.webp"
   },
   {
    "titulo": "S&P corta perspectiva da França para negativa por orçamento e política",
    "topicos": [
-    "A agência S&P modificou nesta sexta-feira a perspectiva do rating de crédito soberano da França de estável para negativa, mantendo a nota em A+/A-1, devido a crescentes pressões orçamentárias e instabilidade política.",
-    "A decisão ocorreu porque o crescimento econômico fraco e os juros elevados dificultam a redução do déficit, com a S&P projetando déficits fiscais maiores para este ano e o próximo.",
-    "Os custos de financiamento da França para títulos de 10 anos superaram 5,14% no mês passado, alcançando o patamar mais elevado desde 2002 em meio a temores sobre as contas públicas.",
-    "O governo minoritário tenta aprovar no Parlamento o orçamento de 2027, que pretende baixar o déficit fiscal de 5,4% do Produto Interno Bruto (PIB) em 2026 para 5,0% no ano seguinte.",
-    "O ministro das Finanças, Roland Lescure, destacou a urgência de um orçamento responsável para conter o déficit em até 5% e reafirmou o compromisso do governo com a consolidação fiscal.",
-    "Dados oficiais divulgados na sexta-feira indicam que a economia francesa encolheu mais do que o estimado no terceiro trimestre, levando o país a uma recessão técnica e distanciando a meta de 0,5% de crescimento para 2026."
+    "A agência S&P alterou nesta sexta-feira a perspectiva do rating de crédito da França de \"estável\" para \"negativa\", mantendo a nota soberana do país em \"A+/A-1\".",
+    "A decisão foi motivada por pressões orçamentárias, agravadas pelo fraco crescimento econômico e por custos de juros mais elevados que dificultam a redução do déficit.",
+    "A S&P destacou que a polarização política, inclusive após a eleição presidencial de 2027, pode limitar a adoção de medidas fiscais e reformas de crescimento.",
+    "Os custos de financiamento para títulos franceses de 10 anos superaram 5,14% no mês passado, atingindo o patamar mais alto desde o ano de 2002.",
+    "O governo minoritário tenta aprovar no Parlamento o orçamento para 2027, que pretende baixar o déficit fiscal de 5,4% do PIB em 2025 para 5,0% no ano seguinte.",
+    "Dados oficiais revelaram nesta sexta-feira que a economia francesa se contraiu no terceiro trimestre, levando o país à recessão técnica e tornando inatingível a meta de 0,5% de crescimento para 2026."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/sp-corta-perspectiva-da-franca-para-negativa-por-orcamento-e-politica/",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/84cac3196fdb.webp"
   },
   {
    "titulo": "Tragédia da Chapecoense, 10 anos depois: 'Não deixo nada para amanhã. Perdoo hoje, abraço hoje'",
    "topicos": [
-    "Em 28 de novembro de 2016, um avião que transportava a equipe da Chapecoense para a final da Copa Sul-Americana caiu em uma montanha a 18 km de Medellín, na Colômbia, resultando na morte de 71 pessoas.",
-    "Investigações da Bolívia e da Colômbia concluíram que o piloto e a companhia aérea LaMia foram diretamente responsáveis pela queda devido à falta de combustível, sem registro de falha técnica na aeronave.",
-    "A aeronave emitiu aviso de baixo combustível às 21h16, iniciou descida às 21h30 e pediu prioridade de pouso às 21h49 citando problemas com combustível, sofrendo pane total nos motores cinco minutos depois.",
-    "O acidente vitimou 19 dos 22 jogadores a bordo e deixou apenas seis sobreviventes, incluindo os atletas Alan Ruschel, Neto e Jakson Follmann, além do jornalista Rafael Henzel, falecido em 2019.",
-    "Até o momento, ninguém foi condenado na Justiça pelo acidente devido a limitações legais na Bolívia relativas a processar empresas por homicídio culposo e a adiamentos judiciais ocorridos em 2020.",
-    "O vice-presidente interino Ivan Tozzo assumiu a gestão e recusou a oferta da Confederação Brasileira de Futebol de imunidade contra rebaixamento por três temporadas, mantendo a equipe competitiva por mérito próprio."
+    "Em 28 de novembro de 2016, um avião que transportava a equipe da Chapecoense para a Colômbia caiu em uma montanha, resultando na morte de 71 pessoas, incluindo 19 jogadores.",
+    "O voo LaMia 2933 partiu de Santa Cruz, na Bolívia, com destino a Medellín, caiu a apenas 18 km do destino após ficar sem combustível, segundo investigações oficiais.",
+    "Investigações na Bolívia e na Colômbia apontaram que o piloto e a companhia aérea foram diretamente responsáveis pela tragédia, sem registro de falha técnica na aeronave.",
+    "Até o momento, nenhuma pessoa foi condenada judicialmente pelo acidente, em meio a entraves legais na Bolívia relacionados a jurisdição e julgamentos adiados desde 2020.",
+    "Sobreviveram ao acidente os jogadores Jakson Follmann, Neto e Alan Ruschel, além do jornalista Rafael Henzel (falecido em 2019) e dois tripulantes.",
+    "O vice-presidente Ivan Tozzo assumiu a presidência interina da Chapecoense e liderou a reconstrução do clube, que contratou 22 novos jogadores e voltou a campo em um amistoso contra o Palmeiras."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/ckge32nj5zvxo?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/8bf901a0a870.webp"
   },
   {
    "titulo": "Governo renova subsídio do diesel por mais um mês, a custo de R$ 10,5 bilhões",
    "topicos": [
-    "O Ministério da Fazenda publicou na sexta-feira uma portaria que renova a subvenção do diesel por mais um mês, mantendo o valor de R$ 2,12 por litro.",
-    "A política de subsídio ao combustível tem um custo estimado de até R$ 10,5 bilhões mensais, sendo que o ministro do Planejamento, Bruno Moretti, apontou um gasto real entre R$ 8 bilhões e R$ 10 bilhões.",
-    "A medida está em vigor desde o início do ano devido à alta do petróleo no mercado internacional provocada pela guerra no Oriente Médio.",
-    "O governo projeta retirar a política de forma gradual conforme houver uma melhora nos preços da commodity globalmente.",
-    "As políticas para conter os preços dos combustíveis já causaram um impacto negativo de cerca de R$ 75 bilhões nas contas públicas neste ano, com R$ 65 bilhões direcionados a subvenções e o restante a desonerações.",
-    "A Fazenda justificou a prorrogação pelas restrições globais, destacando que mais de 25% do consumo de diesel no Brasil depende de importações, o que torna o país vulnerável ao cenário externo."
+    "O Ministério da Fazenda publicou na sexta-feira uma portaria que prorroga por mais um mês a subvenção ao diesel, fixada em R$ 2,12 por litro.",
+    "A manutenção do subsídio custa até R$ 10,5 bilhões mensais, sendo que o ministro do Planejamento, Bruno Moretti, apontou um gasto real entre R$ 8 bilhões e R$ 10 bilhões.",
+    "A política de subvenção ao combustível vigora desde o início do ano devido à alta do petróleo provocada pelo conflito no Oriente Médio."
    ],
    "fonte": "InfoMoney",
    "link": "https://www.infomoney.com.br/brasil/governo-renova-subsidio-do-diesel-por-mais-um-mes-a-custo-de-r-105-bilhoes/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/ebe44641c055.webp"
   },
   {
    "titulo": "Lula se desculpa por fala sobre estado de saúde de FHC: 'Cometi uma gafe muito ruim'",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva pediu desculpas públicas neste sábado (28/11) após ter feito um comentário inadequado sobre a saúde do ex-presidente Fernando Henrique Cardoso.",
-    "A gafe ocorreu na sexta-feira (27/11) em Niterói (RJ), durante visita ao Programa de Atenção ao Idoso do Hospital Universitário Gaffrée e Guinle, quando Lula discutia políticas para a longevidade.",
-    "Na ocasião, Lula afirmou que o ex-presidente estaria com demência generalizada e usou a expressão \"morto-vivo\", gerando repercussão negativa e um pedido de desculpas direcionado a Paulo Henrique Cardoso, filho de FHC, e aos familiares.",
-    "O pedido de desculpas foi formalizado durante uma transmissão ao vivo na manhã deste sábado (28), realizada com o deputado federal André Janones (PT-MG) voltada para o diálogo com a juventude.",
-    "A Fundação Fernando Henrique Cardoso emitiu uma nota na noite de sexta-feira (27) repudiando a fala do atual presidente e corrigindo a informação sobre o último encontro entre ambos, ocorrido na celebração dos 30 anos do Plano Real."
+    "O presidente Luiz Inácio Lula da Silva pediu desculpas publicamente neste sábado (28/11) após fazer comentários inadequados sobre o estado de saúde do ex-presidente Fernando Henrique Cardoso.",
+    "A declaração polêmica ocorreu durante um evento voltado para a população idosa no Programa de Atenção ao Idoso do Hospital Universitário Gaffrée e Guinle, localizado em Niterói, no Rio de Janeiro.",
+    "Na manhã de sábado (28), durante uma transmissão ao vivo com o deputado federal André Janones (PT-MG), Lula admitiu o erro, dirigiu-se ao filho do ex-presidente, Paulo Henrique Cardoso, e prometeu não repetir a falha.",
+    "O pedido de desculpas veio após o petista ter afirmado, na véspera, que Fernando Henrique estaria com demência generalizada e usado a expressão 'morto-vivo' ao discursar sobre políticas de envelhecimento.",
+    "A Fundação Fernando Henrique Cardoso emitiu uma nota na noite de sexta-feira (27) repudiando a fala de Lula e desmentindo o teor das declarações sobre a condição do ex-presidente."
    ],
    "fonte": "g1 Política",
    "link": "https://g1.globo.com/politica/noticia/2026/11/28/lula-se-desculpa-por-fala-sobre-fhc-cometi-uma-gafe-muito-ruim.ghtml",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/96c0321b0072.webp"
   },
   {
    "titulo": "Bradesco e Santander no Minha Casa, Minha Vida, dividendos da Petrobras (PETR4) e mais: as notícias mais lidas da semana",
    "topicos": [
-    "Bradesco e Santander confirmaram que avaliam participar do programa Minha Casa, Minha Vida, que hoje tem forte domínio da Caixa Econômica Federal no crédito habitacional.",
-    "O Itaú planeja atender inicialmente famílias com renda entre R$ 5 mil e R$ 9,6 mil, e trabalhadores do Pró-Cotista com renda de até R$ 12 mil; os concorrentes ainda não detalharam planos.",
-    "Milton Maluhy Filho, CEO do Itaú, afirmou na segunda-feira (23) no evento Macro Vision que só baixar a Selic não basta para o crescimento econômico e citou o custo de capital.",
-    "O FII VBI Logístico (LVBI11) pagará dividendos extras com a venda em setembro de um galpão em Itapevi (SP) por R$ 103,7 milhões, gerando lucro de R$ 14,9 milhões ou R$ 0,93 por cota.",
-    "A Petrobras distribuirá R$ 15,6 bilhões em dividendos extraordinários, repassando cerca de R$ 4,53 bilhões à União antes do Natal para reforçar as contas públicas."
+    "Bradesco e Santander estudam ingressar no programa Minha Casa, Minha Vida, ampliando a concorrência na habitação dominada pela Caixa. O Itaú já anunciou sua entrada e planeja atender famílias com renda entre R$ 5 mil e R$ 9,6 mil, além do público Pró-Cotista com até R$ 12 mil.",
+    "Para o CEO do Itaú, Milton Maluhy Filho, apenas baixar a Selic não basta para o crescimento, sendo cruciais disciplina fiscal, segurança jurídica e reforma administrativa. O executivo apontou o custo de capital como barreira aos investimentos e negou que juros altos beneficiem os bancos devido à inadimplência.",
+    "O fundo imobiliário VBI Logístico (LVBI11) pagará dividendos extraordinários antes de sua incorporação pelo Patria Log (HGLG11), prevista para concluir em dezembro. O repasse vem da venda de um galpão em Itapevi (SP) por R$ 103,7 milhões em setembro, gerando lucro de R$ 14,9 milhões (R$ 0,93 por cota).",
+    "A Petrobras distribuirá R$ 15,6 bilhões em dividendos extraordinários, garantindo cerca de R$ 4,53 bilhões para a União até o Natal. Segundo analistas, o montante pode cobrir um terço do esforço fiscal para a meta de 2026, embora não resolva os desafios estruturais das contas públicas."
    ],
    "fonte": "Money Times",
    "link": "https://www.moneytimes.com.br/bradesco-e-santander-no-minha-casa-minha-vida-dividendos-da-petrobras-petr4-e-mais-as-noticias-mais-lidas-da-semana/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/582f54eadcfd.webp"
   },
   {
    "titulo": "O país cuja revolução de energia solar foi tão bem-sucedida que a rede elétrica está ficando para trás",
    "topicos": [
-    "Entre 2018 e 2025 a participação da energia solar na geração elétrica do Paquistão subiu de 1% para 28%, segundo o centro Renewables First, e atualmente cerca de sete milhões de lares têm painéis instalados.",
-    "Famílias como a de Faizal Shahzad, em zona rural de Punjab, utilizam os painéis solares o dia todo, inclusive para ar‑condicionado, reduzindo a dependência da rede nacional que já não atende às necessidades diurnas.",
-    "Com salário médio de US$ 145 (R$ 800) mensais, as contas de energia chegam a US$ 54‑65 (R$ 300‑360), enquanto as tarifas da rede nacional mais que dobraram nos últimos anos.",
-    "O custo dos painéis solares chineses caiu 93%, ao passo que as tarifas de eletricidade aumentaram mais de 100%, impulsionando a adoção de energia solar pelos consumidores sem apoio de políticas governamentais.",
-    "O governo estima que a saída de consumidores da rede elétrica custou mais de US$ 500 milhões por ano aos demais usuários nos últimos dois anos, gerando risco de “espiral descendente” para o sistema público.",
-    "O ministro da Energia, Awais Ahmad Leghari, anunciou metas de até 90% de energia limpa até o fim de 2036 e redução da dependência de energia importada de 26% para 4%, com foco em melhorar eficiência, armazenamento e renegociar contratos da rede."
+    "De 2018 a 2025, a participação da energia solar na geração elétrica do Paquistão subiu de 1% para 28%, e cerca de sete milhões de lares já instalaram painéis solares.",
+    "Famílias como a de Faizal Shahzad, em Punjab, utilizam os painéis o dia todo, evitando a rede; o salário médio é de US$ 145 (R$ 800) mensais, enquanto as contas de luz chegam a US$ 54‑65 (R$ 300‑360).",
+    "As tarifas de eletricidade mais que dobraram em poucos anos, ao passo que o custo dos painéis solares chineses caiu 93%, impulsionando a adoção doméstica sem apoio de políticas governamentais.",
+    "A queda de consumidores na rede gera uma \"espiral descendente\": menos receita para cobrir custos fixos, aumento de preços e risco de um sistema de dois níveis, com quem não tem painel pagando mais.",
+    "O governo afirma que a saída da rede custou aos demais consumidores mais de US$ 500 milhões por ano nos últimos dois anos e busca tornar a rede mais competitiva.",
+    "O ministro da Energia, Awais Ahmad Leghari, estabeleceu meta de até 90% de energia limpa até o fim de 2036 e de reduzir a dependência de energia importada de 26% para 4%, via armazenamento e inovação.",
+    "Produtores privados de energia foram criticados por contratos caros e inflexíveis; o governo renegociou a maioria desses contratos para melhorar a eficiência e reduzir desperdícios."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cm62pn93943no?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/5746859e844b.webp"
   },
   {
    "titulo": "FOTOS: Balões são atração no famoso desfile da Macy's, que celebra o Dia de Ação de Graças nos EUA",
    "topicos": [
-    "Os tradicionais balões gigantes de personagens da Macy's são a principal atração do desfile de Dia de Ação de Graças em Nova York, nos EUA.",
-    "A edição comemorativa do centenário do evento foi transferida de quinta-feira (26) para este sábado (28) devido a um alerta de tempestade e ventos fortes.",
-    "A mudança de data foi decidida em conjunto entre a prefeitura, a Macy's, o Departamento de Polícia e outras agências municipais.",
-    "O evento reúne bandas marciais, palhaços, artistas e milhares de espectadores nas ruas de Manhattan, além de ser transmitido para todo o país.",
-    "Os balões inflados na quarta-feira serão esvaziados, levados para Nova Jersey e preparados novamente em um processo de cerca de uma semana, segundo Will Coss.",
-    "O desfile já sofreu com ventos fortes em 1997, quando um balão bateu em um poste e feriu duas pessoas, e foi suspenso entre 1942 e 1944 na Segunda Guerra."
+    "O tradicional desfile da Macy's, famoso por seus balões gigantes de personagens em Nova York, celebra o centenário do evento nos Estados Unidos.",
+    "A edição deste ano foi adiada da quinta-feira (26) para este sábado (28) devido a uma previsão de forte tempestade com ventos intensos.",
+    "A decisão de alterar a data foi anunciada pelo prefeito Zohran Mamdani após coordenação com a loja Macy's, a polícia e outras agências locais.",
+    "Os balões inflados antecipadamente na quarta-feira serão esvaziados e levados de volta a Nova Jersey, exigindo um novo preparo de uma semana.",
+    "Historicamente, o evento já sofreu com ventos fortes em 1997, quando um balão atingiu um poste e feriu duas pessoas na cabeça.",
+    "O desfile também foi suspenso entre 1942 e 1944 por causa da Segunda Guerra Mundial, mas esta é a primeira vez que é adiado pelo clima."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/fotos-baloes-sao-atracao-no-famoso-desfile-da-macys-que-celebra-o-dia-de-acao-de-gracas-nos-eua.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/bb5f28154cb5.webp"
   },
   {
    "titulo": "Sociedade liderada por homens 'é uma grande bênção', diz à BBC pastor americano contra o voto feminino",
    "topicos": [
-    "O pastor americano Douglas Wilson defende em entrevista à BBC uma sociedade liderada por homens e a revogação da 19ª Emenda da Constituição dos EUA, que garante o voto feminino.",
-    "Wilson lidera a Comunhão de Igrejas Evangélicas Reformadas (Crec), rede que reúne cerca de 150 congregações nos EUA e mais de 30 em países como Polônia, Japão, Brasil e Inglaterra.",
-    "O secretário de Defesa dos EUA, Pete Hegseth, é apontado como membro de uma igreja da Crec, mantém relação pastoral com Wilson e já participou de eventos organizados pelo pastor.",
-    "Para alterar a Constituição americana e revogar o sufrágio feminino, seriam necessários dois terços da Câmara e do Senado (ou de legislativos estaduais) e a ratificação de 75% dos 50 estados."
+    "O pastor americano Douglas Wilson defende que uma sociedade liderada por homens é uma grande bênção e apoia a revogação da 19ª Emenda da Constituição dos EUA, que garante o direito ao voto às mulheres.",
+    "Wilson é líder da Comunhão de Igrejas Evangélicas Reformadas (Crec), rede que reúne cerca de 150 igrejas nos EUA e mais de 30 congregações em países como Polônia, Japão, Brasil e Inglaterra.",
+    "O secretário de Defesa dos EUA, Pete Hegseth, é apontado como membro de uma igreja afiliada à Crec e mantém relação pastoral e calorosa com o pastor, tendo frequentado cultos e orações conjuntas.",
+    "A revogação da 19ª Emenda exigiria aprovação de dois terços da Câmara e do Senado ou de dois terços dos legislativos estaduais, além da ratificação por 75% dos 50 estados americanos.",
+    "Outros pastores conservadores, como Dale Partridge, com cerca de 900 mil seguidores, e Joel Webbon, com mais de 190 mil seguidores no YouTube, também defendem o fim do sufrágio feminino no país."
    ],
    "fonte": "BBC News Brasil",
    "link": "https://www.bbc.com/portuguese/articles/cq4gnz3epz83o?at_medium=RSS&at_campaign=rss",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/27804448233c.webp"
   },
   {
    "titulo": "Ao vivo: Lula faz live com Janones neste sábado",
    "topicos": [
-    "O presidente Luiz Inácio Lula da Silva realiza uma transmissão ao vivo neste sábado (28.nov.2026), a partir das 11h, ao lado do deputado federal André Janones (Rede-MG).",
-    "A live intitula-se “Exército do Lula com a juventude”, fazendo menção ao canal de WhatsApp criado por Janones para a mobilização digital na campanha presidencial do 2º turno.",
-    "Lula convocou seus apoiadores para o evento por meio de redes sociais, chamando os participantes de soldados e estudantes, e referindo-se a Janones como seu general.",
-    "Na última 6ª feira (27.nov), o chefe do Executivo visitou estudantes da UFF (Universidade Federal Fluminense) para agradecer protestos realizados após o 1º turno das eleições, liderado pelo senador Flávio Bolsonaro (PL)."
+    "O presidente Luiz Inácio Lula da Silva participa de uma transmissão ao vivo neste sábado (28.nov.2026), a partir das 11h, ao lado do deputado federal André Janones (Rede-MG).",
+    "A live, intitulada “Exército do Lula com a juventude”, faz menção ao canal de WhatsApp criado por Janones para a mobilização digital da campanha presidencial no 2º turno.",
+    "Na última 6ª feira (27.nov), Lula esteve com estudantes da UFF para agradecer por ato realizado após o 1º turno, liderado pelo senador Flávio Bolsonaro (PL), que deu início a mobilizações pelo país."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-faz-live-com-janones-neste-sabado-2/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/a0cfb1ec0203.webp"
   },
   {
    "titulo": "Protesto de estudantes na Albânia termina em violência",
    "topicos": [
-    "Um ato estudantil na Albânia, convocado neste sábado (28) para o Dia da Independência, terminou em confrontos violentos entre manifestantes e policiais na capital, Tirana.",
-    "Os manifestantes atiraram pedras e coquetéis molotov contra os policiais, enquanto as forças de segurança responderam com gás lacrimogêneo e jatos de água.",
-    "A mobilização faz parte de uma onda de protestos que já dura semanas na Albânia com a exigência de renúncia do primeiro-ministro socialista Edi Rama.",
-    "As reivindicações iniciais por melhorias na educação pública evoluíram para críticas contra a corrupção, condições universitárias precárias e altos custos escolares.",
-    "O movimento também protesta contra a escassez de oportunidades de emprego pós-formatura e um controverso projeto de resort de luxo na costa sul do país.",
-    "O empreendimento turístico criticado está ligado a Jared Kushner, genro do presidente dos Estados Unidos, Donald Trump, e é previsto para uma área costeira preservada."
+    "Um ato convocado por estudantes na Albânia para celebrar o Dia da Independência terminou em violência neste sábado (28), na capital Tirana.",
+    "Manifestantes atiraram pedras e coquetéis molotov contra os policiais, que reagiram utilizando jatos de água e gás lacrimogêneo.",
+    "O protesto integra uma onda de mobilizações que já dura semanas e exige a renúncia do primeiro-ministro socialista Edi Rama.",
+    "Os grupos contestam a corrupção, as más condições e os altos custos das universidades, a escassez de auxílio financeiro e o desemprego pós-formatura.",
+    "Alvos de críticas também incluem um projeto de resort de luxo na costa sul, associado a Jared Kushner, genro de Donald Trump.",
+    "Os atos pacíficos tornaram-se violentos em outubro com depredações, incêndios em prédios públicos e espalharam-se por Elbasan, Shkodra, Lezha e Korça."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/protesto-de-estudantes-na-albania-termina-em-violencia.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/3361e242ddbd.webp"
   },
   {
    "titulo": "“Fogo nos dois”, disse David, do Vasco, a suspeito de liderar facção",
    "topicos": [
-    "O jogador David, do Vasco, foi preso na quinta-feira (26.nov.2026) sob suspeita de tentativa de homicídio e tráfico de drogas no Espírito Santo.",
-    "Investigações revelaram mensagens entre David e Edson Vander, apontado como líder de facção, nas quais o atleta sugeriu eliminar duas testemunhas.",
-    "O diálogo tratava de uma tentativa de homicídio ocorrida em 2024 contra Wesley Almeida, que era um dissidente do grupo criminoso.",
-    "Segundo a Polícia Civil capixaba, David e Hayner, atleta do Vila Nova (GO) preso na mesma data, subornaram testemunhas para alterarem depoimentos.",
-    "A dupla é investigada por tentar atrapalhar as apurações da operação A Tropa, que combate o tráfico e a atuação de facções no Estado."
+    "O jogador David, do Vasco, e Edson Vander, apontado como líder de facção criminosa no Espírito Santo, trocaram mensagens em que o atleta sugeriu a morte de duas testemunhas de uma tentativa de homicídio ocorrida em 2024.",
+    "O crime investigado tinha como alvo Wesley Almeida, um dissidente do grupo criminoso, e Vander também é suspeito de envolvimento no caso, conforme a investigação da Polícia Civil capixaba.",
+    "Em um diálogo interceptado, Vander mencionou que Josué e Kevin queriam conversar e pedir para \"ficar de boa\", ao que David respondeu com a frase \"Fogo nos dois\".",
+    "A Polícia Civil informou que as duas testemunhas declararam em depoimento que David e o jogador Hayner, do Vila Nova (GO), ofereceram dinheiro para alterar seus depoimentos.",
+    "Os atletas David e Hayner foram presos na quinta-feira (26.nov.2026) sob suspeita de tentativa de homicídio, tráfico de drogas e de tentarem atrapalhar as investigações da operação A Tropa."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-sportsmkt/fogo-nos-dois-disse-david-do-vasco-a-suspeito-de-liderar-faccao/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/bcf7bd261b89.webp"
   },
   {
    "titulo": "Campanha termina com direita favorita para governar a Espanha",
    "topicos": [
-    "A campanha eleitoral na Espanha encerrou-se na sexta-feira (27.nov.2026) e a votação para o Parlamento ocorre no domingo (29.nov.2026), colocando a esquerda do premiê Pedro Sánchez contra uma coalizão conservadora.",
-    "Estão em disputa 350 cadeiras no Congresso dos Deputados e 209 dos 266 assentos do Senado, sendo necessários 176 votos de deputados para um candidato virar premiê na votação de investidura.",
-    "Pesquisa do jornal ABC apontou Alberto Núñez Feijóo com 31% dos votos e Pedro Sánchez com 29%, com o prazo legal para novas publicações encerrado em 23 de novembro de 2026.",
-    "A única combinação com chance de maioria absoluta na Câmara baixa é uma aliança entre o PP, de direita, e o Vox, de extrema-direita, o que pode incluir a extrema-direita no gabinete pela 1ª vez desde Franco.",
-    "Pedro Sánchez antecipou o pleito de meados de 2027 para 29 de novembro de 2026 após o Parlamento rejeitar decretos governamentais de habitação e em meio a protestos contra a crise habitacional.",
-    "O índice Idealista registrou alta de 11,8% no preço de imóveis usados no 3º trimestre de 2026 ante o ano anterior, e o Banco da Espanha projeta deficit de mais de 1 milhão de moradias até 2028."
+    "A campanha eleitoral na Espanha foi encerrada na 6ª feira (27.nov.2026), com a votação para o Parlamento marcada para domingo (29.nov). Estão em disputa 350 cadeiras no Congresso dos Deputados e 209 dos 266 assentos do Senado.",
+    "A disputa opõe a esquerda do atual premiê Pedro Sánchez (Psoe) a um bloco conservador formado por PP e Vox, favoritos para somar a maioria necessária e tirar o governo atual do poder.",
+    "Para virar premiê, um candidato precisa reunir maioria no Congresso, totalizando 176 deputados, em um processo que costuma exigir acordos entre partidos nacionais, regionalistas ou separatistas.",
+    "Pesquisa do jornal ABC mostrou Alberto Núñez Feijóo (PP) com 31% dos votos e Pedro Sánchez (Psoe) perto de 29%, com o prazo legal para novas publicações encerrado em 23 de novembro de 2026.",
+    "Pedro Sánchez antecipou o pleito de meados de 2027 para 29 de novembro de 2026 após o Parlamento rejeitar decretos governamentais sobre habitação e em meio a protestos contra a crise habitacional.",
+    "No 3º trimestre de 2026, os imóveis usados registraram alta de 11,8% em relação ao ano anterior, conforme o índice Idealista, enquanto o Banco da Espanha projeta um deficit superior a 1 milhão de moradias até 2028."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-internacional/campanha-termina-com-direita-favorita-para-governar-a-espanha/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/09e098edc04d.webp"
   },
   {
    "titulo": "Estou certo que trabalho de Trabuco será exitoso, diz Gilmar",
    "topicos": [
-    "O ministro Gilmar Mendes, do STF, afirmou no sábado (28.nov.2026) que o trabalho de Luiz Carlos Trabuco no Ministério da Fazenda será bem-sucedido, embora o desafio seja grande.",
-    "Trabuco aceitou na 5ª feira (26.nov) assumir a pasta ministerial a partir de 2027, integrando o 4º mandato do presidente Luiz Inácio Lula da Silva (PT).",
-    "Segundo Gilmar Mendes, o futuro ministro possui décadas de experiência no sistema financeiro, é muito respeitado pelo mercado e demonstra grande capacidade de diálogo.",
-    "O ministro destacou que Trabuco defende que o equilíbrio das contas públicas caminhe junto com o enfrentamento das questões sociais do país.",
-    "Trabuco atua como presidente do Conselho de Administração do Bradesco e é reconhecido como um dos executivos mais influentes do setor bancário brasileiro.",
-    "Com mais de 5 décadas de atuação no setor financeiro privado, o executivo já havia tido seu nome cotado para o cargo em 2014, no governo de Dilma Rousseff."
+    "O ministro Gilmar Mendes, do Supremo Tribunal Federal, afirmou neste sábado (28.nov.2026) que a gestão de Luiz Carlos Trabuco no Ministério da Fazenda será bem-sucedida, embora o desafio seja grande.",
+    "Trabuco aceitou na quinta-feira (26.nov) assumir o comando da pasta a partir de 2027, integrando o quarto mandato do presidente Luiz Inácio Lula da Silva (PT).",
+    "Gilmar Mendes destacou que o banqueiro possui décadas de vivência no sistema financeiro, grande respeito do mercado e habilidade para o diálogo.",
+    "O magistrado também ressaltou que o futuro ministro demonstra compromisso social, defendendo que o equilíbrio fiscal ande junto com o combate aos problemas sociais.",
+    "Atualmente presidente do Conselho de Administração do Bradesco, Trabuco é apontado como um dos principais líderes do setor bancário nacional e possui mais de 5 décadas de atuação no setor financeiro privado."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-justica/estou-certo-que-trabalho-de-trabuco-sera-exitoso-diz-gilmar/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/501cb8110441.webp"
   },
   {
    "titulo": "Falha elétrica suspende operação da linha 17-Ouro do Metrô de SP",
    "topicos": [
-    "A operação da Linha 17-Ouro do Metrô de São Paulo foi totalmente paralisada na manhã deste sábado (28.nov.2026) devido a uma pane elétrica.",
-    "A interrupção no serviço de monotrilho ocorreu por causa de uma queda de energia na subestação responsável pelo fornecimento da linha.",
-    "Para contornar o problema, o Paese (Plano de Apoio entre Empresas em Situação de Emergência) foi ativado com oferta de ônibus gratuitos aos usuários.",
-    "Os coletivos emergenciais cobrem todo o trajeto do ramal de transporte, que liga o Aeroporto de Congonhas à estação Morumbi.",
-    "O monotrilho afetado realiza a conexão com a Linha 9-Esmeralda de trens metropolitanos e iniciou sua operação assistida em março de 2026.",
-    "Até o fechamento da reportagem, o Metrô SP não havia respondido aos contatos sobre a previsão de normalização das atividades."
+    "A operação da Linha 17-Ouro do Metrô de São Paulo foi totalmente paralisada na manhã deste sábado (28.nov.2026) devido a uma pane elétrica causada por uma queda na subestação do ramal.",
+    "O monotrilho conecta o Aeroporto de Congonhas, localizado na Zona Sul da capital paulista, à estação Morumbi, oferecendo integração com a Linha 9-Esmeralda de trens metropolitanos.",
+    "Para minimizar os transtornos aos passageiros durante a interrupção, o Plano de Apoio entre Empresas em Situação de Emergência (Paese) foi acionado com o envio de ônibus gratuitos para todo o trajeto.",
+    "O ramal afetado havia iniciado sua operação assistida recentemente, no mês de março de 2026.",
+    "Até o fechamento da reportagem, o Metrô de São Paulo não havia respondido aos contatos sobre a previsão de normalização do serviço."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-infra/falha-eletrica-suspende-operacao-da-linha-17-ouro-do-metro-de-sp/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/6a3dcae1757f.webp"
   },
   {
    "titulo": "STF marca análise de proposta de Gilmar para barrar pautas-bomba",
    "topicos": [
-    "O Supremo Tribunal Federal pautou para julgamento a Proposta de Súmula Vinculante 150, sugerida pelo ministro Gilmar Mendes para barrar despesas públicas sem fonte de recurso definida.",
-    "A análise ocorrerá no plenário virtual do STF, com início marcado para as 11h de 11 de dezembro e encerramento às 23h59 de 18 de dezembro, período em que os ministros registrarão os votos.",
-    "Caso seja aprovada, a súmula terá efeito vinculante, obrigando todo o Poder Judiciário a seguir a mesma interpretação jurídica baseada na Lei de Responsabilidade Fiscal.",
-    "A proposta declara inconstitucional leis ou atos que criem despesas obrigatórias, benefícios fiscais ou renúncia de receita sem estimativa de impacto financeiro e medidas compensatórias.",
-    "Em agosto, a Advocacia-Geral da União apoiou a medida, argumentando que a ausência de previsão orçamentária desequilibra as contas públicas e afeta a execução de políticas do Executivo."
+    "O STF agendou para o plenário virtual a análise da Proposta de Súmula Vinculante 150, sugerida pelo ministro Gilmar Mendes para barrar as pautas-bomba legislativas.",
+    "O julgamento ocorrerá no ambiente virtual da Corte, com início às 11h de 11 de dezembro e encerramento às 23h59 de 18 de dezembro, período para os ministros votarem.",
+    "A proposta estabelece que leis ou atos que criem despesas obrigatórias ou renunciem receitas sem estimativa de impacto e compensação são inconstitucionais.",
+    "A regra fundamenta-se na Lei de Responsabilidade Fiscal e busca blindar o orçamento de gastos públicos que não possuem indicação de fonte de recurso.",
+    "Se aprovada, a súmula terá efeito vinculante, obrigando todo o Poder Judiciário a seguir o mesmo entendimento jurídico sobre o tema.",
+    "Em agosto, a Advocacia-Geral da União apoiou a medida, argumentando que a falta de previsão orçamentária compromete o equilíbrio das contas públicas."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-justica/stf-marca-analise-de-proposta-de-gilmar-para-barrar-pautas-bomba/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/37720b2b45ed.webp"
   },
   {
    "titulo": "Dívida dos MEIs disparou 142% desde a posse de Lula",
    "topicos": [
-    "O estoque da dívida dos microempreendedores individuais com a União disparou 142% desde a posse de Lula em janeiro de 2023, saltando de R$ 5,19 bilhões no fim de 2022 para R$ 12,57 bilhões em junho de 2026, segundo a PGFN.",
-    "A quantidade de CNPJs devedores subiu 99%, passando de 1,82 milhão para 3,62 milhões no período, enquanto a dívida média por CNPJ aumentou de cerca de R$ 2.856 para R$ 3,473 em valores nominais.",
-    "Os profissionais de cabeleireiros, manicures e pedicures lideram o ranking de maiores valores devidos, com 265.516 CNPJs e R$ 992,2 milhões em débitos, seguidos pelo comércio de roupas e acessórios, com R$ 791,6 milhões.",
-    "Em 21 de outubro de 2026, o presidente Lula sancionou a lei complementar 238, que concede perdão de dívidas tributárias dos MEIs com a União a partir de 1º de janeiro de 2027.",
-    "O perdão abrangerá contribuições previdenciárias vencidas até 13 de outubro de 2026, incluindo valor principal, juros e multas, beneficiando inclusive quem já encerrou o CNPJ ou deixou de ser MEI.",
-    "Para manter o benefício de forma automática, os MEIs ativos deverão pagar em dia as contribuições mensais do DAS de janeiro a junho de 2027; o perdão exclui ICMS e ISS e exige desistência de ações judiciais."
+    "O estoque da dívida dos MEIs com a União cresceu 142% desde janeiro de 2023, saltando de R$ 5,19 bilhões no fim de 2022 para R$ 12,57 bilhões em junho de 2026, segundo levantamento da PGFN.",
+    "A quantidade de CNPJs devedores subiu 99%, passando de 1,82 milhão para 3,62 milhões no 2º trimestre de 2026, com dívida média por CNPJ passando de cerca de R$ 2.856 para R$ 3.473.",
+    "Cabeleireiros, manicures e pedicures lideram as dívidas com 265.516 CNPJs e R$ 992,2 milhões devidos, seguidos pelo comércio de roupas e acessórios, com 227.928 CNPJs e R$ 791,6 milhões em débitos.",
+    "O presidente Lula sancionou em 21 de outubro de 2026 a lei complementar 238, estabelecendo o perdão de dívidas tributárias de MEIs com a União a partir de 1º de janeiro de 2027.",
+    "O perdão abrange contribuições previdenciárias vencidas até 13 de outubro de 2026 (incluindo principal, juros e multas), mas exige que os MEIs paguem em dia o DAS de janeiro a junho de 2027.",
+    "O impacto fiscal estimado pelo Ministério da Fazenda é de R$ 3,04 bilhões entre 2027 e 2029, visto que 86% do valor na dívida ativa era considerado de difícil ou impossível recuperação."
    ],
    "fonte": "Poder360",
    "link": "https://www.poder360.com.br/poder-economia/divida-dos-meis-disparou-142-desde-a-posse-de-lula/",
-   "categoria": "Política"
+   "categoria": "Política",
+   "detalhada": true,
+   "imagem": "img/2026/11/fb6f3053ae71.webp"
   },
   {
    "titulo": "Tribunal internacional barra tentativa da Argentina de impedir exploração de petróleo nas Ilhas Malvinas",
    "topicos": [
-    "Um tribunal internacional rejeitou neste sábado (28), em Hamburgo, na Alemanha, a tentativa da Argentina de bloquear temporariamente a exploração de petróleo nas águas das Ilhas Malvinas.",
-    "O Tribunal Internacional do Direito do Mar votou por 18 votos a 3 contra o pedido do governo argentino para interromper as perfurações no projeto offshore Sea Lion.",
-    "O presidente da Argentina, Javier Milei, tentava barrar a iniciativa argumentando que a parceria entre Reino Unido e Israel ameaça as reivindicações territoriais argentinas.",
-    "O arquipélago das Malvinas, controlado pelo Reino Unido desde 1833 e disputado pela Argentina, abriga cerca de 3.500 habitantes e fica a aproximadamente 480 quilômetros da costa argentina.",
-    "O Reino Unido informou que as perfurações no campo de petróleo, situado a cerca de 220 quilômetros ao norte das ilhas, começarão em março de 2027, com a extração prevista para um ano depois.",
-    "Com a decisão da corte, as companhias Rockhopper Exploration e Navitas Petroleum seguem autorizadas a tocar o projeto de exploração com respaldo britânico."
+    "Um tribunal internacional rejeitou neste sábado (28), em Hamburgo, na Alemanha, a tentativa da Argentina de bloquear a exploração de petróleo nas águas próximas às Ilhas Malvinas.",
+    "O Tribunal Internacional do Direito do Mar votou por 18 a 3 contra o pedido do governo argentino para interromper as perfurações no projeto offshore Sea Lion.",
+    "O presidente Javier Milei tentava barrar a iniciativa da operação conjunta entre Reino Unido e Israel, alegando risco às reivindicações da Argentina sobre o arquipélago, que fica a cerca de 480 km de sua costa e tem cerca de 3.500 habitantes.",
+    "O Reino Unido informou que as perfurações no campo petrolífero, situado a cerca de 220 km ao norte das ilhas, começarão em março de 2027, com início da extração previsto para um ano depois.",
+    "Com a decisão desfavorável à Argentina, as empresas Rockhopper Exploration e Navitas Petroleum seguem autorizadas a dar continuidade ao projeto com respaldo britânico."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/argentina-perde-tentativa-de-barrar-exploracao-de-petroleo-nas-ilhas-malvinas.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/c56d95fc943d.webp"
   },
   {
    "titulo": "Ao menos 14 pessoas são encontradas mortas em embarcação com imigrantes perto das Ilhas Canárias",
    "topicos": [
-    "Pelo menos 14 imigrantes foram encontrados mortos em uma embarcação precária localizada nas proximidades das Ilhas Canárias, conforme balanço divulgado neste sábado (28).",
-    "A tragédia ocorreu perto da data das eleições gerais na Espanha, marcada para domingo (29), cuja campanha teve intensos debates sobre a questão migratória.",
-    "O ministro espanhol da Política Territorial, Ángel Víctor Torres, confirmou as 14 mortes na noite de sexta-feira (27) e declarou que as pessoas buscam essa travessia por desespero.",
-    "Agentes de segurança e saúde realizaram o desembarque dos corpos no porto de La Restinga, localizado na ilha de El Hierro, na noite de sexta-feira.",
-    "A embarcação foi achada no início da sexta-feira a cerca de 70 quilômetros a sudoeste de El Hierro, inicialmente com uma estimativa de oito a dez mortos pelo Salvamento Marítimo.",
-    "O barco transportava outros 84 imigrantes sobreviventes, entre eles um menor de idade, que foram resgatados e levados ao porto de La Restinga.",
-    "Seis dos sobreviventes estavam em estado grave e foram transferidos na sexta-feira para receber atendimento médico urgente, segundo o Salvamento Marítimo."
+    "Pelo menos 14 imigrantes foram encontrados mortos em uma embarcação precária perto das Ilhas Canárias, com o balanço confirmado neste sábado (28), após o barco ser localizado na sexta-feira (27).",
+    "O anúncio do falecimento foi feito pelo ministro espanhol da Política Territorial, Ángel Víctor Torres, por meio de sua conta na rede social X.",
+    "A embarcação foi achada nas primeiras horas do dia a aproximadamente 70 quilômetros a sudoeste da ilha de El Hierro, sendo posteriormente rebocada até o porto de La Restinga.",
+    "Além dos mortos, o barco transportava outros 84 imigrantes, incluindo um menor de idade, que foram resgatados e desembarcados no porto citado.",
+    "Seis dos sobreviventes estavam em condição grave e precisaram ser transferidos na sexta-feira para a obtenção de atendimento médico urgente, conforme dados do Salvamento Marítimo.",
+    "O incidente ocorreu a um dia das eleições gerais na Espanha, cuja campanha eleitoral foi marcada por discussões intensas sobre a temática migratória."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/imigrantes-encontrados-mortos-em-embarcacao-ilhas-canarias.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/4be7136191a3.webp"
   },
   {
    "titulo": "Data centers gigantes invadem bairros residenciais no Japão e provocam revolta de moradores",
    "topicos": [
-    "A proliferação de data centers gigantes em áreas residenciais do Japão, especialmente na região metropolitana de Tóquio, tem gerado forte oposição e revolta entre os moradores locais.",
-    "Cerca de 60% dos data centers do país estão concentrados na região de Tóquio, que abriga cerca de 37 milhões de pessoas, atraídos pela estabilidadade política e regulamentações flexíveis do Japão.",
-    "Projetos como o da Empyrion Digital no bairro de Koto, com 51 metros de altura e previsão de conclusão para 2029, geram preocupação devido à proximidade de 3,7 metros com edifícios e ao risco de armazenamento subterrâneo de 1,2 milhão de litros de óleo pesado em área sísmica.",
-    "A pressão dos moradores levou o governo a planejar a conclusão de um plano de ação até o fim do ano para evitar conflitos, enquanto entidades e governos locais elaboraram orientações de boas práticas em meio à expansão do setor.",
-    "Moradores de Inzai processaram a prefeitura e a Japan ERI após a Colt Data Centre Services iniciar a construção de uma unidade de 32 megawatts a 11 metros de um apartamento, contestando a aprovação do projeto como escritório em vez de fábrica ou depósito.",
-    "A consultoria JLL projeta que o faturamento do mercado japonês de data centers avance de US$ 23,4 bilhões em 2024 para US$ 33,4 bilhões em 2030, registrando um crescimento médio anual de 6,7%."
+    "Moradores de bairros residenciais no Japão enfrentam problemas com a proliferação de data centers gigantescos, que bloqueiam vistas, geram ruídos, poluição e trazem riscos à segurança.",
+    "Cerca de 60% dos data centers do país estão concentrados na região metropolitana de Tóquio e arredores, lar de aproximadamente 37 milhões de pessoas.",
+    "No bairro de Koto, em Tóquio, um projeto da Empyrion Digital com 51 metros de altura e conclusão prevista para 2029 armazenará 1,2 milhão de litros de óleo pesado a apenas 3,7 metros de prédios.",
+    "Moradores de Koto exigem da prefeitura regras obrigatórias sobre ruído, calor, segurança de combustíveis e localização, pedidos que aguardam análise da assembleia metropolitana.",
+    "Em Inzai, moradores processaram a prefeitura e a Japan ERI porque um data center de 32 megawatts da Colt Data Centre Services foi aprovado indevidamente como escritório a 11 metros de distância.",
+    "A consultoria JLL projeta que o mercado japonês de data centers cresça de US$ 23,4 bilhões em 2024 para US$ 33,4 bilhões em 2030, com alta média de 6,7% ao ano.",
+    "O governo japonês planeja concluir até o fim do ano um plano de ação para evitar conflitos, enquanto entidades e governos locais já elaboraram orientações sobre boas práticas."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/28/data-centers-gigantes-invadem-bairros-residenciais-no-japao-e-provocam-revolta-de-moradores.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/3f5ce2ff40f4.webp"
   },
   {
    "titulo": "Saúde pesa mais no consumo das famílias do Sudeste; educação tem maior fatia no Nordeste",
    "topicos": [
-    "Em 2024 e 2025, segundo a Pesquisa de Orçamentos Familiares (POF) do IBGE, a saúde liderou proporcionalmente no Sudeste, absorvendo R$ 13 de cada R$ 100 gastos, enquanto a educação pesou mais no Nordeste, levando R$ 10 de cada R$ 100.",
-    "A moradia foi a maior despesa nas cinco regiões brasileiras, variando de 28,9% do consumo no Nordeste até 32,8% no Sudeste. No cenário geral, a moradia custou R$ 2.212,13 mensais por família, e o transporte ficou em segundo lugar com R$ 1.336,02.",
-    "No Sudeste, as famílias gastaram em média R$ 928,57 por mês com saúde, sendo R$ 468,90 em planos e seguros e R$ 229,39 em remédios. São Paulo superou R$ 1 mil mensais por família (R$ 1.001,99), e o Rio de Janeiro registrou a maior fatia regional, com 14% ou R$ 895,94.",
-    "O Nordeste teve a menor despesa média mensal com educação em reais (R$ 450,78) e o menor consumo total (R$ 4.489,03), mas a categoria abocanhou 10% do orçamento. A parcela da educação na região mais que dobrou em relação a 2017 e 2018, quando era de R$ 4,70 a cada R$ 100.",
-    "O Centro-Oeste registrou o maior gasto com educação em reais, com R$ 640,37 mensais por família. A fatia regional da educação subiu de R$ 9,20 a cada R$ 100 consumidos em 2024 e 2025, sendo liderada pelo Distrito Federal com R$ 985,64 mensais.",
-    "O Norte foi a única região onde a educação (R$ 536,34 e 9,7% do consumo) superou a saúde (R$ 517,69 e 9,4%). No Sul, a educação teve a menor fatia do país (7,9% ou R$ 562 mensais), mas foi o gasto que mais ganhou espaço em relação ao biênio 2017-2018."
+    "Em 2024 e 2025, segundo a Pesquisa de Orçamentos Familiares do IBGE, a saúde pesou mais no Sudeste, onde R$ 13 de cada R$ 100 gastos iam para o setor. As famílias sudestinas gastavam R$ 928,57 mensais com saúde, sendo R$ 468,90 em planos e seguros e R$ 229,39 em remédios.",
+    "São Paulo ultrapassou a média regional de saúde, alcançando R$ 1.001,99 por família ao mês, enquanto o Rio de Janeiro registrou a maior fatia de consumo na área, com 14% ou R$ 895,94 mensais, incluindo R$ 552,18 em planos e seguros.",
+    "O Nordeste liderou na fatia de consumo destinada à educação, com R$ 10 de cada R$ 100, apesar da menor despesa média em reais do país, de R$ 450,78 mensais, reflexo do orçamento familiar total de R$ 4.489,03.",
+    "A parcela do consumo nordestino voltada à educação mais que dobrou em relação a 2017 e 2018, quando era de R$ 4,70 a cada R$ 100. Na Bahia a taxa chegou a 10,8%, e Sergipe e Paraíba lideraram em valores absolutos, com R$ 516,18 e R$ 515,45.",
+    "O Centro-Oeste registrou a maior despesa com educação em reais, com R$ 640,37 mensais por família, representando 9,2% do consumo total de R$ 6.941,69. O Distrito Federal destacou-se com R$ 985,64 mensais, e Mato Grosso do Sul liderou na região com 10,8%.",
+    "No Norte, a educação superou a saúde, respondendo por 9,7% do consumo (R$ 536,34 mensais) frente a 9,4% da saúde (R$ 517,69). No Tocantins, a fatia educacional atingiu 12,5%, e no Amazonas a alimentação consumiu 26,4% do orçamento.",
+    "O Sul apresentou a menor fatia para a educação do país (7,9% ou R$ 562 mensais), mas registrou forte alta ante 2017 e 2018 (3,7%). A saúde no Sul abrangeu 11% do consumo (R$ 777,16), enquanto a moradia caiu para 31,5%."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/28/saude-educacao-gastos-familias-sudeste-nordeste-ibge.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/0d39061ed243.webp"
   },
   {
    "titulo": "Brasileira presa na Rússia costura uniformes para soldados lutarem na Ucrânia, diz defesa",
    "topicos": [
-    "A jogadora brasileira de futebol de areia Letícia Villar está presa na Rússia há 1 ano e 4 meses, após ser condenada a cinco anos e dois meses de prisão por entrar no país, em julho de 2025, com seis gramas de haxixe para uso pessoal.",
-    "Detida na colônia penal IK-2, em Yavas, na República da Mordóvia, Letícia cumpre jornadas diárias das 6h às 21h costurando uniformes para soldados russos que lutam na Ucrânia, em meio a temperaturas que chegam a -9,2ºC.",
-    "A defesa da atleta relata que a rotina exaustiva agrava seu desgaste físico e emocional, além de temer por sua vida e classificar o caso como uma questão humanitária diante de condições precárias e relatos de exploração.",
-    "Letícia foi transferida para a unidade de Mordóvia em agosto deste ano sem aviso prévio à defesa, perdendo o acesso a telefonemas e passando a se comunicar com a família apenas por cartas em inglês.",
-    "Em carta enviada nesta semana ao presidente Luiz Inácio Lula da Silva e entregue ao Palácio do Planalto, a brasileira relatou episódios de racismo, homofobia e violência psicológica, pedindo ajuda para retornar ao país antes do inverno rigoroso, quando as temperaturas podem atingir -40°C.",
-    "A defesa tenta a extradição da atleta para o Brasil e foi informada por diplomatas russos sobre uma possível troca de prisioneiros envolvendo Letícia e o espião Sergey Cherkasov, embora governos não tenham confirmado a negociação."
+    "A jogadora brasileira de futebol de areia Letícia Villar está presa na Rússia há 1 ano e 4 meses, cumprindo pena em uma colônia penal na região de Mordóvia.",
+    "A defesa da atleta relata que ela cumpre jornada diária das 6h às 21h costurando uniformes para soldados russos que lutam na guerra na Ucrânia.",
+    "Letícia foi condenada a cinco anos e dois meses de prisão após ingressar no país em julho de 2025 portando seis gramas de haxixe para consumo pessoal.",
+    "A brasileira foi transferida em agosto deste ano sem aviso prévio à defesa para a colônia penal IK-2, em Yavas, enfrentando frio de até -9,2º e temendo o inverno de -40ºC.",
+    "Em carta enviada ao presidente Luiz Inácio Lula da Silva, a detenta relatou exploração no trabalho, racismo, homofobia, violência psicológica e restrição de comunicação com a família.",
+    "Os advogados buscam a extradição da atleta para o Brasil e foram informados sobre uma possível troca de prisioneiros com o espião russo Sergey Cherkasov, sem confirmação oficial dos governos."
    ],
    "fonte": "g1 Mundo",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/brasileira-presa-na-russia-costura-uniformes-para-soldados-lutarem-na-ucrania-diz-defesa.ghtml",
-   "categoria": "Mundo"
+   "categoria": "Mundo",
+   "detalhada": true,
+   "imagem": "img/2026/11/40d5d3bbe8dc.webp"
   },
   {
    "titulo": "BTG cria fundo de investimentos para comprar até R$ 1,5 bilhão em créditos consignados do BRB",
    "topicos": [
-    "O BTG Pactual criou um fundo de investimentos para adquirir até R$ 1,5 bilhão em créditos consignados de servidores do Distrito Federal emitidos pelo Banco de Brasília (BRB), conforme informado na sexta-feira (27).",
-    "Caso a transação seja efetivada, o BRB receberá a quitação antecipada dos empréstimos por meio do BTG, embora a operação costume ocorrer com deságio cujo percentual exato não foi revelado.",
-    "Com a venda dos créditos, o BRB deixará de ser o credor, fazendo com que os descontos realizados na folha de pagamento dos servidores distritais passem a ser repassados diretamente ao BTG Pactual.",
-    "A formalização do fundo concede ao BTG apenas o direito de preferência na aquisição, sem obrigatoriedade de comprar a totalidade dos créditos ou contratos futuros, segundo esclarecimento enviado à B3 e à CVM.",
-    "O BRB está impedido de negociar ações na bolsa e enfrenta restrições devido à falta de divulgação de balanços trimestrais por um ano, situação suspensa após a operação Compliance Zero da Polícia Federal, ocorrida entre 2024 e 2025."
+    "O BTG Pactual criou um fundo de investimentos para adquirir até R$ 1,5 bilhão em créditos consignados de servidores do Distrito Federal emitidos pelo BRB, conforme comunicado divulgado nesta sexta-feira (27).",
+    "Caso a transação se concretize, o BRB receberá a quitação antecipada dos empréstimos e o desconto na folha de pagamento dos servidores será direcionado ao BTG Pactual.",
+    "A operação prevê a aplicação de um deságio, o que significa que o BRB receberia um montante menor do que o teto de R$ 1,5 bilhão, embora o percentual do desconto não tenha sido revelado.",
+    "O fundo do BTG terá apenas o direito de preferência e poderá recusar a compra, não havendo garantia de aquisição total dos créditos ou de contratos futuros.",
+    "O BRB está impedido de negociar ações na bolsa e enfrenta restrições por estar sem divulgar balanços trimestrais há um ano, exigência legal para companhias abertas.",
+    "A suspensão dos balanços ocorreu devido à operação Compliance Zero, da Polícia Federal, que investigou suspeitas de crimes na tentativa de compra do Banco Master pelo BRB entre 2024 e 2025."
    ],
    "fonte": "g1 Economia",
    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/27/btg-cria-fundo-de-investimento-para-comprar-ate-r-15-bilhao-em-creditos-consignados-do-brb.ghtml",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/2898588f96ff.webp"
   },
   {
    "titulo": "Receita apreende R$ 18 mi em produtos chineses sob suspeita de falsificação no Rio de Janeiro",
    "topicos": [
-    "A Receita Federal apreendeu três contêineres com cerca de 58 toneladas de produtos da China, avaliados em R$ 18 milhões, no Porto Seco de Resende (RJ), sob suspeita de falsificação.",
-    "A carga continha itens como camisas de futebol e tênis, mas estava declarada nos documentos como bolsas e malas para ocultar as mercadorias localizadas nas fileiras internas.",
-    "Amostras dos produtos foram recolhidas para a realização de laudos técnicos que vão confirmar a autenticidade das mercadorias apreendidas na unidade do Vale do Paraíba.",
-    "No início do mês, no Porto do Rio de Janeiro, a Receita já havia apreendido um contêiner com 15 toneladas de itens irregulares procedentes da China, avaliado em R$ 3,6 milhões.",
-    "A carga do Porto do Rio continha cerca de 243 mil itens declarados como guarda-chuvas, mas escondia cosméticos sem autorização da Anvisa e produtos com indícios de fraude de marcas.",
-    "As fiscalizações fazem parte da Operação Fronteira Receita Federal 2026, esforço integrado de segurança e repressão ao contrabando, descaminho e crimes organizados em rotas comerciais."
+    "A Receita Federal apreendeu três contêineres com cerca de 58 toneladas de produtos não declarados, como tênis e camisas de futebol vindos da China, no Porto Seco de Resende, no Rio de Janeiro.",
+    "A carga foi avaliada em R$ 18 milhões e apresentava suspeitas de falsificação, sendo localizada por meio de análise de risco após ser declarada incorretamente na documentação como bolsas e malas.",
+    "A Receita Federal coletou amostras das mercadorias para realizar laudos técnicos com o objetivo de confirmar a autenticidade dos produtos apreendidos.",
+    "No início do mês, a Receita também apreendeu um contêiner com aproximadamente 15 toneladas e cerca de 243 mil itens irregulares, avaliados em R$ 3,6 milhões, vindos da China no Porto do Rio de Janeiro.",
+    "A carga do Porto do Rio foi declarada inicialmente como guarda-chuvas, mas a fiscalização encontrou cosméticos sem autorização da Anvisa e itens com indícios de fraude de marcas.",
+    "As ações fazem parte da Operação Fronteira Receita Federal 2026, que combate crimes como contrabando, descaminho e falsificação com atuação integrada de órgãos de segurança e fiscalização."
    ],
    "fonte": "Mercado & Consumo",
    "link": "https://mercadoeconsumo.com.br/27/11/2026/economia/receita-apreende-r-18-mi-em-produtos-chineses-sob-suspeita-de-falsificacao-no-rio-de-janeiro/",
-   "categoria": "Economia"
+   "categoria": "Economia",
+   "detalhada": true,
+   "imagem": "img/2026/11/d4c2f1092a09.webp"
   }
  ]
 }
